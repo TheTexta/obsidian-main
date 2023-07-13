@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e71e7b04a96ad16",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "88883483520af92b",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88883483520af92b",
+  "active": "eb93a211cc67b9ef",
   "lastOpenFiles": [
     "Machine Learning.md"
   ]
