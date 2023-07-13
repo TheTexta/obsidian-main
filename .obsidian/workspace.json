@@ -8,67 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f6387346c6febc1",
+            "id": "4140cfafc6cb8b5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ecee7203ef06d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Linear Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7790ab1120d1da63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Derivative.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "370c97237ba7c238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Logistic Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8fa41053897bbdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/alpha value.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/alpha value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/alpha value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/alpha value.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -196,18 +139,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8fa41053897bbdc",
+  "active": "4140cfafc6cb8b5d",
   "lastOpenFiles": [
+    "Machine Learning/How to choose a good alpha value.md",
+    "Machine Learning/Optimal cost function to number of iterations graph.png",
+    "alpha.md",
+    "Machine Learning/Gradient Descent.md",
+    "Machine Learning/Neural Networks.md",
+    "Machine Learning/weights and biases.md",
+    "Machine Learning/Logistic Regression.md",
+    "Machine Learning/alpha value.md",
     "Machine Learning/Arrays.md",
     "Machine Learning/Data Types in Machine learning.md",
     "Machine Learning/over-under shoot of gradient descent.png",
-    "Machine Learning/alpha value.md",
     "Mathematics/Derivative.md",
-    "Machine Learning/Logistic Regression.md",
     "Machine Learning/Linear Regression.md",
-    "Machine Learning/Gradient Descent.md",
-    "Machine Learning/weights and biases.md",
-    "Machine Learning/Neural Networks.md",
     "Mathematics/Vector.md",
     "Mathematics/Vector Example.png",
     "Mathematics",
