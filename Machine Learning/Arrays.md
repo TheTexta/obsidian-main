@@ -1,0 +1,3 @@
+Arrays are just a way of storing data in blocks or chunks of grouped elements. Similar to the way data is stored in a excel sheet or ordinary table. arrays can take on any dimensions. With arrays commonly referring to single dimension arrays (within a wider computer science context). 2d arrays refer to those arrays which have rows and columns, 3d refers to those with a row column and depth, etc.
+
+![[Examples of array dimensionality.png]]

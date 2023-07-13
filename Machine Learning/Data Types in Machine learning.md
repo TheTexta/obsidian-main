@@ -1,0 +1,1 @@
+There are many different ways of storing and manipulating data within a computer system. The most common of which are NumPy ndarrays and [[TensorFlow]] [[Tensors]], two commonly used data types for storing [[Arrays]] of data in python for data interpretation.
