@@ -1,0 +1,1 @@
+A neuron takes a input or [[Vector|collection]] of inputs and transforms them into a single output or collection of outputs

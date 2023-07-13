@@ -1,0 +1,1 @@
+The process of using a [[Neural Networks|neural network]] with predefined parameters to take an input to find a output
