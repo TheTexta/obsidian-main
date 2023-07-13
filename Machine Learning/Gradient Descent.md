@@ -1,0 +1,2 @@
+Gradient descent is a method for algorithm optimisation which uses the [[Derivative]] of the cost formula to find the optimal changes which can be incrementally implemented into the weights and biases of the algorithm.
+![[Gradient Descent Example.png]]

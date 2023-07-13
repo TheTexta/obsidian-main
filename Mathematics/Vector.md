@@ -1,0 +1,2 @@
+A vector is a group of elements, "a quantity or phenomenon that has two independent properties: magnitude and direction". It can be visualised with a graph with the line pointing in the direction the vector describes with the magnitude of the vector. Vectors are the building blocks of the tools used and learned about in [[linear algebra]]
+![[Vector Example.png]]

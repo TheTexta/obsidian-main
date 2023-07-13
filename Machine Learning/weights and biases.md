@@ -1,0 +1,2 @@
+Weights and biases refers to the w and b values in a machine learning algorithm. at the most basic form, linear regression shows use of weights and biases in the formula $$ f(x)=wx+b$$
+w refers to the gradient of the line and b refers to the vertical shift of the line. 
