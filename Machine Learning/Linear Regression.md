@@ -1,0 +1,1 @@
+Linear regression is, at its core, a method for finding a line of best fit, to fit to a graph of given data points.
