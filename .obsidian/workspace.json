@@ -18,8 +18,53 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "787e27ddec485fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Activation Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25ce8af80ecd10c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Numerical Roundoff Error.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3253f4d2463235e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6423796c204e2039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/TensorFlow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Nodes.md",
+                "file": "Machine Learning/TensorFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Nodes.md",
+                "file": "Machine Learning/TensorFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Nodes.md"
+                "file": "Machine Learning/TensorFlow.md"
               }
             }
           }
@@ -147,40 +192,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f29207a82755c97",
+  "active": "6423796c204e2039",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Machine Learning/Feedforward and Backpropagation.md",
+    "Machine Learning/Numerical Roundoff Error.md",
+    "Machine Learning/Cost or loss functions.md",
+    "Crypto/Ethereum.md",
+    "Machine Learning/Inference.md",
+    "Machine Learning/Examples of array dimensionality.png",
+    "Machine Learning/example 3d graph.png",
+    "Machine Learning/Data Types in Machine learning.md",
+    "Machine Learning/Optimal cost function to number of iterations graph.png",
+    "Machine Learning/over-under shoot of gradient descent.png",
+    "Machine Learning/TensorFlow.md",
+    "Loss functions.md",
+    "Machine Learning/Activation Functions.md",
+    "Machine Learning/alpha value.md",
+    "Machine Learning/Arrays.md",
+    "Machine Learning/Logistic Regression.md",
+    "Machine Learning/Gradient Descent.md",
+    "Machine Learning/Layers.md",
+    "Machine Learning/Linear Regression.md",
     "Machine Learning/Nodes.md",
     "Neuron.md",
-    "Machine Learning/Layers.md",
     "Machine Learning/Machine Learning.md",
-    "Machine Learning/Logistic Regression.md",
     "Machine Learning/ndarrays.md",
-    "Machine Learning/Linear Regression.md",
     "Machine Learning/Neural Networks.md",
     "Mathematics/Vector.md",
     "Mathematics/Vector Example.png",
     "Mathematics/Derivative.md",
     "Mathematics",
     "Machine Learning/weights and biases.md",
-    "Machine Learning/over-under shoot of gradient descent.png",
-    "Machine Learning/alpha value.md",
-    "Machine Learning/Optimal cost function to number of iterations graph.png",
-    "Machine Learning/Inference.md",
     "Machine Learning/How to choose a good alpha value.md",
-    "Machine Learning/Gradient Descent.md",
     "Machine Learning/Gradient Descent Example.png",
-    "Machine Learning/Arrays.md",
-    "Crypto/Ethereum.md",
     "Crypto",
-    "Machine Learning/TensorFlow.md",
     "School",
     "Machine Learning/Tensors.md",
-    "Machine Learning/Data Types in Machine learning.md",
-    "Machine Learning/Examples of array dimensionality.png",
-    "Machine Learning/example 3d graph.png",
-    "array.md",
-    "Machine Learning/Univariable vs Multivariable regressions.md",
     "Machine Learning"
   ]
 }
