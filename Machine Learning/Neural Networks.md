@@ -1,4 +1,4 @@
-Neural network are interlinked nodes of algorithms aimed to mirror the structure of [[neuron|neuron's]] in the brain. A neural network comprises of multiple layers which each take data in from each other in the form of [[Vector]]s. 
+Neural network are interlinked nodes of algorithms aimed to mirror the structure of [[neuron|neuron's]] in the brain. A neural network comprises of multiple [[layers]] which each take data in from each other in the form of [[Vector]]s. 
 
 ### Example of a Neural Network:
 * Speech interpretation

@@ -1,0 +1,1 @@
+Nodes are used to build layers in a [[Neural Networks|neural network]]. Each hidden [[Layers|layer]] is comprised of nodes which transform the input data into something more useful for the purpose of the nodes. 
