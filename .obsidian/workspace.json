@@ -59,8 +59,12 @@
             "id": "8818cad65ca12e94",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Cost or loss functions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -76,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Univariable vs Multivariable regressions.md",
+                "file": "Machine Learning/Cost or loss functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Univariable vs Multivariable regressions.md",
+                "file": "Machine Learning/Cost or loss functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Univariable vs Multivariable regressions.md"
+                "file": "Machine Learning/Cost or loss functions.md"
               }
             }
           }
@@ -204,8 +208,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25ce8af80ecd10c9",
+  "active": "8818cad65ca12e94",
   "lastOpenFiles": [
+    "Mathematics/Derivative.md",
+    "Machine Learning/Univariable vs Multivariable regressions.md",
     "Machine Learning/features vs examples.md",
     "Machine Learning/Gradient Descent.md",
     "Machine Learning/Neural Networks.md",
@@ -236,9 +242,7 @@
     "Machine Learning/ndarrays.md",
     "Mathematics/Vector.md",
     "Mathematics/Vector Example.png",
-    "Mathematics/Derivative.md",
     "Mathematics",
-    "Machine Learning/weights and biases.md",
     "Crypto",
     "School",
     "Machine Learning"

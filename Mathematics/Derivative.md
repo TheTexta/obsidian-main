@@ -4,4 +4,14 @@ A derivative is the equation for the slope of a graph at a given point on the gr
 A derivative is defined by the following standard formula:
 $$ \lim_{h\to0}(\frac{f(x+h)-f(x)}{h}) $$
 ## Formulas for Derivatives:
-There are a variety of formulas for finding the derivatives of functions. The following are defined where 
+### Product Rule
+when two functions are multiplied together
+
+$$
+\frac{d}{dx}(a(x)\cdot{}b(x))=\frac{da}{dx}\cdot{b}+\frac{db}{dx}\cdot{a}
+$$
+### Chain Rule
+when a functions result is the input of another
+$$
+\frac{d}{dx}(a(b(x)))=\frac{da}{dx}(b(x))\cdot{}\frac{db}{dx}(x)
+$$
