@@ -8,91 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8818cad65ca12e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Softmax Activation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11f5a1d5c63b2ffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/ReLU Activation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a24e0d3e5762ef4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Linear Activation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d2626ef84f450e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Sigmoid Activation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5761a9675e853d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/ReLU Activation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4a4492b6da389a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Softmax Activation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6423796c204e2039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/TensorFlow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4e10c76532d1891a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Derivative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08d669ae59b8556d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Limits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e7106614ab6f41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Deep Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7622654200c275b0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -166,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/ReLU Activation.md",
+                "file": "Mathematics/Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/ReLU Activation.md",
+                "file": "Mathematics/Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/ReLU Activation.md"
+                "file": "Mathematics/Limits.md"
               }
             }
           }
@@ -228,19 +180,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec2ee8cde6b2084b",
+  "active": "08d669ae59b8556d",
   "lastOpenFiles": [
-    "Machine Learning/Linear Activation.md",
-    "Machine Learning/Softmax Activation.md",
-    "Machine Learning/Activation Functions.md",
-    "Untitled.md",
-    "Machine Learning/Sigmoid Activation.md",
-    "Machine Learning/ReLU Activation.md",
+    "Mathematics/Limits.md",
+    "Mathematics/Derivative.md",
+    "Machine Learning/Deep Learning.md",
     "Machine Learning/TensorFlow.md",
+    "Machine Learning/Softmax Activation.md",
+    "Machine Learning/ReLU Activation.md",
+    "Machine Learning/Sigmoid Activation.md",
+    "Machine Learning/Linear Activation.md",
+    "Machine Learning/Activation Functions.md",
     "Machine Learning/Alpha value.md",
     "Machine Learning/Multi-label classification.md",
     "Machine Learning/Cost or loss functions.md",
-    "Mathematics/Derivative.md",
     "Machine Learning/Univariable vs Multivariable regressions.md",
     "Machine Learning/features vs examples.md",
     "Machine Learning/Gradient Descent.md",
@@ -258,7 +211,6 @@
     "Crypto/Ethereum.md",
     "Machine Learning/Examples of array dimensionality.png",
     "Machine Learning/example 3d graph.png",
-    "Machine Learning/Data Types in Machine learning.md",
     "Machine Learning/Optimal cost function to number of iterations graph.png",
     "Machine Learning/over-under shoot of gradient descent.png",
     "Mathematics/Vector Example.png",

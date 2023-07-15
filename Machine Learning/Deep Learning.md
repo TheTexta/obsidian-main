@@ -1,0 +1,1 @@
+deep learning refers to the subfield of machine learning dealing with algorithms which aim to mirror the human brain. Allowing for highly complex algorithms to be created and utilised. Useful for more complex tasks such as computer vision, sound recognition and complex predictions.
