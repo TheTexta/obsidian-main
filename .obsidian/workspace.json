@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Multi-label classification.md",
+                "file": "Machine Learning/Univariable vs Multivariable regressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Multi-label classification.md",
+                "file": "Machine Learning/Univariable vs Multivariable regressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Multi-label classification.md",
+                "file": "Machine Learning/Univariable vs Multivariable regressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Multi-label classification.md"
+                "file": "Machine Learning/Univariable vs Multivariable regressions.md"
               }
             }
           }
@@ -206,17 +206,24 @@
   },
   "active": "25ce8af80ecd10c9",
   "lastOpenFiles": [
+    "Machine Learning/features vs examples.md",
+    "Machine Learning/Gradient Descent.md",
+    "Machine Learning/Neural Networks.md",
+    "Machine Learning/Nodes.md",
+    "Machine Learning/Gradient Descent Example.png",
+    "Machine Learning/How to choose a good alpha value.md",
+    "Machine Learning/Inference.md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Layers.md",
+    "Machine Learning/Multi-label classification.md",
     "Machine Learning/Machine Learning.md",
     "Machine Learning/Numerical Roundoff Error.md",
     "Machine Learning/Alpha value.md",
     "Machine Learning/TensorFlow.md",
-    "Machine Learning/Multi-label classification.md",
-    "Machine Learning/Neural Networks.md",
     "Machine Learning/Logistic Regression.md",
     "Machine Learning/Feedforward and Backpropagation.md",
     "Machine Learning/Cost or loss functions.md",
     "Crypto/Ethereum.md",
-    "Machine Learning/Inference.md",
     "Machine Learning/Examples of array dimensionality.png",
     "Machine Learning/example 3d graph.png",
     "Machine Learning/Data Types in Machine learning.md",
@@ -225,10 +232,6 @@
     "Loss functions.md",
     "Machine Learning/Activation Functions.md",
     "Machine Learning/Arrays.md",
-    "Machine Learning/Gradient Descent.md",
-    "Machine Learning/Layers.md",
-    "Machine Learning/Linear Regression.md",
-    "Machine Learning/Nodes.md",
     "Neuron.md",
     "Machine Learning/ndarrays.md",
     "Mathematics/Vector.md",
@@ -236,11 +239,8 @@
     "Mathematics/Derivative.md",
     "Mathematics",
     "Machine Learning/weights and biases.md",
-    "Machine Learning/How to choose a good alpha value.md",
-    "Machine Learning/Gradient Descent Example.png",
     "Crypto",
     "School",
-    "Machine Learning/Tensors.md",
     "Machine Learning"
   ]
 }
