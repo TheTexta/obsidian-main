@@ -15,7 +15,7 @@ model = Sequential ([Dense(units=25,activation='relu'),
 					])
 model.compile(loss=BinaryCrossEntropy)
 ```
-The code above implements a 3 layer neural network which takes 25 inputs and outputs a single number between 0 and 1. This implementation uses the loss function of binary cross entropy which is just a fancy [[Activation Functions|activation function]]. The ``from_logits`` part of the code allows for [[TensorFlow]] to have greater flexibility in how it manipulates the input data and prevents [[Numerical Roundoff Error|numerical roundoff errors]]. For greater numerical accuracy the logits code is included below. The reason this code is more accurate is that it computes the z value rather then the g(z) for the model which is better for training as g(z) can often produce very small/large floating point numbers.
+The code above implements a 3 layer neural network which takes 25 inputs and outputs a single number between 0 and 1. This implementation uses the loss function of binary cross entropy which is just a fancy [[Cost or loss functions|loss function]]. The ``from_logits`` part of the code allows for [[TensorFlow]] to have greater flexibility in how it manipulates the input data and prevents [[Numerical Roundoff Error|numerical roundoff errors]]. For greater numerical accuracy the logits code is included below. The reason this code is more accurate is that it computes the z value rather then the g(z) for the model which is better for training as g(z) can often produce very small/large floating point numbers.
 ```python
 model = Sequential ([Dense(units=25,activation='relu'),
 					Dense(units=15,activation='relu'),
