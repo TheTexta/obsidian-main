@@ -6,3 +6,6 @@ flowchart LR
 ```
 
 The final layer in a multi label classification problem has a logistically [[Activation Functions|activated]] regression node for every possible label the input could have.
+
+Multi class vs multi label classification
+multi class and multi label classification mean two very different things. while multi class classification refers to the multi labelling of inputs where a single input can have multiple case labels, multi label classification refers to the diction of a single case to a input image. 
