@@ -1,0 +1,1 @@
+An electron is a [[fundamental particle]] with a overall negative charge. It is the lightest particle in the atom, and the smallest. Electrons have the same charge as a [[proton]] but in a negative form.

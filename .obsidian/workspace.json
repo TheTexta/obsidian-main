@@ -23,12 +23,15 @@
             "id": "ca03f7f6adfe9142",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/electron.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry/isotope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry/isotope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry/isotope.md"
+              }
             }
           }
         ],
@@ -152,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca03f7f6adfe9142",
+  "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
+    "Chemistry/electron.md",
+    "Chemistry/Double Displacement Reactions.md",
     "Chemistry/isotope.md",
     "Mathematics/Continuity.md",
     "Mathematics/Limits.md",
@@ -162,7 +171,6 @@
     "Chemistry/atomic number.md",
     "Chemistry/average atomic mass.md",
     "Chemistry/ionic compounds.md",
-    "Chemistry/Double Displacement Reactions.md",
     "Chemistry/polyatomic naming conventions.md",
     "Chemistry/Reactions.md",
     "Chemistry/ion.md",
@@ -182,7 +190,6 @@
     "Mathematics/Infinite Limits.md",
     "Mathematics/Real Limits.md",
     "Machine Learning/Deep Learning.md",
-    "Machine Learning/TensorFlow.md",
     "Machine Learning/Gradient Descent Example.png",
     "Machine Learning/Examples of array dimensionality.png",
     "Machine Learning/example 3d graph.png",

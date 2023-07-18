@@ -1,1 +1,1 @@
-Double displacement reactions occur when two aqueous solutions are mixed together where an exchange in the elements in the solutions allows for a precipitation to form. 
+Double displacement [[reactions]] occur when two [[aqueous]] solutions are mixed together where an exchange in the [[element|elements]] in the solutions allows for a [[precipitation]] to form. The occurrence of double displacement [[reactions]] is dictated by the [[solubility guidelines]]. Which allow one to determine if and when a [[precipitation]] will form. 
