@@ -1,0 +1,1 @@
+Double displacement reactions occur when two aqueous solutions are mixed together where an exchange in the elements in the solutions allows for a precipitation to form. 

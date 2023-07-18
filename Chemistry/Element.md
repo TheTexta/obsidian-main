@@ -1,0 +1,1 @@
+Every element has a [[atomic mass]], [[atomic number]] and a [[valence charge]]. 

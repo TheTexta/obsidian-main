@@ -1,0 +1,1 @@
+atomic number is the name for the number of protons in a atom. Which is what defines the element of which that atom belongs to. 

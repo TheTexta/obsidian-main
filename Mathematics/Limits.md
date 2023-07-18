@@ -1,4 +1,4 @@
-A limit is the value of a function as it approaches a certain point.
+A limit is the value of a function as it approaches a certain point. For a limit to exist it has to be [[Real Limits|real]] and not [[Infinite Limits|infinite]]. Which is checked through the comparison of the left/right hand of the limit. Limits require do not require [[Continuity]].
 
 ## Basic Definition
 $L = \lim_{x \to c} f(x)$
@@ -12,11 +12,31 @@ $L = \lim_{x\to c^-}f(x)$
 #### Right
 $L = \lim_{x\to c^+}f(x)$
 
-## Real Limits
-For a limit to exist the LHS and RHS of the limit must exist and tend towards the same number. A limit can exist without the point of the limit being explicitly defined so long as the above rules are satisfied. A limits existence can be proved by calculating the RHS and LHS and confirming that they match/exist.
-
-## Infinite Limits
-A function is said to become infinite (positively/negatively) if the value of $x\to c$ is made arbitrarily large. eg. $\lim_{x\to c}f(x)=\pm\infty$. This is because for a limit to exist it must be a real finite number. If a limit is $\infty$ no matter what it does not exist. 
-
 ## Limit Theorems
 ###### Constant Rule
+$\lim_{x\to c}(k) = k$
+###### Constant multiple rule
+$\lim_{x \to c}(k \cdot f(x))=k \cdot \lim_{x \to c}f(x)$
+###### Sum Rule
+$\lim_{x\to c}(f(x)+g(x))=\lim_{x\to c}f(x) + \lim_{x\to c}g(x)$
+###### Product Rule
+$\lim_{x\to c}(f(x)\cdot g(x))=\lim_{x\to c}f(x) \cdot \lim_{x\to c}g(x)$
+###### Composition Rule
+$\lim_{x \to c}f(g(x)) = f(\lim_{x\to c}g(x))$
+###### Sandwich Square Theorem
+$\text{if } f(x)\leq g(x)\leq h(x) \text{ and } \lim_{x\to c}h(x) = \lim_{x\to c}f(x)=L \text{ than the } \lim_{x \to c}g(x) = L$
+###### Big Number Theorem :)
+$\lim_{x\to \infty}\frac{1}{x}=0$
+
+## Limits of $\infty$ for rational functions
+$\lim_{x\to c}\frac{P(x)}{Q(x)}$ 
+* if P's degree is less then Q's then the limit equals 0
+* If P's degree is equal to Q's then the limit equals the leading coefficient of P over the leading coefficient of Q
+* If P's degree is greater then Q's then the limit equals $\pm \infty$.
+
+## Limits of Trigonometric Functions
+$lim_{x\to 0}\frac{sinx}{x}=1$
+$lim_{x\to 0}\frac{1-cosx}{x}=0$
+
+## Proving Trig Function Limits
+$lim_{x\to \infty}\frac{sinx}{x}=0$ because for all values of $sinx$ it is $-1\leq sinx \leq 1$ so it follows that $-\frac{1}{x} \leq \frac{sinx}{x} \leq \frac{1}{x}$and because $lim_{x\to\infty}\pm\frac{1}{x}=0$ factor squeeze theorem shows that $lim_{x\to\infty}\frac{sinx}{x} = 0$.

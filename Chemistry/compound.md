@@ -1,0 +1,1 @@
+A compound is a chemically bonded group of differing elements. 

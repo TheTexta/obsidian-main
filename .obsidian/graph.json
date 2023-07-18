@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:Chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Psychology",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.38230109687700053,
-  "close": false
+  "scale": 0.3823010968770048,
+  "close": true
 }
