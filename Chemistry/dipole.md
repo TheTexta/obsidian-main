@@ -1,0 +1,1 @@
+The separation of charge, commonly used when referring to the separation of charge seen in molecules with partial charges due to small [[electronegativity]] differences. 
