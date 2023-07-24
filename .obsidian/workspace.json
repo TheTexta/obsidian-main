@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/dipole.md",
+                "file": "Chemistry/Dipole.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orbitals.md",
+                "file": "Chemistry/Acid-Base Reactions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/compound.md",
+                "file": "Chemistry/Compound.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e9abe17fb147f68",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/electron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/electron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chemistry/electron.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -220,46 +224,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9a391a3ce9b7825",
+  "active": "2e9abe17fb147f68",
   "lastOpenFiles": [
-    "Chemistry/Bohr Model.md",
-    "Orbitals.md",
-    "Chemistry/Pasted image 20230722152447.png",
-    "Chemistry/compound.md",
-    "Chemistry/Moles.md",
+    "Chemistry/Element.md",
+    "Chemistry/Compound.md",
+    "Chemistry/Valence Electron per Group.png",
+    "Chemistry/Orbitals.md",
     "Chemistry/Pasted image 20230722150647.png",
-    "Chemistry/electron.md",
-    "Chemistry/Avogadro's number.md",
-    "Chemistry/dipole.md",
-    "Chemistry/structural formula.md",
+    "Chemistry/Pasted image 20230722152447.png",
     "Chemistry/Pasted image 20230722145928.png",
+    "Chemistry/Electronegativity Periodic Table.jpg",
+    "Chemistry/inter v intra mol forces.png",
+    "Chemistry/arrow and delta dipole representation.png",
+    "Chemistry/Dipole.md",
+    "Chemistry/intermolecular forces.md",
+    "Chemistry/Acid.md",
+    "Chemistry/Acid-Base Reactions.md",
+    "Chemistry/electron.md",
+    "Chemistry/Reactions.md",
+    "Chemistry/Bohr Model.md",
+    "Chemistry/Moles.md",
+    "Chemistry/Avogadro's number.md",
+    "Chemistry/structural formula.md",
     "Chemistry/molecular formula.md",
     "Chemistry/Empirical Formula.md",
     "Chemistry/Double Displacement Reactions.md",
     "Chemistry/Options.md",
-    "Chemistry/intermolecular forces.md",
     "Chemistry/Proton.md",
     "Chemistry/Single Displacement Reactions.md",
-    "Chemistry/2596bfb5d1f501a78d6693d0a9bd79c17631ffb0.png",
     "Chemistry/Electronegativity.md",
-    "Chemistry/Electronegativity_Periodic_Table.jpg",
     "Chemistry/hydrocarbon.md",
     "Chemistry/combustion.md",
     "Chemistry/Decomposition.md",
     "Chemistry/Synthesis.md",
     "Chemistry/isotope.md",
     "Mathematics/Continuity.md",
-    "Mathematics/Limits.md",
-    "Chemistry/atomic mass.md",
-    "Chemistry/anion.md",
-    "Chemistry/atomic number.md",
     "Psychology",
-    "Chemistry/Valence_Electrons_final.png",
     "Chemistry",
     "Machine Learning/Gradient Descent Example.png",
     "Machine Learning/Examples of array dimensionality.png",
     "Machine Learning/example 3d graph.png",
-    "Machine Learning/Optimal cost function to number of iterations graph.png",
     "Mathematics",
     "Crypto",
     "School",

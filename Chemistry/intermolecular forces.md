@@ -6,10 +6,17 @@ There are four types/categories intermolecular forces, in order of weakest to st
 Occur between all molecules, no matter there charge (partial or not). Forms because the components of molecules are in constant motion, therefor indicating how at any one time some positive particles could be aligned on one side with the negatives on the other. Inducing a temporary but weak attractive force. 
 
 ## Dipole Dipole Forces
-The more [[Electronegativity|electronegative]] element in a covalent bond attracts more electrons, therefore that side of the molecule is more negative then the other side. This creates a partial charge on both sides of the molecule, which attracts other partially charged molecules through dipole-dipole induced forces. Recall that a seperation of charge is called a [[dipole]], hence the name dipole dipole forces. 
+The more [[Electronegativity|electronegative]] element in a covalent bond attracts more electrons, therefore that side of the molecule is more negative then the other side. This creates a partial charge on both sides of the molecule, which attracts other partially charged molecules through dipole-dipole induced forces. Recall that a separation of charge is called a [[Dipole]], hence the name dipole dipole forces. 
+
+## Hydrogen Forces
+Special forces exist between hydrogen particles and other highly [[Electronegativity|electronegative]] elements known as hydrogen forces. These hydrogen forces only occur between hydrogen and either fluorine, oxygen or nitrogen. The NOF particles. 
+
+## Ion Dipole Forces
+The highest intermolecular force is the ion dipole force, existing between all [[Dipole]] and [[ion|ionic]] molecules. 
 
 
 ## Inter vs Intra
 
 
-![[2596bfb5d1f501a78d6693d0a9bd79c17631ffb0.png]]
+![[inter v intra mol forces.png]]
+

@@ -1,0 +1,1 @@
+An acid base reaction occurs when an [[Acid]] compound reacts with a [[basic]] compound. The resulting chemical is a salt + water product. Acid base reactions can be used in [[titration]] to determine the concentration of an unknown product (the titrate) through the addition of a known product (the titrant). 

@@ -1,1 +1,0 @@
-Electrons don't really take up any space in the atom. There is only a probability that they will appear at a given location. 

@@ -1,3 +1,3 @@
 Electronegativity is a measure of how much an [[element]] attracts another. They are key in understanding the [[intermolecular forces]] and [[intramolecular forces]]. The difference of electronegativity between two elements ($\Delta EN$) determines the type of bond ([[Ionic Bonds|ionic]] or [[covalent bonds|covalent]]) the compound experiences as well as the relevant dipole forces. 
 ## Table:
-![[Electronegativity_Periodic_Table.jpg]]
+![[Electronegativity Periodic Table.jpg]]
