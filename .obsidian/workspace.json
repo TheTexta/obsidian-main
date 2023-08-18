@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "How to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How to learn.md"
+              }
             }
           }
         ],
@@ -175,12 +180,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbe40118e3249e32",
+  "active": "7b4cc7feaf3c8831",
   "lastOpenFiles": [
-    "Cognitive Load.md",
-    "How to learn.md",
-    "schema.md",
+    "Spaced repetition.md",
     "Information Processing Theory.md",
+    "Cognitive Load.md",
+    "schema.md",
+    "How to learn.md",
+    "Bloom's Taxonomy.png",
+    "Active recall.md",
     "Machine Learning/Logistic Regression.md",
     "Psychology/Neuron.md",
     "Psychology",
@@ -202,9 +210,6 @@
     "Machine Learning/Neural Networks.md",
     "Machine Learning/Multi-label classification.md",
     "Machine Learning/Machine Learning.md",
-    "Machine Learning/Linear Activation.md",
-    "Machine Learning/Layers.md",
-    "Machine Learning/How to choose a good alpha value.md",
     "Machine Learning",
     "Chemistry/inter v intra mol forces.png",
     "Chemistry/arrow and delta dipole representation.png",
@@ -216,7 +221,6 @@
     "Chemistry",
     "Machine Learning/Optimal cost function to number of iterations graph.png",
     "Machine Learning/Examples of array dimensionality.png",
-    "Machine Learning/over-under shoot of gradient descent.png",
     "Crypto",
     "School"
   ]
