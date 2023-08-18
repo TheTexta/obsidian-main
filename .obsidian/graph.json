@@ -34,13 +34,6 @@
         "a": 1,
         "rgb": 5431378
       }
-    },
-    {
-      "query": "path:Psychology",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7514342322277894,
+  "scale": 0.3901306820813923,
   "close": true
 }

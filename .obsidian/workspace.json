@@ -8,99 +8,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86ad8db55610232b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Proton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d17744cd331ab4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Dipole.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "194b8754737713e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Avogadro's number.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a0a1f22f78e4fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Moles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9a391a3ce9b7825",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/electron.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47d67a4c65735864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Acid-Base Reactions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d24f8de5478fd062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Compound.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e9abe17fb147f68",
+            "id": "bbe40118e3249e32",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "7b4cc7feaf3c8831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc6b7c45199f2c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "schema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b76baf62a9ee0f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Load.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,49 +175,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e9abe17fb147f68",
+  "active": "bbe40118e3249e32",
   "lastOpenFiles": [
-    "Chemistry/Element.md",
-    "Chemistry/Compound.md",
-    "Chemistry/Valence Electron per Group.png",
-    "Chemistry/Orbitals.md",
-    "Chemistry/Pasted image 20230722150647.png",
-    "Chemistry/Pasted image 20230722152447.png",
-    "Chemistry/Pasted image 20230722145928.png",
-    "Chemistry/Electronegativity Periodic Table.jpg",
+    "Cognitive Load.md",
+    "How to learn.md",
+    "schema.md",
+    "Information Processing Theory.md",
+    "Machine Learning/Logistic Regression.md",
+    "Psychology/Neuron.md",
+    "Psychology",
+    "Mathematics/Real Limits.md",
+    "Mathematics/Limits.md",
+    "Mathematics/Infinite Limits.md",
+    "Mathematics/Derivative.md",
+    "Mathematics/Continuity.md",
+    "Mathematics",
+    "Machine Learning/features vs examples.md",
+    "Machine Learning/alpha value.md",
+    "Machine Learning/Univariable vs Multivariable regressions.md",
+    "Machine Learning/TensorFlow.md",
+    "Machine Learning/Softmax Activation.md",
+    "Machine Learning/Sigmoid Activation.md",
+    "Machine Learning/ReLU Activation.md",
+    "Machine Learning/Numerical Roundoff Error.md",
+    "Machine Learning/Nodes.md",
+    "Machine Learning/Neural Networks.md",
+    "Machine Learning/Multi-label classification.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Linear Activation.md",
+    "Machine Learning/Layers.md",
+    "Machine Learning/How to choose a good alpha value.md",
+    "Machine Learning",
     "Chemistry/inter v intra mol forces.png",
     "Chemistry/arrow and delta dipole representation.png",
-    "Chemistry/Dipole.md",
-    "Chemistry/intermolecular forces.md",
-    "Chemistry/Acid.md",
-    "Chemistry/Acid-Base Reactions.md",
-    "Chemistry/electron.md",
-    "Chemistry/Reactions.md",
-    "Chemistry/Bohr Model.md",
-    "Chemistry/Moles.md",
-    "Chemistry/Avogadro's number.md",
-    "Chemistry/structural formula.md",
-    "Chemistry/molecular formula.md",
-    "Chemistry/Empirical Formula.md",
-    "Chemistry/Double Displacement Reactions.md",
-    "Chemistry/Options.md",
-    "Chemistry/Proton.md",
-    "Chemistry/Single Displacement Reactions.md",
-    "Chemistry/Electronegativity.md",
-    "Chemistry/hydrocarbon.md",
-    "Chemistry/combustion.md",
-    "Chemistry/Decomposition.md",
-    "Chemistry/Synthesis.md",
-    "Chemistry/isotope.md",
-    "Mathematics/Continuity.md",
-    "Psychology",
+    "Chemistry/Valence Electron per Group.png",
+    "Chemistry/Pasted image 20230722152447.png",
+    "Chemistry/Pasted image 20230722150647.png",
+    "Chemistry/Pasted image 20230722145928.png",
+    "Chemistry/Electronegativity Periodic Table.jpg",
     "Chemistry",
-    "Machine Learning/Gradient Descent Example.png",
+    "Machine Learning/Optimal cost function to number of iterations graph.png",
     "Machine Learning/Examples of array dimensionality.png",
-    "Machine Learning/example 3d graph.png",
-    "Mathematics",
+    "Machine Learning/over-under shoot of gradient descent.png",
     "Crypto",
-    "School",
-    "Machine Learning"
+    "School"
   ]
 }
