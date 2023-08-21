@@ -7,7 +7,7 @@ $$\displaylines{ m=\text{number of training examples}
 \\i = \text{example from dataset}
 \\j = \text{feature of training set} }$$
 
-Updating each parameter w and b for the algorithm with the [[Derivative]] of the [[Cost or loss functions]] multiplied by the [[Alpha value]] allows for the parameters to gradually find there local minimum within a given problem. 
+Updating each parameter w and b for the algorithm with the [[Derivative]] of the [[Cost or loss functions]] multiplied by the [[Alpha Value]] allows for the parameters to gradually find there local minimum within a given problem. 
 
 The [[derivative]] of the [[Cost or loss functions]] for logistic regression of the b value is:
 $$\frac{dJ(w,b)}{d(b)} = \frac{1}{m}\sum_{i=1}^{m}f(x^i)-y^i$$

@@ -2,11 +2,6 @@
 [[Active recall]]
 [[Spaced repetition]]
 
-## How does learning work?
-Learning works through 
-
-
-
 ## Why are the traditional methods inefficient?
 Highlighting and reading over and over again is not the most efficient way to learn. Neither is spaced repetition, frequent flashcards, that effective. Especially when learning large quantities of material. 
 

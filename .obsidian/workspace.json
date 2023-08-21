@@ -11,17 +11,9 @@
             "id": "bbe40118e3249e32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ebf272c22bd2eee2",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/alpha value.md",
+                "file": "Machine Learning/Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/alpha value.md",
+                "file": "Machine Learning/Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/alpha value.md",
+                "file": "Machine Learning/Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/alpha value.md"
+                "file": "Machine Learning/Models.md"
               }
             }
           }
@@ -216,12 +207,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebf272c22bd2eee2",
+  "active": "bbe40118e3249e32",
   "lastOpenFiles": [
-    "over-under shoot of gradient descent.png.md",
-    "Machine Learning/alpha value.md",
-    "Machine Learning/Softmax Activation.md",
+    "Machine Learning/Multi-label classification.md",
     "Machine Learning/Models.md",
+    "Learning/How to learn.md",
+    "Chemistry/naming conventions in chemistry.md",
+    "Chemistry/polyatomic naming conventions.md",
+    "Machine Learning/Alpha Value.md",
+    "over-under shoot of gradient descent.png.md",
+    "Machine Learning/Softmax Activation.md",
     "Machine Learning/Cost or loss functions.md",
     "Machine Learning/Cross entropy loss function.md",
     "Machine Learning/Deep Learning.md",
@@ -229,7 +224,6 @@
     "Machine Learning/Sigmoid Activation.md",
     "Machine Learning/Multi-Class Classification.md",
     "Machine Learning/Activation Functions.md",
-    "Machine Learning/Multi-label classification.md",
     "Mathematics/Derivative.md",
     "Mathematics/Infinite Limits.md",
     "Mathematics/Limits.md",
@@ -238,13 +232,10 @@
     "Chemistry/Valence Shell.md",
     "Chemistry/Covalent compounds.md",
     "Chemistry/Electronegativity.md",
-    "Learning/How to learn.md",
-    "Chemistry/naming conventions in chemistry.md",
     "Machine Learning/Weights and Biases.md",
     "Learning/Active recall.md",
     "Learning",
     "Learning/Free Recall.md",
-    "Learning/Spaced repetition.md",
     "Learning/Bloom's Taxonomy.png",
     "Psychology",
     "Mathematics",
