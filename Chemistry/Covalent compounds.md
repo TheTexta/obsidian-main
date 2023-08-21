@@ -1,0 +1,1 @@
+Covalent compounds are compounds which are covalently bonded. This means that they *share* [[electron|electrons]] in the [[Valence Shell]] in order to create a more stable/neutral resulting compound. Covalent compounds can only exist if the difference between [[electronegativity]] of the components is less then 1.7. **(check this w teacher)**.

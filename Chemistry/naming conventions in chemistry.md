@@ -1,1 +1,1 @@
-There are a shitton of rules for naming compounds in chemistry. [[Covalent compounds]], [[acids]], [[bases]], and [[ionic compounds]] especially each have there own unique rules for the naming of there compounds and ions. 
+There are a shit-ton of rules for naming compounds in chemistry. [[Covalent compounds]], [[acids]], [[bases]], and [[ionic compounds]] especially each have there own unique rules for the naming of there compounds and ions. 
