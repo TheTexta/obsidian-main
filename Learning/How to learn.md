@@ -1,9 +1,11 @@
 [[Cognitive Load]]
-[[Active Recall]]
+[[Active recall]]
 [[Spaced repetition]]
 
 ## How does learning work?
 Learning works through 
+
+
 
 ## Why are the traditional methods inefficient?
 Highlighting and reading over and over again is not the most efficient way to learn. Neither is spaced repetition, frequent flashcards, that effective. Especially when learning large quantities of material. 
@@ -12,7 +14,7 @@ Highlighting and reading over and over again is not the most efficient way to le
 Studying is the stuff you do to produce learning. Studying is a physical "real" process of revising material in order to "learn" it. Learning is the cognitive process occurring to retain knowledge or memory. Memory is what we actually remember (duh), but learning is the cognitive process which strengthens the memory. TLDR; **Studying** is the process to induce **learning** cognitively which strengthens and builds the **memory**. Hard studying doesn't mean that effective learning is taking place. What we want is to optimise the efficiency of the study technique so that the learning is as affective as possible with the amount of time we spend studying. 
 
 ## How does the brain encode memories?
-Memory is the process of storing and retaining information to recall at a later time. [[Information Processing Theory]] describes the process by which one processes information into memories. It is important to note that our memories gradually deteriorate over time. [[Active recall]] and [[spaced repetition]] reduce the effect of this deterioration. The process of how you encode the information affects how it is remembered and "retrieved" after a given time. The reason [[Cognitive Load]] is effective is that all other techniques require the encoding of the information to be sound. 
+Memory is the process of storing and retaining information to recall at a later time. [[Information Processing Theory]] describes the process by which one processes information into memories. It is important to note that our memories gradually deteriorate over time. [[Active recall]] and [[Spaced repetition]] reduce the effect of this deterioration. The process of how you encode the information affects how it is remembered and "retrieved" after a given time. The reason [[Cognitive Load]] is effective is that all other techniques require the encoding of the information to be sound. 
 
 ## Definitions
 Encoding. The process of receiving, processing and combining that information
@@ -57,3 +59,10 @@ Practicing the skill you want to learn overall with the new knowledge is the bes
 * Scaffolding: Start off using worked examples and easy problems when learning a topic and work from there. Watching or reading through worked examples when starting a new topic is good for getting an understanding of the process behind the solution. Reducing cognitive load when learning the steps individually as the [[schema]] is already put in place. Once a scaffold is in place, increasing complexity is essential for proper understanding and long term memorisation of a topic. 
 * Its worth mentioning the modality effect which describes how the mind processes audio and visual information separately. The short term memory has separate holds for audio and visual data. Therefor by maximising both your more effective in your learning. You can also work between the two, preventing overloading.
 * Review content before its introduction. This allows for decreased germane cognitive load during the lecture as you already have a general idea of the topic and can focus on the important information. 
+* **Trying to remember stuff without reference to it is the best way to quickly memorise a topic.** This is known as the [[Free Recall]] technique and is a form of [[active learning]].
+
+## Darren Chai - How to take notes
+* Question how the content relates to what you already know.
+* How am I going to be tested on the topic?
+* What is the professor about to say? By asking this question your able to come up with the idea the teacher is attempting to convey *by yourself*, which increases the cognitive load and engagement with the content.
+* 

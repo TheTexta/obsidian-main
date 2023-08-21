@@ -1,0 +1,1 @@
+Spaced repetition is a basic studying technique with increasingly limited returns in its effectiveness.
