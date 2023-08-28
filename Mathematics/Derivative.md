@@ -1,4 +1,4 @@
-A derivative is the equation for the slope of a graph at a given point on the graph.
+A derivative is the equation for the slope of a graph at a given point on the graph. The function for the rate of change of a function at a given time
 
 ## Standard Definition
 A derivative is defined by the following standard formula which is the [[Limits|limit]] of the function as the difference between two points in the function become $\infty$ small. :
@@ -15,3 +15,4 @@ when a functions result is the input of another
 $$
 \frac{d}{dx}(a(b(x)))=\frac{da}{dx}(b(x))\cdot{}\frac{db}{dx}(x)
 $$
+### 

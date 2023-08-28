@@ -10,4 +10,7 @@ A simple model which takes an input and gives it a numerical output. Basically f
 A model which attaches a single label of many to an input. The model uses the [[Softmax Activation]] function to produce probabilities of each label belonging to the input. All values in the vector output must add to 1. This approach uses a [[Cross entropy loss function]] to grade the model based on its category predictions. This is a neural network model, utilising multiple hidden [[layers]] to produce an output.
 
 [[Multi-label classification]]
-A [[Neural Networks|neural network]] model which attaches one or more labels to a given input.****
+A [[Neural Networks|neural network]] model which attaches one or more labels to a given input.
+
+[[Binary Classification]]
+A model which classifies an input into a yes/no result. 

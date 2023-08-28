@@ -12,3 +12,5 @@ flowchart TD
 A[price\nshipping cost\nmarketing\nmaterial] ---> B[layer1] -.Affordibility\nQuality\nViralbility.-> D((Output Layer)) --->E{Demand Prediction}
 ```
 
+## Convolutional Neural Networks
+neural networks comprised primarily of convolutional [[Layers|layers]]. 
