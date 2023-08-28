@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "path:Learning",
+      "query": "path:Psychology",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9648961767567005,
+  "scale": 0.3823010968770133,
   "close": true
 }

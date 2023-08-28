@@ -1,2 +1,2 @@
-By plotting the [[Cost or loss functions]] to # of iterations with a test [[Alpha Value]] one can find the optimal learning rate for a given problem. If the graph looks like this your on the right track:
+By plotting the [[Cost or loss functions]] to # of iterations with a test [[Alpha value]] one can find the optimal learning rate for a given problem. If the graph looks like this your on the right track:
 ![[Optimal cost function to number of iterations graph.png]]
