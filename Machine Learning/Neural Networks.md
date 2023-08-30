@@ -14,3 +14,19 @@ A[price\nshipping cost\nmarketing\nmaterial] ---> B[layer1] -.Affordibility\nQua
 
 ## Convolutional Neural Networks
 neural networks comprised primarily of convolutional [[Layers|layers]]. 
+
+# How to acc code them frfr
+Using keras we can declare a new model with the following:
+```python
+model = Sequential(
+    [                
+        tf.keras.layers.Dense(units = 25, activation="relu"),
+        tf.keras.layers.Dense(units = 15, activation="relu"),
+        tf.keras.layers.Dense(units = 10, activation="linear")
+        
+    ], name = "my_model" 
+)
+
+model.compile(loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+    optimizer=tf.keras.optimizers.Adam(learning_rate=0.001))
+```

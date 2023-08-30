@@ -35,12 +35,34 @@
             "id": "2d08825328bc3673",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Overfitting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fd910862640ce30",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Machine Learning/Pasted image 20230829212229.png"
+              }
+            }
+          },
+          {
+            "id": "e2fc19debc4027c0",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Pasted image 20230829212229.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning/Pasted image 20230829212229.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning/Pasted image 20230829212229.png"
+              }
             }
           },
           {
@@ -172,36 +198,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d08825328bc3673",
+  "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
-    "Mathematics/Derivative.md",
-    "Machine Learning/Layers.md",
-    "Machine Learning/Numerical Roundoff Error.md",
-    "Machine Learning/Models.md",
+    "Machine Learning/Model Evaluation.md",
+    "Machine Learning/Machine Learning Diagnostic.md",
+    "Machine Learning/Pasted image 20230829212229.png",
+    "Machine Learning/Overfitting.md",
+    "Machine Learning/Regularisation.md",
+    "Machine Learning/Optimisation Algorithms.md",
+    "Machine Learning/Pasted image 20230829135210.png",
+    "Machine Learning/Cost or loss functions.md",
     "Machine Learning/Neural Networks.md",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/Multi-Class Classification.md",
-    "Machine Learning/Gradient Descent.md",
-    "Chemistry/structural formula.md",
-    "Chemistry/molecular formula.md",
-    "Chemistry/electron.md",
-    "Chemistry/Covalent bonds.md",
-    "Chemistry/Covalent compounds.md",
-    "Chemistry/Ionic Bonds.md",
-    "Chemistry/ionic compounds.md",
-    "Chemistry/ion.md",
-    "Chemistry/intermolecular forces.md",
-    "Chemistry/inter v intra mol forces.png",
-    "Chemistry/hydrocarbon.md",
-    "Chemistry/Empirical Formula.md",
-    "Chemistry/Element.md",
-    "Chemistry/Electronegativity.md",
-    "Chemistry/Double Displacement Reactions.md",
-    "Chemistry/Decomposition.md",
-    "Machine Learning/Linear Activation.md",
-    "Machine Learning/gradient descent ex.png",
-    "Machine Learning/Feedforward and Backpropagation.md",
+    "Machine Learning/Nodes.md",
+    "Machine Learning/ReLU Activation.md",
     "Machine Learning/Activation Functions.md",
+    "Machine Learning/Layers.md",
+    "Machine Learning/Multi-Class Classification.md",
+    "Machine Learning/Models.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Linear Activation.md",
+    "Machine Learning/Logistic Regression.md",
+    "Machine Learning/How to choose a good alpha value.md",
+    "Machine Learning/gradient descent ex.png",
+    "Machine Learning/Gradient Descent.md",
+    "Machine Learning/Feedforward and Backpropagation.md",
+    "Machine Learning/features vs examples.md",
+    "Machine Learning/Deep Learning.md",
+    "Machine Learning/Cross entropy loss function.md",
+    "Machine Learning/Alpha value.md",
+    "Machine Learning/Adam Algorithm.md",
+    "Mathematics/Derivative.md",
+    "Chemistry/inter v intra mol forces.png",
     "Learning/Bloom's Taxonomy.png",
     "Learning",
     "Chemistry/Valence Electron per Group.png",
@@ -209,10 +236,8 @@
     "Chemistry/Pasted image 20230722152447.png",
     "Chemistry/Pasted image 20230722145928.png",
     "Chemistry/Electronegativity Periodic Table.jpg",
-    "Chemistry/arrow and delta dipole representation.png",
     "Psychology",
     "Chemistry",
-    "Machine Learning/Gradient Descent Example.png",
     "Mathematics",
     "Crypto",
     "School",
