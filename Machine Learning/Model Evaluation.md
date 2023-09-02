@@ -17,7 +17,7 @@ J_{train} (\vec{w},b) = \frac{1}{2m_{train}}(\sum_{i=1}^{m_{train}}(f_{\vec{w},b
 $$
 
 ## Cross Validation (Development Set)
-This is a small portion of data which is used to evaluate the performance of different orders of polynomial models which can be selected for the algorithm. 20% of example data is used here to evaluate the resulting model of the training set algo optimise the algorithm for the best polynomial degree for the function required. 
+This is a small portion of data which is used to evaluate the performance of different orders of polynomial models which can be selected for the algorithm. 20% of example data is used here to evaluate the resulting model of the training set algo optimise the algorithm for the best polynomial degree for the function required. The cross validation set can also be used for choosing the correct neural network architecture. You can use it to decide the number of [[Layers|hidden layers]] and the [[Nodes|units]] within those layers.
 
 ## Test Set
 The same as the training error but tests the algorithm with new unseen data. Good for [[overfitting]] identification. ****

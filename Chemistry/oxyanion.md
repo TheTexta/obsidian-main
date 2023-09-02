@@ -1,1 +1,1 @@
-An [[anion]] containing oxygen
+An [[Anion]] containing oxygen

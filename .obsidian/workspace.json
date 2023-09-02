@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Overfitting.md",
+                "file": "Chemistry/Acid-base Titration.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,9 +47,11 @@
             "id": "1fd910862640ce30",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Machine Learning/Pasted image 20230829212229.png"
+                "file": "Chemistry/Ionic Compounds.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -62,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Pasted image 20230829212229.png",
+                "file": "Chemistry/Acid-base Titration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Pasted image 20230829212229.png",
+                "file": "Chemistry/Acid-base Titration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Pasted image 20230829212229.png"
+                "file": "Chemistry/Acid-base Titration.md"
               }
             }
           },
@@ -185,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,42 +201,43 @@
   },
   "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
-    "Machine Learning/Model Evaluation.md",
-    "Machine Learning/Machine Learning Diagnostic.md",
-    "Machine Learning/Pasted image 20230829212229.png",
-    "Machine Learning/Overfitting.md",
-    "Machine Learning/Regularisation.md",
-    "Machine Learning/Optimisation Algorithms.md",
-    "Machine Learning/Pasted image 20230829135210.png",
-    "Machine Learning/Cost or loss functions.md",
-    "Machine Learning/Neural Networks.md",
-    "Machine Learning/Nodes.md",
-    "Machine Learning/ReLU Activation.md",
-    "Machine Learning/Activation Functions.md",
-    "Machine Learning/Layers.md",
-    "Machine Learning/Multi-Class Classification.md",
-    "Machine Learning/Models.md",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/Linear Activation.md",
-    "Machine Learning/Logistic Regression.md",
-    "Machine Learning/How to choose a good alpha value.md",
-    "Machine Learning/gradient descent ex.png",
-    "Machine Learning/Gradient Descent.md",
-    "Machine Learning/Feedforward and Backpropagation.md",
-    "Machine Learning/features vs examples.md",
-    "Machine Learning/Deep Learning.md",
-    "Machine Learning/Cross entropy loss function.md",
-    "Machine Learning/Alpha value.md",
-    "Machine Learning/Adam Algorithm.md",
-    "Mathematics/Derivative.md",
+    "Chemistry/Reactions.md",
+    "Chemistry/Acid-base Titration.md",
+    "Chemistry/Structural formula.md",
+    "Chemistry/polyatomic naming conventions.md",
+    "Chemistry/Compound.md",
+    "Chemistry/Covalent bonds.md",
+    "Chemistry/Anion.md",
+    "Chemistry/Acid.md",
+    "Chemistry/Oxyanion.md",
+    "Chemistry/Molecular formula.md",
+    "Chemistry/Empirical Formula.md",
+    "Chemistry/Precipitation.md",
+    "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
     "Chemistry/inter v intra mol forces.png",
+    "Chemistry/Acid-Base Reactions.md",
+    "Chemistry/arrow and delta dipole representation.png",
+    "Chemistry/Atomic Mass.md",
+    "Chemistry/Atomic number.md",
+    "Chemistry/Average Atomic Mass.md",
+    "Chemistry/Avogadro's number.md",
+    "Chemistry/Bohr Model.md",
+    "Chemistry/Cation.md",
+    "Chemistry/Combustion.md",
+    "Chemistry/Covalent compounds.md",
+    "Chemistry/Decomposition.md",
+    "Chemistry/Dipole.md",
+    "Chemistry/Electronegativity Periodic Table.jpg",
+    "Chemistry/Double Displacement Reactions.md",
+    "Chemistry/Electron.md",
+    "Chemistry/Element.md",
+    "Machine Learning/Pasted image 20230829212229.png",
+    "Machine Learning/Pasted image 20230829135210.png",
+    "Machine Learning/gradient descent ex.png",
     "Learning/Bloom's Taxonomy.png",
     "Learning",
     "Chemistry/Valence Electron per Group.png",
     "Chemistry/Pasted image 20230722150647.png",
-    "Chemistry/Pasted image 20230722152447.png",
-    "Chemistry/Pasted image 20230722145928.png",
-    "Chemistry/Electronegativity Periodic Table.jpg",
     "Psychology",
     "Chemistry",
     "Mathematics",

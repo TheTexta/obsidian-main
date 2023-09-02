@@ -1,1 +1,1 @@
-The average [[atomic mass]] of an element is the average mass of that [[element]] considering all the naturally occurring [[isotope|isotopes]] of that [[element]] and their relative frequency/abundance in nature. 
+The average [[Atomic Mass]] of an element is the average mass of that [[element]] considering all the naturally occurring [[Isotope|isotopes]] of that [[element]] and their relative frequency/abundance in nature. 
