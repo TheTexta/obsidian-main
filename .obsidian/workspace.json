@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Derivative.md",
+                "file": "Chemistry/Binary Compound.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Acid-base Titration.md",
+                "file": "Chemistry/Intermolecular Forces.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "be73306af4f1862e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
               }
             }
           },
@@ -63,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Acid-base Titration.md",
+                "file": "Chemistry/Binary Compound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Acid-base Titration.md",
+                "file": "Chemistry/Binary Compound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Acid-base Titration.md"
+                "file": "Chemistry/Binary Compound.md"
               }
             }
           },
@@ -199,44 +208,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec2ee8cde6b2084b",
+  "active": "ff1363cfb515e951",
   "lastOpenFiles": [
-    "Chemistry/Reactions.md",
-    "Chemistry/Acid-base Titration.md",
-    "Chemistry/Structural formula.md",
-    "Chemistry/polyatomic naming conventions.md",
-    "Chemistry/Compound.md",
-    "Chemistry/Covalent bonds.md",
-    "Chemistry/Anion.md",
-    "Chemistry/Acid.md",
-    "Chemistry/Oxyanion.md",
-    "Chemistry/Molecular formula.md",
-    "Chemistry/Empirical Formula.md",
-    "Chemistry/Precipitation.md",
-    "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
-    "Chemistry/inter v intra mol forces.png",
-    "Chemistry/Acid-Base Reactions.md",
-    "Chemistry/arrow and delta dipole representation.png",
-    "Chemistry/Atomic Mass.md",
-    "Chemistry/Atomic number.md",
-    "Chemistry/Average Atomic Mass.md",
-    "Chemistry/Avogadro's number.md",
     "Chemistry/Bohr Model.md",
-    "Chemistry/Cation.md",
-    "Chemistry/Combustion.md",
-    "Chemistry/Covalent compounds.md",
+    "Chemistry/Avogadro's number.md",
+    "Chemistry/Atomic number.md",
+    "Chemistry/Atomic Mass.md",
+    "Chemistry/arrow and delta dipole representation.png",
+    "Chemistry/Anion.md",
+    "Chemistry/Acid-base Titration.md",
+    "Chemistry/Acid-Base Reactions.md",
+    "Chemistry/Acid.md",
+    "Chemistry/Binary Compound.md",
+    "Chemistry/Ionic Compounds.md",
+    "Chemistry/Isotope.md",
+    "Chemistry/Molecular formula.md",
+    "Chemistry/Moles.md",
+    "Chemistry/Monatomic.md",
+    "Options.md",
+    "Chemistry/Orbitals.md",
+    "Chemistry/Precipitation.md",
+    "Chemistry/Proton.md",
+    "Chemistry/Valence Charge.md",
+    "Chemistry/Synthesis.md",
+    "Chemistry/Structural formula.md",
+    "Chemistry/Single Displacement Reactions.md",
+    "Chemistry/Reactions.md",
+    "Chemistry/Valence Electron per Group.png",
+    "Chemistry/Valence Shell.md",
     "Chemistry/Decomposition.md",
     "Chemistry/Dipole.md",
+    "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
+    "Chemistry/inter v intra mol forces.png",
     "Chemistry/Electronegativity Periodic Table.jpg",
-    "Chemistry/Double Displacement Reactions.md",
-    "Chemistry/Electron.md",
-    "Chemistry/Element.md",
     "Machine Learning/Pasted image 20230829212229.png",
     "Machine Learning/Pasted image 20230829135210.png",
     "Machine Learning/gradient descent ex.png",
     "Learning/Bloom's Taxonomy.png",
     "Learning",
-    "Chemistry/Valence Electron per Group.png",
     "Chemistry/Pasted image 20230722150647.png",
     "Psychology",
     "Chemistry",

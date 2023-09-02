@@ -1,4 +1,4 @@
-Compounds which are [[Ionic Bonds|ionically bonded]] are ionic compounds.  Ionic compounds are composed of [[Ion|ions]], whose difference in charges cancel each other out. 
+Compounds which are [[Ionic Bonds|ionically bonded]] are ionic compounds.  Ionic compounds are composed of [[Ion|ions]], whose difference in charges cancel each other out. Typically, ionic compounds are formed when a non metal and a metal form [[ionic bonds]].
 ## Binary Ionic Compound Naming
 Ionic compounds use so many rules when naming them I don't know who the fuck thought this shit was a good idea. fuck chemistry shit is for retards.
 
@@ -13,7 +13,7 @@ Although roman numerals are commonly present its also common to see elements end
 $Fe^{2+} \text{ is Ferrous while }Fe^{3+}\text{ is Ferric}$
 
 ### -Ide
-The -ide suffix is added to the ending of the [[monatomic]] element in a compound
+The -ide suffix is added to the ending of the second element in a [[Binary Compound]]
 #### Example:
 $\text{Hydride is } H^-$
 $Cu^3P \text{ is copper phosphide}$
