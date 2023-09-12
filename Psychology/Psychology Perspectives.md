@@ -2,9 +2,9 @@ There are many different perspective in psychology one can adopt to explain, pre
 
 * Behavioural
 * Cognitive
-* Psychoanalytical
+* [[Psychoanalysis|Psychoanalytical]]
 * Bio
 * Humanistic
 * [[Functionalism]]
 * [[Structuralism]]
-* 
+* [[Gestalt Psychology]]

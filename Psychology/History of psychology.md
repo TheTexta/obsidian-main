@@ -7,3 +7,7 @@ In Britain, John Locke wrote the famous paper "An essay concerning Human Underst
 
 The true origin of psycho is in 1879 when [[Wilhelm Wundt]] setup the first pscyh lab in Germany. One of his students [[Edward B. Titchener]] would go on to start the first school of psychology [[Structuralism]], focusing on sensations and there causes and interlinking properties. Another early psychologist, [[William James]] would then go on to start the second school of psychology, [[Functionalism]]
 
+## Early 20th Cent Approaches
+* [[Gestalt Psychology]]
+* [[Psychoanalysis]]
+

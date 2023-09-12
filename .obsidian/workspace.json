@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functionalism.md",
+                "file": "Psychology/imperialism.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functionalism.md",
+                "file": "Psychology/imperialism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functionalism.md",
+                "file": "Psychology/imperialism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functionalism.md"
+                "file": "Psychology/imperialism.md"
               }
             }
           },
@@ -173,34 +173,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66b1637a66128bde",
+  "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
+    "Economics/Command Economy.md",
+    "Psychology/Sigmund Freud.md",
+    "Economics",
+    "Psychology/freudy.jpg",
+    "Psychology/Psychoanalysis.md",
+    "Psychology/Gestalt Psychology.md",
     "Psychology/Psychology Perspectives.md",
-    "Functionalism.md",
     "Psychology/History of psychology.md",
-    "Structuralism.md",
-    "Command Economy.md",
-    "Traditional Economy.md",
-    "Mixed Economies.md",
-    "Economic System.md",
-    "Market Economy.md",
+    "Psychology/Functionalism.md",
+    "Psychology/Structuralism.md",
+    "Economics/Traditional Economy.md",
+    "Economics/Mixed Economies.md",
+    "Economics/Economic System.md",
+    "Economics/Market Economy.md",
     "Chemistry/Ionic Compounds.md",
     "Chemistry/Intermolecular Forces.md",
     "Machine Learning/Gradient Descent.md",
-    "scarcity.md",
+    "Economics/scarcity.md",
     "Psychology/Wilhelm Wundt.md",
     "Psychology/Aristotle.md",
     "Psychology/trephination.md",
-    "Rational Functions.md",
-    "imperialism.md",
+    "Economics/Rational Functions.md",
+    "Psychology/imperialism.md",
     "Psychology/Neuron.md",
-    "Options.md",
-    "Limiting Reactions.md",
-    "Generation Effect.md",
-    "Chemistry/Ionic Bonds.md",
-    "Chemistry/Ion.md",
-    "Chemistry/Empirical Formula.md",
-    "Chemistry/Hydrocarbon.md",
+    "Economics/Options.md",
+    "Economics/Limiting Reactions.md",
+    "Economics/Generation Effect.md",
     "Chemistry/arrow and delta dipole representation.png",
     "Chemistry/Valence Electron per Group.png",
     "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
@@ -211,7 +212,6 @@
     "Machine Learning/gradient descent ex.png",
     "Learning/Bloom's Taxonomy.png",
     "Learning",
-    "Chemistry/Pasted image 20230722150647.png",
     "Psychology",
     "Chemistry",
     "Mathematics",
