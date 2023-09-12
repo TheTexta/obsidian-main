@@ -10,4 +10,6 @@ The true origin of psycho is in 1879 when [[Wilhelm Wundt]] setup the first pscy
 ## Early 20th Cent Approaches
 * [[Gestalt Psychology]]
 * [[Psychoanalysis]]
+* [[Behaviourism]]
+
 

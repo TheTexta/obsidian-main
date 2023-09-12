@@ -11,8 +11,12 @@
             "id": "e2fc19debc4027c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Psychology Perspectives.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/imperialism.md",
+                "file": "Chemistry/Limiting Reactions.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/imperialism.md",
+                "file": "Chemistry/Limiting Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/imperialism.md",
+                "file": "Chemistry/Limiting Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/imperialism.md"
+                "file": "Chemistry/Limiting Reactions.md"
               }
             }
           },
@@ -175,14 +179,15 @@
   },
   "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
+    "Psychology/imperialism.md",
+    "Psychology/Psychology Perspectives.md",
+    "Psychology/History of psychology.md",
     "Economics/Command Economy.md",
     "Psychology/Sigmund Freud.md",
     "Economics",
     "Psychology/freudy.jpg",
     "Psychology/Psychoanalysis.md",
     "Psychology/Gestalt Psychology.md",
-    "Psychology/Psychology Perspectives.md",
-    "Psychology/History of psychology.md",
     "Psychology/Functionalism.md",
     "Psychology/Structuralism.md",
     "Economics/Traditional Economy.md",
@@ -196,11 +201,10 @@
     "Psychology/Wilhelm Wundt.md",
     "Psychology/Aristotle.md",
     "Psychology/trephination.md",
-    "Economics/Rational Functions.md",
-    "Psychology/imperialism.md",
+    "Mathematics/Rational Functions.md",
     "Psychology/Neuron.md",
     "Economics/Options.md",
-    "Economics/Limiting Reactions.md",
+    "Chemistry/Limiting Reactions.md",
     "Economics/Generation Effect.md",
     "Chemistry/arrow and delta dipole representation.png",
     "Chemistry/Valence Electron per Group.png",
