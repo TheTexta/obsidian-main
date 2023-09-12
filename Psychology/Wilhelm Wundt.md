@@ -1,0 +1,1 @@
+Setup the first psychological laboratory in the university of Leipzig in Germany in 1879. Considered the founder of modern scientific psychology. 

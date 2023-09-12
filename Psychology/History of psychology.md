@@ -1,0 +1,5 @@
+Since the beginning of mankind it is thought that humans have always pondered the mind and its functions and behaviour. Evident by the process of [[trephination]] existent in the stone-age.
+
+Later on Greek philosophers [[Socrates]] and [[Plato]] deduced that the mind is separable from the body and continues to live after the body itself dies. [[Aristotle]] believed that knowledge wasn't innate, instead growing in the mind from experiences stored in memories. 
+
+In the 1600s, "modern science" emerged and new theories were formed about the mind and its contents. Rene Descartes agreed with Aristotle on the knowledge theory and expanded upon it with his own theory of little spirits which communicated actions from the brains and travelled to the muscles where there interactions would cause movement and contraction, and that memories were formed in the brain when the spirits filled these pores in the brain. This communication is akin the that between neurons in the modern perspective. 
