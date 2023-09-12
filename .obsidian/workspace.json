@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "66b1637a66128bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functionalism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Functionalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Functionalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Functionalism.md"
+              }
             }
           },
           {
@@ -156,8 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2fc19debc4027c0",
+  "active": "66b1637a66128bde",
   "lastOpenFiles": [
+    "Psychology/Psychology Perspectives.md",
+    "Functionalism.md",
+    "Psychology/History of psychology.md",
+    "Structuralism.md",
     "Command Economy.md",
     "Traditional Economy.md",
     "Mixed Economies.md",
@@ -166,9 +187,7 @@
     "Chemistry/Ionic Compounds.md",
     "Chemistry/Intermolecular Forces.md",
     "Machine Learning/Gradient Descent.md",
-    "Psychology/Psychology Perspectives.md",
     "scarcity.md",
-    "Psychology/History of psychology.md",
     "Psychology/Wilhelm Wundt.md",
     "Psychology/Aristotle.md",
     "Psychology/trephination.md",
@@ -182,8 +201,6 @@
     "Chemistry/Ion.md",
     "Chemistry/Empirical Formula.md",
     "Chemistry/Hydrocarbon.md",
-    "Chemistry/Element.md",
-    "Chemistry/Covalent compounds.md",
     "Chemistry/arrow and delta dipole representation.png",
     "Chemistry/Valence Electron per Group.png",
     "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
