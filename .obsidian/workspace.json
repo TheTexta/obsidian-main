@@ -8,194 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff1363cfb515e951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Binary Compound.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73186b7ebc56b04f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Ionic Compounds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c604a04515357e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Psychology Perspectives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c63753e053ed3353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Ionic Compounds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20a8ce16344a6c99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rational Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49bd288abdf11e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/trephination.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "381b6d15b1f8c96e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Wilhelm Wundt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3a53a6aa096e99b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Aristotle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99ec8c9415544f3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Wilhelm Wundt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d1665bb6c9b0061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/History of psychology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4e00d1f48494a72",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
-          },
-          {
-            "id": "ff6919242e58d02a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Psychology Perspectives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e9abe17fb147f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d08825328bc3673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Intermolecular Forces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be73306af4f1862e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
-            "id": "1fd910862640ce30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Ionic Compounds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e2fc19debc4027c0",
             "type": "leaf",
             "state": {
@@ -203,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/History of psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/History of psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Psychology/History of psychology.md"
-              }
+              "state": {}
             }
           },
           {
@@ -349,34 +156,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4e00d1f48494a72",
+  "active": "e2fc19debc4027c0",
   "lastOpenFiles": [
-    "imperialism.md",
-    "Psychology/History of psychology.md",
-    "Psychology/Neuron.md",
+    "Command Economy.md",
+    "Traditional Economy.md",
+    "Mixed Economies.md",
+    "Economic System.md",
+    "Market Economy.md",
+    "Chemistry/Ionic Compounds.md",
+    "Chemistry/Intermolecular Forces.md",
+    "Machine Learning/Gradient Descent.md",
     "Psychology/Psychology Perspectives.md",
-    "Psychology/Aristotle.md",
+    "scarcity.md",
+    "Psychology/History of psychology.md",
     "Psychology/Wilhelm Wundt.md",
+    "Psychology/Aristotle.md",
     "Psychology/trephination.md",
     "Rational Functions.md",
+    "imperialism.md",
+    "Psychology/Neuron.md",
     "Options.md",
     "Limiting Reactions.md",
     "Generation Effect.md",
-    "Chemistry/Ionic Compounds.md",
     "Chemistry/Ionic Bonds.md",
     "Chemistry/Ion.md",
     "Chemistry/Empirical Formula.md",
     "Chemistry/Hydrocarbon.md",
     "Chemistry/Element.md",
     "Chemistry/Covalent compounds.md",
-    "Chemistry/Dipole.md",
-    "Chemistry/Electronegativity.md",
-    "Chemistry/Isotope.md",
-    "Psychology/The Brain.md",
-    "Chemistry/Binary Compound.md",
-    "Chemistry/Bohr Model.md",
-    "Chemistry/Avogadro's number.md",
-    "Chemistry/Atomic number.md",
     "Chemistry/arrow and delta dipole representation.png",
     "Chemistry/Valence Electron per Group.png",
     "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
