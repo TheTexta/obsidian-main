@@ -1,0 +1,1 @@
+Capital is the human made resources one has made available to them, different to [[financial capital]].

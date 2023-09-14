@@ -78,9 +78,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed9b1b2fa3bae49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43bbf8d9416218cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Capital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fe89a6b5c5e493e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Enterprise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12c8e5709a1b082e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Scarcity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -146,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Absolute Function.md",
+                "file": "Economics/Scarcity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Absolute Function.md",
+                "file": "Economics/Scarcity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Absolute Function.md"
+                "file": "Economics/Scarcity.md"
               }
             }
           },
@@ -225,10 +273,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec2ee8cde6b2084b",
+  "active": "12c8e5709a1b082e",
   "lastOpenFiles": [
-    "Mathematics/Rational Functions.md",
+    "Economics/Mixed Economies.md",
+    "Economics/Capital.md",
+    "Economics/Economic System.md",
+    "Economics/Options.md",
+    "Economics/Production.md",
+    "Economics/Command Economy.md",
+    "Learning/Cognitive Load.md",
+    "Psychology/History of psychology.md",
+    "Untitled.md",
+    "Economics/Enterprise.md",
+    "Economics/Generation Effect.md",
+    "Economics/Market Economy.md",
+    "conflict-files-obsidian-git.md",
     "Mathematics/Absolute Function.md",
+    "Mathematics/Rational Functions.md",
     "Mathematics/Odd Functions.md",
     "Mathematics/Even Functions.md",
     "Psychology/Neuron.md",
@@ -241,20 +302,7 @@
     "Psychology/Humanistic Psychology.md",
     "Carl Rogers.md",
     "Psychology/freudy.jpg",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/ReLU Activation.md",
-    "Chemistry/Element.md",
-    "Chemistry/Average Atomic Mass.md",
-    "Chemistry/Atomic Mass.md",
-    "Economics/Options.md",
-    "Psychology/History of psychology.md",
-    "Psychology/Aristotle.md",
-    "Chemistry/Limiting Reactions.md",
-    "Psychology/imperialism.md",
-    "Economics/Command Economy.md",
     "Economics",
-    "Psychology/Gestalt Psychology.md",
-    "Psychology/Functionalism.md",
     "Chemistry/arrow and delta dipole representation.png",
     "Chemistry/Valence Electron per Group.png",
     "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",

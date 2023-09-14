@@ -1,0 +1,1 @@
+Business know how and ability to manipulate the other 3 [[Production|factors of production]]. 
