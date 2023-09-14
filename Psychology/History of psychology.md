@@ -12,4 +12,6 @@ The true origin of psycho is in 1879 when [[Wilhelm Wundt]] setup the first pscy
 * [[Psychoanalysis]]
 * [[Behaviourism]]
 
+Later in the 1960s [[Humanistic Psychology|humanism]] began to be popularised. 
+
 

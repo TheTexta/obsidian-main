@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Psychology Perspectives.md",
+                "file": "Psychology/Humanistic Psychology.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Limiting Reactions.md",
+                "file": "Psychology/Humanistic Psychology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c52577e511a81bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Neuron.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Limiting Reactions.md",
+                "file": "Psychology/Neuron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Limiting Reactions.md",
+                "file": "Psychology/Neuron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Limiting Reactions.md"
+                "file": "Psychology/Neuron.md"
               }
             }
           },
@@ -177,16 +189,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec2ee8cde6b2084b",
+  "active": "c52577e511a81bfe",
   "lastOpenFiles": [
-    "Psychology/imperialism.md",
-    "Psychology/Psychology Perspectives.md",
-    "Psychology/History of psychology.md",
-    "Economics/Command Economy.md",
-    "Psychology/Sigmund Freud.md",
-    "Economics",
-    "Psychology/freudy.jpg",
     "Psychology/Psychoanalysis.md",
+    "Psychology/Psychology Perspectives.md",
+    "Psychology/Sigmund Freud.md",
+    "Psychology/The Brain.md",
+    "Psychology/trephination.md",
+    "Psychology/Behaviourism.md",
+    "Psychology/Humanistic Psychology.md",
+    "Carl Rogers.md",
+    "Psychology/freudy.jpg",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/ReLU Activation.md",
+    "Chemistry/Element.md",
+    "Chemistry/Average Atomic Mass.md",
+    "Chemistry/Atomic Mass.md",
+    "Economics/Options.md",
+    "Psychology/History of psychology.md",
+    "Psychology/Aristotle.md",
+    "Chemistry/Limiting Reactions.md",
+    "Psychology/imperialism.md",
+    "Economics/Command Economy.md",
+    "Economics",
     "Psychology/Gestalt Psychology.md",
     "Psychology/Functionalism.md",
     "Psychology/Structuralism.md",
@@ -194,18 +219,6 @@
     "Economics/Mixed Economies.md",
     "Economics/Economic System.md",
     "Economics/Market Economy.md",
-    "Chemistry/Ionic Compounds.md",
-    "Chemistry/Intermolecular Forces.md",
-    "Machine Learning/Gradient Descent.md",
-    "Economics/scarcity.md",
-    "Psychology/Wilhelm Wundt.md",
-    "Psychology/Aristotle.md",
-    "Psychology/trephination.md",
-    "Mathematics/Rational Functions.md",
-    "Psychology/Neuron.md",
-    "Economics/Options.md",
-    "Chemistry/Limiting Reactions.md",
-    "Economics/Generation Effect.md",
     "Chemistry/arrow and delta dipole representation.png",
     "Chemistry/Valence Electron per Group.png",
     "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
