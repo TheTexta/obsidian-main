@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf181c5b145b5bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Economic System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Scarcity.md",
+                "file": "Economics/Economic System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Scarcity.md",
+                "file": "Economics/Economic System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Scarcity.md"
+                "file": "Economics/Economic System.md"
               }
             }
           },
@@ -262,8 +274,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12c8e5709a1b082e",
+  "active": "cf181c5b145b5bc9",
   "lastOpenFiles": [
+    "Economics/Opportunity Cost.md",
+    "Economics/Scarcity.md",
     "Economics/Mixed Economies.md",
     "Economics/Capital.md",
     "Economics/Economic System.md",
@@ -272,7 +286,6 @@
     "Economics/Command Economy.md",
     "Learning/Cognitive Load.md",
     "Psychology/History of psychology.md",
-    "Untitled.md",
     "Economics/Enterprise.md",
     "Economics/Generation Effect.md",
     "Economics/Market Economy.md",
@@ -289,7 +302,6 @@
     "Psychology/trephination.md",
     "Psychology/Behaviourism.md",
     "Psychology/Humanistic Psychology.md",
-    "Carl Rogers.md",
     "Psychology/freudy.jpg",
     "Economics",
     "Chemistry/arrow and delta dipole representation.png",

@@ -1,4 +1,4 @@
-How does one distribute limited resources to people in a way that will be fair and more importantly effective, resource [[Scarcity]]. 
+How does one distribute limited resources to people in a way that will be fair and more importantly effective, resource [[scarcity]].  Economics is the effective distribution of limited resources in a world of infinite wants. How do we maximise utility while minimising waste. 
 
 There are four main types of economic systems:
 * [[Traditional Economy]]

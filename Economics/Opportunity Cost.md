@@ -1,0 +1,1 @@
+The cost associated with the loss of the result of the next best option when making a decision
