@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16776252863e5319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Even Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2e50d3ddfa59b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Rational Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2d12695cfff9d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Absolute Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Neuron.md",
+                "file": "Mathematics/Absolute Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Neuron.md",
+                "file": "Mathematics/Absolute Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Neuron.md"
+                "file": "Mathematics/Absolute Function.md"
               }
             }
           },
@@ -189,8 +225,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c52577e511a81bfe",
+  "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
+    "Mathematics/Rational Functions.md",
+    "Mathematics/Absolute Function.md",
+    "Mathematics/Odd Functions.md",
+    "Mathematics/Even Functions.md",
+    "Psychology/Neuron.md",
     "Psychology/Psychoanalysis.md",
     "Psychology/Psychology Perspectives.md",
     "Psychology/Sigmund Freud.md",
@@ -214,11 +255,6 @@
     "Economics",
     "Psychology/Gestalt Psychology.md",
     "Psychology/Functionalism.md",
-    "Psychology/Structuralism.md",
-    "Economics/Traditional Economy.md",
-    "Economics/Mixed Economies.md",
-    "Economics/Economic System.md",
-    "Economics/Market Economy.md",
     "Chemistry/arrow and delta dipole representation.png",
     "Chemistry/Valence Electron per Group.png",
     "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
