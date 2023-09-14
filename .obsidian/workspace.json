@@ -8,38 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2fc19debc4027c0",
+            "id": "be73306af4f1862e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Psychology/Humanistic Psychology.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.5"
               }
             }
           },
           {
-            "id": "66b1637a66128bde",
+            "id": "1fd910862640ce30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Humanistic Psychology.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c52577e511a81bfe",
+            "id": "271595d6da0810ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Psychology/Neuron.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/vault-stats.json",
+                "staged": false
               }
             }
           }
@@ -110,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Neuron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Neuron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Neuron.md"
+                "file": "Psychology/Gestalt Psychology.md"
               }
             }
           },
@@ -163,7 +154,7 @@
             }
           },
           {
-            "id": "5d01382b89021298",
+            "id": "7a4553245a5a7ac0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -173,11 +164,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,51 +180,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c52577e511a81bfe",
+  "active": "271595d6da0810ae",
   "lastOpenFiles": [
-    "Psychology/Psychoanalysis.md",
-    "Psychology/Psychology Perspectives.md",
-    "Psychology/Sigmund Freud.md",
-    "Psychology/The Brain.md",
     "Psychology/trephination.md",
-    "Psychology/Behaviourism.md",
-    "Psychology/Humanistic Psychology.md",
-    "Carl Rogers.md",
-    "Psychology/freudy.jpg",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/ReLU Activation.md",
-    "Chemistry/Element.md",
-    "Chemistry/Average Atomic Mass.md",
-    "Chemistry/Atomic Mass.md",
-    "Economics/Options.md",
-    "Psychology/History of psychology.md",
-    "Psychology/Aristotle.md",
-    "Chemistry/Limiting Reactions.md",
     "Psychology/imperialism.md",
-    "Economics/Command Economy.md",
-    "Economics",
+    "Psychology/freudy.jpg",
+    "Psychology/Wilhelm Wundt.md",
+    "Psychology/Structuralism.md",
+    "Psychology/Sigmund Freud.md",
+    "Psychology/Psychoanalysis.md",
+    "Psychology/Humanistic Psychology.md",
+    "Psychology/History of psychology.md",
     "Psychology/Gestalt Psychology.md",
     "Psychology/Functionalism.md",
-    "Psychology/Structuralism.md",
+    "Psychology/Behaviourism.md",
+    "Psychology/Aristotle.md",
+    "Mathematics/Rational Functions.md",
+    "Economics/scarcity.md",
     "Economics/Traditional Economy.md",
+    "Economics/Options.md",
     "Economics/Mixed Economies.md",
-    "Economics/Economic System.md",
     "Economics/Market Economy.md",
-    "Chemistry/arrow and delta dipole representation.png",
-    "Chemistry/Valence Electron per Group.png",
+    "Economics/Economic System.md",
+    "Economics/Generation Effect.md",
+    "Economics/Command Economy.md",
+    "Economics",
+    "Chemistry/Limiting Reactions.md",
+    "Options.md",
+    "Limiting Reactions.md",
+    "Psychology/Psychology Perspectives.md",
+    "Psychology/The Brain.md",
     "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
+    "Chemistry/Pasted image 20230722152447.png",
     "Chemistry/inter v intra mol forces.png",
+    "Chemistry/Pasted image 20230722150647.png",
+    "Chemistry/arrow and delta dipole representation.png",
+    "Chemistry/Pasted image 20230722145928.png",
+    "Chemistry/Valence Electron per Group.png",
     "Chemistry/Electronegativity Periodic Table.jpg",
-    "Machine Learning/Pasted image 20230829212229.png",
-    "Machine Learning/Pasted image 20230829135210.png",
-    "Machine Learning/gradient descent ex.png",
     "Learning/Bloom's Taxonomy.png",
-    "Learning",
-    "Psychology",
     "Chemistry",
+    "Learning",
+    "Machine Learning",
     "Mathematics",
+    "Psychology",
     "Crypto",
-    "School",
-    "Machine Learning"
+    "School"
   ]
 }
