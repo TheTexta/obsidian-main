@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Cognitive Psychology.md",
+                "file": "Psychology/Ivan Pavlov.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Cognitive Psychology.md",
+                "file": "Psychology/Ivan Pavlov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Cognitive Psychology.md",
+                "file": "Psychology/Ivan Pavlov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Cognitive Psychology.md"
+                "file": "Psychology/Ivan Pavlov.md"
               }
             }
           },
@@ -216,9 +216,14 @@
   },
   "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
-    "Psychology/Psychology's Scientific Attitude.md",
-    "Psychology/Cognitive Psychology.md",
+    "Psychology/Behaviourism.md",
+    "Psychology/Ivan Pavlov.md",
+    "Chemistry/Pasted image 20230722152447.png",
+    "Chemistry/Pasted image 20230722150647.png",
+    "Chemistry/Pasted image 20230722145928.png",
     "Psychology/History of psychology.md",
+    "Psychology/Cognitive Psychology.md",
+    "Psychology/Psychology's Scientific Attitude.md",
     "Psychology/Humanistic Psychology.md",
     "Psychology/Functionalism.md",
     "Psychology/Structuralism.md",
@@ -242,17 +247,12 @@
     "Chemistry/Activated Complex.md",
     "Chemistry/exothermic reaction energy graph.svg",
     "Chemistry/Temperature.md",
-    "Economics/Economic System.md",
-    "Economics/Opportunity Cost.md",
     "Psychology/freudy.jpg",
     "Economics",
     "Chemistry/arrow and delta dipole representation.png",
     "Chemistry/Valence Electron per Group.png",
     "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
     "Chemistry/inter v intra mol forces.png",
-    "Chemistry/Electronegativity Periodic Table.jpg",
-    "Machine Learning/Pasted image 20230829212229.png",
-    "Machine Learning/Pasted image 20230829135210.png",
     "Learning",
     "Psychology",
     "Chemistry",
