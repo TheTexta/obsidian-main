@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Martin Seligman.md",
+                "file": "Psychology/Martin Seligman.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Martin Seligman.md",
+                "file": "Psychology/Martin Seligman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Martin Seligman.md",
+                "file": "Psychology/Martin Seligman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Martin Seligman.md"
+                "file": "Psychology/Martin Seligman.md"
               }
             }
           },
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c99a030014396ad",
+  "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
     "Psychology/Positive Psychology.md",
-    "Martin Seligman.md",
+    "Psychology/Martin Seligman.md",
     "Psychology/Psychology Perspectives.md",
     "Psychology/imperialism.md",
     "Psychology/Social Psychology.md",
