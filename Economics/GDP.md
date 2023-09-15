@@ -16,3 +16,7 @@ Reflects the GDP in dollar form adjusted for the countries inflation by fixing t
 
 ## Why is this important?
 While the nominal gdp is useful, the real gdp is much better for comparing the growth of a single economy on a yaer by year basis. Say apples cost 0.5 in 2022 and the gdp was 1000 but in 2023 the gdp was 1200 but apple were 0.55. The gdp might appear to be 20% higher but in reality everything is just more expensive due to inflation so the real gdp would be lower then 1200. 
+
+
+### GDP per Capita
+GDP divided by the population of the nation.
