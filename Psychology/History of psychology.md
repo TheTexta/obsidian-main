@@ -8,9 +8,9 @@ In Britain, [[John Locke]] wrote the famous paper "An essay concerning Human Und
 The true origin of psycho is in 1879 when [[Wilhelm Wundt]] setup the first pscyh lab in Germany. One of his students [[Edward B. Titchener]] would go on to start the first school of psychology [[Structuralism]], focusing on sensations and there causes and interlinking properties. Another early psychologist, [[William James]] would then go on to start the second school of psychology, [[Functionalism]]
 
 ## Early 20th Cent Approaches
-* [[Gestalt Psychology]]
-* [[Psychoanalysis]]
-* [[Behaviourism]]
+* [[Gestalt Psychology]] - less pop
+* [[Psychoanalysis]] - more pop
+* [[Behaviourism]] - more pop
 
 Later in the 1960s [[Humanistic Psychology|humanism]] began to be popularised. The history of pre modern psychology ends here, as around the same time humanism was introduced, and quickly debunked, [[Cognitive Psychology]] was introduced as the first modern psychological perspective. Combining the biological science of the brain with the study of the mind.
 

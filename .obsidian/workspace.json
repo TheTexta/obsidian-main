@@ -165,14 +165,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Services.md",
+                "file": "Economics/Labour.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d4d71816c8fee1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/consumption expenditure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "242bd8cce8718cd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/History of psychology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -238,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Services.md",
+                "file": "Psychology/History of psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Services.md",
+                "file": "Psychology/History of psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Services.md"
+                "file": "Psychology/History of psychology.md"
               }
             }
           },
@@ -318,16 +342,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec2ee8cde6b2084b",
+  "active": "242bd8cce8718cd6",
   "lastOpenFiles": [
-    "Economics/Goods.md",
+    "Psychology/Gestalt Psychology.md",
+    "Psychology/History of psychology.md",
+    "Psychology/Functionalism.md",
+    "Psychology/Structuralism.md",
+    "Economics/Capital.md",
+    "Economics/Free Goods.md",
+    "Economics/consumption expenditure.md",
+    "Economics/Comsumers.md",
+    "Economics/Labour.md",
+    "Economics/Production.md",
+    "Economics/Land.md",
+    "Economics/Enterprise.md",
     "Economics/Services.md",
+    "Economics/Goods.md",
     "Economics/Final Goods and Services.md",
     "Economics/GDP.md",
     "Economics/Intermediate Good.md",
     "Chemistry/Significant Figures.md",
     "Psychology/Behaviourism.md",
-    "Psychology/Functionalism.md",
     "Psychology/Id, Ego and Superego.md",
     "Psychology/fMRI.md",
     "Psychology/Social-Cultural Psychology.md",
@@ -335,20 +370,9 @@
     "Psychology/Positive Psychology.md",
     "Psychology/Martin Seligman.md",
     "Psychology/Evolutionary Psychology.md",
-    "Psychology/Cognitive Neuroscience.md",
-    "Psychology/Psychoanalysis.md",
-    "Psychology/History of psychology.md",
-    "Psychology/George Miller.md",
-    "Psychology/Cognitive Psychology.md",
-    "Psychology/Ivan Pavlov.md",
     "Chemistry/Pasted image 20230722152447.png",
     "Chemistry/Pasted image 20230722150647.png",
     "Chemistry/Pasted image 20230722145928.png",
-    "Psychology/Psychology's Scientific Attitude.md",
-    "Psychology/Humanistic Psychology.md",
-    "Psychology/Structuralism.md",
-    "Psychology/Associated Learning.md",
-    "Chemistry/Enthalpy Change.md",
     "Chemistry/endothermic reactions.svg",
     "Chemistry/exothermic reaction energy graph.svg",
     "Psychology/freudy.jpg",

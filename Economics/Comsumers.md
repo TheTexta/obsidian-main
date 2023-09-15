@@ -1,0 +1,1 @@
+Individuals who buy goods and services to satisfy there wants and needs, their spending is referred to as [[consumption expenditure]]
