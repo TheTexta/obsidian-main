@@ -13,6 +13,6 @@ There are many different perspective in psychology one can adopt to explain, pre
 * [[Behaviourism]]
 * [[Humanistic Psychology]]
 * [[Biological Psychology]]
-* [[Psychoanalysis|Psychoanalytical]]
-* [[Social-Cultural Psychology]]
+* [[Psychoanalysis|Psychoanalytical]] - Very little considered valid today of Freuds theories, some of the therapeutic approaches are still used in therapy
+* [[Social-Cultural Psychology]] - How society influences behaviour
 
