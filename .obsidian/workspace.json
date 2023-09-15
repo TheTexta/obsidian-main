@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Martin Seligman.md",
+                "file": "Psychology/Psychology Perspectives.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Martin Seligman.md",
+                "file": "Psychology/Psychology Perspectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Martin Seligman.md",
+                "file": "Psychology/Psychology Perspectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Martin Seligman.md"
+                "file": "Psychology/Psychology Perspectives.md"
               }
             }
           },
@@ -177,13 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec2ee8cde6b2084b",
+  "active": "3c99a030014396ad",
   "lastOpenFiles": [
+    "Psychology/Social-Cultural Psychology.md",
+    "Psychology/Psychology Perspectives.md",
     "Psychology/Positive Psychology.md",
     "Psychology/Martin Seligman.md",
-    "Psychology/Psychology Perspectives.md",
     "Psychology/imperialism.md",
-    "Psychology/Social Psychology.md",
     "Psychology/Evolutionary Psychology.md",
     "Psychology/History of psychology.md",
     "Psychology/Cognitive Psychology.md",
