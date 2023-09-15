@@ -13,74 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/History of psychology.md",
+                "file": "Psychology/Evolutionary Psychology.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3c3f3bd8af830f1d",
+            "id": "3c99a030014396ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Cognitive Psychology.md",
+                "file": "Martin Seligman.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e331aca804e1ec7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Cognitive Neuroscience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce4f1eb4ba1099fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Psychology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ea70b711b4d78ea",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "96d8ea6f2a469b21",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1fd910862640ce30",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Martin Seligman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Martin Seligman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Martin Seligman.md"
+              }
             }
           },
           {
@@ -221,17 +177,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ea70b711b4d78ea",
+  "active": "3c99a030014396ad",
   "lastOpenFiles": [
-    "Psychology/Evolutionary Psychology.md",
-    "Psychology/Psychology Perspectives.md",
-    "Psychology/Psychology.md",
-    "Psychology/Cognitive Psychology.md",
-    "Psychology/fMRI.md",
-    "Psychology/Cognitive Neuroscience.md",
-    "Psychology/Behaviourism.md",
     "Psychology/Positive Psychology.md",
+    "Martin Seligman.md",
+    "Psychology/Psychology Perspectives.md",
+    "Psychology/imperialism.md",
+    "Psychology/Social Psychology.md",
+    "Psychology/Evolutionary Psychology.md",
     "Psychology/History of psychology.md",
+    "Psychology/Cognitive Psychology.md",
+    "Psychology/Cognitive Neuroscience.md",
+    "Psychology/Psychology.md",
+    "Psychology/fMRI.md",
+    "Psychology/Behaviourism.md",
     "Economics/Economic System.md",
     "Psychology/Psychology's Scientific Attitude.md",
     "Psychology/Ivan Pavlov.md",
@@ -248,9 +207,6 @@
     "Chemistry/exothermic reaction energy graph.svg",
     "Chemistry/endothermic reactions.svg",
     "Chemistry/Transition State.md",
-    "Chemistry/Temperature.md",
-    "Chemistry/Heat.md",
-    "Chemistry/Exothermic Reactions.md",
     "Psychology/freudy.jpg",
     "Economics",
     "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
