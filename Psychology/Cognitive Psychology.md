@@ -1,0 +1,1 @@
+The field of pscyh, also known as cognitive neuroscience, dedicated to understanding behaviour through the bio-mental processes undertaken in the brain. It combines the study of the mind ([[psychology]]) with the study of the brain ([[neuroscience]])

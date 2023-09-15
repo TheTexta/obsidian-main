@@ -11,8 +11,36 @@
             "id": "cf181c5b145b5bc9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/History of psychology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd88c9ad7f110b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Psychology's Scientific Attitude.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9364a4e705c2208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Cognitive Psychology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Associated Learning.md",
+                "file": "Psychology/Functionalism.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Associated Learning.md",
+                "file": "Psychology/Cognitive Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Associated Learning.md",
+                "file": "Psychology/Cognitive Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Associated Learning.md"
+                "file": "Psychology/Cognitive Psychology.md"
               }
             }
           },
@@ -188,6 +216,12 @@
   },
   "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
+    "Psychology/Psychology's Scientific Attitude.md",
+    "Psychology/Cognitive Psychology.md",
+    "Psychology/History of psychology.md",
+    "Psychology/Humanistic Psychology.md",
+    "Psychology/Functionalism.md",
+    "Psychology/Structuralism.md",
     "Psychology/Associated Learning.md",
     "Chemistry/Enthalpy Change.md",
     "Chemistry/Heat.md",
@@ -198,7 +232,6 @@
     "Mathematics/Rational Functions.md",
     "Mathematics/Even Functions.md",
     "Psychology/Neuron.md",
-    "Psychology/Humanistic Psychology.md",
     "Chemistry/Acid-Base Titration.md",
     "Chemistry/Acid-Base Reactions.md",
     "Chemistry/Activation Energy.md",
@@ -211,11 +244,6 @@
     "Chemistry/Temperature.md",
     "Economics/Economic System.md",
     "Economics/Opportunity Cost.md",
-    "Economics/Mixed Economies.md",
-    "Economics/Options.md",
-    "Economics/Production.md",
-    "Economics/Command Economy.md",
-    "Learning/Cognitive Load.md",
     "Psychology/freudy.jpg",
     "Economics",
     "Chemistry/arrow and delta dipole representation.png",
