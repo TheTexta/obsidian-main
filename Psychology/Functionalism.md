@@ -1,1 +1,4 @@
 An early school of thought in psychology where it is believed that thinking was adaptive, similar to how evolution was adaptive in the at the time recently published works by [[Charles Darwin]]. Functionalism, the theories provided by its inceptor [[William James]] explored how memories, emotion, willpower, habits, etc all enabled the human species to constantly adapt, survive and flourish. [[G. Stanley Hall]] would go on to pioneer the study of child development through functionalistic theories, becoming the first president of the [[American Psychological Association]] (APA).
+
+## Maladaptive behaviours
+Behaviours which are bad for our survival/social placement
