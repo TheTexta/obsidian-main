@@ -1,0 +1,2 @@
+[[Reactions]] that take [[kinetic energy]] in, have a positive [[enthalpy change]] and generally allow for bond breakage to occur, which takes more energy then bond breaking. Endothermic reactions make there surrounding cooler as they take in energy.  In these reactions the [[Activation Energy]] is greater then the released energy after the [[transition state]], causing the associated $+\Delta H$.
+![[endothermic reactions.svg]]

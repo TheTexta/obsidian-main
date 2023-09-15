@@ -8,127 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2fc19debc4027c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Humanistic Psychology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66b1637a66128bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Humanistic Psychology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c52577e511a81bfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Neuron.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16776252863e5319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Even Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2e50d3ddfa59b86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Rational Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2d12695cfff9d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Absolute Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43bbf8d9416218cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Capital.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fe89a6b5c5e493e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Enterprise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12c8e5709a1b082e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Scarcity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cf181c5b145b5bc9",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2d5d0c91fdb9348",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Economic System.md",
+                "file": "Psychology/Associated Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0641e795da6ee2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Enthalpy Change.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Economic System.md",
+                "file": "Psychology/Associated Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Economic System.md",
+                "file": "Psychology/Associated Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Economic System.md"
+                "file": "Psychology/Associated Learning.md"
               }
             }
           },
@@ -274,34 +186,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf181c5b145b5bc9",
+  "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
-    "Economics/Opportunity Cost.md",
+    "Psychology/Associated Learning.md",
+    "Chemistry/Enthalpy Change.md",
+    "Chemistry/Heat.md",
     "Economics/Scarcity.md",
-    "Economics/Mixed Economies.md",
+    "Economics/Enterprise.md",
     "Economics/Capital.md",
+    "Mathematics/Absolute Function.md",
+    "Mathematics/Rational Functions.md",
+    "Mathematics/Even Functions.md",
+    "Psychology/Neuron.md",
+    "Psychology/Humanistic Psychology.md",
+    "Chemistry/Acid-Base Titration.md",
+    "Chemistry/Acid-Base Reactions.md",
+    "Chemistry/Activation Energy.md",
+    "Chemistry/Endothermic Reactions.md",
+    "Chemistry/endothermic reactions.svg",
+    "Chemistry/Exothermic Reactions.md",
+    "Chemistry/Transition State.md",
+    "Chemistry/Activated Complex.md",
+    "Chemistry/exothermic reaction energy graph.svg",
+    "Chemistry/Temperature.md",
     "Economics/Economic System.md",
+    "Economics/Opportunity Cost.md",
+    "Economics/Mixed Economies.md",
     "Economics/Options.md",
     "Economics/Production.md",
     "Economics/Command Economy.md",
     "Learning/Cognitive Load.md",
-    "Psychology/History of psychology.md",
-    "Economics/Enterprise.md",
-    "Economics/Generation Effect.md",
-    "Economics/Market Economy.md",
-    "conflict-files-obsidian-git.md",
-    "Mathematics/Absolute Function.md",
-    "Mathematics/Rational Functions.md",
-    "Mathematics/Odd Functions.md",
-    "Mathematics/Even Functions.md",
-    "Psychology/Neuron.md",
-    "Psychology/Psychoanalysis.md",
-    "Psychology/Psychology Perspectives.md",
-    "Psychology/Sigmund Freud.md",
-    "Psychology/The Brain.md",
-    "Psychology/trephination.md",
-    "Psychology/Behaviourism.md",
-    "Psychology/Humanistic Psychology.md",
     "Psychology/freudy.jpg",
     "Economics",
     "Chemistry/arrow and delta dipole representation.png",
@@ -311,8 +225,6 @@
     "Chemistry/Electronegativity Periodic Table.jpg",
     "Machine Learning/Pasted image 20230829212229.png",
     "Machine Learning/Pasted image 20230829135210.png",
-    "Machine Learning/gradient descent ex.png",
-    "Learning/Bloom's Taxonomy.png",
     "Learning",
     "Psychology",
     "Chemistry",

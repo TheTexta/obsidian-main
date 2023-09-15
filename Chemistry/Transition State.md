@@ -1,0 +1,1 @@
+The point in [[Endothermic Reactions|endo]] and [[Exothermic Reactions]] where the reactant changes form the [[Activated Complex]] before turning into the product.

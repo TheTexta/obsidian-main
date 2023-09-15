@@ -1,0 +1,1 @@
+The change in kinetic energy resulting from a reaction - $\Delta H$. Making bonds will release energy and create $-\Delta H$ but still require some [[Activation Energy]]. Breaking bonds will absorb energy over the entire process and as such requires $+\Delta H$ to add to the reaction. 
