@@ -194,9 +194,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21ac8da393beb879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Temperature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/History of psychology.md",
+                "file": "Chemistry/Temperature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/History of psychology.md",
+                "file": "Chemistry/Temperature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/History of psychology.md"
+                "file": "Chemistry/Temperature.md"
               }
             }
           },
@@ -342,10 +354,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "242bd8cce8718cd6",
+  "active": "21ac8da393beb879",
   "lastOpenFiles": [
-    "Psychology/Gestalt Psychology.md",
+    "Chemistry/Heat.md",
     "Psychology/History of psychology.md",
+    "Psychology/Gestalt Psychology.md",
     "Psychology/Functionalism.md",
     "Psychology/Structuralism.md",
     "Economics/Capital.md",
@@ -369,7 +382,6 @@
     "Psychology/Psychology.md",
     "Psychology/Positive Psychology.md",
     "Psychology/Martin Seligman.md",
-    "Psychology/Evolutionary Psychology.md",
     "Chemistry/Pasted image 20230722152447.png",
     "Chemistry/Pasted image 20230722150647.png",
     "Chemistry/Pasted image 20230722145928.png",
