@@ -223,12 +223,28 @@
             "id": "ab88c415fd092723",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Molecular formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45537e438a1ca864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Expanded Molecular Formula.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -294,6 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry/Expanded Molecular Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,6 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry/Expanded Molecular Formula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +349,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry/Expanded Molecular Formula.md"
+              }
             }
           },
           {
@@ -370,8 +390,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab88c415fd092723",
+  "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
+    "Chemistry/c5h12.png",
+    "Chemistry/Molecular formula.md",
+    "Chemistry/Expanded Molecular Formula.md",
+    "Psychology/Psychology Perspectives.md",
     "Chemistry/Line Structure.md",
     "Chemistry/Pasted image 20230918125707.png",
     "Chemistry/Octet Rule.md",
@@ -395,9 +419,6 @@
     "Economics/GDP.md",
     "Economics/Intermediate Good.md",
     "Chemistry/Significant Figures.md",
-    "Psychology/Behaviourism.md",
-    "Psychology/Id, Ego and Superego.md",
-    "Psychology/fMRI.md",
     "Chemistry/Pasted image 20230722152447.png",
     "Chemistry/Pasted image 20230722150647.png",
     "Chemistry/Pasted image 20230722145928.png",
