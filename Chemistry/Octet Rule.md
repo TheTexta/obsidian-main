@@ -1,0 +1,1 @@
+Atoms lose/gain/share [[Electron|electrons]] in order to achieve a full [[valence shell]].
