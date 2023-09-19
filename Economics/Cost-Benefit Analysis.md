@@ -1,0 +1,1 @@
+Where individuals weigh in costs and benefits before making a decision.

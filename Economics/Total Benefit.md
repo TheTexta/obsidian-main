@@ -1,0 +1,1 @@
+The highest value an individual would pay for a given experience or what a person expects to get in terms of personal enjoyment out of a situation. This maximum price point is described as a persons [[willingness to pay]]
