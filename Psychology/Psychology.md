@@ -11,6 +11,7 @@ Study of the behaviour and mental processes in the brain. All about the study of
 	* Neuroscience and how the brain functions on the lowest level possible
 * Developmental Psychologists
 * Educational Psychologists
+	* Psychologist focusing on the 
 * Experimental Psychologists
 	* Experiments on other animals
 * Psychometric and Quantitative Psychologists

@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f2acf5cc48e629c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overconfidence Bias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Overconfidence Bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Overconfidence Bias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Overconfidence Bias.md"
+              }
             }
           },
           {
@@ -205,9 +221,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fca46391a10e8bcc",
+  "active": "0f2acf5cc48e629c",
   "lastOpenFiles": [
+    "Hindsight Bias.md",
+    "Overconfidence Bias.md",
+    "Roadblocks to Critical Thinking.md",
     "Psychology/Psychology.md",
+    "Gamblers Fallacy.md",
     "Psychology/Basic Research.md",
     "Psychology/Applied Research.md",
     "Psychology/Types of research.md",
@@ -231,10 +251,6 @@
     "Chemistry/Line Structure.md",
     "Chemistry/Expanded Molecular Formula.md",
     "Psychology/Gestalt Psychology.md",
-    "Psychology/Aristotle.md",
-    "Psychology/trephination.md",
-    "Psychology/Psychology Perspectives.md",
-    "Psychology/Structuralism.md",
     "Chemistry/exothermic reaction energy graph.svg",
     "Chemistry/endothermic reactions.svg",
     "Psychology/freudy.jpg",
