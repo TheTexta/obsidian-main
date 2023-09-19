@@ -1,0 +1,1 @@
+Probability is the use of mathematics to predict likelihood of events.
