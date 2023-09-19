@@ -1,0 +1,1 @@
+The IROC or [[Derivative]] of a function at a given point

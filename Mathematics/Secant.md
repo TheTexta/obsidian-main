@@ -1,0 +1,1 @@
+The AROC of a function
