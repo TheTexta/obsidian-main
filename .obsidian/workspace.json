@@ -69,14 +69,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Margaret Floy Washburn.md",
+                "file": "Psychology/Cognitive Psychology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa6cc1bdbaa8cd48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Operational Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b2d781743423691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Behaviour.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "578261b8202b0d3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Mental Processes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -142,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Margaret Floy Washburn.md",
+                "file": "Psychology/Mental Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Margaret Floy Washburn.md",
+                "file": "Psychology/Mental Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Margaret Floy Washburn.md"
+                "file": "Psychology/Mental Processes.md"
               }
             }
           },
@@ -223,10 +259,17 @@
   },
   "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
+    "Psychology/Behaviour.md",
+    "Psychology/Mental Processes.md",
+    "Psychology/Operational Definition.md",
+    "Psychology/Cognitive Psychology.md",
+    "Psychology/Positive Psychology.md",
+    "Psychology/Evolutionary Psychology.md",
+    "Psychology/Structuralism.md",
+    "Psychology/imperialism.md",
+    "Psychology/Margaret Floy Washburn.md",
     "Psychology/History of psychology.md",
     "Psychology/Mary whitons Calkins.md",
-    "Psychology/Margaret Floy Washburn.md",
-    "Psychology/Evolutionary Psychology.md",
     "Psychology/Gamblers Fallacy.md",
     "Psychology/Gambling in a mine.png",
     "Psychology/Overconfidence Bias.md",
@@ -243,14 +286,7 @@
     "Economics/Land.md",
     "Economics/Labour.md",
     "Economics/Intermediate Good.md",
-    "Economics/Goods.md",
-    "Economics/GDP.md",
-    "Economics/Free Goods.md",
-    "Economics/Final Goods and Services.md",
-    "Economics/Comsumers.md",
     "Chemistry/c5h12.png",
-    "Chemistry/Structural Isomers.md",
-    "Chemistry/Significant Figures.md",
     "Chemistry/Pasted image 20230918125707.png",
     "Chemistry/exothermic reaction energy graph.svg",
     "Chemistry/endothermic reactions.svg",
