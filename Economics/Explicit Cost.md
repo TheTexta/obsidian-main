@@ -1,0 +1,1 @@
+Costs that are directly associated with the decision taken. eg. if you go to a concert you need to pay for tickets and you need to pay for food/transportation but you are explicitly paying for the time lost buy going to the concert that is a [[Implicit Cost]]. 
