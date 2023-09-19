@@ -1,0 +1,1 @@
+Graduated Cornell in 1894 as the first female recipient of a psychology Phd. Became the second female president of the [[American Psychological Association]] in 1921. She was also famous for her book [[The Animal Mind]] where she explored animal behaviour, arguing it could be studied experimentally. 

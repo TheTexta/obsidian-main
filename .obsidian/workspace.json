@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Gamblers Fallacy.md",
+                "file": "Psychology/Margaret Floy Washburn.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Gamblers Fallacy.md",
+                "file": "Psychology/Margaret Floy Washburn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Gamblers Fallacy.md",
+                "file": "Psychology/Margaret Floy Washburn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Gamblers Fallacy.md"
+                "file": "Psychology/Margaret Floy Washburn.md"
               }
             }
           },
@@ -223,12 +223,16 @@
   },
   "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
+    "Psychology/History of psychology.md",
+    "Psychology/Mary whitons Calkins.md",
+    "Psychology/Margaret Floy Washburn.md",
+    "Psychology/Evolutionary Psychology.md",
+    "Psychology/Gamblers Fallacy.md",
     "Psychology/Gambling in a mine.png",
     "Psychology/Overconfidence Bias.md",
     "Psychology/Roadblocks to Critical Thinking.md",
     "Psychology/Hindsight Bias.md",
     "Psychology/Psychology.md",
-    "Psychology/Gamblers Fallacy.md",
     "Psychology/Basic Research.md",
     "Psychology/Applied Research.md",
     "Psychology/Types of research.md",
@@ -248,9 +252,6 @@
     "Chemistry/Structural Isomers.md",
     "Chemistry/Significant Figures.md",
     "Chemistry/Pasted image 20230918125707.png",
-    "Chemistry/Octet Rule.md",
-    "Chemistry/Line Structure.md",
-    "Chemistry/Expanded Molecular Formula.md",
     "Chemistry/exothermic reaction energy graph.svg",
     "Chemistry/endothermic reactions.svg",
     "Psychology/freudy.jpg",
@@ -259,7 +260,6 @@
     "Chemistry/Pasted image 20230722152447.png",
     "Chemistry/inter v intra mol forces.png",
     "Chemistry/Pasted image 20230722150647.png",
-    "Chemistry/arrow and delta dipole representation.png",
     "Chemistry",
     "Learning",
     "Machine Learning",

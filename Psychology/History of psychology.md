@@ -14,4 +14,8 @@ The true origin of psycho is in 1879 when [[Wilhelm Wundt]] setup the first pscy
 
 Later in the 1960s [[Humanistic Psychology|humanism]] began to be popularised. The history of pre modern psychology ends here, as around the same time humanism was introduced, and quickly debunked, [[Cognitive Psychology]] was introduced as the first modern psychological perspective. Combining the biological science of the brain with the study of the mind.
 
+## Early Women in Psychology
+* [[Mary whitons Calkins]]
+* [[Margaret Floy Washburn]]
+
 
