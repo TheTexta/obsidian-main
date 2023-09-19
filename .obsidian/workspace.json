@@ -8,63 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be73306af4f1862e",
+            "id": "cf181c5b145b5bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Evolutionary Psychology.md",
+                "file": "Psychology/History of psychology.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3c99a030014396ad",
+            "id": "dd88c9ad7f110b3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Functionalism.md",
+                "file": "Psychology/Psychology's Scientific Attitude.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f7b8e88070d1c619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Applied Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fca46391a10e8bcc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "df3a9785938a5702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Psychology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f2acf5cc48e629c",
+            "id": "e9364a4e705c2208",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,39 +44,219 @@
             }
           },
           {
-            "id": "fa6cc1bdbaa8cd48",
+            "id": "7a467a1d4d3de508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Operational Definition.md",
+                "file": "Psychology/Psychoanalysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b2d781743423691",
+            "id": "a1fc9428f8681688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Behaviour.md",
+                "file": "Psychology/Behaviourism.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "578261b8202b0d3b",
+            "id": "f2d5d0c91fdb9348",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Functionalism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0641e795da6ee2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Enthalpy Change.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4395a49f80eb7b40",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "e134c5534d906d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Significant Figures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5fcd5d61f1aa2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/GDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41d698ee863c0813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/GDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d8df6fbfd9c130d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Final Goods and Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f673c37db9dd0782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Goods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5cbf182400d366e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Labour.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d4d71816c8fee1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/consumption expenditure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "242bd8cce8718cd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/History of psychology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21ac8da393beb879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Temperature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b2a2e1823eb5060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Octet Rule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab88c415fd092723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Molecular formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45537e438a1ca864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Expanded Molecular Formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "817ba916eff97cab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Humanistic Psychology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -174,6 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Psychology/Humanistic Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Psychology/Humanistic Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +361,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Psychology/Humanistic Psychology.md"
+              }
             }
           },
           {
@@ -223,7 +375,7 @@
             }
           },
           {
-            "id": "7a4553245a5a7ac0",
+            "id": "5d01382b89021298",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -237,7 +389,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,51 +402,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "578261b8202b0d3b",
+  "active": "817ba916eff97cab",
   "lastOpenFiles": [
-    "Psychology/Mental Processes.md",
-    "Psychology/Behaviour.md",
-    "Psychology/Operational Definition.md",
-    "Psychology/Cognitive Psychology.md",
-    "Psychology/Positive Psychology.md",
-    "Psychology/Evolutionary Psychology.md",
-    "Psychology/Structuralism.md",
-    "Psychology/imperialism.md",
-    "Psychology/Margaret Floy Washburn.md",
-    "Psychology/History of psychology.md",
-    "Psychology/Mary whitons Calkins.md",
-    "Psychology/Gamblers Fallacy.md",
-    "Psychology/Gambling in a mine.png",
-    "Psychology/Overconfidence Bias.md",
+    "Psychology/Types of research.md",
     "Psychology/Roadblocks to Critical Thinking.md",
+    "Psychology/Overconfidence Bias.md",
+    "Psychology/Operational Definition.md",
+    "Psychology/Mental Processes.md",
+    "Psychology/Mary whitons Calkins.md",
+    "Psychology/Margaret Floy Washburn.md",
     "Psychology/Hindsight Bias.md",
-    "Psychology/Psychology.md",
+    "Psychology/Gambling in a mine.png",
+    "Psychology/Gamblers Fallacy.md",
+    "Psychology/Behaviour.md",
     "Psychology/Basic Research.md",
     "Psychology/Applied Research.md",
-    "Psychology/Types of research.md",
-    "Psychology/Functionalism.md",
-    "Psychology/George Miller.md",
-    "Economics/consumption expenditure.md",
-    "Economics/Services.md",
-    "Economics/Land.md",
-    "Economics/Labour.md",
-    "Economics/Intermediate Good.md",
+    "Chemistry/Structural Isomers.md",
+    "Chemistry/Expanded Molecular Formula.md",
     "Chemistry/c5h12.png",
+    "Chemistry/Molecular formula.md",
+    "Psychology/Psychology Perspectives.md",
+    "Chemistry/Line Structure.md",
     "Chemistry/Pasted image 20230918125707.png",
-    "Chemistry/exothermic reaction energy graph.svg",
+    "Chemistry/Octet Rule.md",
+    "Chemistry/Temperature.md",
+    "Chemistry/Heat.md",
+    "Psychology/History of psychology.md",
+    "Psychology/Gestalt Psychology.md",
+    "Psychology/Functionalism.md",
+    "Psychology/Structuralism.md",
+    "Economics/Capital.md",
+    "Economics/Free Goods.md",
+    "Chemistry/Pasted image 20230722152447.png",
+    "Chemistry/Pasted image 20230722150647.png",
+    "Chemistry/Pasted image 20230722145928.png",
     "Chemistry/endothermic reactions.svg",
+    "Chemistry/exothermic reaction energy graph.svg",
     "Psychology/freudy.jpg",
     "Economics",
-    "Chemistry/Chemical_precipitation_diagram_multilang.svg.png",
-    "Chemistry/Pasted image 20230722152447.png",
-    "Chemistry/inter v intra mol forces.png",
-    "Chemistry/Pasted image 20230722150647.png",
-    "Chemistry",
+    "Chemistry/arrow and delta dipole representation.png",
     "Learning",
-    "Machine Learning",
-    "Mathematics",
     "Psychology",
+    "Chemistry",
+    "Mathematics",
     "Crypto",
-    "School"
+    "School",
+    "Machine Learning"
   ]
 }
