@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overconfidence Bias.md",
+                "file": "Psychology/Gamblers Fallacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overconfidence Bias.md",
+                "file": "Psychology/Gamblers Fallacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overconfidence Bias.md",
+                "file": "Psychology/Gamblers Fallacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overconfidence Bias.md"
+                "file": "Psychology/Gamblers Fallacy.md"
               }
             }
           },
@@ -221,13 +221,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f2acf5cc48e629c",
+  "active": "ec2ee8cde6b2084b",
   "lastOpenFiles": [
-    "Hindsight Bias.md",
-    "Overconfidence Bias.md",
-    "Roadblocks to Critical Thinking.md",
+    "Psychology/Gambling in a mine.png",
+    "Psychology/Overconfidence Bias.md",
+    "Psychology/Roadblocks to Critical Thinking.md",
+    "Psychology/Hindsight Bias.md",
     "Psychology/Psychology.md",
-    "Gamblers Fallacy.md",
+    "Psychology/Gamblers Fallacy.md",
     "Psychology/Basic Research.md",
     "Psychology/Applied Research.md",
     "Psychology/Types of research.md",
@@ -250,7 +251,6 @@
     "Chemistry/Octet Rule.md",
     "Chemistry/Line Structure.md",
     "Chemistry/Expanded Molecular Formula.md",
-    "Psychology/Gestalt Psychology.md",
     "Chemistry/exothermic reaction energy graph.svg",
     "Chemistry/endothermic reactions.svg",
     "Psychology/freudy.jpg",
