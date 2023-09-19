@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path:Crypto",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "path:Mathematics",
       "color": {
         "a": 1,
@@ -41,6 +34,20 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:Economics  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Learning  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.630354363617306,
+  "scale": 0.431750572179831,
   "close": true
 }

@@ -1,13 +1,12 @@
-
-## Old Def
+## Definition
+### Old Def
 The study of the mind and its behaviours.
-
-## Modern Definition
+### Modern Definition
 Study of the behaviour and mental processes in the brain. All about the study of emotional reactions to real input.
-
 
 ## Research subfields in Psychology
 
+### [[Basic Research]] subfields in Psychology
 * Cognitive Psychologists
 	* Neuroscience and how the brain functions on the lowest level possible
 * Developmental Psychologists
@@ -19,7 +18,7 @@ Study of the behaviour and mental processes in the brain. All about the study of
 * Social Psychologists
 	* What causes aggression, attraction, etc
 
-### Applied research subfield in psychology
+### [[Applied Research]] subfield in Psychology
 * Forensic Psychologists
 * Environmental
 * Health
@@ -29,3 +28,11 @@ Study of the behaviour and mental processes in the brain. All about the study of
 * School Psychologists
 * Rehabilitation Psychologists
 * Sports Psychologists
+
+### Helping Professions in Psychology
+* Counselling Psychology
+	* Helping people on and individual level
+* Community Psychology
+	* Moving on from individuals to helping out wider communities
+* Clinical Psychology
+	* Treating mental illnesses and biological deficiencies
