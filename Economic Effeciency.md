@@ -1,0 +1,1 @@
+Achieved when both [[Allocative Efficiency]] and [[productive efficiency]] is achieved.
