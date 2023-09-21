@@ -1,0 +1,1 @@
+Case studies are a form of [[Descriptive Research]] which examines and individual group. [[Ivan Pavlov]]s pavlov dog experiment is a key example of a case study.  Case studies are ineffective in there ability to explain and numerically verify/prove there results.

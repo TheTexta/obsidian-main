@@ -1,0 +1,1 @@
+A qualitative research method, a form of [[descriptive research]]. Prone to the [[Hawthorne effect]].

@@ -1,0 +1,1 @@
+Research based on providing a snapshot of current affairs.
