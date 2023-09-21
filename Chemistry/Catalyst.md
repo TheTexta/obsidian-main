@@ -1,0 +1,1 @@
+A substance used to speed up a reaction / make it more efficient which isn't used in the process of the reaction.

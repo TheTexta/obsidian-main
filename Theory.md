@@ -1,1 +1,0 @@
-A set of rules that, do the best of human knowledge, apply in all situations. Just because something is a theory doesnt make it not true. Theories are used to make [[hypothesis]]
