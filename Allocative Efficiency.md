@@ -1,0 +1,1 @@
+Production of the combination of goods and services that provides the most net benefit to society. 
