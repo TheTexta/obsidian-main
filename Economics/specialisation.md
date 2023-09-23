@@ -1,0 +1,1 @@
+When an economy is specialised it is better at producing one good then another.
