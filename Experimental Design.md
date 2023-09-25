@@ -1,0 +1,1 @@
+diversify the [[Control Group]] and the [[Experiment Group]] to control for [[confounding variables]]. Limit [[Bias|bias]] with [[Single Blind Experimentation|single]] and [[Double Blind Experimentation|double blind]] experimentation. 
