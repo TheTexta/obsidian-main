@@ -1,0 +1,1 @@
+The rate at which one good is exchanged for another. Generally, trade should only occur when the rate is in between the economies lies between the [[opportunity cost]] for either economy.

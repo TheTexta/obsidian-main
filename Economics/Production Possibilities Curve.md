@@ -2,6 +2,8 @@ The production possibilities curve/frontier represents all possible distribution
 
 If the curve is curvier then the economy is [[specialisation|specialised]]. Points outside the curve are called unattainable due to [[Scarcity]]. 
 
+## Comparing Economies
+When comparing two production possibility curves between two economies, the economy whos line is more horizontal has a higher [[Economic Advantage|comparative advantage]] for that resource, vice versa with the y axis and the more vertical line.
 ## Rightward Shift
 e.g. there is an increase in the productivity of [[labour]].
 
@@ -10,3 +12,4 @@ e.g. There is a natural disaster. Leads to a decrease in possible production fro
 
 
 ![[shift-in-ppc.webp]]
+
