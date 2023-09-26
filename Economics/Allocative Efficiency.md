@@ -1,1 +1,1 @@
-Production of the combination of goods and services that provides the most net benefit to society. 
+Production of the combination of goods and services that provides the most net benefit to society. Correct and efficient allocation of the resources, right people getting the right things. 

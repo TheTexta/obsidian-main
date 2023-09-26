@@ -1,0 +1,1 @@
+As we produce more of x, an increasing amount of y is let go, aka increasing [[Opportunity Cost]]. Requires an economy to have [[specialisation]].
