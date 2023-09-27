@@ -1,4 +1,4 @@
-A limit is the value of a function as it approaches a certain point. For a limit to exist it has to be [[Real Limits|real]] and not [[Infinite Limits|infinite]]. Which is checked through the comparison of the left/right hand of the limit. Limits require do not require [[Continuity]].
+A limit is the value of a function as it approaches a certain point. For a limit to exist it has to be [[Real Limits|real]] and not [[Infinite Limits|infinite]]. Which is checked through the comparison of the left/right hand of the limit. Limits require do not require [[Continuity]]. If a limit simplifies to $\frac{0}{0}$ aka its [[indeterminate form]] then you didn't simplify it bitch.
 
 ## Basic Definition
 $L = \lim_{x \to c} f(x)$
