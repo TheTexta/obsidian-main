@@ -1,0 +1,1 @@
+Bar graphs are used similarly to histograms, but instead of plotting numerical data on the x axis, categorical data is plotted instead.
