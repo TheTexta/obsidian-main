@@ -9,4 +9,4 @@ The [[Mean]] is higher then the [[Median]]/[[Mode]] due to outliers in the top o
 The [[Mean]] and the [[Median]] and the [[Mode]] are generally the same.
 
 # Variability
-There is always variance between data. This variance can be quantified with measures of [[range]], [[Inter Quartile Range|IQR]], 
+There is always variance between data. This variance can be quantified with measures of [[range]], [[Inter Quartile Range|IQR]] and most importantly [[Standard Deviation]]
