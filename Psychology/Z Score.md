@@ -1,0 +1,1 @@
+Number of standard deviations from the mean that a result is.
