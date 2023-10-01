@@ -1,1 +1,1 @@
-Any actions which an organism does which we can observe.
+Any actions which an organism does which we can observe. 
