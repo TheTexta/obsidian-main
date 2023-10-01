@@ -1,0 +1,1 @@
+The study of individuals and subjects on a case by case basis. As opposed to [[macroeconomics]] which studies economies as a whole.

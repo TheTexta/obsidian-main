@@ -1,1 +1,1 @@
-The problem with distributing resources in a fair and equal manner.
+The problem with distributing resources in a fair and equal manner. For a resource to be non scarce it must be [[Non rival]]. Air has no scarcity.
