@@ -1,0 +1,1 @@
+There is always variance between data. This variance can be quantified with measures of [[range]], [[Inter Quartile Range|IQR]] and most importantly [[Standard Deviation]]
