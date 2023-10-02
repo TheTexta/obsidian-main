@@ -1,1 +1,1 @@
-If you know you are being studied you will behave differently.
+If you know you are being studied you will [[Behaviour|behave]] differently.

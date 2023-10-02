@@ -1,0 +1,1 @@
+The field of [[psychology]] that deals with [[Experimentation Research|experiments]] that aim to understand and explain human [[behaviour]] and thinking.
