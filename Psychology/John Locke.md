@@ -1,0 +1,1 @@
+Believed that the mind was a "[[tabular rasa]]"
