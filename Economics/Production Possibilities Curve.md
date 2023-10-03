@@ -1,6 +1,6 @@
 The production possibilities curve/frontier represents all possible distributions of labour to produce 2 separate products. As you increase production in resource A, resource B's productions decreases. Production possibilities curve assumes that there is [[Economic Efficiency]]
 
-If the curve is curvier then the economy is [[specialisation|specialised]]. Points outside the curve are called unattainable due to [[Scarcity]]. 
+If the curve is curvier then the economy is [[specialisation|specialised]]. Points outside the curve are called unattainable due to [[Scarcity]].  If the two lines are linear and parallel, then there is no specialisation and trade which it [[Terms of trade|mutually beneficial]] which will occur under the laws of [[Economic Advantage|comparative advantage]].
 
 ## Comparing Economies
 When comparing two production possibility curves between two economies, the economy whos line is more horizontal has a higher [[Economic Advantage|comparative advantage]] for that resource, vice versa with the y axis and the more vertical line.
