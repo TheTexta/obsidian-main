@@ -8,8 +8,8 @@ If a function is continuous over a given interval then it can be drawn without l
 $[\text{  }]$ - square brackets indicates continuity including the number
 if a function is continuous on the right side but not the left then it is ( continuous as opposed to $\text{[}$ continuous
 ## Continuous Functions
-* Polynomial Functions
-* Rational Functions
+* [[Polynomials|Polynomial Functions]]
+* [[Rationals|Rational Functions]] - *sometimes*
 * Absolute Functions
 * Trigonometric Functions
 * Exponential Functions
