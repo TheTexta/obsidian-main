@@ -1,1 +1,1 @@
-The view which takes into account biological, social and [[Psychology Perspectives|psychological]] aspects in its approach.
+The view which takes into account biological, social and [[Perspectives in Psychology|psychological]] aspects in its approach.

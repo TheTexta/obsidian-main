@@ -1,0 +1,1 @@
+Internal, behaviours, unobservable without external tools. Include, learning, emotion, perception, thinking, etc.

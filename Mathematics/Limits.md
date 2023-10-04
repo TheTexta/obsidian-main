@@ -2,7 +2,7 @@ A limit is the value of a function as it approaches a certain point. For a limit
 
 ## Basic Definition
 $L = \lim_{x \to c} f(x)$
-Where L is the value f(x) approaches as the x value gets closer to c.
+
 
 ### Left Hand v Right Hand
 Limits have a left and right hand side, which describes the value the function approaches when the x value gets closer on the left hand side vs the right.

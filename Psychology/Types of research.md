@@ -1,2 +1,0 @@
-* [[Basic Research]]
-* [[Applied Research]]
