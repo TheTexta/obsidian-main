@@ -3,6 +3,10 @@ A derivative is the equation for the slope of a graph at a given point on the gr
 ## Standard Definition
 A derivative is defined by the following standard formula which is the [[Limits|limit]] of the function as the difference between two points in the function become $\infty$ small:
 $$ \lim_{h\to0}(\frac{f(x+h)-f(x)}{h}) $$
+## Definition of a slope derivative using limits at point a
+$$
+ \lim_{a\to0}(\frac{f(x)-f(a)}{x-a}) 
+$$
 ## Formulas for Derivatives:
 ### Product Rule
 when two functions are multiplied together
