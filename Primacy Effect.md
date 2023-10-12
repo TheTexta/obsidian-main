@@ -1,0 +1,1 @@
+The first impression and predetermined view of a person defines the way you perceive them.

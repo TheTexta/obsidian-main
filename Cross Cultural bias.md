@@ -1,0 +1,3 @@
+Collectivistic Orientation: Countries which promote ideas of interdependent on one another. People see themselves as connected and linked with one another. Failure is an individual problem while success is due to external factors in the environment. 
+
+Individualistic: Cultures with a value of individualism, where people are biased to those to failures as being attributed to the environment while the success is seen to be from the individuals personal advantage.

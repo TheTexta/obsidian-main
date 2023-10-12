@@ -1,0 +1,1 @@
+Judging a book by its cover. Just by looking smart people will see you as smarter. 
