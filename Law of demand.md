@@ -1,0 +1,1 @@
+States that consumers are rational and therefor as the price of a good increases the quantity purchased goes down. 
