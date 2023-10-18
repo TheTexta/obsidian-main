@@ -1,1 +1,1 @@
-consisting of a single atom
+Consisting of a single atom ([[Element]] or [[Isotope]] or [[Ion]])
