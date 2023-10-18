@@ -1,4 +1,4 @@
-The PASIFIC factors are those which influence shifts in the [[demand curve]].
+The PASIFIC factors are those which influence shifts in the [[Demand Curve]].
 
 ## Population
 Population increases and decreases both influence shifts in the demand curve. More people = more overall demand.
