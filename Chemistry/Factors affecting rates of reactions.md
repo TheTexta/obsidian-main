@@ -1,3 +1,4 @@
+**There are too main mechanisms which affect rates of reactions. Either you can affect the efficiency of the rection or the number of total reactions which occur in a given time**
 ### Nature of Reactants
 ##### State of Matter
 Gasses have higher avg KE then there solid / liquid form counterparts.
@@ -18,6 +19,6 @@ The average surface area of solid reactants affects the frequency at which colli
 ### Concentration of reactants
 Reactants with a higher concentration react at a higher frequency due to increase relative surface area for reactions to take place. This only works if the reactant is the [[rate determining step]].
 ### Catalysts
-[[Catalyst]] decrease the [[Activation Energy]] required for a reaction, making it more efficient.
+[[Catalyst]], in a way, *decrease* the [[Activation Energy]] required for a reaction, making it more efficient. *however they don't actually decrease the activation energy of the original reaction, they just provide a more efficient pathway which requires less activation energy, meaning that both reactions occur at the same time*
 ### Temperature of the Reaction System
-In general, as [[Temperature]] increases, reaction rate increases.
+In general, as [[Temperature]] increases, rate which particles collide increase, temperature also increases the rate of successful reactions (more [[Force]]).

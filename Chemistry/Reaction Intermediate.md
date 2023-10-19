@@ -1,0 +1,1 @@
+The chemical compounds which temporarily exist in the stages of a reaction as defined by [[Hess's Law]].
