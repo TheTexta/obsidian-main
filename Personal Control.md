@@ -1,0 +1,1 @@
+The extent to which a person can resist [[Social Control]] in a given situation
