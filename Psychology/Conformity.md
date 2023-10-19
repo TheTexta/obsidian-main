@@ -1,4 +1,4 @@
-Changing your [[attitude]] or [[behaviour]] to match the people around you. Changing your [[behaviour]] to match the [[Behaviour|behaviours]] of others. Note the *conformity* is a choice while [[obedience]] is not a choice but a deliberate disobaence when you don't do the thing.
+Changing your [[attitude]] or [[behaviour]] to match the people around you. Changing your [[behaviour]] to match the [[Behaviour|behaviours]] of others. Note the *conformity* is a choice while [[Obedience]] is not a choice but a deliberate disobaence when you don't do the thing.
 
 From the [[Asch study of Conformity]] it was found that people are more likely to conform when:
 * made to feel incompetent of insecure

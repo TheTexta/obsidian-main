@@ -4,5 +4,5 @@ Sometimes people conform in order to be accurate, groups provide information and
 Change in behaviour deemed necessary to fit into a group.
 
 
-[[Social control]] vs [[personal control]]
+[[Social Control]] vs [[Personal Control]]
 The extent to which a person is affected by a social situation.
