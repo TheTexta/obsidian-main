@@ -1,4 +1,4 @@
-An economy driven by the wants and needs of the people whose decisions dictate how the industries and financial markets operate. Individual choose where to spend there resources which drives demand and growth/decay in those sectors. In a pure market economy there is no government involvement / intervention and regulation. There are not countries with a market economy because of this, arguably crypto would be a medium for this to take place if it were to happen though.
+An economy driven by the [[Needs vs Wants|wants and needs]] of the people whose decisions dictate how the industries and financial markets operate. Individual choose where to spend there resources which drives demand and growth/decay in those sectors. In a pure market economy there is no government involvement / intervention and regulation. There are not countries with a market economy because of this, arguably crypto would be a medium for this to take place if it were to happen though.
 
 ## The three basic economical questions
 What to produce  - Products are produced according to whatever demand is there for the product by those with available resources to spend on it.
