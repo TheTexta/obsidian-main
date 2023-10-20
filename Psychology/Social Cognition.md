@@ -28,3 +28,11 @@ TEH ABC OF ATTITUDE : )
 **Affective component**: The feel part of attitude, the way you feel towards something internally "Being happy that sewerslvt is playing"
 **Behavioural Component**: The way you visibly react to the situation / idea.  "Playing sewerslvt a lot"
 **Cognitive Component**: What a person thinks abut the idea, the way they logically process there attitude "Sewerslvt on top because shes so original"
+
+*Changing Attitude: The art of persuasion*
+Attitudes can be changed, what a shocker, because they are learned that is. There are several factors which influence the effectiveness of a potential persuasion.
+
+SOURCE: The tendency to give more weight from opinions of those perceived as experts in the topic
+MESSAGE: The message is clear and well organized
+TARGET: Younger people are more persuadable
+MEDIUM: The form through which a person receives a message is also important
