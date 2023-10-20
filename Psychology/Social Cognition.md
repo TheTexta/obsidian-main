@@ -22,4 +22,4 @@ What you perceive a person to be, without explaining why you have that perceptio
 When we first meet someone, our perception of them allows us to immediately categorise them based on traits we perceive to be similar to other like individuals past experienced. It provides a way for us to structure personalities and infer behaviour and appropriate actions based on what we categorise/perceive a person as. Of course, it is also somewhat bad, but fuck that we all know that personality = perception by general society.
 
 # Attitude
-How you feel about your perception of a person. Eg you perceive someone to be stupid therefor you hate them. Attitude is about the predisposed emotion one feels towards an idea. When you meet a retard you feel sorry for them, a predisposed emotion towards an idea. 
+How you feel about your perception of a person. Eg you perceive someone to be stupid therefor you hate them. Attitude is about the predisposed emotion one feels towards an idea. When you meet a retard you feel sorry for them, a predisposed emotion towards an idea. When you see a homeless person feel disgusted at the post industrial complex which produces these issues.
