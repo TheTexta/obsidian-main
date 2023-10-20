@@ -3,6 +3,8 @@ Understanding how consumers make purchasing decisions. Consumers are driven by [
 #### Marginal Utility vs Marginal Product
 marginal utility is the amount of happiness gained, marginal product the amount of production you gain.
 
+#### Optimal Quantity
+When marginal benefit is equal to marginal cost you have reached optimal quantity. Or when the total benefit of an action is maximised (i.e. when you purchase in sequential marginal utility / cost)
 
 ## Formula
 $$

@@ -1,0 +1,1 @@
+Forms when multiple party exchange things of value ([[Goods|goods]]). For markets to function properly you need [[Property Rights]], the idea that things can be owned.

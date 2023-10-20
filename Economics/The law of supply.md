@@ -1,0 +1,1 @@
+As price increases the quantity supplied increases. The law of supply is what allows for [[Supply Curve]]s to function.
