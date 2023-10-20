@@ -16,7 +16,7 @@ Dispositional says that the way someone behaves is due to there genetics just wh
 * Self handicapping bias: By doing something bad you can blame the fact that you did something stupid beforehand, rather then taking the blame. An excuse to not feel bad about yourself or your performance. Like getting high before an exam to blame being high as the reason that you did poorly rather then the fact that you just didnt study AND ARE RETARDED.
 
 # Perception
-What you perceive a person to be, without explaining why you have that perception.
+What you perceive a person to be, without explaining why you have that perception. In [[social psychology]] perception refers to the mental processes by which we form impressions of people. This includes not just the impressions but the conclusions which are drawn from them, based on physical appearance, voice, tonality, body language (all that [[Autism|autistic]] shit)
 
 # Attitude
-How you feel about your perception of a person. Eg you perceive someone to be stupid therefor you hate them. 
+How you feel about your perception of a person. Eg you perceive someone to be stupid therefor you hate them.
