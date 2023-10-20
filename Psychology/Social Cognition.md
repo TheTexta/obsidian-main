@@ -19,7 +19,7 @@ Dispositional says that the way someone behaves is due to there genetics just wh
 What you perceive a person to be, without explaining why you have that perception. In [[social psychology]] perception refers to the mental processes by which we form impressions of people. This includes not just the impressions but the conclusions which are drawn from them, based on physical appearance, voice, tonality, body language (all that [[Autism|autistic]] shit). There is a [[Primacy Effect]] in perception formation, which is what gives earlier impressions greater significance in the way we perceive someone then later ones. 
 
 ##### Social Categorisation
-When we first meet someone, our perception of them allows us to immediately categorise them based on traits we perceive to be similar to other like individuals past experienced. It provides a way for us to structure personalities and infer behaviour and appropriate actions based on what we categorise/perceive a person as. Of course, it is also somewhat bad, but fuck that we all know that personality = perception.
+When we first meet someone, our perception of them allows us to immediately categorise them based on traits we perceive to be similar to other like individuals past experienced. It provides a way for us to structure personalities and infer behaviour and appropriate actions based on what we categorise/perceive a person as. Of course, it is also somewhat bad, but fuck that we all know that personality = perception by general society.
 
 # Attitude
 How you feel about your perception of a person. Eg you perceive someone to be stupid therefor you hate them.
