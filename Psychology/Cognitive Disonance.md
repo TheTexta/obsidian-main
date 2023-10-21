@@ -1,1 +1,0 @@
-The mental conflict which occurs when our actions do not align with our own beliefs.
