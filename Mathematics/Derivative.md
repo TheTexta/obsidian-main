@@ -26,7 +26,15 @@ When a function is divided by another
 $$
 \frac{d}{dx}(\frac{u}{v}) = \frac{u'v - uv'}{v^2}
 $$
-## Derizzatives
-$$
-u^x = xu^{x-1}\cdot u'
-$$
+## Derizzatives - That boy look bizzy . . nevermind he gettin rizzy
+
+* $(u^x)' = xu^{x-1}\cdot u'$
+* $(sin(x))' = cos(x)$
+* $(cos(x))' = -sin(x)$
+* $(tan(x))' = \frac{1}{cos^2(x)}$
+* $(cot(x))'=-\frac{1}{sin^2(x)}$
+* $(e^u)'=e^u \cdot u'$
+* $(log_a(x))' = \frac{1}{xln(a)}$
+* $(a^u)' = a^u \cdot ln(a) \cdot u'$
+* 
+
