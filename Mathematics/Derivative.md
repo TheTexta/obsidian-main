@@ -36,5 +36,5 @@ $$
 * $(e^u)'=e^u \cdot u'$
 * $(log_a(x))' = \frac{1}{xln(a)}$
 * $(a^u)' = a^u \cdot ln(a) \cdot u'$
-* 
+
 
