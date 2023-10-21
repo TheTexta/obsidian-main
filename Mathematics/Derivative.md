@@ -19,4 +19,4 @@ when a functions result is the input of another
 $$
 \frac{d}{dx}(a(b(x)))=\frac{da}{dx}(b(x))\cdot{}\frac{db}{dx}(x)
 $$
-### 
+### Quotient Rule
