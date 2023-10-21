@@ -8,6 +8,8 @@ $$
  \lim_{a\to0}(\frac{f(x)-f(a)}{x-a}) 
 $$
 ## Formulas for Derivatives:
+
+# THE THREE SISTERS BROTHA - differentiation rules
 ### Product Rule
 when two functions are multiplied together
 
@@ -20,3 +22,11 @@ $$
 \frac{d}{dx}(a(b(x)))=\frac{da}{dx}(b(x))\cdot{}\frac{db}{dx}(x)
 $$
 ### Quotient Rule
+When a function is divided by another
+$$
+\frac{d}{dx}(\frac{u}{v}) = \frac{u'v - uv'}{v^2}
+$$
+## Derizzatives
+$$
+u^x = xu^{x-1}\cdot u'
+$$
