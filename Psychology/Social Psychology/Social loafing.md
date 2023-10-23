@@ -1,1 +1,1 @@
-The tendency to [[Perception|perceive]] a lack of individual responsibility when working as a [[group]]
+The tendency to do less work in a group and rate your contributions as higher then reality.
