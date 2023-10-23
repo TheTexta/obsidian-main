@@ -1,0 +1,1 @@
+The tendency to [[Perception|perceive]] a lack of individual responsibility when working as a [[group]]
