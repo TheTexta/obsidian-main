@@ -1,0 +1,1 @@
+A shortcut. The brain creates shortcuts to be more efficient.

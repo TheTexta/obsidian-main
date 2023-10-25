@@ -1,0 +1,3 @@
+Systems are methods for breaking complex questions with many interlinking parts to simplified problems. A system is therefor, *a collection of objects*. An **object** is something you treat as though it has no internal structure. 
+
+Typically, we ignore many parts of physics problems to make them easier to solve. e.g. when you drop a ball you don't typically need to take into account the internal forces of an object. 

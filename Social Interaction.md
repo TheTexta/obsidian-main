@@ -1,0 +1,1 @@
+[[Prejudice]], [[Stereotype]]s and [[Discrimination]]. How people behave with each other. 
