@@ -26,7 +26,7 @@ People who consciously express little prejudice may still give off telltale sign
 #### Social inequalities and divisions
 When some people have money, power, prestige and others do not, people the categorise people based on these inequalities and divisions. 
 ##### In-group / out-group
-Humans divide the world into the "us" and "them". this can be both good and bad. good is that it creates communal solidarity. on the negative side it can lead to [[discrimination]]. We are born with the tendency to categorise, which leads to the creation of in-group and out-groups at a young age. We are not born to hate but to categorise. This form of bias and prejudice is studied in [[evolutionary psychology]] where it is believed that we distrust the unknown.
+Humans divide the world into the "us" and "them". this can be both good and bad. good is that it creates communal solidarity. on the negative side it can lead to [[Discrimination]]. We are born with the tendency to categorise, which leads to the creation of in-group and out-groups at a young age. We are not born to hate but to categorise. This form of bias and prejudice is studied in [[evolutionary psychology]] where it is believed that we distrust the unknown.
 ###### In-group bias: 
 The tendency for humans to be more helpful and positive towards member os their own group over members of an out-group. 
 ###### Out-group bias: 
