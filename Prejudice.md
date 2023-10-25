@@ -35,4 +35,9 @@ The tendency to have a dislike for other people that are outside of ones own ide
 Your [[attitude]] is negative, increasing negative emotions.
 ##### Scapegoat theory:
 #### Cognitive Shortcuts
-##### Out-group homogeneity bias
+##### Out-group homogeneity bias:
+The tendency to see the out-group all similar but recognise the individuality of those in a in group. An overestimation of similarity of the outgroup.
+###### Other-Race Effect:
+The tendency to see this bias in your own race but not others. e.g. not being able to see the uniqueness of a group, "they all look the same".
+###### Own-Age Bias:
+This apparently also applies to an own age bias. The tendency to better recognise people in your own age group.
