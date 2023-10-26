@@ -6,3 +6,5 @@ Market Demand: The sum of all individual demands for a good the market [[demand 
 
 Non-Price determinants of demand: variables other then price which can affect demand. The [[PASIFIC]] acronym lists all the factors which can affect the demand of a product. **Supply will not cause a shift in demand, but a movement in it**.
 
+#### Demand vs Quantity Demanded
+The two are different. Demand is a concept while quantity demanded is a real value. When price falls, demand doesn't increase, **quantity demanded** does. 

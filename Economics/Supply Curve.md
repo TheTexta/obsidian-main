@@ -3,3 +3,4 @@ Quantity supplied - changes in quantity supplied are due to increased price
 
 ![[Supply curves.png]]
 
+## Market Supply Curve
