@@ -1,0 +1,1 @@
+bond strength is dependent on size and charge of a molecule.

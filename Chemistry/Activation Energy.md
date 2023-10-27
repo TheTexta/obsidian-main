@@ -1,1 +1,1 @@
-the [[kinetic energy]] required to get a [[Endothermic Reactions|endo]] or [[exothermic reaction]] to its transition state.
+the [[kinetic energy]] required to get an [[Endothermic Reactions|endo]] or [[Exothermic Reactions|exothermic reaction]] to its transition state.
