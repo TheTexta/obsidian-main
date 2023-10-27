@@ -1,7 +1,7 @@
 **There are too main mechanisms which affect rates of reactions. Either you can affect the efficiency of the reaction or the number of total reactions which occur in a given time**
 ### Nature of Reactants
 ##### State of Matter
-Gasses have higher avg [[kinetic energy|KE]] then there solid / liquid form counterparts.
+Gasses have higher avg [[Kinetic Energy|KE]] then there solid / liquid form counterparts.
 ##### Ionic Reactants
 If the reacts are in ionic aqueous form they will react faster then there otherwise non ionic dry equivalents.
 ##### Bond Types

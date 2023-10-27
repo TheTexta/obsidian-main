@@ -23,6 +23,7 @@ People who consciously express little prejudice may still give off telltale sign
 ###### LGBTQ+ Prejudice
 
 ### Types of Prejudice
+Hindsight bias and just world phenomena bias both play a role in prejudice justification which is factually unfounded. 
 #### Social inequalities and divisions
 When some people have money, power, prestige and others do not, people the categorise people based on these inequalities and divisions. 
 ##### In-group / out-group
@@ -36,8 +37,10 @@ Your [[attitude]] is negative, increasing negative emotions.
 ##### Scapegoat theory:
 #### Cognitive Shortcuts
 ##### Out-group homogeneity bias:
-The tendency to see the out-group all similar but recognise the individuality of those in a in group. An overestimation of similarity of the outgroup.
+The tendency to see the out-group all similar but recognise the individuality of those in a in group. An overestimation of similarity of the in-group and underestimation of the ability of the out-group. We see others the same and like as more individual. Out-groups are more prone to stereotyping. 
 ###### Other-Race Effect:
 The tendency to see this bias in your own race but not others. e.g. not being able to see the uniqueness of a group, "they all look the same".
 ###### Own-Age Bias:
 This apparently also applies to an own age bias. The tendency to better recognise people in your own age group.
+
+###### 
