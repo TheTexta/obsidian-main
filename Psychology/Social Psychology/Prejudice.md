@@ -47,7 +47,7 @@ This apparently also applies to an own age bias. The tendency to better recognis
 
 # Roots of Prejudice
 #### Realistic Conflict theory
-The theory state that in increasing [[prejudice]] and [[discrimination]] are closely tied to an increasing degree of conflict between the in-group and the out-group where these two groups are seeking a common resource such as land or jobs. 
+The theory state that in increasing [[prejudice]] and [[discrimination]] are closely tied to an increasing degree of conflict between the in-group and the out-group where these two groups are seeking a common resource such as land or jobs. As soon as you creates groups you create prejudice. But group creation is inevitable, without complete zombificatoin of everyone into like states.
 ###### Brown eye blue eye experiment
 The experiment where the teacher separates the children by eye colour. Where rules and regulations were in place for brown eye which were harsher then what was given to the blue eyes.
 

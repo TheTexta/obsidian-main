@@ -1,1 +1,1 @@
-bond strength is dependent on size and charge of a molecule.
+bond strength is dependent on size and charge of a molecule. In general, higher [[electronegativity]] differences also increase the bond strength of a molecule. 
