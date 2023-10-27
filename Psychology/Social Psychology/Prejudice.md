@@ -61,7 +61,7 @@ The first process, whereby people assign categories to others to help organise i
 The second process whereby people form a social identity by self concept, including a view of themselves as a part of a social group.
 
 ###### Social Comparison
-People are motivated to obtain a positive social identity through positive intergroup social comparisons.
+People are motivated to obtain a positive social identity through positive intergroup social comparisons. People compare themselves to others in order to strengthen there own self image / evaluation. People look more favourably on those in there group then those in the out group.
 
 #### Stereotype Threat
 Stereotypes are perceived by others and an individual, stereotype threats are a self confirming concern that one will be evaluated based on a negative stereotype. People fear that stereotypes are applied to themselves and start conforming to the stereotype, this concern is a [[self fulfilling prophecy]]. People who understand stereotypes, are prone to behave in a way which fits it so they can reduce the threat.
