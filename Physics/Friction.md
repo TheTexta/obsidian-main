@@ -5,4 +5,6 @@ The friction existing between two stationary objects as a result of the differen
 ### Kinetic Friction
 The friction existing between two objects sliding against one another, the $\mu_{kinetic} < \mu_{static}$.
 ### Rolling Friction
+Friction between a rolling object and the surface it rolls on. Without rolling friction wheels wouldn't wheel.
 ### Fluid Friction
+Friction between an object going across or through a [[fluids|fluid]].
