@@ -1,0 +1,1 @@
+$F_{n}$ is the [[force]] which all objects exert on each other when in contact that keeps them from falling through each other. The force is always perpendicular to the surface of the objects in contact. Without contact, the normal force cannot occur. 
