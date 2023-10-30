@@ -7,4 +7,4 @@ The friction existing between two objects sliding against one another, the $\mu_
 ### Rolling Friction
 Friction between a rolling object and the surface it rolls on. Without rolling friction wheels wouldn't wheel.
 ### Fluid Friction
-Friction between an object going across or through a [[fluids|fluid]].
+Friction between an object going across or through a [[Fluids|fluid]].
