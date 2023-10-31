@@ -1,4 +1,13 @@
 **There are too main mechanisms which affect rates of reactions. Either you can affect the efficiency of the reaction or the number of total reactions which occur in a given time**
+
+###### Factors affecting *number* of collisions:
+* Temperature
+* Nature of reactants
+* Catalyst
+###### Factors affecting *frequency* of collisions
+* Surface Area
+* Concentration
+* Temperature
 ### Nature of Reactants
 ##### State of Matter
 Gasses have higher avg [[Kinetic Energy|KE]] then there solid / liquid form counterparts.

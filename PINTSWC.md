@@ -1,0 +1,1 @@
+Memory acronym for external non price determining factors for [[supply curve]] shifts.
