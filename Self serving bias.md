@@ -1,0 +1,1 @@
+Whatever you do it make yourself look good. You always attribute you success internally, but blame failure externally.

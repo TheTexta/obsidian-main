@@ -21,7 +21,7 @@ The tendency for humans to be more helpful and positive towards member os their 
 The tendency to have a dislike for other people that are outside of ones own identity group or in-group.
 #### Negative emotions
 Your [[attitude]] is negative, increasing negative emotions.
-##### [[Scapegoat theory]]
+##### [[Scapegoat Theory]]
 
 #### Cognitive Shortcuts
 ##### Out-group homogeneity bias:
@@ -40,7 +40,7 @@ The experiment where the teacher separates the children by eye colour. Where rul
 #### Social Identity Theory
 In social identity theory, there are three processes in our brains that lead to the creation of a thought of a another group.
 ###### [[Social Categorisation]]
-###### [[Social Identification]]
+###### [[Social identification]]
 ###### [[Social Comparison]]
 
 #### Stereotype Threat

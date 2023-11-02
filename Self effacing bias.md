@@ -1,0 +1,1 @@
+Overall contributing success to environment and failure to personal drawbacks
