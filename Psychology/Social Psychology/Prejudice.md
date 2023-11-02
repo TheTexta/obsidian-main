@@ -31,9 +31,7 @@ The tendency to see this bias in your own race but not others. e.g. not being ab
 ###### Own-Age Bias:
 This apparently also applies to an own age bias. The tendency to better recognise people in your own age group.
 
-###### 
-
-# Roots of Prejudice
+## Roots of Prejudice
 #### Realistic Conflict theory
 The theory state that in increasing [[prejudice]] and [[discrimination]] are closely tied to an increasing degree of conflict between the in-group and the out-group where these two groups are seeking a common resource such as land or jobs. As soon as you creates groups you create prejudice. But group creation is inevitable, without complete zombificatoin of everyone into like states.
 ###### Brown eye blue eye experiment
@@ -41,15 +39,9 @@ The experiment where the teacher separates the children by eye colour. Where rul
 
 #### Social Identity Theory
 In social identity theory, there are three processes in our brains that lead to the creation of a thought of a another group.
-
-###### Social categorisation
-The first process, whereby people assign categories to others to help organise information about those others, individuals place themselves into these categories to help figure out how they should behave.
-
-###### Social identification
-The second process whereby people form a social identity by self concept, including a view of themselves as a part of a social group.
-
-###### Social Comparison
-People are motivated to obtain a positive social identity through positive intergroup social comparisons. People compare themselves to others in order to strengthen there own self image / evaluation. People look more favourably on those in there group then those in the out group.
+###### [[Social Categorisation]]
+###### [[Social Identification]]
+###### [[Social Comparison]]
 
 #### Stereotype Threat
 Stereotypes are perceived by others and an individual, stereotype threats are a self confirming concern that one will be evaluated based on a negative stereotype. People fear that stereotypes are applied to themselves and start conforming to the stereotype, this concern is a [[self fulfilling prophecy]]. People who understand stereotypes, are prone to behave in a way which fits it so they can reduce the threat.

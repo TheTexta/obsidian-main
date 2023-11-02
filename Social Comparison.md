@@ -1,0 +1,1 @@
+People are motivated to obtain a positive social identity through positive intergroup social comparisons. People compare themselves to others in order to strengthen there own self image / evaluation. People look more favourably on those in there group then those in the out group.
