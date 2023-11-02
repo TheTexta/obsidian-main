@@ -1,0 +1,1 @@
+A known and constant order of events known to produce a given outcome. A way of breaking a [[Hypothesis]] into a testable measurable thing.

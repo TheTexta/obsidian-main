@@ -1,4 +1,4 @@
-The strength of a relationship in [[correlation research]], ranging from -1.00 - +1.00. 
+The strength of a relationship in [[Correlation Research]], ranging from -1.00 - +1.00. 
 
 A negative correlation $lim_{x \to \infty}f(x) = -\infty$. 
 

@@ -1,1 +1,0 @@
-To what extent is [[behaviour]] influenced by [[culture]]. How to what is deemed to be appropriate and inappropriate [[Behaviour|behaviours]] influence our own perception of good/bad behaviours. Development affected by socio-cultural standing.

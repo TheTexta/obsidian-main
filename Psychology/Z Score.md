@@ -1,1 +1,0 @@
-Number of [[Standard Deviation|standard deviations]] from the [[mean]] that a result is. A z score of 1 indicates a [[standard deviation]] of 1 above the [[mean]].
