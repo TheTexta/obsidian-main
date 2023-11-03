@@ -1,1 +1,2 @@
-Overall contributing success to environment and failure to personal drawbacks
+#flashcards 
+Self Effacing Bias::Overall contributing success to environment and failure to ones self.
