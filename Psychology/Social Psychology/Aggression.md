@@ -1,9 +1,8 @@
 #flashcards 
 Aggression is a form of [[social interaction]], wherein the person is harmfully interacting with another. Physical / social harm which is *deliberate*, is known as aggression. Unintended social / physical harm is *not aggression.*
-### Instrumental Aggression
-Instrumental Aggression::Aggression with a purpose
-### Hostile Aggression
-Hostile aggression::Aggression without purpose.
+## Types of aggression
+#### [[Instrumental Aggression]]
+#### [[Hostile Aggression]]
 
 ## Biological influence on Aggression
 ### Genetic Influences
