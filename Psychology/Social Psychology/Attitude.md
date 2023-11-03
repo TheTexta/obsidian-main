@@ -1,9 +1,11 @@
+#flashcards 
 How you feel about your perception of a person. Eg you perceive someone to be stupid therefor you hate them. Attitude is about the predisposed emotion one feels towards an idea. When you meet a retard you feel sorry for them, a predisposed emotion towards an idea. When you see a homeless person feel disgusted at the post industrial complex which produces these issues.
 
+[[Attitude]]::How one interprets there [[perception]] of a person.
 ### The 3 components of attitude:
-**Affective component**: The feel part of attitude, the way you feel towards something internally "Being happy that sewerslvt is playing"
-**Behavioural Component**: The way you visibly react to the situation / idea.  "Playing sewerslvt a lot"
-**Cognitive Component**: What a person thinks abut the idea, the way they logically process there attitude "Sewerslvt on top because she's so original"
+**Affective component** of [[attitude]]::The feel part of attitude, the way you feel towards something internally "Being happy that sewerslvt is playing".
+**Behavioural Component** of [[attitude]]::The way you visibly react to the situation / idea.  "Playing sewerslvt a lot"
+**Cognitive Component** of [[attitude]]::What a person thinks abut the idea, the way they logically process there attitude "Sewerslvt on top because she's so original"
 
 *Changing Attitude: The art of persuasion*
 Attitudes can be changed, what a shocker, because they are learned that is. There are several factors which influence the effectiveness of a potential persuasion.
