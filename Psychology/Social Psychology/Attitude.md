@@ -16,13 +16,11 @@ TARGET: Younger people are more persuadable
 MEDIUM: The form through which a person receives a message is also important
 
 ### Attitude affects [[Behaviour]]
-Elaboration likelihood model states that the way people perceive information affects the way they are persuaded.
+Elaboration likelihood model states that the way people perceive information affects the way they are persuaded. This allows for two forms of persuasion to become effective:
 
-##### Central Route Persuasion
-Persuading through offering evidence and facts which trigger the slow carful thinking [[System 2]] and so that people can form there "own" opinion on an issue based on what they are being told "factually." if someone comes up with an idea themselves they are more likely to accept it
+[[Central Route Persuasion]]
 
-##### Peripheral Route Persuasion
-By using emotion and attention snapping cues one can manipulate emotions of someone to make emotional judgements and decisions. Even if it doesn't induce meaningful thinking
+[[Peripheral Route Persuasion]]
 
 ### Behaviour affects attitude
 Changing a persons attitude involves getting there **compliance** with your own. There are various techniques which people can use to persuade someone.
