@@ -1,0 +1,1 @@
+The tendency to better recognise people in your own age group. Due to [[in-group bias]] and [[out-group homogeneity bias]].
