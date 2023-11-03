@@ -30,3 +30,4 @@ Foot-in-the-door phenomenon::People are more persuadable when you start off by g
 Door-in-the-face phenomenon::An unreasonable request followed by a more reasonable and achievable one. The second is more likely to be completed after introducing the first.
 
 Reciprocity norm::When someone does good to you you feel more obliged to then help then and do good to them. "Do onto others as you would do to you".
+<!--SR:!2023-11-04,1,230-->

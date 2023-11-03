@@ -13,3 +13,4 @@ physical attractiveness as a factor for attraction::Your physical attraction for
 Proximity brings people close, [[Attraction|attractiveness]] sparks conversation but similarity is the final factor in whether or not the two will become close. This is why averageness is attractive?
 
 Similarity as a factor for attraction::Your similarity to someone else dictates the extent to which you can become attached and relate to someone.
+<!--SR:!2023-11-06,3,250-->
