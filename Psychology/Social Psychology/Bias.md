@@ -5,4 +5,3 @@
 * *[[Halo effect]]*
 * *[[Self handicapping bias]]*
 * [[Own age bias]]
-* 
