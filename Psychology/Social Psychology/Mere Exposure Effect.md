@@ -1,1 +1,2 @@
-Even without engagement, exposure increases attraction. 
+#flashcards 
+mere exposure effect: even without engagement, exposure increases attraction. 
