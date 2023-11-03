@@ -1,8 +1,8 @@
-To do something nice completely selflessly. You can argue there is no such thing as being completely altruistic. In psychology we don't care if there is anything that is truly altruism, we are just interested in what causes altruism.
+To do something nice completely selflessly. You can argue there is no such thing as being completely altruistic. In [[psychology]] we don't care if there is anything that is truly altruism, we are just interested in what causes altruism.
 
-Evolutionary psychologist suggest that altruistic behaviour is a way to protect the genetic material for the species. The temporoparietal junction is larger in those that are more altruistic. Therefor the tendency to be altruistic is genetic. 
+[[Evolutionary Psychology|Evolutionary psychologist]] suggest that altruistic behaviour is a way to protect the genetic material for the species. The [[temporoparietal junction]] is larger in those that are more altruistic. Therefor the tendency to be altruistic is genetic. 
 
-The [[Bystander effect]], when alone you're more likely to help someone. 
+The [[bystander effect]], when alone you're more likely to help someone. 
 
 # Why do people help those if they aren't altruistic.
 ### Helping - Self interest
