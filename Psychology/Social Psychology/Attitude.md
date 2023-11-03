@@ -22,7 +22,7 @@ Elaboration likelihood model states that the way people perceive information aff
 
 [[Peripheral Route Persuasion]]
 
-### Behaviour affects attitude
+### [[Behaviour]] affects attitude
 Changing a persons attitude involves getting there **compliance** with your own. There are various techniques which people can use to persuade someone.
 
 Foot-in-the-door phenomenon::People are more persuadable when you start off by giving them a simple achievable task/idea, then elaborating to the main topic later on.
