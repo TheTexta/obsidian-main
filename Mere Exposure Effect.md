@@ -1,0 +1,1 @@
+Even without engagement, exposure increases attraction. 
