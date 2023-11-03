@@ -1,4 +1,4 @@
-Different to like and [[Love]]. Attraction is purely biological and physical. 
+Different to like and [[love]]. Attraction is purely biological and physical. 
 # Factors for attraction
 Physical attractiveness, proximity and similarity. in that order
 ### Proximity
