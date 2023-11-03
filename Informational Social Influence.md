@@ -1,0 +1,1 @@
+Sometimes people conform in order to be accurate, groups provide information and only a very stubborn person will never listen to others. The conformity here is a form of [[social influence]].
