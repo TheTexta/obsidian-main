@@ -1,6 +1,6 @@
-Perceiving the causes of behaviour.
+[[Perception|Perceiving]] the causes of [[behaviour]].
 #### Dispositional vs Situational Attribution
-Dispositional says that the way someone behaves is due to there genetics just who they are meant to be. Situational says that the behaviour is due to the environment. Both are prone to forms of bias.
+Dispositional says that the way someone behaves is due to there genetics just who they are meant to be. Situational says that the [[behaviour]] is due to the environment. Both are prone to forms of [[bias]].
 
 ### Attribution Biases
 * *[[Fundamental Attribution Error]]*. 
