@@ -8,14 +8,14 @@ How you feel about your perception of a person. Eg you perceive someone to be st
 **Cognitive Component** of [[attitude]]::What a person thinks abut the idea, the way they logically process there attitude "Sewerslvt on top because she's so original"
 
 *Changing Attitude: The art of persuasion*
-Attitudes can be changed, what a shocker, because they are learned that is. There are several factors which influence the effectiveness of a potential persuasion.
+[[Attitude|Attitudes]] can be changed, what a shocker, because they are learned that is. There are several factors which influence the effectiveness of a potential persuasion.
 
 SOURCE: The tendency to give more weight from opinions of those perceived as experts in the topic
 MESSAGE: The message is clear and well organized
 TARGET: Younger people are more persuadable
 MEDIUM: The form through which a person receives a message is also important
 
-### Attitude affects Behaviour
+### Attitude affects [[Behaviour]]
 Elaboration likelihood model states that the way people perceive information affects the way they are persuaded.
 
 ##### Central Route Persuasion
@@ -26,9 +26,9 @@ By using emotion and attention snapping cues one can manipulate emotions of some
 
 ### Behaviour affects attitude
 Changing a persons attitude involves getting there **compliance** with your own. There are various techniques which people can use to persuade someone.
-##### Foot-in-the-door phenomenon
-People are more persuadable when you start off by giving them a simple achievable task/idea, then elaborating to the main topic later on.
-##### Door-in-the-face phenomenon
-An unreasonable request followed by a more reasonable and achievable one. The second is more likely to be completed after introducing the first.
-##### Reciprocity norm
-When someone does good to you you feel more obliged to then help then and do good to them. "Do onto others as you would do to you".
+
+Foot-in-the-door phenomenon::People are more persuadable when you start off by giving them a simple achievable task/idea, then elaborating to the main topic later on.
+
+Door-in-the-face phenomenon::An unreasonable request followed by a more reasonable and achievable one. The second is more likely to be completed after introducing the first.
+
+Reciprocity norm::When someone does good to you you feel more obliged to then help then and do good to them. "Do onto others as you would do to you".
