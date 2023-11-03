@@ -1,12 +1,13 @@
+#flashcards 
 Aggression is a form of [[social interaction]], wherein the person is harmfully interacting with another. Physical / social harm which is *deliberate*, is known as aggression. Unintended social / physical harm is *not aggression.*
 ### Instrumental Aggression
-Where the aggressive behaviour is intended for a purpose/end.
+Instrumental Aggression::Aggression with a purpose
 ### Hostile Aggression
-Where the aggression has no clear purpose.
+Hostile aggression::Aggression without purpose.
 
 ## Biological influence on Aggression
 ### Genetic Influences
-[[Twin studies]], show us that those of similar genetic code have similar levels of aggression. The monoamine oxidase MAOA gene known as the "warrior gene" is a genetic marker for aggression.
+[[Twin studies]], show us that those of similar genetic code have similar levels of aggression. The monoamine oxidase A gene, [[MAOA]], is known as the "warrior gene" is a genetic marker for [[aggression]].
 ### Neural influences
 [[Amygdala]]s relation to aggression::The [[amygdala]] is involved in aggression producing the fight/flight response to perceived dangerous situations. 
 
