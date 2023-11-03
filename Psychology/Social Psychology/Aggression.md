@@ -18,7 +18,7 @@ Alcohol is a disinhebitor, it lowers chemicals in our body which control mood an
 ### Aversive Events: The *frustration-aggression* principle
 Frustration, the blocking of an attempt to achieve some goal, creates anger, which can generate aggression. In hotter years, more violent crimes are correlated. 
 ### Social Learning Theory
-We model behaviour observed, especially in children, this creates issues where the parents emotional issues are passed onto the kids through social learning. This was proven in the [[bobo doll experiment]] by [[Albert Bandura]].
+We model behaviour observed, especially in children, this creates issues where the parents emotional issues are passed onto the kids through social learning. This was proven in the [[Bobo Doll Experiment]] by [[Albert Bandura]].
 ### Media models for violence and behaviour as a whole
 Violent media in all forms increases the likelihood for violent behaviour. That does not mean that all people who consume such content are more likely to become violent. It just increases the likelihood. content consumed creates models for behaviour, which increases the chance that the observed behaviour is replicated. 
 

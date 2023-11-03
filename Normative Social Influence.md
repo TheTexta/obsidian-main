@@ -1,1 +1,0 @@
-Change in [[behaviour]] deemed necessary to fit into a group. This is so the individual can feel good and accepted, as opposed to [[informational social influence]], the tendency to fit in when individuals believe the group to be competent with correct information. This change in behaviour is due to [[social influence]].
