@@ -1,8 +1,8 @@
 #flashcards 
-Aggression is a form of [[social interaction]], wherein the person is harmfully interacting with another. Physical / social harm which is *deliberate*, is known as aggression. Unintended social / physical harm is *not aggression.*
+Aggression is a form of [[social interaction]], wherein the person is harmfully interacting with another. Physical / social harm which is *deliberate*, is known as [[aggression]]. Unintended social / physical harm is *not [[aggression]].*
 ## Types of aggression
-#### [[Instrumental Aggression]]
-#### [[Hostile Aggression]]
+##### [[Instrumental Aggression]]
+##### [[Hostile Aggression]]
 
 ## Biological influence on Aggression
 ### Genetic Influences

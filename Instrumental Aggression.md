@@ -1,2 +1,2 @@
 #flashcards 
-Instrumental Aggression::Aggression with a purpose
+Instrumental Aggression::[[Aggression]] with a purpose
