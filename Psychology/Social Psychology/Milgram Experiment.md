@@ -3,4 +3,5 @@
 
 The experiment had a huge number of ethical violations!!!!
 
-Milgram Experiment::[[Stanley Milgram]] the voltage experiment which proves [[obedience]] to authority figures. 
+Milgram Experiment::[[Stanley Milgram]] the voltage experiment which proves [[obedience]] to authority figures.
+<!--SR:!2023-11-07,3,250-->

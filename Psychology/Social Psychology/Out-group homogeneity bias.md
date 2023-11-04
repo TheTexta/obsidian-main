@@ -1,2 +1,3 @@
 #flashcards 
 Out-group homogeneity bias::The tendency to see the [[Out-group bias|out-group]] all similar but recognise the individuality of those in a [[In-group bias|in-group]]. An overestimation of similarity of the in-group and underestimation of the ability of the out-group. We see others the same and like as more individual. [[Out-group bias|Out-groups]] are more prone to stereotyping. This is a form of [[prejudice]].
+<!--SR:!2023-11-07,3,250-->

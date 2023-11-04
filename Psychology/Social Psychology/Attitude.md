@@ -2,10 +2,12 @@
 How you feel about your perception of a person. Eg you perceive someone to be stupid therefor you hate them. Attitude is about the predisposed emotion one feels towards an idea. When you meet a retard you feel sorry for them, a predisposed emotion towards an idea. When you see a homeless person feel disgusted at the post industrial complex which produces these issues.
 
 [[Attitude]]::How one interprets there [[perception]] of a person.
+<!--SR:!2023-11-06,2,246-->
 ### The 3 components of attitude:
 **Affective component** of [[attitude]]::The feel part of attitude, the way you feel towards something internally "Being happy that sewerslvt is playing".
 **Behavioural Component** of [[attitude]]::The way you visibly react to the situation / idea.  "Playing sewerslvt a lot"
 **Cognitive Component** of [[attitude]]::What a person thinks abut the idea, the way they logically process there attitude "Sewerslvt on top because she's so original"
+<!--SR:!2023-11-05,1,226-->
 
 *Changing Attitude: The art of persuasion*
 [[Attitude|Attitudes]] can be changed, what a shocker, because they are learned that is. There are several factors which influence the effectiveness of a potential persuasion.
@@ -26,8 +28,10 @@ Elaboration likelihood model states that the way people perceive information aff
 Changing a persons attitude involves getting there **compliance** with your own. There are various techniques which people can use to persuade someone.
 
 Foot-in-the-door phenomenon::People are more persuadable when you start off by giving them a simple achievable task/idea, then elaborating to the main topic later on.
+<!--SR:!2023-11-07,3,266-->
 
 Door-in-the-face phenomenon::An unreasonable request followed by a more reasonable and achievable one. The second is more likely to be completed after introducing the first.
+<!--SR:!2023-11-07,3,266-->
 
 Reciprocity norm::When someone does good to you you feel more obliged to then help then and do good to them. "Do onto others as you would do to you".
 <!--SR:!2023-11-05,1,210-->

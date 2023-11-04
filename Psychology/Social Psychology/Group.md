@@ -6,4 +6,5 @@ In [[Psychology]], a group is defined with the following characteristics:
 * commonality of purpose
 * favouritism
 
-Group::defined by independence, social interaction, perception of group, commonality or purpose, and favouritism. 
+Group::defined by independence, social interaction, perception of group, commonality or purpose, and favouritism.
+<!--SR:!2023-11-05,1,230-->

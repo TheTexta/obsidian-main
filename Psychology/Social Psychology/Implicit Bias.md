@@ -1,5 +1,6 @@
 #flashcards 
 Implicit Bias::An unthinking knee jerk response that operates without conscious awareness. implicit bias is always present, despite any good intentions. also known as implicit [[prejudice]], a form of prejudice is implicit bias, along with its counterpart [[Explicit Bias]].
+<!--SR:!2023-11-07,3,250-->
 
 ## Research on implicit bias
 
@@ -19,3 +20,4 @@ Unconscious Patronisation::Tests of implicit bias present in those aware of thei
 People who consciously express little prejudice may still give off telltale signals in their reflexive body responses. neuroscientists can measure signals of implicit bias in individuals shown images of people form other ethnic groups they an measure this in facial muscle responses and in the activation of emotion-processing part of the brain called the [[amygdala]].
 
 Reflexive body responses::Measuring implicit bias through micro body movements.
+<!--SR:!2023-11-08,4,270-->
