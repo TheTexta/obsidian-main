@@ -13,7 +13,7 @@ An example of prejudice is [[ethnocentrism]].
 ###### LGBTQ+ Prejudice
 
 ### Types of Prejudice
-[[Hindsight bias]] and [[Just world phenomenon|just world phenomena]] bias both play a role in prejudice justification which is factually unfounded. 
+Factors of causality for prejudice::[[Hindsight bias]] and [[Just world phenomenon|just world phenomena]] bias both play a role in prejudice justification which is factually unfounded. 
 #### Social inequalities and divisions
 When some people have money, power, prestige and others do not, people the categorise people based on these inequalities and divisions. 
 ##### In-group / out-group
