@@ -1,3 +1,6 @@
+#flashcards 
+Groupthink::when individuals perceive there to be a group consensus on an issue without individually believing it to be correct, optimal or valid.
+
 What constitutes group think?
 * Invulnerability - members feel they cannot be punished for there actions
 * rationalisation - Members explain away warning signs and help one another rationalise there decisions
