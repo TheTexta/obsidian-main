@@ -1,1 +1,2 @@
-We are aware that we are processing this information. [[Bias]] which is deliberate, conscious.
+#flashcards 
+Explicit Bias::We are aware that we are processing this information. Bias which is deliberate, conscious.
