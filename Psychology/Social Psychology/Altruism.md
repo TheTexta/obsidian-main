@@ -6,8 +6,10 @@ To do something nice completely selflessly. You can argue there is no such thing
 The [[bystander effect]], when alone you're more likely to help someone. 
 
 Altruism::Selfless nice actions on another, evolutionary psychologists believe altruistic behaviour to be a method for protecting genetic material for species, finding the temporoparietal junction to be larger in those altruistic.
+<!--SR:!2023-11-07,3,250-->
 
 Temporoparietal Junction::A part of the brain correlating positively in size with altruistic behaviour.
+<!--SR:!2023-11-07,3,250-->
 
 # Why do people help those if they aren't altruistic.
 ### Helping - Self interest
@@ -21,3 +23,4 @@ The social responsibility norm is the expectation that those in a society are ex
 
 Non altruistic behaviour from self interest::Someone who gains something from helping someone, maximising self benefit.
 Non altruistic behaviour from socialisation::Social expectation says we should help regardless of cost.
+<!--SR:!2023-11-07,3,250-->

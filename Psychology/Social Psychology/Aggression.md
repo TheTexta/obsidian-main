@@ -13,10 +13,12 @@ Aggression is a form of [[social interaction]], wherein the person is harmfully 
 tldr: when threatened we can get aggressive. 
 
 The [[prefrontal cortex|prefrontal cortexs]] relation to aggression::The [[prefrontal cortex]] is involved in the impulse control component of the brain, controlling how we respond to aggressive inclinations.
+<!--SR:!2023-11-07,3,250-->
 
 In effect it is a control centre for aggression. when activated we are more capable of controlling our aggressive tendencies.
 ### Biochemical influences
-[[Testosterone]]s affect on aggression::[[testosterone]] influences the neural systems which control aggression, wide bodies and faces have more natural testosterone. 
+[[Testosterone]]s affect on aggression::[[testosterone]] influences the neural systems which control aggression, wide bodies and faces have more natural testosterone.
+<!--SR:!2023-11-07,3,250-->
 [[Alcohol]]s influence on aggression::Alcohol is a disinhebitor, it lowers chemicals in our body which control mood and motivation, it lowers serotonin which is a mood stabiliser, making people more moody. 
 [[serotonin|serotonins]] affect on aggression::[[serotonin]] acts as a mood stabiliser, less serotonin leads to increased moodiness.
 ## Psychological an sociocultural influences on aggression
