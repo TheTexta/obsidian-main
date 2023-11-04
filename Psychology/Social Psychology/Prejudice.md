@@ -33,14 +33,9 @@ Your [[attitude]] is negative, increasing negative emotions.
 ## Roots of Prejudice
 #### [[Realistic Conflict theory|Realistic Conflict theory]]
 
-#### Social Identity Theory
-In social identity theory, there are three processes in our brains that lead to the creation of a thought of a another group.
-###### [[Social Categorisation]]
-###### [[Social identification]]
-###### [[Social Comparison]]
+#### [[Social Identity Theory]]
 
-#### Stereotype Threat
-Stereotypes are perceived by others and an individual, stereotype threats are a self confirming concern that one will be evaluated based on a negative stereotype. People fear that stereotypes are applied to themselves and start conforming to the stereotype, this concern is a [[self fulfilling prophecy]]. People who understand stereotypes, are prone to behave in a way which fits it so they can reduce the threat.
+#### [[Stereotype Threat]]
 
 #### Experiments
 [[Pygmalion effect]] - group indoctrination creates bias to others.
