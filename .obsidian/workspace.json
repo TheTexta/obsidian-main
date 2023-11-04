@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "54660c25deb515d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a137bf18ab14937a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a77085c7db9423e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/Social influence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "390d52023a742f03",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6203b7f5ed8ade4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/Mere Exposure Effect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44bacac482156eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/Conformity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9782e075db18fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/Actor Observer Bias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6deb2c963d1e3233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/Explicit Bias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee75773c9e552124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/Implicit Bias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0adddf48a8f39db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/Scapegoat Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84cc817c3b01eb43",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5429a645a5072a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e0d0a2055900e4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc26f921e137dcc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ca9da577a9e71cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8940c650c9a5d51",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe7cdfee32a7c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caad919f7c14705f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Psychology/Social Psychology/Conformity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "674e6ba4275e0516",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Psychology/Social Psychology/Conformity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a857e206c597661",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98aa920b04cd792e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Psychology/Social Psychology/Conformity.md"
+              }
+            }
+          },
+          {
+            "id": "eaae77a8abe8ce19",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "44bacac482156eb3",
+  "lastOpenFiles": [
+    "Psychology/Social Psychology/Cognitive Dissonance.md",
+    "Psychology/Social Psychology/Chameleon Effect.md",
+    "Psychology/Social Psychology/Central Route Persuasion.md",
+    "Psychology/Social Psychology/Bystander Effect vs. Deindividuation vs. Social Loafing.md",
+    "Psychology/Social Psychology/Bystander effect.md",
+    "Psychology/Social Psychology/bobo doll experiment.md",
+    "Psychology/Social Psychology/Bias.md",
+    "Psychology/Social Psychology/Attribution.md",
+    "Psychology/Social Psychology/Attraction.md",
+    "Psychology/Social Psychology/Attitude.md",
+    "Psychology/Social Psychology/Asch study of Conformity.md",
+    "Psychology/Social Psychology/Altruism.md",
+    "Psychology/Social Psychology/Aggression.md",
+    "Psychology/Social Psychology/Actor Observer Bias.md",
+    "Psychology/Social Psychology/In-group bias.md",
+    "Psychology/Social Psychology/Victim Blaming.md",
+    "Psychology/Social Psychology/Triangular theory of Love.png",
+    "Psychology/Social Psychology/Stereotype.md",
+    "Psychology/Social Psychology/Stanford prison experiment.md",
+    "Psychology/Social Psychology/Social Roles.md",
+    "Psychology/Social Psychology/Social Psychology.md",
+    "Psychology/Social Psychology/Social Norms.md",
+    "Psychology/Social Psychology/Social loafing.md",
+    "Psychology/Social Psychology/Social Learning Theory.md",
+    "Psychology/Social Psychology/Social Interaction.md",
+    "Psychology/Social Psychology/Social influence.md",
+    "Psychology/Social Psychology/Social identification.md",
+    "Psychology/Psych 101/Abraham Maslow.png",
+    "Psychology/Psych 101",
+    "Chemistry/c5h12.png",
+    "Chemistry/arrow and delta dipole representation.png",
+    "Physics",
+    "Psychology/Social Psychology",
+    "Economics/Supply curves.png",
+    "Economics/Unit Elasticity Curved.webp",
+    "Economics/Demand Curves.jpg",
+    "Economics/demand curve changes.png",
+    "Psychology/Psych 101/Pasted image 20231003191356.png",
+    "Psychology/Psych 101/Pasted image 20231003191245.png"
+  ]
+}
