@@ -27,16 +27,11 @@ Your [[attitude]] is negative, increasing negative emotions.
 
 #### Cognitive Shortcuts
 ##### [[Out-group homogeneity bias]]
-###### Other-Race Effect:
-The tendency to see this [[bias]] in your own race but not others. e.g. not being able to see the uniqueness of a group, "they all look the same".
-###### Own-Age Bias:
-This apparently also applies to an own age bias. The tendency to better recognise people in your own age group.
+###### [[Other-Race Effect]]
+###### [[Own age bias]]
 
 ## Roots of Prejudice
-#### Realistic Conflict theory
-The theory state that in increasing [[prejudice]] and [[discrimination]] are closely tied to an increasing degree of conflict between the in-group and the out-group where these two groups are seeking a common resource such as land or jobs. As soon as you creates groups you create prejudice. But group creation is inevitable, without complete zombificatoin of everyone into like states.
-###### Brown eye blue eye experiment
-The experiment where the teacher separates the children by eye colour. Where rules and regulations were in place for brown eye which were harsher then what was given to the blue eyes.
+#### [[Realistic Conflict theory|Realistic Conflict theory]]
 
 #### Social Identity Theory
 In social identity theory, there are three processes in our brains that lead to the creation of a thought of a another group.
