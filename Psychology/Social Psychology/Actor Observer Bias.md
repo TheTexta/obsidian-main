@@ -1,1 +1,2 @@
-Includes [[Fundamental Attribution Error]], wherein the person judges the actor but not themselves the same way. Blaming someone on there disposition but not themselves
+#flashcards 
+Actor Observer Bias::Includes [[Fundamental Attribution Error]], wherein the person judges the actor but not themselves the same way. Blaming someone on there disposition but not themselves
