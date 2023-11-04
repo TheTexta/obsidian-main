@@ -26,8 +26,7 @@ Your [[attitude]] is negative, increasing negative emotions.
 ##### [[Scapegoat Theory]]
 
 #### Cognitive Shortcuts
-##### Out-group homogeneity bias:
-The tendency to see the [[out-group]] all similar but recognise the individuality of those in a [[in-group]]. An overestimation of similarity of the in-group and underestimation of the ability of the out-group. We see others the same and like as more individual. [[out-group|Out-groups]] are more prone to stereotyping. 
+##### [[Out-group homogeneity bias]]
 ###### Other-Race Effect:
 The tendency to see this [[bias]] in your own race but not others. e.g. not being able to see the uniqueness of a group, "they all look the same".
 ###### Own-Age Bias:
