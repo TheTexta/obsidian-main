@@ -1,1 +1,2 @@
-The first impression and predetermined view of a person defines the way you perceive them.
+#flashcards 
+The primacy effect::The first impression and predetermined view of a person defines the way you perceive them.

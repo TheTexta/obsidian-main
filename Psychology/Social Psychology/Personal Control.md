@@ -1,1 +1,2 @@
-The extent to which a person can resist [[Social Control]] in a given situation
+#flashcards 
+Personal control::The extent to which a person can resist [[Social Control]] in a given situation

@@ -1,4 +1,7 @@
-Prejudice is an unsupported unjustifiable and usually negatively. An example of prejudice is [[ethnocentrism]]. 
+#flashcards 
+Prejudice::an unsupported unjustifiable and usually negative treatment of a person due to [[attitude]]. 
+
+An example of prejudice is [[ethnocentrism]]. 
 
 ## Forms of Prejudice
 ### [[Explicit Bias|Explicit Prejudice]]
