@@ -1,1 +1,2 @@
-People can be influenced by the norms that are set out in a society. social norms as the rules of expected and acceptable [[Behaviour]].
+#flashcards 
+Social Norms::People can be influenced by the norms that are set out in a society. social norms as the rules of expected and acceptable [[Behaviour]].
