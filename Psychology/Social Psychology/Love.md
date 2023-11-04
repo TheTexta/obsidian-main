@@ -2,8 +2,13 @@ different to [[attraction]] and like
 
 Love is complex, there are many different types of love, some individuals move quickly from initial impressions, to friendship, to more intense, complex romantic love. Whereas psychology knows a great deal about what makes people like on another, the research on love is more limited. Liking something and loving something are entirely different, qualitatively representing to different things. Love is not extreme liking, but something else entirely.
 
-There are a bunch of types of love
+Love::Love and like are qualitatively different, love is broken into three components, intimacy, passion and commitment.
 
+Intimacy component of love::The liking and similarity aspect of love.
+Passion component of love::The sexual desire aspect of love
+Commitment component of love::The commitment mentally and physically to a person
+
+Sternberg's triangle theory of love::The triangle of love brings together all three aspects of love and relates them together.
 # Sternberg's triangular theory of love
 ![[Triangular theory of Love.png]]
 each combination of the circles is a different form of love, the seventh being a combination of all 3.
