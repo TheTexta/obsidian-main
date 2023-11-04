@@ -22,5 +22,6 @@ The reciprocity norm is the expectation that you help someone who has helped the
 The social responsibility norm is the expectation that those in a society are expected to all work together equally for a greater good. This norm is at a tug of war with the [[Bystander effect]], instead being the belief that we should help others regardless of the cost associated with ourselves.
 
 Non altruistic behaviour from self interest::Someone who gains something from helping someone, maximising self benefit.
+<!--SR:!2023-11-07,3,250-->
 Non altruistic behaviour from socialisation::Social expectation says we should help regardless of cost.
 <!--SR:!2023-11-07,3,250-->

@@ -4,3 +4,4 @@ Realistic Conflict Theory::The theory state that in increasing [[prejudice]] and
 
 
 Brown eye blue eye experiment::The experiment where the teacher separates the children by eye colour. Where rules and regulations were in place for brown eye which were harsher then what was given to the blue eyes.
+<!--SR:!2023-11-07,3,250-->
