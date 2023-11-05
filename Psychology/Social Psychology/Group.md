@@ -7,5 +7,5 @@ In [[Psychology]], a group is defined with the following characteristics:
 * favouritism
 
 Group::defined by independence, social interaction, perception of group, commonality or purpose, and favouritism.
-<!--SR:!2023-11-05,1,230-->
+<!--SR:!2023-11-06,1,210-->
 

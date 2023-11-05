@@ -2,6 +2,7 @@
 There are two ways one interacts with a group, passively by participation and actively through interaction. Groups influence people, which is a form of [[Social influence]] along with [[Conformity]] and [[Obedience]]. A group in this case is defined by its psychological definition [[Group]]. This is a part of [[Social Psychology]].
 
 Equal Status Contact::Contact between groups wherein the groups have equal power and status
+<!--SR:!2023-11-09,4,272-->
 ### Passive
 Passive group behaviour::Phenomena in the presence of others without direct interaction
 <!--SR:!2023-11-08,4,270-->

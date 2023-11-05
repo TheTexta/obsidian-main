@@ -5,11 +5,11 @@ How you feel about your perception of a person. Eg you perceive someone to be st
 <!--SR:!2023-11-06,2,246-->
 ### The 3 components of attitude:
 **Affective component** of [[attitude]]::The feel part of attitude, the way you feel towards something internally "Being happy that sewerslvt is playing".
-<!--SR:!2023-11-05,1,227-->
+<!--SR:!2023-11-07,2,227-->
 **Behavioural Component** of [[attitude]]::The way you visibly react to the situation / idea.  "Playing sewerslvt a lot"
 <!--SR:!2023-11-06,2,246-->
 **Cognitive Component** of [[attitude]]::What a person thinks abut the idea, the way they logically process there attitude "Sewerslvt on top because she's so original"
-<!--SR:!2023-11-05,1,226-->
+<!--SR:!2023-11-06,1,206-->
 
 *Changing Attitude: The art of persuasion*
 [[Attitude|Attitudes]] can be changed, what a shocker, because they are learned that is. There are several factors which influence the effectiveness of a potential persuasion.

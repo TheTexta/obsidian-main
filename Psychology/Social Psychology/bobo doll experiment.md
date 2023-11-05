@@ -5,3 +5,4 @@ Bobo Doll Experiment::Proves [[Social Learning Theory]], that behaviour is model
 <!--SR:!2023-11-07,3,250-->
 
 Albert Bandura::Created the Bobo doll experiment which proves [[Social Learning Theory]].
+<!--SR:!2023-11-08,3,250-->

@@ -11,6 +11,7 @@ An example of prejudice is [[ethnocentrism]].
 ## Targets of prejudice
 
 Targets of prejudice::Racial/ethnic, gender, LGBTQ, Belief system prejudice.
+<!--SR:!2023-11-07,2,246-->
 ###### Racial and ethnic prejudice
 ###### Gender prejudice
 ###### LGBTQ+ Prejudice
@@ -46,6 +47,7 @@ Your [[attitude]] is negative, increasing negative emotions.
 [[Robbers Cave]] - separated groups develop prejudice to one another
 
 Roots of prejudice::[[Realistic conflict theory]], [[social identity theory]] and [[stereotype threat]] are all contributing factors behind the prevalence of stereotyping.
+<!--SR:!2023-11-06,1,226-->
 # Overcoming prejudice
 * Increasing contact between the target of the stereotyping and the holder of the stereotype. 
 * Reducing [[Stereotype Threat|stereotype threats]]
@@ -54,3 +56,4 @@ Roots of prejudice::[[Realistic conflict theory]], [[social identity theory]] an
 * Making values and norms against stereotyping more conspicuous
 
 Overcoming Prejudice::Increase contact, reduce [[Stereotype Threat|stereotype threats]], increase belonging, education of targets, increase values against stereotyping.
+<!--SR:!2023-11-06,1,226-->

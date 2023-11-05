@@ -3,3 +3,4 @@ Discrimination::An negative action unjustified towards members of a group. [[Out
 <!--SR:!2023-11-08,4,270-->
 
 Microaggression::A subtle or unintended discriminatory action against members of a [[group]].
+<!--SR:!2023-11-08,3,252-->
