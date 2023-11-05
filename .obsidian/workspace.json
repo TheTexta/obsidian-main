@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture.md",
+                "file": "ethnocentrism.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ethno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture.md",
+                "file": "ethnocentrism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture.md",
+                "file": "ethnocentrism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture.md"
+                "file": "ethnocentrism.md"
               }
             }
           },
@@ -247,8 +248,10 @@
   },
   "active": "08b25a3bd4edf49f",
   "lastOpenFiles": [
-    "Psychology/Social Psychology/Group Polarisation.md",
+    "Psychology/Social Psychology/Prejudice.md",
+    "ethnocentrism.md",
     "Culture.md",
+    "Psychology/Social Psychology/Group Polarisation.md",
     "Psychology/Social Psychology/Group Behaviour.md",
     "De-individuation.md",
     "Psychology/Social Psychology/Social inhibition.md",
@@ -271,8 +274,6 @@
     "Psychology/Social Psychology/Attribution.md",
     "Psychology/Social Psychology/Attraction.md",
     "Psychology/Social Psychology/Attitude.md",
-    "Psychology/Social Psychology/Asch study of Conformity.md",
-    "Psychology/Social Psychology/Altruism.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
