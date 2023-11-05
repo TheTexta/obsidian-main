@@ -11,3 +11,5 @@ Kitty Genovese::The girl who was raped and killed in queens despite the public n
 3. Then feel responsible to help - This is where the bystander effect kicks in.
 4. Only then does one help
 
+The decision scheme used to 
+

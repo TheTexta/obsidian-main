@@ -4,7 +4,7 @@ There are two ways one interacts with a group, passively by participation and ac
 Passive group behaviour::Phenomena in the presence of others without direct interaction
 <!--SR:!2023-11-08,4,270-->
 
-* Social facilitation - The presence of a group affects you performance positively
+* [[Social facilitation]] - The presence of a group affects you performance positively
 * [[Social inhibition]] - Group presence detrimental to your performance
 * [[Social loafing]] - The tendency for members of a group to exert less effort then alone
 * [[De-individuation]] - The [[Perception|perceived]] loss of personal responsibility in a social situation.
@@ -13,5 +13,5 @@ Passive group behaviour::Phenomena in the presence of others without direct inte
 Active group behaviour::Phenomena when interacting directlywith a group
 <!--SR:!2023-11-07,3,250-->
 * [[Groupthink]] - Collectively the group avoids discussion due to fear of outcast from more assertive group members. avoiding a behaviour to feel a part of the group, *not changing though*.
-* [[Polarisation]] - When in a group, the tendency to polarise ideas discussed in a group. For ideas to become more extreme for the sake of the group.
+* [[Group Polarisation]] - When in a group, the tendency to polarise ideas discussed in a group. For ideas to become more extreme for the sake of the group.
 * [[Conformity]] - When in a group a person changes there viewpoint to the more normative group perspective. Changing your [[Behaviour]] to feel a part of the group.
