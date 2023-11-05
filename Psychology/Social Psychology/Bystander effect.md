@@ -11,5 +11,7 @@ Kitty Genovese::The girl who was raped and killed in queens despite the public n
 3. Then feel responsible to help - This is where the bystander effect kicks in.
 4. Only then does one help
 
-The decision scheme used to 
+The Decision Scheme::The decision scheme used to understand how a person decides to react in a group situation where they are meant to help someone.
+
+Steps to the decision scheme::Notice the emergency, interpret it, feel responsible to help, help the person.
 

@@ -1,4 +1,4 @@
-How [[culture]], people, beliefs and [[behaviour]] are influenced by the individuals around them. 
+How [[Culture]], people, beliefs and [[behaviour]] are influenced by the individuals around them. 
 
 # Summary
 - [[Social Cognition]] - [[Attitude]], [[Perception]], and [[Attribution]]. How we process social interaction and what we do when our actions misalign with our understanding of a topic, [[Cognitive Dissonance]]. 
