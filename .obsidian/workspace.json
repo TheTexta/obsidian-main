@@ -41,7 +41,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social inhibition.md",
+                "file": "Psychology/Social Psychology/Group Polarisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08b25a3bd4edf49f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social inhibition.md",
+                "file": "Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social inhibition.md",
+                "file": "Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social inhibition.md"
+                "file": "Culture.md"
               }
             }
           },
@@ -233,13 +245,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "08564041a5047a5f",
+  "active": "08b25a3bd4edf49f",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/Group Polarisation.md",
+    "Culture.md",
     "Psychology/Social Psychology/Group Behaviour.md",
-    "Social inhibition.md",
-    "Social facilitation.md",
+    "De-individuation.md",
+    "Psychology/Social Psychology/Social inhibition.md",
+    "Psychology/Social Psychology/Social facilitation.md",
     "Psychology/Social Psychology/Group.md",
-    "Group Polarisation.md",
     "Psychology/Social Psychology/Groupthink.md",
     "Psychology/Social Psychology/Bystander effect.md",
     "November study plan.md",
@@ -259,8 +273,6 @@
     "Psychology/Social Psychology/Attitude.md",
     "Psychology/Social Psychology/Asch study of Conformity.md",
     "Psychology/Social Psychology/Altruism.md",
-    "Psychology/Social Psychology/Aggression.md",
-    "Psychology/Social Psychology/Actor Observer Bias.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",

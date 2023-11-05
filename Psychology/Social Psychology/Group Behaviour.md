@@ -7,7 +7,7 @@ Passive group behaviour::Phenomena in the presence of others without direct inte
 * [[Social facilitation]] - The presence of a group affects you performance positively
 * [[Social inhibition]] - Group presence detrimental to your performance
 * [[Social loafing]] - The tendency for members of a group to exert less effort then alone
-* [[De-individuation]] - The [[Perception|perceived]] loss of personal responsibility in a social situation.
+* [[Deindividuation]] - The [[Perception|perceived]] loss of personal responsibility in a social situation.
 
 ### Active
 Active group behaviour::Phenomena when interacting directlywith a group
