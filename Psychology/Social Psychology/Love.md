@@ -1,3 +1,4 @@
+#flashcards
 different to [[attraction]] and like
 
 Love is complex, there are many different types of love, some individuals move quickly from initial impressions, to friendship, to more intense, complex romantic love. Whereas psychology knows a great deal about what makes people like on another, the research on love is more limited. Liking something and loving something are entirely different, qualitatively representing to different things. Love is not extreme liking, but something else entirely.
