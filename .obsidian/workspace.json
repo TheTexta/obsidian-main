@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Discrimination.md",
+                "file": "Psychology/Social Psychology/Heuristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Discrimination.md",
+                "file": "Psychology/Social Psychology/Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Discrimination.md",
+                "file": "Psychology/Social Psychology/Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Discrimination.md"
+                "file": "Psychology/Social Psychology/Heuristics.md"
               }
             }
           },
@@ -245,8 +245,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "08b25a3bd4edf49f",
+  "active": "6e0d0a2055900e4e",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/Other-Race Effect.md",
+    "Psychology/Social Psychology/Discrimination.md",
     "Psychology/Social Psychology/Aggression.md",
     "Psychology/Social Psychology/Hostile Aggression.md",
     "ethnocentrism.md",
@@ -271,8 +273,6 @@
     "Psychology/Social Psychology/Central Route Persuasion.md",
     "Psychology/Social Psychology/Bystander Effect vs. Deindividuation vs. Social Loafing.md",
     "Psychology/Social Psychology/bobo doll experiment.md",
-    "Psychology/Social Psychology/Bias.md",
-    "Psychology/Social Psychology/Attribution.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
