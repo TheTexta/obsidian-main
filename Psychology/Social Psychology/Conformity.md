@@ -11,3 +11,5 @@ From the [[Asch study of Conformity]] it was found that people are more likely t
 * Haven't made a prior commitment to any response
 * know that others in the group will observe our behaviour
 * Are from a culture that strongly encourages group think  - [[Cross Cultural bias]]
+
+Factors of conformity::Incompetency/insecurity, admiration of group status, no prior response commitment, know others in group observe behaviour, are part of cultures which encourage group think, in a group wherein everyone agrees.
