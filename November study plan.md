@@ -6,6 +6,9 @@
 - [ ] Study data enough to take the test early
 
 
+We still have 5 months :)
+
+
 
 
 
