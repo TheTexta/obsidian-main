@@ -36,4 +36,4 @@ Door-in-the-face phenomenon::An unreasonable request followed by a more reasonab
 <!--SR:!2023-11-07,3,266-->
 
 Reciprocity norm::When someone does good to you you feel more obliged to then help then and do good to them. "Do onto others as you would do to you".
-<!--SR:!2023-11-05,1,210-->
+<!--SR:!2023-11-08,3,230-->

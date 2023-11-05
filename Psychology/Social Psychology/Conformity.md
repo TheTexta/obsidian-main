@@ -1,6 +1,6 @@
 #flashcards 
 Conformity::Changing ones [[attitude]] or [[behaviour]] to match those around you.
-<!--SR:!2023-11-05,1,230-->
+<!--SR:!2023-11-07,2,230-->
 
 Changing your [[Attitude]] or [[Behaviour]] to match the people around you. Changing your [[Behaviour]] to match the [[Behaviour|behaviours]] of others. Note the *conformity* is a choice while [[Obedience]] is not a choice but a deliberate disobedience when you don't do the thing.
 
