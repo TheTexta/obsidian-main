@@ -9,6 +9,8 @@ An example of prejudice is [[ethnocentrism]].
 ### [[Implicit Bias|Implicit Bias / Prejudice]]
 
 ## Targets of prejudice
+
+Targets of prejudice::Racial/ethnic, gender, LGBTQ, Belief system prejudice.
 ###### Racial and ethnic prejudice
 ###### Gender prejudice
 ###### LGBTQ+ Prejudice
@@ -43,6 +45,7 @@ Your [[attitude]] is negative, increasing negative emotions.
 [[Pygmalion effect]] - group indoctrination creates bias to others.
 [[Robbers Cave]] - separated groups develop prejudice to one another
 
+Roots of prejudice::[[Realistic conflict theory]], [[social identity theory]] and [[stereotype threat]] are all contributing factors behind the prevalence of stereotyping.
 # Overcoming prejudice
 * Increasing contact between the target of the stereotyping and the holder of the stereotype. 
 * Reducing [[Stereotype Threat|stereotype threats]]
