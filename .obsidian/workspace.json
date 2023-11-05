@@ -31,21 +31,17 @@
             "id": "d6203b7f5ed8ade4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Social Psychology/Mere Exposure Effect.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "44bacac482156eb3",
+            "id": "08564041a5047a5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Social Learning Theory.md",
+                "file": "November study plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Social Learning Theory.md",
+                "file": "November study plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Social Learning Theory.md",
+                "file": "November study plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Social Learning Theory.md"
+                "file": "November study plan.md"
               }
             }
           },
@@ -237,8 +233,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "44bacac482156eb3",
+  "active": "08564041a5047a5f",
   "lastOpenFiles": [
+    "November study plan.md",
+    "Psychology/Social Psychology/Mere Exposure Effect.md",
+    "Psychology/Social Psychology/Social Learning Theory.md",
     "Psychology/Social Psychology/Hindsight Bias.md",
     "Psychology/Social Psychology/Just world phenomenon.md",
     "Psychology/Social Psychology/Conformity.md",
@@ -263,9 +262,6 @@
     "Psychology/Social Psychology/Stanford prison experiment.md",
     "Psychology/Social Psychology/Social Roles.md",
     "Psychology/Social Psychology/Social Psychology.md",
-    "Psychology/Social Psychology/Social Norms.md",
-    "Psychology/Social Psychology/Social loafing.md",
-    "Psychology/Social Psychology/Social Learning Theory.md",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
     "Chemistry/c5h12.png",
