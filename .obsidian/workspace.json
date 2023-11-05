@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ethnocentrism.md",
+                "file": "Psychology/Social Psychology/Discrimination.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ethno",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,8 +154,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ethnocentrism.md",
+                "file": "Psychology/Social Psychology/Discrimination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ethnocentrism.md",
+                "file": "Psychology/Social Psychology/Discrimination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ethnocentrism.md"
+                "file": "Psychology/Social Psychology/Discrimination.md"
               }
             }
           },
@@ -248,8 +247,10 @@
   },
   "active": "08b25a3bd4edf49f",
   "lastOpenFiles": [
-    "Psychology/Social Psychology/Prejudice.md",
+    "Psychology/Social Psychology/Aggression.md",
+    "Psychology/Social Psychology/Hostile Aggression.md",
     "ethnocentrism.md",
+    "Psychology/Social Psychology/Prejudice.md",
     "Culture.md",
     "Psychology/Social Psychology/Group Polarisation.md",
     "Psychology/Social Psychology/Group Behaviour.md",
@@ -272,8 +273,6 @@
     "Psychology/Social Psychology/bobo doll experiment.md",
     "Psychology/Social Psychology/Bias.md",
     "Psychology/Social Psychology/Attribution.md",
-    "Psychology/Social Psychology/Attraction.md",
-    "Psychology/Social Psychology/Attitude.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
