@@ -45,5 +45,9 @@ Your [[attitude]] is negative, increasing negative emotions.
 
 # Overcoming prejudice
 * Increasing contact between the target of the stereotyping and the holder of the stereotype. 
-* Increasing education of stereotypes
-* Reducing stereotype threats
+* Reducing [[Stereotype Threat|stereotype threats]]
+* Increasing sense of belonging of racialised students
+* Providing information about targets of stereotyping
+* Making values and norms against stereotyping more conspicuous
+
+Overcoming Prejudice::Increase contact, reduce [[Stereotype Threat|stereotype threats]], increase belonging, education of targets, increase values against stereotyping.
