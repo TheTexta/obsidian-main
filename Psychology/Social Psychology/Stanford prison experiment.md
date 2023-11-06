@@ -5,3 +5,4 @@ Stanford Prison Experiment::Conducted in 1971 by [[Philip Zimbardo]] wherein par
 <!--SR:!2023-11-07,3,250-->
 
 Philip Zimbardo::Stanford prison experiment
+<!--SR:!2023-11-10,4,270-->
