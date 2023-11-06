@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Conflict.md",
+                "file": "Psychology/Social Psychology/Social influence.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Conflict.md",
+                "file": "Psychology/Social Psychology/Social influence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Conflict.md",
+                "file": "Psychology/Social Psychology/Social influence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Conflict.md"
+                "file": "Psychology/Social Psychology/Social influence.md"
               }
             }
           },
@@ -267,8 +267,10 @@
   },
   "active": "0ceea394bd9f80c8",
   "lastOpenFiles": [
-    "Social Traps.md",
+    "Psychology/Social Psychology/Conformity.md",
+    "Psychology/Social Psychology/Prejudice.md",
     "Psychology/Social Psychology/Conflict.md",
+    "Social Traps.md",
     "The prisoners dilemma.md",
     "Price Elasticity of Supply.md",
     "Economics/PED - Price Elasticity of Demand.md",
@@ -276,8 +278,6 @@
     "Psychology/Social Psychology/Social identification.md",
     "Psychology/Social Psychology/Love.md",
     "Psychology/Social Psychology/Self handicapping bias.md",
-    "Psychology/Social Psychology/Conformity.md",
-    "Psychology/Social Psychology/Prejudice.md",
     "Psychology/Social Psychology/Social Identity Theory.md",
     "Psychology/Social Psychology/Pygmalion effect.md",
     "Psychology/Social Psychology/bobo doll experiment.md",
