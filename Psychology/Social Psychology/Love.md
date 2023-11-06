@@ -20,17 +20,17 @@ Sternberg's triangle theory of love::The triangle of love brings together all th
 each combination of the circles is a different form of love, the seventh being a combination of all 3.
 ## Three types of simple love
 Liking::Friendship, close trust, there isn't commitment
-<!--SR:!2023-11-06,1,230-->
+<!--SR:!2023-11-08,2,230-->
 Infatuation::just the attraction part of the love triangle by itself, only being attracted to the individuals without any liking or commitment
 <!--SR:!2023-11-09,4,270-->
 Empty Love::Pure commitment without any of the passion or intimacy for the person.
-<!--SR:!2023-11-06,1,230-->
+<!--SR:!2023-11-09,3,250-->
 
 ## Combinations of simple love
 Fatuous love::commitment and passion
-<!--SR:!2023-11-06,1,230-->
-Passionate Love::Passionate love represents a state of intense absorption in someone. Includes all love to do with arousal
-<!--SR:!2023-11-06,1,230-->
+<!--SR:!2023-11-08,2,230-->
+Compassionate Love::Compassionate love is love without the arousal side of love. intimacy and commitment
+<!--SR:!2023-11-08,2,230-->
 Compassionate love::Love for a relative
 <!--SR:!2023-11-08,3,250-->
 

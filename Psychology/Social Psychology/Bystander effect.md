@@ -16,5 +16,5 @@ The Decision Scheme::The decision scheme used to understand how a person decides
 <!--SR:!2023-11-08,3,250-->
 
 Steps to the decision scheme::Notice the emergency, interpret it, feel responsible to help, help the person.
-<!--SR:!2023-11-06,1,230-->
+<!--SR:!2023-11-09,3,250-->
 

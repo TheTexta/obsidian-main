@@ -8,9 +8,11 @@ Prioritising ones self over another
 [[The prisoners dilemma]] - a classic example of a [[Social Traps|social trap]].
 ### Mirror Image Perceptions
 Mirror Image Perceptions::Mutual views held by conflicting people wherein each [[Conflict|conflicting]] side sees itself as the more ethical side. Feeds a cycle of hostility often through [[self fulfilling prophecy|self-fulfilling prophecies]].
+<!--SR:!2023-11-10,4,270-->
 
 ### Peacekeeping
 Peacekeeping::Research suggests that peacekeeping can be achieved through *contact*, *cooperation*, *communication*, and *conciliation*.
+<!--SR:!2023-11-07,1,230-->
 
 contact
 contact works in reducing conflict so long as it is positive. 
@@ -29,3 +31,4 @@ Reducing tension through GRIT strategy. Grit consists of two main steps which ar
 actually relates to the earlier units, [[reciprocity norm]] and the [[foot in the door phenomena]]
 
 GRIT::*Graduated* and *Reciprocated* *Initiative* in *Tension* reduction.
+<!--SR:!2023-11-07,1,230-->
