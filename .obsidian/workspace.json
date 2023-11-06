@@ -63,9 +63,17 @@
             "id": "9a7175165d1be075",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ceea394bd9f80c8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Chameleon Effect.md",
+                "file": "Psychology/Social Psychology/Conflict.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -149,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "price elas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Chameleon Effect.md",
+                "file": "Psychology/Social Psychology/Conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Chameleon Effect.md",
+                "file": "Psychology/Social Psychology/Conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Chameleon Effect.md"
+                "file": "Psychology/Social Psychology/Conflict.md"
               }
             }
           },
@@ -257,34 +265,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9a7175165d1be075",
+  "active": "0ceea394bd9f80c8",
   "lastOpenFiles": [
+    "Social Traps.md",
+    "Psychology/Social Psychology/Conflict.md",
+    "The prisoners dilemma.md",
+    "Price Elasticity of Supply.md",
+    "Economics/PED - Price Elasticity of Demand.md",
+    "Psychology/Social Psychology/Chameleon Effect.md",
     "Psychology/Social Psychology/Social identification.md",
     "Psychology/Social Psychology/Love.md",
     "Psychology/Social Psychology/Self handicapping bias.md",
     "Psychology/Social Psychology/Conformity.md",
-    "Psychology/Social Psychology/Chameleon Effect.md",
     "Psychology/Social Psychology/Prejudice.md",
     "Psychology/Social Psychology/Social Identity Theory.md",
     "Psychology/Social Psychology/Pygmalion effect.md",
     "Psychology/Social Psychology/bobo doll experiment.md",
     "Psychology/Social Psychology/MAOA.md",
-    "Psychology/Social Psychology/Conflict.md",
     "Psychology/Social Psychology/Bystander effect.md",
     "Psychology/Social Psychology/Culture.md",
     "Chemistry/dipole.md",
     "Chemistry/Double Displacement Reactions.md",
     "Psychology/Social Psychology/Asch study of Conformity.md",
-    "Economics/PED - Price Elasticity of Demand.md",
     "Economics/Supply Curve.md",
     "Economics/Supply.md",
     "Psychology/Social Psychology/Group Behaviour.md",
     "Psychology/Social Psychology/Group Polarisation.md",
     "Psychology/Social Psychology/Group.md",
     "Psychology/Social Psychology/Heuristics.md",
-    "Psychology/Social Psychology/Other-Race Effect.md",
-    "Psychology/Social Psychology/Discrimination.md",
-    "Psychology/Social Psychology/Aggression.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
