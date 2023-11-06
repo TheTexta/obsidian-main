@@ -63,8 +63,12 @@
             "id": "9a7175165d1be075",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/Stanford prison experiment.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -182,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Social influence.md",
+                "file": "Psychology/Social Psychology/Stanford prison experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Social influence.md",
+                "file": "Psychology/Social Psychology/Stanford prison experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Social influence.md"
+                "file": "Psychology/Social Psychology/Stanford prison experiment.md"
               }
             }
           },

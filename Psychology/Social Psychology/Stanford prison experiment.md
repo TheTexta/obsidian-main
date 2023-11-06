@@ -3,3 +3,5 @@
 
 Stanford Prison Experiment::Conducted in 1971 by [[Philip Zimbardo]] wherein participants modelled a prison situation. People began to see there behaviour defined by their [[social roles]], exhibiting increasingly [[aggression|aggressive]] [[behaviour]], causing an early shutdown of the experiment.
 <!--SR:!2023-11-07,3,250-->
+
+Philip Zimbardo::Stanford prison experiment
