@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "0ceea394bd9f80c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Social Psychology/Social influence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a9782e075db18fca",
             "type": "leaf",
             "state": {
@@ -128,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,7 +182,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Social influence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +198,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Social influence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +219,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Psychology/Social Psychology/Social influence.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,8 +249,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0ceea394bd9f80c8",
+  "active": "9a7175165d1be075",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/Social influence.md",
     "Psychology/Social Psychology/Conformity.md",
     "Psychology/Social Psychology/Prejudice.md",
     "Psychology/Social Psychology/Conflict.md",
@@ -292,7 +277,6 @@
     "Psychology/Social Psychology/Group Behaviour.md",
     "Psychology/Social Psychology/Group Polarisation.md",
     "Psychology/Social Psychology/Group.md",
-    "Psychology/Social Psychology/Heuristics.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
