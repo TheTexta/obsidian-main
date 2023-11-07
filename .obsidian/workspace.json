@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Attraction.md",
+                "file": "Psychology/Social Psychology/Conformity.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Attraction.md",
+                "file": "Psychology/Social Psychology/Conformity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Attraction.md",
+                "file": "Psychology/Social Psychology/Conformity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Attraction.md"
+                "file": "Psychology/Social Psychology/Conformity.md"
               }
             }
           },
@@ -259,6 +259,8 @@
   },
   "active": "9a7175165d1be075",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/Attraction.md",
+    "Psychology/Social Psychology/Love.md",
     "Psychology/Social Psychology/Aggression.md",
     "Psychology/Social Psychology/Realistic Conflict theory.md",
     "Psychology/Social Psychology/Conformity.md",
@@ -275,7 +277,6 @@
     "Economics/PED - Price Elasticity of Demand.md",
     "Psychology/Social Psychology/Chameleon Effect.md",
     "Psychology/Social Psychology/Social identification.md",
-    "Psychology/Social Psychology/Love.md",
     "Psychology/Social Psychology/Self handicapping bias.md",
     "Psychology/Social Psychology/Social Identity Theory.md",
     "Psychology/Social Psychology/Pygmalion effect.md",
@@ -284,7 +285,6 @@
     "Psychology/Social Psychology/Bystander effect.md",
     "Psychology/Social Psychology/Culture.md",
     "Chemistry/dipole.md",
-    "Chemistry/Double Displacement Reactions.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",

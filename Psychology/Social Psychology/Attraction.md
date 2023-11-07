@@ -19,3 +19,4 @@ Proximity brings people close, [[Attraction|attractiveness]] sparks conversation
 
 Similarity as a factor for attraction::Your similarity to someone else dictates the extent to which you can become attached and relate to someone.
 <!--SR:!2023-11-16,10,270-->
+self-disclosure::The process of revealing information on a self to potentially find similarities and increase attraction.

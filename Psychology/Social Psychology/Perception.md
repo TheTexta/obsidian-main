@@ -9,4 +9,4 @@ Perception::What you perceive a person to be without explaining that perception.
 When we first meet someone, our perception of them allows us to immediately categorise them based on traits we perceive to be similar to other like individuals past experienced. It provides a way for us to structure personalities and infer behaviour and appropriate actions based on what we categorise/perceive a person as. Of course, it is also somewhat bad, but fuck that we all know that personality = perception by general society.
 
 Social categorisation::When we meet someone, the tendency to categorise them based upon interactions with perceived to be similar people previously interacted with.
-<!--SR:!2023-11-07,3,250-->
+<!--SR:!2023-11-14,7,250-->

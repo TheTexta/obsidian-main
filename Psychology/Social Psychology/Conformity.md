@@ -18,3 +18,5 @@ Factors of conformity::Incompetency/insecurity, admiration of group status, no p
 Seeing others disobey authority figures would likely lead to a::decrease on obedience
 
 What about a group changes obediences influence::Seeing a group of others doing something is more likely to influence the persons obedience
+
+Compliance::Going along with a request or demand even if you do not agree with the request
