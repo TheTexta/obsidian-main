@@ -14,3 +14,7 @@ From the [[Asch study of Conformity]] it was found that people are more likely t
 
 Factors of conformity::Incompetency/insecurity, admiration of group status, no prior response commitment, know others in group observe behaviour, are part of cultures which encourage group think, in a group wherein everyone agrees.
 <!--SR:!2023-11-07,1,208-->
+
+Seeing others disobey authority figures would likely lead to a::decrease on obedience
+
+What about a group changes obediences influence::Seeing a group of others doing something is more likely to influence the persons obedience
