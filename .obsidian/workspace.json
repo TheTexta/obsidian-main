@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Conformity.md",
+                "file": "Social-Desirability Bias.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Conformity.md",
+                "file": "Social-Desirability Bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Conformity.md",
+                "file": "Social-Desirability Bias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Conformity.md"
+                "file": "Social-Desirability Bias.md"
               }
             }
           },
@@ -259,11 +260,13 @@
   },
   "active": "9a7175165d1be075",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/Bias.md",
+    "Social-Desirability Bias.md",
+    "Psychology/Social Psychology/Conformity.md",
     "Psychology/Social Psychology/Attraction.md",
     "Psychology/Social Psychology/Love.md",
     "Psychology/Social Psychology/Aggression.md",
     "Psychology/Social Psychology/Realistic Conflict theory.md",
-    "Psychology/Social Psychology/Conformity.md",
     "Psychology/Social Psychology/Hindsight Bias.md",
     "Psychology/Social Psychology/Implicit Bias.md",
     "Psychology/Social Psychology/Attitude.md",
@@ -283,8 +286,6 @@
     "Psychology/Social Psychology/bobo doll experiment.md",
     "Psychology/Social Psychology/MAOA.md",
     "Psychology/Social Psychology/Bystander effect.md",
-    "Psychology/Social Psychology/Culture.md",
-    "Chemistry/dipole.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
