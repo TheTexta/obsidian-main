@@ -12,6 +12,8 @@ Once proximity has allowed for contact with another person, what most affects ou
 
 physical attractiveness as a factor for attraction::Your physical attraction for someone dictates how you first [[Perception|perceive]] someone else, the main factor for selecting who you choose to spend your time with.
 <!--SR:!2023-11-08,4,270-->
+
+Physical Attractiveness as a factor when dating::Initially, physical attraction is the highest predictor for dating success. 
 ### Similarity
 Proximity brings people close, [[Attraction|attractiveness]] sparks conversation but similarity is the final factor in whether or not the two will become close. This is why averageness is attractive?
 

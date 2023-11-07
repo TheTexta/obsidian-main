@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Aggression.md",
+                "file": "Psychology/Social Psychology/Attraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Aggression.md",
+                "file": "Psychology/Social Psychology/Attraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Aggression.md",
+                "file": "Psychology/Social Psychology/Attraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Aggression.md"
+                "file": "Psychology/Social Psychology/Attraction.md"
               }
             }
           },
@@ -260,12 +259,12 @@
   },
   "active": "9a7175165d1be075",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/Aggression.md",
     "Psychology/Social Psychology/Realistic Conflict theory.md",
     "Psychology/Social Psychology/Conformity.md",
     "Psychology/Social Psychology/Hindsight Bias.md",
     "Psychology/Social Psychology/Implicit Bias.md",
     "Psychology/Social Psychology/Attitude.md",
-    "Psychology/Social Psychology/Aggression.md",
     "Social Traps.md",
     "Psychology/Social Psychology/Conflict.md",
     "Psychology/Social Psychology/Stanford prison experiment.md",
