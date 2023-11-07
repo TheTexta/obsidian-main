@@ -11,6 +11,8 @@ Aggression is a form of [[social interaction]], wherein the person is harmfully 
 [[Amygdala]]s relation to aggression::The [[amygdala]] is involved in aggression producing the fight/flight response to perceived dangerous situations.
 <!--SR:!2023-11-07,3,250-->
 
+Decreased front lobe is associated with what::Increased aggression.
+
 tldr: when threatened we can get aggressive. 
 
 The [[prefrontal cortex|prefrontal cortexs]] relation to aggression::The [[prefrontal cortex]] is involved in the impulse control component of the brain, controlling how we respond to aggressive inclinations.

@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Realistic Conflict theory.md",
+                "file": "Psychology/Social Psychology/Aggression.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brown eye",
+                "query": "agg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Realistic Conflict theory.md",
+                "file": "Psychology/Social Psychology/Aggression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Realistic Conflict theory.md",
+                "file": "Psychology/Social Psychology/Aggression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Realistic Conflict theory.md"
+                "file": "Psychology/Social Psychology/Aggression.md"
               }
             }
           },
@@ -260,6 +260,7 @@
   },
   "active": "9a7175165d1be075",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/Realistic Conflict theory.md",
     "Psychology/Social Psychology/Conformity.md",
     "Psychology/Social Psychology/Hindsight Bias.md",
     "Psychology/Social Psychology/Implicit Bias.md",
@@ -285,7 +286,6 @@
     "Psychology/Social Psychology/Culture.md",
     "Chemistry/dipole.md",
     "Chemistry/Double Displacement Reactions.md",
-    "Psychology/Social Psychology/Asch study of Conformity.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
