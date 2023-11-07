@@ -6,4 +6,6 @@ Realistic Conflict Theory::The theory state that in increasing [[prejudice]] and
 Brown eye blue eye experiment::The experiment where the teacher separates the children by eye colour. Where rules and regulations were in place for brown eye which were harsher then what was given to the blue eyes.
 <!--SR:!2023-11-07,3,250-->
 
-Brown eye blue experiment was also known as the::Rosenthal and Jacobson's "Pygmalion in the Classroom"
+Brown eye blue experiment was also known as the::"Pygmalion in the Classroom"
+
+Who created the brown eye blue eye experiment::Rosenthal and Jacobson's 
