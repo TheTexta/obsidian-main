@@ -20,3 +20,10 @@ Seeing others disobey authority figures would likely lead to a::decrease on obed
 What about a group changes obediences influence::Seeing a group of others doing something is more likely to influence the persons obedience
 
 Compliance::Going along with a request or demand even if you do not agree with the request
+
+Difficult tasks make people more likely to what in relation to conformity::conform
+
+People with a desire to be accurate or correct are more likely to do what in relation to conformity?::Conform
+
+High internal locus of control relation to conformity::Individuals are more likely to feel that they are in control of there actions and therefor are less likely to conform.
+
