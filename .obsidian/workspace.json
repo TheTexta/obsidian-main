@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Conflict.md",
+                "file": "Psychology/Social Psychology/GRIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Conflict.md",
+                "file": "Psychology/Social Psychology/GRIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Conflict.md",
+                "file": "Psychology/Social Psychology/GRIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Conflict.md"
+                "file": "Psychology/Social Psychology/GRIT.md"
               }
             }
           },
@@ -269,8 +269,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9e3d2613e5143e5a",
+  "active": "6e0d0a2055900e4e",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/Conflict.md",
     "Psychology/Social Psychology/Discrimination.md",
     "Psychology/Social Psychology/Group Polarisation.md",
     "Psychology/Social Psychology/Heuristics.md",
@@ -297,7 +298,6 @@
     "Psychology/Social Psychology/Deindividuation.md",
     "Psychology/Social Psychology/Social Comparison.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
-    "Psychology/Social Psychology/Culture.md",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
     "Chemistry/c5h12.png",
