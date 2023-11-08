@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Social Traps.md",
+                "file": "GRIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/Social Traps.md",
+                "file": "GRIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/Social Traps.md",
+                "file": "GRIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/Social Traps.md"
+                "file": "GRIT.md"
               }
             }
           },
@@ -269,13 +269,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6e0d0a2055900e4e",
+  "active": "9e3d2613e5143e5a",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/Conflict.md",
+    "GRIT.md",
+    "Psychology/Social Psychology/Social Traps.md",
     "Psychology/Social Psychology/Looking glass self.md",
     "Psychology/Social Psychology/Social Cognition.md",
     "Psychology/Social Psychology/Social-Desirability Bias.md",
     "Psychology/Social Psychology/The prisoners dilemma.md",
-    "Psychology/Social Psychology/Social Traps.md",
     "Psychology/Social Psychology/Bias.md",
     "Psychology/Social Psychology/Conformity.md",
     "Psychology/Social Psychology/Attraction.md",
@@ -285,7 +287,6 @@
     "Psychology/Social Psychology/Hindsight Bias.md",
     "Psychology/Social Psychology/Implicit Bias.md",
     "Psychology/Social Psychology/Attitude.md",
-    "Psychology/Social Psychology/Conflict.md",
     "Psychology/Social Psychology/Stanford prison experiment.md",
     "Psychology/Social Psychology/Social influence.md",
     "Psychology/Social Psychology/Prejudice.md",
@@ -296,7 +297,6 @@
     "Psychology/Social Psychology/Self handicapping bias.md",
     "Psychology/Social Psychology/Social Identity Theory.md",
     "Psychology/Social Psychology/Pygmalion effect.md",
-    "Psychology/Social Psychology/bobo doll experiment.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",

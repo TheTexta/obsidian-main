@@ -30,5 +30,6 @@ Reducing tension through GRIT strategy. Grit consists of two main steps which ar
 
 actually relates to the earlier units, [[reciprocity norm]] and the [[foot in the door phenomena]]
 
-GRIT::*Graduated* and *Reciprocated* *Initiative* in *Tension* reduction.
-<!--SR:!2023-11-08,1,210-->
+[[GRIT]]
+
+Subordinate Goals::achievable tasks that require two groups to complete
