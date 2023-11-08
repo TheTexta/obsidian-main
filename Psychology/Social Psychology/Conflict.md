@@ -33,3 +33,4 @@ actually relates to the earlier units, [[reciprocity norm]] and the [[foot in th
 [[GRIT]]
 
 Subordinate Goals::achievable tasks that require two groups to complete
+<!--SR:!2023-11-10,3,268-->
