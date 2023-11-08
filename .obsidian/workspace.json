@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Combinations.md",
+                "file": "Economics/PINTSWCI.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Combinations.md",
+                "file": "Economics/PINTSWCI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Combinations.md",
+                "file": "Economics/PINTSWCI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Combinations.md"
+                "file": "Economics/PINTSWCI.md"
               }
             }
           },
@@ -281,8 +281,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6e0d0a2055900e4e",
+  "active": "390d3b6bfa0b06c0",
   "lastOpenFiles": [
+    "Economics/Supply Curve.md",
+    "Economics/Supply.md",
+    "Economics/Command Economy.md",
+    "Economics/Ceteris Paribus.md",
+    "Economics/Capital.md",
+    "Economics/AP Question Guidelines for Microeconomics.md",
+    "Mathematics/Combinations.md",
     "Mathematics/AP Calc Test Tips.md",
     "Mathematics/Derivative.md",
     "Mathematics/Continuity.md",
@@ -302,13 +309,6 @@
     "Psychology/Social Psychology/Social Identity Theory.md",
     "Psychology/Social Psychology/Social influence.md",
     "Psychology/Social Psychology/Stereotype.md",
-    "Psychology/Social Psychology/Attribution.md",
-    "Psychology/Social Psychology/Attraction.md",
-    "Psychology/Social Psychology/Attitude.md",
-    "Psychology/Social Psychology/Just world phenomenon.md",
-    "Psychology/Social Psychology/Actor Observer Bias.md",
-    "Psychology/Social Psychology/Discrimination.md",
-    "Psychology/Social Psychology/Group Polarisation.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
