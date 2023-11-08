@@ -1,1 +1,1 @@
-Statements made which are objectively true, without any opinion present. AS opposed to [[normative statements]]
+Statements made which are objectively true, without any opinion present. As opposed to [[normative statements]].
