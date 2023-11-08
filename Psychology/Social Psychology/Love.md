@@ -11,7 +11,7 @@ Intimacy component of love::The liking and similarity aspect of love.
 Passion component of love::The sexual desire aspect of love
 <!--SR:!2023-11-09,4,270-->
 Commitment component of love::The commitment mentally and physically to a person
-<!--SR:!2023-11-08,3,250-->
+<!--SR:!2023-11-15,7,250-->
 
 Sternberg's triangle theory of love::The triangle of love brings together all three aspects of love and relates them together.
 <!--SR:!2023-11-09,4,270-->

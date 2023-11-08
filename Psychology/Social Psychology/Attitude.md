@@ -9,7 +9,7 @@ How you feel about your perception of a person. Eg you perceive someone to be st
 **Behavioural Component** of [[attitude]]::The way you visibly react to the situation / idea.  "Playing sewerslvt a lot"
 <!--SR:!2023-11-10,4,246-->
 **Cognitive Component** of [[attitude]]::What a person thinks abut the idea, the way they logically process there attitude "Sewerslvt on top because she's so original"
-<!--SR:!2023-11-08,2,206-->
+<!--SR:!2023-11-12,4,206-->
 
 *Changing Attitude: The art of persuasion*
 [[Attitude|Attitudes]] can be changed, what a shocker, because they are learned that is. There are several factors which influence the effectiveness of a potential persuasion.
