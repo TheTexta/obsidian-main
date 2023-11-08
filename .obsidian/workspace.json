@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Supply Curve.md",
+                "file": "inelasticity.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Supply Curve.md",
+                "file": "inelasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Supply Curve.md",
+                "file": "inelasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Supply Curve.md"
+                "file": "inelasticity.md"
               }
             }
           },
@@ -283,8 +283,10 @@
   },
   "active": "390d3b6bfa0b06c0",
   "lastOpenFiles": [
-    "elasticity.md",
+    "Economics/Price Elasticity of Supply.md",
+    "inelasticity.md",
     "Economics/Supply Curve.md",
+    "elasticity.md",
     "Economics/PINTSWCI.md",
     "Economics/Supply.md",
     "Economics/Command Economy.md",
@@ -307,8 +309,6 @@
     "Psychology/Social Psychology/Pygmalion effect.md",
     "Psychology/Social Psychology/Social Cognition.md",
     "Psychology/Social Psychology/Social Interaction.md",
-    "Psychology/Social Psychology/Social Learning Theory.md",
-    "Psychology/Social Psychology/Social Identity Theory.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
