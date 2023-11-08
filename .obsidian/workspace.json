@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inelasticity.md",
+                "file": "elasticity.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inelasticity.md",
+                "file": "elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inelasticity.md",
+                "file": "elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inelasticity.md"
+                "file": "elasticity.md"
               }
             }
           },
@@ -283,8 +283,8 @@
   },
   "active": "390d3b6bfa0b06c0",
   "lastOpenFiles": [
-    "Economics/Price Elasticity of Supply.md",
     "inelasticity.md",
+    "Economics/Price Elasticity of Supply.md",
     "Economics/Supply Curve.md",
     "elasticity.md",
     "Economics/PINTSWCI.md",
