@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Price Elasticity of Supply.md",
+                "file": "Economics/Income elasticity of demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Price Elasticity of Supply.md",
+                "file": "Economics/Income elasticity of demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Price Elasticity of Supply.md",
+                "file": "Economics/Income elasticity of demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Price Elasticity of Supply.md"
+                "file": "Economics/Income elasticity of demand.md"
               }
             }
           },
@@ -283,9 +283,10 @@
   },
   "active": "390d3b6bfa0b06c0",
   "lastOpenFiles": [
+    "Economics/Cross Price Elasticity of Demand.md",
+    "Economics/Price Elasticity of Supply.md",
     "Elasticity of supply example.png",
     "Economics/Positive Statements.md",
-    "Economics/Price Elasticity of Supply.md",
     "inelasticity.md",
     "elasticity.md",
     "Economics/Supply Curve.md",
@@ -320,7 +321,6 @@
     "Economics/Unit Elasticity Curved.webp",
     "Economics/Demand Curves.jpg",
     "Economics/demand curve changes.png",
-    "Psychology/Psych 101/Pasted image 20231003191356.png",
-    "Psychology/Psych 101/Pasted image 20231003191245.png"
+    "Psychology/Psych 101/Pasted image 20231003191356.png"
   ]
 }

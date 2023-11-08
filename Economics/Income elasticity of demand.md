@@ -5,4 +5,4 @@ $$
 YED = \frac{\% \Delta Q_d \text{ Good X}}{\% \Delta Y \text{ Income}}
 $$
 
-positive value indicates normal good. negative value indicates inferior goods. 0 < YED < 1 indicates that demand diminishes in the quantity it increases by over time. 
+positive value indicates normal good. negative value indicates inferior goods. $0 < YED < 1$ indicates that demand diminishes in the quantity it increases by over time. More luxury goods have a higher $YED$ value.
