@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/PINTSWCI.md",
+                "file": "Economics/Supply Curve.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/PINTSWCI.md",
+                "file": "Economics/Supply Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/PINTSWCI.md",
+                "file": "Economics/Supply Curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/PINTSWCI.md"
+                "file": "Economics/Supply Curve.md"
               }
             }
           },
@@ -283,6 +283,7 @@
   },
   "active": "390d3b6bfa0b06c0",
   "lastOpenFiles": [
+    "Economics/PINTSWCI.md",
     "Economics/Supply Curve.md",
     "Economics/Supply.md",
     "Economics/Command Economy.md",
@@ -308,7 +309,6 @@
     "Psychology/Social Psychology/Social Learning Theory.md",
     "Psychology/Social Psychology/Social Identity Theory.md",
     "Psychology/Social Psychology/Social influence.md",
-    "Psychology/Social Psychology/Stereotype.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
