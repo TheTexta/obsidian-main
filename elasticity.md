@@ -1,0 +1,1 @@
+The tendency for a good to change in [[demand]] / [[supply]] due to changes in price. If a good is inelastic it does not change much in supply / demand relative to price.
