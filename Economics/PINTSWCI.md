@@ -1,6 +1,7 @@
 #microeconomics
 PINTSWCI::Memory acronym for external non price determining factors for [[supply curve]] shifts.
 
+PINTSWCI stands for::==Productivity==, ==Indirect Taxes==, ==Number of sellers==, ==Technology==, ==Subsidies==, ==Weather==, ==Costs of Productivity== and ==Interest Rates==.
 ### Components of PINTSWCI
 Productivity::Economic efficiency, lowering costs of production and making factors of production more efficient
 Indirect Taxes::Spending taxes on goods and services
