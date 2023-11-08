@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/GRIT.md",
+                "file": "Psychology/Social Psychology/Conflict.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Social Psychology/GRIT.md",
+                "file": "Psychology/Social Psychology/Conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Social Psychology/GRIT.md",
+                "file": "Psychology/Social Psychology/Conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Social Psychology/GRIT.md"
+                "file": "Psychology/Social Psychology/Conflict.md"
               }
             }
           },
@@ -269,8 +269,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6e0d0a2055900e4e",
+  "active": "9e3d2613e5143e5a",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/GRIT.md",
+    "Psychology/Social Psychology/Social identification.md",
+    "Psychology/Social Psychology/Victim Blaming.md",
+    "Psychology/Social Psychology/Conformity.md",
+    "Psychology/Social Psychology/Prejudice.md",
+    "Psychology/Social Psychology/Social Roles.md",
+    "Psychology/Social Psychology/Pygmalion effect.md",
+    "Psychology/Social Psychology/Social Cognition.md",
+    "Psychology/Social Psychology/Social Interaction.md",
+    "Psychology/Social Psychology/Social Learning Theory.md",
+    "Psychology/Social Psychology/Social Identity Theory.md",
+    "Psychology/Social Psychology/Social influence.md",
+    "Psychology/Social Psychology/Stereotype.md",
+    "Psychology/Social Psychology/Attribution.md",
+    "Psychology/Social Psychology/Attraction.md",
+    "Psychology/Social Psychology/Attitude.md",
+    "Psychology/Social Psychology/Just world phenomenon.md",
+    "Psychology/Social Psychology/Actor Observer Bias.md",
     "Psychology/Social Psychology/Conflict.md",
     "Psychology/Social Psychology/Discrimination.md",
     "Psychology/Social Psychology/Group Polarisation.md",
@@ -279,24 +297,6 @@
     "Psychology/Social Psychology/ethnocentrism.md",
     "Psychology/Social Psychology/Social inhibition.md",
     "Psychology/Social Psychology/Self effacing bias.md",
-    "Psychology/Social Psychology/Social loafing.md",
-    "Psychology/Social Psychology/Social Psychology.md",
-    "November study plan.md",
-    "Psychology/Social Psychology/Informational Social Influence.md",
-    "Psychology/Social Psychology/Stereotype.md",
-    "Psychology/Social Psychology/Obedience.md",
-    "Psychology/Social Psychology/Hostile Aggression.md",
-    "Psychology/Social Psychology/Self handicapping bias.md",
-    "Psychology/Social Psychology/Explicit Bias.md",
-    "Psychology/Social Psychology/Cross Cultural bias.md",
-    "Psychology/Social Psychology/Personal Control.md",
-    "Psychology/Social Psychology/Halo effect.md",
-    "Psychology/Social Psychology/Primacy Effect.md",
-    "Psychology/Social Psychology/Social Categorisation.md",
-    "Psychology/Social Psychology/Instrumental Aggression.md",
-    "Psychology/Social Psychology/Social Learning Theory.md",
-    "Psychology/Social Psychology/Deindividuation.md",
-    "Psychology/Social Psychology/Social Comparison.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",

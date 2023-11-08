@@ -1,4 +1,4 @@
-#flashcards 
+#flashcards #urgent
 Attribution::[[Perception|Perceiving]] the causes of [[behaviour]].
 <!--SR:!2023-11-10,3,210-->
 #### Dispositional vs Situational Attribution

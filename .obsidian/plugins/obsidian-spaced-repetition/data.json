@@ -4,7 +4,8 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#flashcards"
+      "#flashcards",
+      "#urgent"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,

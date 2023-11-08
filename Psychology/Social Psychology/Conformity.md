@@ -1,4 +1,4 @@
-#flashcards 
+#flashcards #urgent
 Conformity::Changing ones [[attitude]] or [[behaviour]] to match those around you.
 <!--SR:!2023-11-11,4,230-->
 

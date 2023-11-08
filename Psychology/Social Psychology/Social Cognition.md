@@ -1,4 +1,4 @@
-#flashcards 
+#flashcards #urgent
 Social Cognition::A topic within [[Social Psychology]] focussing on how people store, apply and process information on other people and social situations. The role which cognitive processes play on social interactions. [[Autism|autistic]] af. Focuses on attribution, perception and attitudes affects how we perceive others and operate socially.
 <!--SR:!2023-11-08,2,210-->
 ### Attribution, Person Perception, and Attitudes

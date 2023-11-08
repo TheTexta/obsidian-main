@@ -1,4 +1,4 @@
-#flashcards 
+#flashcards #urgent
 Social Influence::Within the topic of [[Social Psychology]], social influence is defined by forces influencing behaviour relating to individuals present in subjects lives. Forms of social influence include: [[Conformity]], [[Obedience]] and [[Group Behaviour]].
 <!--SR:!2023-11-08,2,210-->
 
