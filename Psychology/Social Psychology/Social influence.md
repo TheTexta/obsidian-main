@@ -3,7 +3,7 @@ Social Influence::Within the topic of [[Social Psychology]], social influence is
 <!--SR:!2023-11-08,2,210-->
 
 Topics of Social Influence::[[Conformity]], [[obedience]] and [[group behaviour]].
-<!--SR:!2023-11-07,1,228-->
+<!--SR:!2023-11-08,1,208-->
 ## [[Informational Social Influence]]
 Sometimes people conform in order to be accurate, groups provide information and only a very stubborn person will never listen to others.
 ## [[Normative Social Influence]]

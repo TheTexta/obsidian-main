@@ -6,10 +6,10 @@ To do something nice completely selflessly. You can argue there is no such thing
 The [[bystander effect]], when alone you're more likely to help someone. 
 
 Altruism::Selfless nice actions on another, evolutionary psychologists believe altruistic behaviour to be a method for protecting genetic material for species, finding the temporoparietal junction to be larger in those altruistic.
-<!--SR:!2023-11-07,3,250-->
+<!--SR:!2023-11-15,8,250-->
 
 Temporoparietal Junction::A part of the brain correlating positively in size with altruistic behaviour.
-<!--SR:!2023-11-07,3,250-->
+<!--SR:!2023-11-14,7,250-->
 
 # Why do people help those if they aren't altruistic.
 ### Helping - Self interest
@@ -22,6 +22,6 @@ The reciprocity norm is the expectation that you help someone who has helped the
 The social responsibility norm is the expectation that those in a society are expected to all work together equally for a greater good. This norm is at a tug of war with the [[Bystander effect]], instead being the belief that we should help others regardless of the cost associated with ourselves.
 
 Non altruistic behaviour from self interest::Someone who gains something from helping someone, maximising self benefit.
-<!--SR:!2023-11-07,3,250-->
+<!--SR:!2023-11-17,10,250-->
 Non altruistic behaviour from socialisation::Social expectation says we should help regardless of cost.
-<!--SR:!2023-11-07,3,250-->
+<!--SR:!2023-11-15,8,250-->

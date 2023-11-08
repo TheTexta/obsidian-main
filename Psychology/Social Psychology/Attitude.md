@@ -2,10 +2,10 @@
 How you feel about your perception of a person. Eg you perceive someone to be stupid therefor you hate them. Attitude is about the predisposed emotion one feels towards an idea. When you meet a retard you feel sorry for them, a predisposed emotion towards an idea. When you see a homeless person feel disgusted at the post industrial complex which produces these issues.
 
 [[Attitude]]::Feelings which predispose our emotional response to a given situation, person, idea or object
-<!--SR:!2023-11-07,1,226-->
+<!--SR:!2023-11-10,3,246-->
 ### The 3 components of attitude:
 **Affective component** of [[attitude]]::The feel part of attitude, the way you feel towards something internally "Being happy that sewerslvt is playing".
-<!--SR:!2023-11-07,2,227-->
+<!--SR:!2023-11-11,4,227-->
 **Behavioural Component** of [[attitude]]::The way you visibly react to the situation / idea.  "Playing sewerslvt a lot"
 <!--SR:!2023-11-10,4,246-->
 **Cognitive Component** of [[attitude]]::What a person thinks abut the idea, the way they logically process there attitude "Sewerslvt on top because she's so original"
@@ -30,10 +30,10 @@ Elaboration likelihood model states that the way people perceive information aff
 Changing a persons attitude involves getting there **compliance** with your own. There are various techniques which people can use to persuade someone.
 
 Foot-in-the-door phenomenon::People are more persuadable when you start off by giving them a simple achievable task/idea, then elaborating to the main topic later on.
-<!--SR:!2023-11-07,3,266-->
+<!--SR:!2023-11-14,7,266-->
 
 Door-in-the-face phenomenon::An unreasonable request followed by a more reasonable and achievable one. The second is more likely to be completed after introducing the first.
-<!--SR:!2023-11-07,3,266-->
+<!--SR:!2023-11-16,9,266-->
 
 Reciprocity norm::When someone does good to you you feel more obliged to then help then and do good to them. "Do onto others as you would do to you".
 <!--SR:!2023-11-08,3,230-->

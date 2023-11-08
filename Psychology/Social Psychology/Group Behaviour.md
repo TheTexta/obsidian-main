@@ -14,7 +14,7 @@ Passive group behaviour::Phenomena in the presence of others without direct inte
 
 ### Active
 Active group behaviour::Phenomena when interacting directlywith a group
-<!--SR:!2023-11-07,3,250-->
+<!--SR:!2023-11-16,9,250-->
 * [[Groupthink]] - Collectively the group avoids discussion due to fear of outcast from more assertive group members. avoiding a behaviour to feel a part of the group, *not changing though*.
 * [[Group Polarisation]] - When in a group, the tendency to polarise ideas discussed in a group. For ideas to become more extreme for the sake of the group.
 * [[Conformity]] - When in a group a person changes there viewpoint to the more normative group perspective. Changing your [[Behaviour]] to feel a part of the group.

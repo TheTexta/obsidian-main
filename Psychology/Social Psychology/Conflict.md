@@ -12,7 +12,7 @@ Mirror Image Perceptions::Mutual views held by conflicting people wherein each [
 
 ### Peacekeeping
 Peacekeeping::Research suggests that peacekeeping can be achieved through *contact*, *cooperation*, *communication*, and *conciliation*.
-<!--SR:!2023-11-07,1,230-->
+<!--SR:!2023-11-08,1,210-->
 
 contact
 contact works in reducing conflict so long as it is positive. 
@@ -31,4 +31,4 @@ Reducing tension through GRIT strategy. Grit consists of two main steps which ar
 actually relates to the earlier units, [[reciprocity norm]] and the [[foot in the door phenomena]]
 
 GRIT::*Graduated* and *Reciprocated* *Initiative* in *Tension* reduction.
-<!--SR:!2023-11-07,1,230-->
+<!--SR:!2023-11-08,1,210-->

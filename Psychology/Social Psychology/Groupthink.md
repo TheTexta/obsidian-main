@@ -1,6 +1,6 @@
 #flashcards 
 Groupthink::when individuals perceive there to be a group consensus on an issue without individually believing it to be correct, optimal or valid.
-<!--SR:!2023-11-07,3,250-->
+<!--SR:!2023-11-15,8,250-->
 
 What constitutes group think?
 * Invulnerability - members feel they cannot be punished for there actions

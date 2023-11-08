@@ -2,7 +2,7 @@
 Two psychologists John darley and Bibb latene looked into the horific nyc incident involving [[Kitty Genovese]] and coined the term the bystander effect. in one of those experiments they staged a fake emergency and measured the number of people and there reactions as the number of people changed, as the group got larger the responses dampened. They concluded that there was a diffusion of responsibility when other people are involved in a group. 
 
 Bystander effect::the tendency to not help those in need when a part of a larger group
-<!--SR:!2023-11-07,3,250-->
+<!--SR:!2023-11-13,6,250-->
 Kitty Genovese::The girl who was raped and killed in queens despite the public noticing. An example of the bystander effect
 <!--SR:!2023-11-08,3,250-->
 

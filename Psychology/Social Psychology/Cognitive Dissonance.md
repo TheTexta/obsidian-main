@@ -1,6 +1,6 @@
 #flashcards 
 Cognitive Dissonance::The mental conflict which occurs when our actions do not align with our own [[Attitude|attitudes]] / beliefs.
-<!--SR:!2023-11-07,3,250-->
+<!--SR:!2023-11-14,7,250-->
 
 Based on the theory that people want to have consistent [[behaviour]] that matches there [[Attitude|attitudes]] and beliefs. A lack of consistency causes internal conflict, motivating individuals to return to there base state.
 
