@@ -96,6 +96,18 @@
             }
           },
           {
+            "id": "dd0c1d659ef7185b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supply Demand Curves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a9782e075db18fca",
             "type": "leaf",
             "state": {
@@ -144,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Income elasticity of demand.md",
+                "file": "Supply Demand Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Income elasticity of demand.md",
+                "file": "Supply Demand Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Income elasticity of demand.md"
+                "file": "Supply Demand Curves.md"
               }
             }
           },
@@ -281,8 +293,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "390d3b6bfa0b06c0",
+  "active": "dd0c1d659ef7185b",
   "lastOpenFiles": [
+    "Economics/Income elasticity of demand.md",
+    "Supply Demand Curves.md",
     "Economics/Cross Price Elasticity of Demand.md",
     "Economics/Price Elasticity of Supply.md",
     "Elasticity of supply example.png",
@@ -308,8 +322,6 @@
     "Psychology/Social Psychology/Victim Blaming.md",
     "Psychology/Social Psychology/Conformity.md",
     "Psychology/Social Psychology/Prejudice.md",
-    "Psychology/Social Psychology/Social Roles.md",
-    "Psychology/Social Psychology/Pygmalion effect.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
