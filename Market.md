@@ -1,0 +1,1 @@
+Any place where buyers and sellers meet to exchange goods or services, can be physical or virtual.
