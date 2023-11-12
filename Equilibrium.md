@@ -3,6 +3,7 @@ Equilibrium is the process of [[supply]] and [[demand]] shifting in relation to 
 When [[supply]] and [[demand]] shift, isolated or double, a new point of equilibrium is reached. Although [[disequilibrium]] will be shortly present as the [[market]] adjusts.
 
 ### Isolated Shifts
-An shift in the supply or demand by itself can cause one of four resulting diagrams.
+An shift in the [[supply]] or [[demand]] by itself can cause one of four resulting diagrams.
 
 ### Double Shifts
+A shift in both [[supply]] and [[demand]] leads to a double shift.
