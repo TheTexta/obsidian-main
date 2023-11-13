@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equilibrium.md",
+                "file": "ARSI.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equilibrium.md",
+                "file": "ARSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equilibrium.md",
+                "file": "ARSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equilibrium.md"
+                "file": "ARSI.md"
               }
             }
           },
@@ -328,9 +328,13 @@
   "active": "b3211ff59932b3c1",
   "lastOpenFiles": [
     "Market.md",
+    "ARSI.md",
+    "price mechanism.md",
+    "Economics/Market.md",
+    "Equilibrium.md",
+    "Screenshot 2023-11-12 at 2.34.11 PM.png",
     "Disequilibrium.md",
     "Screenshot 2023-11-12 at 2.28.36 PM.png",
-    "Equilibrium.md",
     "Supply Demand Curves.md",
     "Economics/Income elasticity of demand.md",
     "Economics/Cross Price Elasticity of Demand.md",
@@ -352,9 +356,6 @@
     "Mathematics/Continuity.md",
     "Mathematics/Even Functions.md",
     "Psychology/Social Psychology/Other-Race Effect.md",
-    "Psychology/Social Psychology/Conflict.md",
-    "Psychology/Social Psychology/GRIT.md",
-    "Psychology/Social Psychology/Social identification.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
@@ -364,7 +365,6 @@
     "Psychology/Social Psychology",
     "Economics/Supply curves.png",
     "Economics/Unit Elasticity Curved.webp",
-    "Economics/Demand Curves.jpg",
-    "Economics/demand curve changes.png"
+    "Economics/Demand Curves.jpg"
   ]
 }
