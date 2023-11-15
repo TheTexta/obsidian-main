@@ -140,6 +140,66 @@
             }
           },
           {
+            "id": "8db30d08446bedf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Specific Gravity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12a1f3c5cc7383c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Biological Psychology/History of Biological Psychology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "352178597814804d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nerve cell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da05a44680cb0585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glial Cells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d2f98a50ccdb4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Impulses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a9782e075db18fca",
             "type": "leaf",
             "state": {
@@ -188,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -254,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARSI.md",
+                "file": "Neural Impulses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARSI.md",
+                "file": "Neural Impulses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARSI.md"
+                "file": "Neural Impulses.md"
               }
             }
           },
@@ -325,10 +385,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b3211ff59932b3c1",
+  "active": "2d2f98a50ccdb4ab",
   "lastOpenFiles": [
-    "Market.md",
+    "Glial Cells.md",
+    "Neural Impulses.md",
+    "Nerve cell.md",
+    "Psychology/Biological Psychology/Neuron.md",
+    "Neuron.md",
+    "Psychology/Biological Psychology/History of Biological Psychology.md",
+    "Specific Gravity.md",
+    "Psychology/Biological Psychology",
     "ARSI.md",
+    "Market.md",
     "price mechanism.md",
     "Economics/Market.md",
     "Equilibrium.md",
@@ -349,13 +417,6 @@
     "Economics/Command Economy.md",
     "Economics/Ceteris Paribus.md",
     "Economics/Capital.md",
-    "Economics/AP Question Guidelines for Microeconomics.md",
-    "Mathematics/Combinations.md",
-    "Mathematics/AP Calc Test Tips.md",
-    "Mathematics/Derivative.md",
-    "Mathematics/Continuity.md",
-    "Mathematics/Even Functions.md",
-    "Psychology/Social Psychology/Other-Race Effect.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
