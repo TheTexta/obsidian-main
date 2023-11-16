@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Antipsychotics.md",
+                "file": "Excitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Antipsychotics.md",
+                "file": "Excitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Antipsychotics.md",
+                "file": "Excitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Antipsychotics.md"
+                "file": "Excitation.md"
               }
             }
           },
@@ -399,9 +399,11 @@
   },
   "active": "21ebdf750155d7e1",
   "lastOpenFiles": [
+    "Neurotransmitters.md",
+    "Excitation.md",
+    "Re-uptake inhibitor.md",
     "Antagonist.md",
     "Antipsychotics.md",
-    "Neurotransmitters.md",
     "Agonist.md",
     "inhibition.md",
     "Neurotransmission.md",
@@ -426,8 +428,6 @@
     "Disequilibrium.md",
     "Screenshot 2023-11-12 at 2.28.36 PM.png",
     "Supply Demand Curves.md",
-    "Economics/Income elasticity of demand.md",
-    "Economics/Cross Price Elasticity of Demand.md",
     "Elasticity of supply example.png",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",

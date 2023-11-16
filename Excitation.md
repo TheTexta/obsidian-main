@@ -1,0 +1,1 @@
+The process of a drug increasing the length of release / or releasing full stop more of a drug

@@ -8,6 +8,7 @@ Chemicals which transfer signals.
 How are they made?
 The nerve cell makes the chemicals and stores them in [[synaptic vesicles]], little bubbles in the cells where the neurotransmitters are stored.
 
+
 How are they released?
 The [[action potential]], triggers calcium channels to open up and calcium will rush into the cell. Causing the [[synaptic vesicles|vesicles]] to join the [[presynaptic membrane]]. Once fused the [[neurotransmitters]] will release.
 
@@ -29,7 +30,7 @@ Types of neurotransmitters
 	 - Oversupply is linked to schizophrenia
  - *Serotonin*
 	 - Mood, Hunger, Sleep, and arousal
-	 - Undersuppy linked to depression, drugs which raise serotinin levels are used to treat depression eg lexapro, ssris.
+	 - Undersupply linked to depression, drugs which raise [[serotonin]] levels are used to treat depression eg lexapro, ssris.
  - Norepinephrine - same as addrenalin
 	 - Alertness, and arousal
 	 - undersupply can epress
@@ -46,7 +47,6 @@ Neurotransmitters have mimics, other chemicals can do exactly what neurotransmit
 * [[Agonist]], a drug that increases the length of the neurotransmitter or acts as one.
 * [[Antagonist]], a drug that blocks or decreases the function of a neurotransmitter
 * [[Re-uptake inhibitor]], makes the re-uptake of serotonin slow/stop.
-	* Inhibitors block the reuptake of neurotransmitters. Allowing for the neurotransmitter to stay there for longer and cause more affects.
 
 How agonists and antagonists work
 Agonists and antagonists work based on shape, agonists have the same binding shape for a receptor. Antagonists have the same shape but close the receptor.
