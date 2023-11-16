@@ -1,0 +1,1 @@
+Stopping an [[action potential]] signal through the binding of [[Neurotransmitters]]. Opposite of [[Excitation]].

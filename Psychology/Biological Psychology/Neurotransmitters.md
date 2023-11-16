@@ -10,10 +10,10 @@ The nerve cell makes the chemicals and stores them in [[synaptic vesicles]], lit
 
 
 How are they released?
-The [[action potential]], triggers calcium channels to open up and calcium will rush into the cell. Causing the [[synaptic vesicles|vesicles]] to join the [[presynaptic membrane]]. Once fused the [[neurotransmitters]] will release.
+The [[action potential]], triggers calcium channels to open up and calcium will rush into the cell. Causing the [[synaptic vesicles|vesicles]] to join the [[presynaptic membrane]]. Once fused the [[Neurotransmitters]] will release.
 
 How are they received?
-Once they are released, they are received by receptors, which are specially designed / shaped to only take in one type of [[neurotransmitters|neurotransmitter]]. Once received, a [[action potential]] is triggered.
+Once they are released, they are received by receptors, which are specially designed / shaped to only take in one type of [[Neurotransmitters|neurotransmitter]]. Once received, a [[action potential]] is triggered.
 
 How are they deactivated and recycled?
 Neurotransmitters floating in the space between need to be deactivated. Either they float away or are broken down by enzymes or they are re-uptaken. Re-uptake means that the neurotransmitters are collected by a special cell, and taken back to the terminal.
@@ -21,27 +21,14 @@ Neurotransmitters floating in the space between need to be deactivated. Either t
 If a neurotransmitter is released while a action potential is already happening, the signal is hypo-polarised, which stops the signal. Which is called [[inhibition]]. [[Excitation]] is the opposite, when the transmitters cause a signal to start. 
 
 Types of neurotransmitters
- - Acetylcholine (ACh)
-	 - Movement, learning, memory
-	 - Alzheimers, ACh-producing neurons deteriorate
- - Dopamine
-	 - Movement, learning, attention, and emotion
-	 - Parkisons linked to parkisons. 
-	 - Oversupply is linked to schizophrenia
- - *Serotonin*
-	 - Mood, Hunger, Sleep, and arousal
-	 - Undersupply linked to depression, drugs which raise [[serotonin]] levels are used to treat depression eg lexapro, ssris.
- - Norepinephrine - same as addrenalin
-	 - Alertness, and arousal
-	 - undersupply can epress
- - GABA (gamma-aminobutyric acid)
-	 - Major inhibitor neurotransmitter
-	 - Undersupply linked to seizures, tremors and insomnia.
- - Glutamate
-	 - A major excitatory neurotransmitter, involved in memory
-	 - Oversupply can overstimulate the brain, producing migraines or seizures
- - Endorphins
-	 - Neurotransmitters that influence the perception of pain or pleasure.
+- [[Acetylcholine]] (ACh)
+- [[Dopamine]]
+- *[[Serotonin]]*
+- [[Norepinephrine]]
+- [[Epinephrine]]
+- GABA ([[gamma-aminobutyric acid]])
+- [[Glutamate]]
+- [[Endorphins]]
 
 Neurotransmitters have mimics, other chemicals can do exactly what neurotransmitters do. Like drugs.
 * [[Agonist]], a drug that increases the length of the neurotransmitter or acts as one.
