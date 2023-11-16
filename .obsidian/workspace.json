@@ -200,6 +200,18 @@
             }
           },
           {
+            "id": "21ebdf750155d7e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neurotransmitters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a9782e075db18fca",
             "type": "leaf",
             "state": {
@@ -248,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -314,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Impulses.md",
+                "file": "Neurotransmitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neural Impulses.md",
+                "file": "Neurotransmitters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neural Impulses.md"
+                "file": "Neurotransmitters.md"
               }
             }
           },
@@ -385,10 +397,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2d2f98a50ccdb4ab",
+  "active": "21ebdf750155d7e1",
   "lastOpenFiles": [
-    "Glial Cells.md",
+    "inhibition.md",
+    "Neurotransmitters.md",
+    "Neurotransmission.md",
+    "synapse.md",
+    "synaptic gap.md",
+    "synaptic cleft.md",
+    "terminal.md",
     "Neural Impulses.md",
+    "Glial Cells.md",
     "Nerve cell.md",
     "Psychology/Biological Psychology/Neuron.md",
     "Neuron.md",
@@ -410,13 +429,6 @@
     "Elasticity of supply example.png",
     "Economics/Positive Statements.md",
     "inelasticity.md",
-    "elasticity.md",
-    "Economics/Supply Curve.md",
-    "Economics/PINTSWCI.md",
-    "Economics/Supply.md",
-    "Economics/Command Economy.md",
-    "Economics/Ceteris Paribus.md",
-    "Economics/Capital.md",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",
