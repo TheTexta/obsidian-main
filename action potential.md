@@ -1,0 +1,1 @@
+The process of the [[neuron]] firing causing the decrease / increase in energy, sending a single down the [[neuron]], along the [[axon]]. 

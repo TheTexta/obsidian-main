@@ -1,1 +1,1 @@
-The process of a drug increasing the length of release / or releasing full stop more of a drug
+The process of a [[neurotransmitters|neurotransmitter]] reacting to send a signal through the [[neuron]], the [[action potential]].

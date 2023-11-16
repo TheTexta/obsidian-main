@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equilibrium.md",
+                "file": "Economics/Equilibrium.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disequilibrium.md",
+                "file": "Economics/Disequilibrium.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excitation.md",
+                "file": "Economics/Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excitation.md",
+                "file": "Economics/Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excitation.md",
+                "file": "Economics/Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excitation.md"
+                "file": "Economics/Market.md"
               }
             }
           },
@@ -399,11 +399,19 @@
   },
   "active": "21ebdf750155d7e1",
   "lastOpenFiles": [
-    "Neurotransmitters.md",
+    "Economics/Market 1.md",
+    "Economics/Market.md",
+    "Economics/Disequilibrium.md",
+    "Antipsychotics.md",
+    "multiple sclerosis.md",
+    "myelin sheath.md",
+    "axon.md",
+    "action potential.md",
+    "Neural Impulses.md",
     "Excitation.md",
+    "Neurotransmitters.md",
     "Re-uptake inhibitor.md",
     "Antagonist.md",
-    "Antipsychotics.md",
     "Agonist.md",
     "inhibition.md",
     "Neurotransmission.md",
@@ -411,7 +419,6 @@
     "synaptic gap.md",
     "synaptic cleft.md",
     "terminal.md",
-    "Neural Impulses.md",
     "Glial Cells.md",
     "Nerve cell.md",
     "Psychology/Biological Psychology/Neuron.md",
@@ -419,16 +426,9 @@
     "Psychology/Biological Psychology/History of Biological Psychology.md",
     "Specific Gravity.md",
     "Psychology/Biological Psychology",
-    "ARSI.md",
-    "Market.md",
-    "price mechanism.md",
-    "Economics/Market.md",
-    "Equilibrium.md",
     "Screenshot 2023-11-12 at 2.34.11 PM.png",
-    "Disequilibrium.md",
     "Screenshot 2023-11-12 at 2.28.36 PM.png",
-    "Supply Demand Curves.md",
-    "Elasticity of supply example.png",
+    "Economics/Elasticity of supply example.png",
     "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101/Abraham Maslow.png",
     "Psychology/Psych 101",

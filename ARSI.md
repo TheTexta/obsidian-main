@@ -1,4 +1,4 @@
-The four functions operating in a [[market]]/[[price mechanism]].
+The four functions operating in a [[Market 1]]/[[price mechanism]].
 
 # Allocates scarce resources [[Economic Efficiency|efficiently]]
 # Rations excess [[supply]]/[[demand]]

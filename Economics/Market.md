@@ -1,1 +1,3 @@
-Forms when multiple party exchange things of value ([[Goods|goods]]). For markets to function properly you need [[Property Rights]], the idea that things can be owned. Also referred to as the [[price mechanism]].
+Forms when multiple party exchange things of value ([[Goods|goods]]). For markets to function properly you need [[Property Rights]], the idea that things can be owned. Also referred to as the [[price mechanism]]. Any place where buyers and sellers meet to exchange [[goods]] or services, can be physical or virtual.
+
+There are four functions which operate in a market, which can be remembered through the [[ARSI]] pneumonic.
