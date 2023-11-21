@@ -1,1 +1,2 @@
-Where individuals weigh in costs and benefits before making a decision.
+#microeconomics 
+Cost-Benefit Analysis::Where individuals weigh in costs and benefits before making a decision. Taking into account both [[Implicit Cost|implicit]] and [[Explicit Cost|explicit costs]], as well as [[Opportunity Cost|opportunity costs]].

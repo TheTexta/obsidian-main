@@ -1,4 +1,5 @@
-Relies on the government to make all economic decisions, allocating/distributing resources.
+#microeconomics 
+Command Economy::Relies on the government to make all economic decisions, allocating/distributing resources.
 
 ## Examples
 North Korea

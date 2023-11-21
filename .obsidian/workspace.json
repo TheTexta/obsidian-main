@@ -8,259 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a77085c7db9423e",
+            "id": "2cc78681ea891e25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Social influence.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "390d52023a742f03",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d6203b7f5ed8ade4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "08564041a5047a5f",
+            "id": "789c0d8fa0c3411d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Group Polarisation.md",
+                "file": "Economics/Property Rights.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "08b25a3bd4edf49f",
+            "id": "c68fb80fe02d5d99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Bystander effect.md",
+                "file": "Economics/Consumer Surplus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a7175165d1be075",
+            "id": "43a27f679f8ca778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Social Psychology/Social-Desirability Bias.md",
+                "file": "Economics/Producer Surplus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e3d2613e5143e5a",
+            "id": "fa66f95b3c3d9374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Derivative.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "390d3b6bfa0b06c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Income elasticity of demand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd0c1d659ef7185b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c215616e7c5d69b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Equilibrium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17cabc49e47ab8d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Disequilibrium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3211ff59932b3c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/ARSI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8db30d08446bedf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Specific Gravity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12a1f3c5cc7383c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/History of Biological Psychology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "352178597814804d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Nerve cell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da05a44680cb0585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Glial Cells.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d2f98a50ccdb4ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Neural Impulses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21ebdf750155d7e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Neurotransmitters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9782e075db18fca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Social Psychology/Actor Observer Bias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6deb2c963d1e3233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Social Psychology/Explicit Bias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee75773c9e552124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Social Psychology/Implicit Bias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0adddf48a8f39db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Social Psychology/Scapegoat Theory.md",
+                "file": "Economics/Community Surplus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -326,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/Neurotransmitters.md",
+                "file": "Economics/Property Rights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/Neurotransmitters.md",
+                "file": "Economics/Property Rights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/Neurotransmitters.md"
+                "file": "Economics/Property Rights.md"
               }
             }
           },
@@ -397,36 +205,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "21ebdf750155d7e1",
+  "active": "789c0d8fa0c3411d",
   "lastOpenFiles": [
-    "Acetylcholine.md",
-    "Psychology/Biological Psychology/Neurotransmitters.md",
-    "Dopamine.md",
-    "Serotonin.md",
-    "Norepinephrine.md",
-    "Epinephrine.md",
-    "gamma-aminobutyric acid.md",
-    "Glutamate.md",
-    "Endorphins.md",
-    "Economics/inelasticity.md",
-    "Psychology/Biological Psychology/terminal.md",
+    "Economics/Productive Efficiency.md",
+    "Economics/Production Possibilities Curve.md",
+    "Economics/Production.md",
+    "Economics/Economics Resources.md",
+    "Economics/Economic System.md",
+    "Economics/Economic Efficiency.md",
+    "Economics/Economic Advantage.md",
+    "Comparative Advantage.md",
+    "Absolute Advantage.md",
+    "Economics/Disequilibrium.md",
+    "Economics/Demand Curves.jpg",
+    "Economics/demand curve changes.png",
+    "Economics/Demand Curve.md",
+    "Economics/Demand.md",
+    "Economics/Cross Price Elasticity of Demand.md",
+    "Economics/Costs.md",
+    "Economics/Cost-Benefit Analysis.md",
+    "Economics/consumption expenditure.md",
+    "Economics/Consumers.md",
+    "Economics/Consumer Surplus.md",
+    "Economics/Command Economy.md",
+    "Economics/Community Surplus.md",
+    "Economics/Ceteris Paribus.md",
+    "Economics/Capital.md",
     "Economics/ARSI.md",
-    "Psychology/Biological Psychology/Neurotransmission.md",
-    "November study plan.md",
-    "Economics/price mechanism.md",
-    "Psychology/Biological Psychology/Specific Gravity.md",
+    "Economics/AP Question Guidelines for Microeconomics.md",
+    "Economics/Allocative Efficiency.md",
+    "Test.md",
+    "Consumer Producer Surplus.png",
     "Economics/Screenshot 2023-11-12 at 2.34.11 PM.png",
     "Economics/Screenshot 2023-11-12 at 2.28.36 PM.png",
-    "Psychology/Biological Psychology/Supply Demand Curves.md",
-    "Economics/Market.md",
-    "Economics/Market 1.md",
-    "Economics/Disequilibrium.md",
-    "Psychology/Biological Psychology/Antipsychotics.md",
-    "Psychology/Biological Psychology/multiple sclerosis.md",
-    "Psychology/Biological Psychology/myelin sheath.md",
-    "Psychology/Biological Psychology/axon.md",
-    "action potential.md",
-    "Psychology/Biological Psychology/Neural Impulses.md",
     "Psychology/Biological Psychology",
     "Economics/Elasticity of supply example.png",
     "Psychology/Social Psychology/Triangular theory of Love.png",
@@ -435,9 +246,6 @@
     "Chemistry/c5h12.png",
     "Chemistry/arrow and delta dipole representation.png",
     "Physics",
-    "Psychology/Social Psychology",
-    "Economics/Supply curves.png",
-    "Economics/Unit Elasticity Curved.webp",
-    "Economics/Demand Curves.jpg"
+    "Psychology/Social Psychology"
   ]
 }

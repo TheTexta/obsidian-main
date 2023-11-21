@@ -1,0 +1,1 @@
+Maintaining equilibrium internally. maintenance of body temp within a given range.

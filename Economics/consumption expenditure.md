@@ -1,1 +1,2 @@
-How individual and household consumers spend there money, whether they save or spend.
+#microeconomics 
+Consumption Expenditure::How individual and household consumers spend there money, whether they save or spend.
