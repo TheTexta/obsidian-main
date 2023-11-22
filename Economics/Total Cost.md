@@ -1,1 +1,2 @@
-[[Implicit Cost]] + [[Explicit Cost]]
+#microeconomics 
+Total Cost::[[Implicit Cost]] + [[Explicit Cost]]
