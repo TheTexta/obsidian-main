@@ -1,4 +1,4 @@
-A graph of price to number of goods consumed. As the price of a good goes up the quantity consumed will go down, according to the [[Law of demand]]. The demand curve for a good is derived from the [[marginal utility|marginal benefit]] of the good.
+A graph of price to number of goods consumed. As the price of a good goes up the quantity consumed will go down, according to the [[Law of demand]]. The demand curve for a good is derived from the [[Marginal Utility|marginal benefit]] of the good.
 ## Tips for doing these in class
 * Label the factor that is influencing the shift or movement
 * State from x to y (d1 to d2 or a to b)
