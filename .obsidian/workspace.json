@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Market Demand.md",
+                "file": "Revenue.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "revenue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market Demand.md",
+                "file": "Revenue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market Demand.md",
+                "file": "Revenue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market Demand.md"
+                "file": "Revenue.md"
               }
             }
           },
@@ -243,11 +244,13 @@
   },
   "active": "94444acfb817d5e2",
   "lastOpenFiles": [
+    "Economics/Elasticity of Demand.md",
+    "Revenue.md",
+    "Economics/normative statements.md",
+    "Economics/Market Demand.md",
     "Economics/Market.md",
-    "Market Demand.md",
     "Economics/Marginal.md",
     "Economics/Law of demand.md",
-    "Economics/Elasticity of Demand.md",
     "Economics/Consumer Surplus.md",
     "Economics/Goods.md",
     "Economics/Elasticity of Supply.md",
@@ -270,8 +273,6 @@
     "Economics/Total Cost.md",
     "Economics/Short term economic growth.md",
     "Economics/shift-in-ppc.webp",
-    "Economics/Services.md",
-    "Economics/Scarcity.md",
     "Economics/Demand Curves.jpg",
     "Economics/demand curve changes.png",
     "Consumer Producer Surplus.png",
