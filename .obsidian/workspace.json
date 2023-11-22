@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marginal net benefit.md",
+                "file": "Economics/Total Benefit.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marginal net benefit.md",
+                "file": "Economics/Total Benefit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marginal net benefit.md",
+                "file": "Economics/Total Benefit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marginal net benefit.md"
+                "file": "Economics/Total Benefit.md"
               }
             }
           },
@@ -231,8 +231,8 @@
   },
   "active": "5ce28aba85f5ed6d",
   "lastOpenFiles": [
-    "Economics/Total Benefit.md",
     "marginal net benefit.md",
+    "Economics/Total Benefit.md",
     "Economics/Marginal Analysis.md",
     "Economics/Marginal Cost.md",
     "Economics/Marginal Utility.md",
