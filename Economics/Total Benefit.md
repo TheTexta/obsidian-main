@@ -1,2 +1,4 @@
 #microeconomics 
-Total Benefit::The highest value an individual would pay for a given experience or what a person expects to get in terms of personal enjoyment out of a situation. This maximum price point is described as a persons [[willingness to pay]]
+Total Benefit::The difference between the marginal benefits and costs of consumption a good or service.
+
+Same as [[marginal net benefit]].
