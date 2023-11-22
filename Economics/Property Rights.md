@@ -6,3 +6,4 @@ For someone to own something it needs to be:
 * Transferable (Anyone can buy/sell/transfer rights to another person)
 
 Property rights::Define ownership, property must be: exclusive, enforceable, transferable.
+<!--SR:!2023-11-25,3,250-->

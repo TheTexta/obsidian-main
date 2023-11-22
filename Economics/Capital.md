@@ -1,2 +1,3 @@
 #microeconomics 
 Capital::Capital is the human made resources one has made available to them, different to [[financial capital]]. These resources can help produce other [[goods]] and [[services]].
+<!--SR:!2023-11-25,3,250-->

@@ -1,5 +1,6 @@
 #microeconomics 
-Economic Systems::How does one distribute limited resources to people in a way that will be fair and more importantly effective, resource [[scarcity]].  Economics is the effective distribution of limited resources in a world of infinite [[Needs vs Wants|wants]]. How do we maximise utility while minimising waste. 
+Economic Systems::How does one distribute limited resources to people in a way that will be fair and more importantly effective, resource [[scarcity]].  Economics is the effective distribution of limited resources in a world of infinite [[Needs vs Wants|wants]]. How do we maximise utility while minimising waste.
+<!--SR:!2023-11-25,3,250-->
 
 There are four main types of economic systems:
 * [[Traditional Economy]]
