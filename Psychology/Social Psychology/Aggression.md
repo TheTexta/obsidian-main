@@ -8,7 +8,7 @@ Aggression is a form of [[social interaction]], wherein the person is harmfully 
 ### Genetic Influences
 [[Twin studies]], show us that those of similar genetic code have similar levels of aggression. The monoamine oxidase A gene, [[MAOA]], is known as the "warrior gene" is a genetic marker for [[aggression]].
 ### Neural influences
-[[Amygdala]]s relation to aggression::The [[amygdala]] is involved in aggression producing the fight/flight response to perceived dangerous situations.
+[[Amygdala]]s relation to aggression::The [[Amygdala]] is involved in aggression producing the fight/flight response to perceived dangerous situations.
 <!--SR:!2023-11-17,10,250-->
 
 Decreased front lobe is associated with what::Increased aggression.
@@ -25,7 +25,7 @@ In effect it is a control centre for aggression. when activated we are more capa
 <!--SR:!2023-11-16,9,250-->
 [[Alcohol]]s influence on aggression::Alcohol is a disinhebitor, it lowers chemicals in our body which control mood and motivation, it lowers serotonin which is a mood stabiliser, making people more moody.
 <!--SR:!2023-11-13,6,250-->
-[[serotonin|serotonins]] affect on aggression::[[serotonin]] acts as a mood stabiliser, less serotonin leads to increased moodiness.
+[[Serotonin|serotonins]] affect on aggression::[[Serotonin]] acts as a mood stabiliser, less serotonin leads to increased moodiness.
 <!--SR:!2023-11-08,4,270-->
 ## Psychological an sociocultural influences on aggression
 ### Aversive Events: The *frustration-aggression* principle

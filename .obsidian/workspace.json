@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cc78681ea891e25",
+            "id": "3381d956819f5941",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "789c0d8fa0c3411d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Market.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94444acfb817d5e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Consumer Surplus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43415109694e5413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Elasticity of Supply.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ce28aba85f5ed6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Law of demand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c68fb80fe02d5d99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Elasticity of Demand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43a27f679f8ca778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Producer Surplus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa66f95b3c3d9374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Community Surplus.md",
+                "file": "Psychology/Biological Psychology/reticular formation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,9 +36,11 @@
             "id": "6e0d0a2055900e4e",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Psychology/Biological Psychology/reticular formation.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -133,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "revenue",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Consumer Surplus.md",
+                "file": "Psychology/Biological Psychology/reticular formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Consumer Surplus.md",
+                "file": "Psychology/Biological Psychology/reticular formation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Consumer Surplus.md"
+                "file": "Psychology/Biological Psychology/reticular formation.md"
               }
             }
           },
@@ -241,40 +158,40 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "94444acfb817d5e2",
+  "active": "3381d956819f5941",
   "lastOpenFiles": [
-    "Economics/Elasticity of Supply.md",
-    "Economics/Elasticity of Demand.md",
-    "Economics/Law of demand.md",
-    "Economics/Consumer Surplus.md",
-    "Economics/AP Question Guidelines for Microeconomics.md",
-    "Economics/Allocative Efficiency.md",
-    "Economics/Capital.md",
-    "Economics/ARSI.md",
-    "Economics/Absolute Advantage.md",
-    "important hormones.md",
-    "Economics/Revenue.md",
-    "Economics/normative statements.md",
-    "Economics/Market Demand.md",
-    "Economics/Market.md",
-    "Economics/Marginal.md",
-    "Economics/Goods.md",
-    "Economics/Marginal Cost.md",
-    "Economics/Cross Price Elasticity of Demand.md",
-    "Economics/elasticity.md",
-    "Economics/Total Benefit.md",
-    "marginal net benefit.md",
-    "Economics/Marginal Analysis.md",
-    "Economics/Marginal Utility.md",
-    "Economics/Marginal Benefit.md",
-    "Economics/Supply.md",
-    "Economics/Supply Curve.md",
+    "Psychology/Biological Psychology/Acetylcholine.md",
+    "Psychology/Biological Psychology/vasopressin.md",
+    "Psychology/Biological Psychology/Old Brain New Brain.md",
+    "Test.md",
+    "Psychology/Biological Psychology/thalamus.md",
+    "Psychology/Biological Psychology/hypothalamus.md",
+    "Psychology/Biological Psychology/hippocampus.md",
+    "Psychology/Biological Psychology/Amygdala.md",
+    "Psychology/Biological Psychology/HPA axis.md",
+    "Psychology/Biological Psychology/Limbic System.md",
+    "Psychology/Biological Psychology/HATH.md",
+    "Psychology/Biological Psychology/reticular formation.md",
+    "Psychology/Biological Psychology/brainstem.md",
+    "Psychology/Biological Psychology/cerebellum.md",
+    "Psychology/Biological Psychology/medulla.md",
+    "Psychology/Biological Psychology/pons.md",
+    "Psychology/Biological Psychology/Forebrain, Midbrain, Hindbrain.md",
+    "Psychology/Biological Psychology/fMRI.md",
+    "Psychology/Biological Psychology/MRI.md",
+    "Psychology/Biological Psychology/Neuroimaging.md",
+    "Psychology/Biological Psychology/Noninvasive Brain Stimulation.md",
+    "Psychology/Biological Psychology/Deep Brain Stimulation.md",
+    "Psychology/Biological Psychology/Brain Stimulation.md",
+    "Psychology/Biological Psychology/Lesion Studies.md",
+    "Psychology/Biological Psychology/Phrenology.md",
+    "Psychology/Biological Psychology/parathyroid gland.md",
     "Economics/Supply curves.png",
     "Economics/Unit Elasticity Curved.webp",
     "Economics/shift-in-ppc.webp",
     "Economics/Demand Curves.jpg",
     "Economics/demand curve changes.png",
-    "Consumer Producer Surplus.png",
+    "Psychology/Biological Psychology/Consumer Producer Surplus.png",
     "Economics/Screenshot 2023-11-12 at 2.34.11 PM.png",
     "Economics/Screenshot 2023-11-12 at 2.28.36 PM.png",
     "Psychology/Biological Psychology",

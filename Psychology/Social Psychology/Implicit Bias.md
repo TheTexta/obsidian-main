@@ -17,7 +17,7 @@ Unconscious Patronisation::Tests of implicit bias present in those aware of thei
 <!--SR:!2023-11-14,7,250-->
 
 3. Reflexive body responses
-People who consciously express little prejudice may still give off telltale signals in their reflexive body responses. neuroscientists can measure signals of implicit bias in individuals shown images of people form other ethnic groups they an measure this in facial muscle responses and in the activation of emotion-processing part of the brain called the [[amygdala]].
+People who consciously express little prejudice may still give off telltale signals in their reflexive body responses. neuroscientists can measure signals of implicit bias in individuals shown images of people form other ethnic groups they an measure this in facial muscle responses and in the activation of emotion-processing part of the brain called the [[Amygdala]].
 
 Reflexive body responses::Measuring implicit bias through micro body movements.
 <!--SR:!2023-11-08,4,270-->

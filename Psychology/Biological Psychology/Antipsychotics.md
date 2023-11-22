@@ -1,1 +1,1 @@
-a drug that treats psychosis by blocking [[dopamine]] receptors by blocking the [[Neurotransmitters]] from entering.
+a drug that treats psychosis by blocking [[Dopamine]] receptors by blocking the [[Neurotransmitters]] from entering.

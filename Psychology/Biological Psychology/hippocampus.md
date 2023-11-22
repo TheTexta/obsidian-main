@@ -1,0 +1,1 @@
+Means seahorse, the structures kinda resemble one. Involved in memory, converting short term memories to long term ones. Only if the memory is seen to be important enough is it [[How to learn|learned]], through active recalls.

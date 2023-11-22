@@ -1,0 +1,1 @@
+Brain stimulation yields important information about brain function and thoughts and behaviour. Neuroimaging is just about looking into the brain without changing anything in it. 
