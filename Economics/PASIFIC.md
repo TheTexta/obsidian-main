@@ -1,3 +1,5 @@
+#microeconomics 
+
 The PASIFIC factors are those which influence shifts in the [[Demand Curve]].
 
 ## Population
@@ -16,5 +18,6 @@ Goods which compete for the same market.
 
 ## Fashion
 ## Interest
+Interest::Affects the demand of a good with a positive correlation. As interest increases, consumers spend less.
 ## Complements
 Complementary goods are goods which are often purchased together. 

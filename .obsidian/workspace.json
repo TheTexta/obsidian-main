@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Equilibrium.md",
+                "file": "Economics/PASIFIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Equilibrium.md",
+                "file": "Economics/PASIFIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Equilibrium.md",
+                "file": "Economics/PASIFIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Equilibrium.md"
+                "file": "Economics/PASIFIC.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "9df15351f4cdfa68",
   "lastOpenFiles": [
-    "Economics/Disequilibrium.md",
+    "Economics/Demand.md",
     "Economics/Equilibrium.md",
+    "Economics/Disequilibrium.md",
     "Economics/Income elasticity of demand.md",
     "Economics/Cross Price Elasticity of Demand.md",
     "Mathematics/Reciprocal.md",
@@ -192,7 +193,6 @@
     "Psychology/Biological Psychology/medulla.md",
     "Psychology/Biological Psychology/pons.md",
     "Psychology/Biological Psychology/Forebrain, Midbrain, Hindbrain.md",
-    "Psychology/Biological Psychology/fMRI.md",
     "Economics/Supply curves.png",
     "Economics/Unit Elasticity Curved.webp",
     "Economics/shift-in-ppc.webp",
