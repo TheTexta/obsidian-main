@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Inverse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "137e1191b4fb8391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Reciprocal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86382c0603c82879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Reciprocal.md",
+                "file": "Economics/Cross Price Elasticity of Demand.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Reciprocal.md",
+                "file": "Economics/Cross Price Elasticity of Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Reciprocal.md",
+                "file": "Economics/Cross Price Elasticity of Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Reciprocal.md"
+                "file": "Economics/Cross Price Elasticity of Demand.md"
               }
             }
           },
@@ -190,11 +165,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b31c21586683c68",
+  "active": "9df15351f4cdfa68",
   "lastOpenFiles": [
+    "Mathematics/Reciprocal.md",
     "Mathematics/Inverse.md",
     "Economics/Production Possibilities Curve.md",
-    "Mathematics/Reciprocal.md",
     "Psychology/Social Psychology/Aggression.md",
     "Psychology/Biological Psychology/reticular formation.md",
     "Psychology/Biological Psychology/Acetylcholine.md",

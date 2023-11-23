@@ -6,6 +6,8 @@ Positive Cross price elasticity of demand::Goods are complementary
 <!--SR:!2023-11-25,3,250-->
 Negative Cross price elasticity of demand::Goods are substitutes
 
+Cross Price of Elasticity special note::Sign matters in this. Just keep that in mind
+
 ## Formula
 $$
 XED = \frac{\% \Delta Q_d \text{ Good X}}{\% \Delta P \text{ Good Y}}
