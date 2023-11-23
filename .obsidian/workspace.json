@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inverse.md",
+                "file": "Mathematics/Inverse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "137e1191b4fb8391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Reciprocal.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reciprocal.md",
+                "file": "Mathematics/Reciprocal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inverse.md",
+                "file": "Mathematics/Reciprocal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inverse.md",
+                "file": "Mathematics/Reciprocal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inverse.md"
+                "file": "Mathematics/Reciprocal.md"
               }
             }
           },
@@ -177,11 +190,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9df15351f4cdfa68",
+  "active": "1b31c21586683c68",
   "lastOpenFiles": [
+    "Mathematics/Inverse.md",
     "Economics/Production Possibilities Curve.md",
-    "Reciprocal.md",
-    "Inverse.md",
+    "Mathematics/Reciprocal.md",
     "Psychology/Social Psychology/Aggression.md",
     "Psychology/Biological Psychology/reticular formation.md",
     "Psychology/Biological Psychology/Acetylcholine.md",
