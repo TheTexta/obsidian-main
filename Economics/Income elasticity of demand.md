@@ -3,6 +3,8 @@ Income Elasticity of Demand::As income increases, [[demand]] of [[Goods|normal g
 Positive Income elasticity indicates::The good is a normal good, increasing in consumption as income increases
 Negative Income Elasticity indicates::The good is an inferior good, decreasing in consumption as income increases, eg. fast food.
 
+YED between 0 and 1::Indicates the good is a necessity, slightly decreasing in demand as income increases.
+
 Income elasticity as it relates to shift of demand::As income increases, the income elasticity dictates the type of shift that occurs on the [[demand curve]], be it a leftward or rightward shift. 
 
 ## Formula

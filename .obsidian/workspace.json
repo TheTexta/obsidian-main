@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/PASIFIC.md",
+                "file": "Economics/Income elasticity of demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/PASIFIC.md",
+                "file": "Economics/Income elasticity of demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/PASIFIC.md",
+                "file": "Economics/Income elasticity of demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/PASIFIC.md"
+                "file": "Economics/Income elasticity of demand.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "9df15351f4cdfa68",
   "lastOpenFiles": [
+    "Economics/PASIFIC.md",
     "Economics/Demand.md",
     "Economics/Equilibrium.md",
     "Economics/Disequilibrium.md",
@@ -192,7 +193,6 @@
     "Psychology/Biological Psychology/cerebellum.md",
     "Psychology/Biological Psychology/medulla.md",
     "Psychology/Biological Psychology/pons.md",
-    "Psychology/Biological Psychology/Forebrain, Midbrain, Hindbrain.md",
     "Economics/Supply curves.png",
     "Economics/Unit Elasticity Curved.webp",
     "Economics/shift-in-ppc.webp",
