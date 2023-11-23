@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Income elasticity of demand.md",
+                "file": "Economics/Equilibrium.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Income elasticity of demand.md",
+                "file": "Economics/Equilibrium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Income elasticity of demand.md",
+                "file": "Economics/Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Income elasticity of demand.md"
+                "file": "Economics/Equilibrium.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "9df15351f4cdfa68",
   "lastOpenFiles": [
+    "Economics/Income elasticity of demand.md",
     "Economics/Cross Price Elasticity of Demand.md",
     "Mathematics/Reciprocal.md",
     "Mathematics/Inverse.md",
@@ -192,7 +193,6 @@
     "Psychology/Biological Psychology/fMRI.md",
     "Psychology/Biological Psychology/MRI.md",
     "Psychology/Biological Psychology/Neuroimaging.md",
-    "Psychology/Biological Psychology/Noninvasive Brain Stimulation.md",
     "Economics/Supply curves.png",
     "Economics/Unit Elasticity Curved.webp",
     "Economics/shift-in-ppc.webp",
