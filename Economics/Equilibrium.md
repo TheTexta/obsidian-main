@@ -13,3 +13,5 @@ An shift in the [[supply]] or [[demand]] by itself can cause one of four resulti
 ### Double Shifts
 A shift in both [[supply]] and [[demand]] leads to a double shift.
 ![[Screenshot 2023-11-12 at 2.34.11 PM.png]]
+
+Double shifts in any direction will lead indeterminants, define::Indeterminants are points where no change is observed in a shift. Unlike mathematics, in economics indeterminant just means no change. Eg. in a double rightward shift, the price is the indeterminant as not change is observed.
