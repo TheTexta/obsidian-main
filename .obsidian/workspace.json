@@ -13,13 +13,156 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Income elasticity of demand.md",
+                "file": "Economics/ARSI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e20159d2ab7f3bcb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Chemistry/reactant product plusminus equilibrium shift.png"
+              }
+            }
+          },
+          {
+            "id": "48cb2ee93884d0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cerebral Cortex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60d68684a75df24d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motor Cortex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3a4034fcd89afd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Somatosensory Cortex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4e75c416acd1778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visual Cortex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66dc4f282333194c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Association Areas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2ae060a999ae01e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain-Computer Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec4b8d0f426bb79a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plasticity of the Brain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44d1c2f420b62dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Equilibrium Shifts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a18dfa671b512318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binomial Distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c548ee1093087e4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geometric Distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a124f421dc7f4b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Equilibrium Shifts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -94,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Income elasticity of demand.md",
+                "file": "Geometric Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Income elasticity of demand.md",
+                "file": "Geometric Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Income elasticity of demand.md"
+                "file": "Geometric Distribution.md"
               }
             }
           },
@@ -165,45 +308,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9df15351f4cdfa68",
+  "active": "c548ee1093087e4d",
   "lastOpenFiles": [
+    "Binomial Distribution.md",
+    "Geometric Distribution.md",
+    "Chemistry/Equilibrium Shifts.md",
+    "Equilibrium Constant.md",
+    "Neurogenesis.md",
+    "The 7 Steps to Equilibrium.md",
+    "Plasticity of the Brain.md",
+    "Brain-Computer Research.md",
+    "Association Areas.md",
+    "Visual Cortex.md",
+    "Somatosensory Cortex.md",
+    "Motor Cortex.md",
+    "Cerebral Cortex.md",
+    "cerebrum.md",
+    "Corpus Callosum.md",
+    "Chemistry/reactant product plusminus equilibrium shift.png",
+    "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
+    "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
+    "Chemistry/Screenshot 2023-11-23 at 9.24.49 AM.png",
+    "Chemistry/temperature shift in equilibrium.png",
+    "Chemistry/volume pressure shift in equilibrium.png",
+    "Economics/ARSI.md",
+    "Economics/Income elasticity of demand.md",
     "Economics/PASIFIC.md",
     "Economics/Demand.md",
     "Economics/Equilibrium.md",
     "Economics/Disequilibrium.md",
-    "Economics/Income elasticity of demand.md",
     "Economics/Cross Price Elasticity of Demand.md",
     "Mathematics/Reciprocal.md",
     "Mathematics/Inverse.md",
     "Economics/Production Possibilities Curve.md",
     "Psychology/Social Psychology/Aggression.md",
-    "Psychology/Biological Psychology/reticular formation.md",
-    "Psychology/Biological Psychology/Acetylcholine.md",
-    "Psychology/Biological Psychology/vasopressin.md",
-    "Psychology/Biological Psychology/Old Brain New Brain.md",
-    "Test.md",
-    "Psychology/Biological Psychology/thalamus.md",
-    "Psychology/Biological Psychology/hypothalamus.md",
-    "Psychology/Biological Psychology/hippocampus.md",
-    "Psychology/Biological Psychology/Amygdala.md",
-    "Psychology/Biological Psychology/HPA axis.md",
-    "Psychology/Biological Psychology/Limbic System.md",
-    "Psychology/Biological Psychology/HATH.md",
-    "Psychology/Biological Psychology/brainstem.md",
-    "Psychology/Biological Psychology/cerebellum.md",
-    "Psychology/Biological Psychology/medulla.md",
-    "Psychology/Biological Psychology/pons.md",
     "Economics/Supply curves.png",
     "Economics/Unit Elasticity Curved.webp",
     "Economics/shift-in-ppc.webp",
     "Economics/Demand Curves.jpg",
-    "Economics/demand curve changes.png",
-    "Psychology/Biological Psychology/Consumer Producer Surplus.png",
-    "Economics/Screenshot 2023-11-12 at 2.34.11 PM.png",
-    "Economics/Screenshot 2023-11-12 at 2.28.36 PM.png",
     "Psychology/Biological Psychology",
-    "Economics/Elasticity of supply example.png",
-    "Psychology/Social Psychology/Triangular theory of Love.png",
     "Psychology/Psych 101",
     "Physics",
     "Psychology/Social Psychology"

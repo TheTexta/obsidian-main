@@ -1,0 +1,1 @@
+The area which coordinates information from the other primary cortexes.
