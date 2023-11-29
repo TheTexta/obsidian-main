@@ -150,6 +150,54 @@
             }
           },
           {
+            "id": "8215e77b820defe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Two Hemispheres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4e42ab2f6ff2630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consciousness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95019da57707fe18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sequential processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d99dd8ad2a31bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blindsight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a124f421dc7f4b5f",
             "type": "leaf",
             "state": {
@@ -162,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -237,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric Distribution.md",
+                "file": "sequential processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometric Distribution.md",
+                "file": "sequential processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometric Distribution.md"
+                "file": "sequential processing.md"
               }
             }
           },
@@ -308,10 +356,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c548ee1093087e4d",
+  "active": "95019da57707fe18",
   "lastOpenFiles": [
-    "Binomial Distribution.md",
+    "Dual Processing.md",
+    "sequential processing.md",
+    "parallel processing.md",
+    "Blindsight.md",
+    "Consciousness.md",
+    "The Two Hemispheres.md",
+    "Controlateral.md",
     "Geometric Distribution.md",
+    "Binomial Distribution.md",
     "Chemistry/Equilibrium Shifts.md",
     "Equilibrium Constant.md",
     "Neurogenesis.md",
@@ -335,13 +390,6 @@
     "Economics/Income elasticity of demand.md",
     "Economics/PASIFIC.md",
     "Economics/Demand.md",
-    "Economics/Equilibrium.md",
-    "Economics/Disequilibrium.md",
-    "Economics/Cross Price Elasticity of Demand.md",
-    "Mathematics/Reciprocal.md",
-    "Mathematics/Inverse.md",
-    "Economics/Production Possibilities Curve.md",
-    "Psychology/Social Psychology/Aggression.md",
     "Economics/Supply curves.png",
     "Economics/Unit Elasticity Curved.webp",
     "Economics/shift-in-ppc.webp",
