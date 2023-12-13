@@ -148,6 +148,18 @@
             }
           },
           {
+            "id": "79a2e133e556a630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autosome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9f0d73fcbf919aad",
             "type": "leaf",
             "state": {
@@ -160,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -235,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chromosome.md",
+                "file": "Autosome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chromosome.md",
+                "file": "Autosome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chromosome.md"
+                "file": "Autosome.md"
               }
             }
           },
@@ -306,10 +318,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b7440da765b94ab8",
+  "active": "79a2e133e556a630",
   "lastOpenFiles": [
-    "Allele.md",
     "Chromosome.md",
+    "Autosome.md",
+    "Allele.md",
     "Nucleotide Bases.md",
     "Gene.md",
     "Geometric Distribution.md",
@@ -333,7 +346,6 @@
     "Chemistry/bimolecular.md",
     "Chemistry/Calorimetry.md",
     "Chemistry/Catalyst.md",
-    "Chemistry/cation.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
