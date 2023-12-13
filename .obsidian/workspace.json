@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "75ee6f3f1249ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indirect Tax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bfa99fadb44500db",
             "type": "leaf",
             "state": {
@@ -224,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -299,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gene Disorders.md",
+                "file": "Indirect Tax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gene Disorders.md",
+                "file": "Indirect Tax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gene Disorders.md"
+                "file": "Indirect Tax.md"
               }
             }
           },
@@ -370,10 +382,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0fe99859114a2cf8",
+  "active": "75ee6f3f1249ae9c",
   "lastOpenFiles": [
-    "Heterozygous.md",
+    "Direct Tax.md",
+    "Economics/Services.md",
+    "Economics/Goods.md",
+    "good.md",
+    "Tax.md",
+    "Indirect Tax.md",
     "Gene Disorders.md",
+    "Heterozygous.md",
     "homozygous.md",
     "phenotype.md",
     "Genotype.md",
@@ -392,12 +410,6 @@
     "Hypergeometric Distribution.md",
     "Dreams.md",
     "Rumination.md",
-    "Parasomnias.md",
-    "Sleep Apnea.md",
-    "narcolepsy.md",
-    "insomnia.md",
-    "Sleep Disorders.md",
-    "Sleep Deprivation.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
