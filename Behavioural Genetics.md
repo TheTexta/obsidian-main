@@ -11,3 +11,6 @@ List of terms:
 * [[Nucleotide Bases]]
 * [[DNA]]
 * [[Dominant Gene]]
+* [[Recessive Gene]]
+* [[Genotype]]
+* 

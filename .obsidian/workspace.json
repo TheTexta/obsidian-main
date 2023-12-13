@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gene.md",
+                "file": "Genotype.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gene.md",
+                "file": "Genotype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gene.md",
+                "file": "Genotype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gene.md"
+                "file": "Genotype.md"
               }
             }
           },
@@ -324,14 +324,16 @@
   "active": "17441d7be021e349",
   "lastOpenFiles": [
     "Behavioural Genetics.md",
-    "Dominant Gene.md",
+    "Genotype.md",
+    "Recessive Gene.md",
+    "Allele.md",
     "Sex Chromosome.md",
+    "Gene.md",
+    "Dominant Gene.md",
     "Untitled.md",
     "Autosome.md",
     "Chromosome.md",
-    "Allele.md",
     "Nucleotide Bases.md",
-    "Gene.md",
     "Geometric Distribution.md",
     "Binomial Distribution.md",
     "Hypergeometric Distribution.md",
@@ -347,8 +349,6 @@
     "Unit 2 Review.md",
     "Chemistry/Equilibrium Shifts.md",
     "Chemistry/Equilibrium Constant.md",
-    "Chemistry/structural formula.md",
-    "Chemistry/Structural Isomers.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
