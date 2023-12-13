@@ -1,0 +1,1 @@
+Narcolepsy is a sleeping discord characterised by uncontrollable sleep attacks where the sufferer lapses directly into REM sleep, often at inopportune times. The sufferer can also experience cataplexy, which is a sudden loss of muscle tone. Attacks are triggered by strong emotions. 
