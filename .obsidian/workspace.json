@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "4abb86c288cfd279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heterozygous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bfa99fadb44500db",
             "type": "leaf",
             "state": {
@@ -200,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homozygous.md",
+                "file": "Heterozygous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homozygous.md",
+                "file": "Heterozygous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homozygous.md"
+                "file": "Heterozygous.md"
               }
             }
           },
@@ -346,10 +358,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b8c3a241a827eecc",
+  "active": "4abb86c288cfd279",
   "lastOpenFiles": [
-    "phenotype.md",
     "homozygous.md",
+    "Heterozygous.md",
+    "phenotype.md",
     "Genotype.md",
     "Behavioural Genetics.md",
     "Recessive Gene.md",
@@ -373,7 +386,6 @@
     "Sleep Disorders.md",
     "Sleep Deprivation.md",
     "Chemistry/The 7 Steps to Equilibrium.md",
-    "Unit 2 Review.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
