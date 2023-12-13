@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "75ee6f3f1249ae9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indirect Tax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfa99fadb44500db",
             "type": "leaf",
             "state": {
@@ -234,9 +222,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b04eb757bb3f4fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deadweight Loss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -311,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indirect Tax.md",
+                "file": "Deadweight Loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indirect Tax.md",
+                "file": "Deadweight Loss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indirect Tax.md"
+                "file": "Deadweight Loss.md"
               }
             }
           },
@@ -382,15 +382,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "75ee6f3f1249ae9c",
+  "active": "9b04eb757bb3f4fb",
   "lastOpenFiles": [
+    "Economics/Equilibrium.md",
+    "Deadweight Loss.md",
+    "Tax.md",
+    "Gene Disorders.md",
+    "Indirect Tax.md",
     "Direct Tax.md",
     "Economics/Services.md",
     "Economics/Goods.md",
     "good.md",
-    "Tax.md",
-    "Indirect Tax.md",
-    "Gene Disorders.md",
     "Heterozygous.md",
     "homozygous.md",
     "phenotype.md",
@@ -408,8 +410,6 @@
     "Geometric Distribution.md",
     "Binomial Distribution.md",
     "Hypergeometric Distribution.md",
-    "Dreams.md",
-    "Rumination.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
