@@ -124,6 +124,30 @@
             }
           },
           {
+            "id": "9771ea9534f50ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Allele.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7440da765b94ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chromosome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9f0d73fcbf919aad",
             "type": "leaf",
             "state": {
@@ -136,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -211,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nucleotide Bases.md",
+                "file": "Chromosome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nucleotide Bases.md",
+                "file": "Chromosome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nucleotide Bases.md"
+                "file": "Chromosome.md"
               }
             }
           },
@@ -282,10 +306,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cdda51fb015a16f5",
+  "active": "b7440da765b94ab8",
   "lastOpenFiles": [
-    "Gene.md",
+    "Allele.md",
+    "Chromosome.md",
     "Nucleotide Bases.md",
+    "Gene.md",
     "Geometric Distribution.md",
     "Binomial Distribution.md",
     "Hypergeometric Distribution.md",
@@ -308,8 +334,6 @@
     "Chemistry/Calorimetry.md",
     "Chemistry/Catalyst.md",
     "Chemistry/cation.md",
-    "Chemistry/Enthalpy Change.md",
-    "The Two Hemispheres.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
