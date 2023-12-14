@@ -1,1 +1,2 @@
-The process of the [[neuron]] firing causing the decrease / increase in energy, sending a single down the [[neuron]], along the [[axon]]. 
+#biological-psychology 
+Action Potential::An electrical impulse which travels down the axon, the process of the [[neuron]] firing causing the decrease / increase in energy, sending a single down the [[neuron]], along the [[axon]]. 

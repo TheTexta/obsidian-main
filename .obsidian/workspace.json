@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "8a113c736bbab92d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Biological Psychology/action potential.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bfa99fadb44500db",
             "type": "leaf",
             "state": {
@@ -236,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -311,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tax.md",
+                "file": "Psychology/Biological Psychology/action potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tax.md",
+                "file": "Psychology/Biological Psychology/action potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tax.md"
+                "file": "Psychology/Biological Psychology/action potential.md"
               }
             }
           },
@@ -382,13 +394,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9b04eb757bb3f4fb",
+  "active": "8a113c736bbab92d",
   "lastOpenFiles": [
-    "tax burden.md",
+    "Epigenetics.md",
+    "Gene Disorders.md",
     "Tax.md",
+    "tax burden.md",
     "Deadweight Loss.md",
     "Economics/Equilibrium.md",
-    "Gene Disorders.md",
     "Indirect Tax.md",
     "Direct Tax.md",
     "Economics/Services.md",
@@ -409,7 +422,6 @@
     "Chromosome.md",
     "Nucleotide Bases.md",
     "Geometric Distribution.md",
-    "Binomial Distribution.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
