@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/Acetylcholine.md",
+                "file": "Alzheimers.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/Acetylcholine.md",
+                "file": "Alzheimers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/Acetylcholine.md",
+                "file": "Alzheimers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/Acetylcholine.md"
+                "file": "Alzheimers.md"
               }
             }
           },
@@ -216,6 +216,8 @@
   },
   "active": "da92cb38632fdd7d",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/Acetylcholine.md",
+    "Alzheimers.md",
     "Psychology/Biological Psychology/Antagonist.md",
     "Psychology/Biological Psychology/Antipsychotics.md",
     "Agonist.md",
@@ -244,8 +246,6 @@
     "Gene Disorders.md",
     "Chromosome Disorders.md",
     "Identical Twins.md",
-    "Fraternal Twins.md",
-    "Twins.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
