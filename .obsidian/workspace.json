@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cerebral Cortex.md",
+                "file": "Frontal Lobe.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cerebral Cortex.md",
+                "file": "Frontal Lobe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cerebral Cortex.md",
+                "file": "Frontal Lobe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cerebral Cortex.md"
+                "file": "Frontal Lobe.md"
               }
             }
           },
@@ -323,9 +323,10 @@
   },
   "active": "bfa99fadb44500db",
   "lastOpenFiles": [
+    "Cerebral Cortex.md",
+    "Frontal Lobe.md",
     "Psychology/Corpus Callosum.md",
     "screenshot_CorpusCallosum.jpg",
-    "Cerebral Cortex.md",
     "Psychology/Biological Psychology/Cerebrum.md",
     "Psychology/Biological Psychology/Cerebrum, Cerebellum and Brainstem.png",
     "screenshot_LeftCerebralHemisphere.jpg",
@@ -351,7 +352,6 @@
     "Deadweight Loss.md",
     "Economics/Equilibrium.md",
     "Indirect Tax.md",
-    "Direct Tax.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
