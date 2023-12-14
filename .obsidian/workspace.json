@@ -68,12 +68,24 @@
             }
           },
           {
+            "id": "459633545190bc9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chromosome Disorders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8a113c736bbab92d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/action potential.md",
+                "file": "Epigenetics.md",
                 "mode": "source",
                 "source": false
               }
@@ -323,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/action potential.md",
+                "file": "Chromosome Disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/action potential.md",
+                "file": "Chromosome Disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/action potential.md"
+                "file": "Chromosome Disorders.md"
               }
             }
           },
@@ -394,10 +406,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8a113c736bbab92d",
+  "active": "459633545190bc9b",
   "lastOpenFiles": [
-    "Epigenetics.md",
     "Gene Disorders.md",
+    "Chromosome Disorders.md",
+    "Epigenetics.md",
+    "Psychology/Biological Psychology/action potential.md",
     "Tax.md",
     "tax burden.md",
     "Deadweight Loss.md",
@@ -420,8 +434,6 @@
     "Untitled.md",
     "Autosome.md",
     "Chromosome.md",
-    "Nucleotide Bases.md",
-    "Geometric Distribution.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
