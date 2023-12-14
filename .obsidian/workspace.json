@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posterior Association Area.md",
+                "file": "Somatosensory Association Cortex.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posterior Association Area.md",
+                "file": "Somatosensory Association Cortex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Posterior Association Area.md",
+                "file": "Somatosensory Association Cortex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Posterior Association Area.md"
+                "file": "Somatosensory Association Cortex.md"
               }
             }
           },
@@ -217,6 +217,7 @@
   "active": "e63055f6b64e4c3d",
   "lastOpenFiles": [
     "Parietal Lobes.md",
+    "Somatosensory Association Cortex.md",
     "Posterior Association Area.md",
     "Frontal Lobes.md",
     "Lobes.md",
@@ -245,7 +246,6 @@
     "Homozygous.md",
     "Heterozygous.md",
     "Gene Disorders.md",
-    "Chromosome Disorders.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
