@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17441d7be021e349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genotype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a113c736bbab92d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epigenetics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfa99fadb44500db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sleep Deprivation.md",
+                "file": "Cerebrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allele.md",
+                "file": "Psychology/Biological Psychology/Allele.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,8 +175,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epigenetics.md",
+                "file": "Cerebrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epigenetics.md",
+                "file": "Cerebrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epigenetics.md"
+                "file": "Cerebrum.md"
               }
             }
           },
@@ -346,9 +321,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8a113c736bbab92d",
+  "active": "bfa99fadb44500db",
   "lastOpenFiles": [
+    "Association Areas.md",
+    "Psychology/Biological Psychology/Allele.md",
+    "Sleep Deprivation.md",
     "Genotype.md",
+    "Epigenetics.md",
     "Phenotype.md",
     "Homozygous.md",
     "Heterozygous.md",
@@ -360,7 +339,6 @@
     "Thomas Bouchard.md",
     "Heritability.md",
     "Molecular Behavioural Genetics.md",
-    "Epigenetics.md",
     "Psychology/Biological Psychology/action potential.md",
     "Tax.md",
     "tax burden.md",
@@ -371,9 +349,6 @@
     "Economics/Services.md",
     "Economics/Goods.md",
     "good.md",
-    "Behavioural Genetics.md",
-    "Recessive Gene.md",
-    "Allele.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",

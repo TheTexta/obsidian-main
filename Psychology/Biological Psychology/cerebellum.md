@@ -1,1 +1,1 @@
-A mini brain underneath the [[cerebrum]], nonverbal and skill memory, judge time, modulate emotions.
+A mini brain underneath the [[Cerebrum]], nonverbal and skill memory, judge time, modulate emotions.

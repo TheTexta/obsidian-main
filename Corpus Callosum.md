@@ -1,1 +1,1 @@
-The bridging tissue which connects the left and right hemispheres of the [[cerebrum]]
+The bridging tissue which connects the left and right hemispheres of the [[Cerebrum]]
