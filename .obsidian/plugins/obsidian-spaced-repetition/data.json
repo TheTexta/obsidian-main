@@ -6,7 +6,8 @@
     "flashcardTags": [
       "#flashcards",
       "#urgent",
-      "#microeconomics"
+      "#microeconomics",
+      "#biological-psychology"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -40,7 +41,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-12-11",
+  "buryDate": "2023-12-14",
   "buryList": [],
   "historyDeck": null
 }
