@@ -11,9 +11,11 @@
             "id": "bfa99fadb44500db",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Cerebrum, Cerebellum and Brainstem.png"
+                "file": "Corpus Callosum.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -248,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cerebrum, Cerebellum and Brainstem.png",
+                "file": "Corpus Callosum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cerebrum, Cerebellum and Brainstem.png",
+                "file": "Corpus Callosum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cerebrum, Cerebellum and Brainstem.png"
+                "file": "Corpus Callosum.md"
               }
             }
           },
@@ -319,10 +321,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b31c21586683c68",
+  "active": "bfa99fadb44500db",
   "lastOpenFiles": [
-    "Cerebrum.md",
-    "Cerebrum, Cerebellum and Brainstem.png",
+    "Cerebral Cortex.md",
+    "Psychology/Biological Psychology/Cerebrum.md",
+    "Psychology/Biological Psychology/Cerebrum, Cerebellum and Brainstem.png",
     "screenshot_LeftCerebralHemisphere.jpg",
     "Association Areas.md",
     "Psychology/Biological Psychology/Allele.md",
@@ -348,7 +351,6 @@
     "Indirect Tax.md",
     "Direct Tax.md",
     "Economics/Services.md",
-    "Economics/Goods.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",

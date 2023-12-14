@@ -1,1 +1,2 @@
-The bridging tissue which connects the left and right hemispheres of the [[Cerebrum]]
+#biological-psychology 
+Corpus Callosum::The bridging tissue which connects the left and right cerebral hemispheres of the [[Cerebrum]]
