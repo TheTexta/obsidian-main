@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tax burden.md",
+                "file": "Tax.md",
                 "mode": "source",
                 "source": false
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tax burden.md",
+                "file": "Tax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tax burden.md",
+                "file": "Tax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tax burden.md"
+                "file": "Tax.md"
               }
             }
           },
@@ -384,8 +384,8 @@
   },
   "active": "9b04eb757bb3f4fb",
   "lastOpenFiles": [
-    "Tax.md",
     "tax burden.md",
+    "Tax.md",
     "Deadweight Loss.md",
     "Economics/Equilibrium.md",
     "Gene Disorders.md",
