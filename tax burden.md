@@ -1,0 +1,1 @@
+The areas of a [[Producer Surplus|producer]] / [[consumer surplus]] which are decreased by the introduction of a [[tax]].

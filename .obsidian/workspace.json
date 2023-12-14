@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deadweight Loss.md",
+                "file": "tax burden.md",
                 "mode": "source",
                 "source": false
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deadweight Loss.md",
+                "file": "tax burden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deadweight Loss.md",
+                "file": "tax burden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deadweight Loss.md"
+                "file": "tax burden.md"
               }
             }
           },
@@ -384,9 +384,10 @@
   },
   "active": "9b04eb757bb3f4fb",
   "lastOpenFiles": [
-    "Economics/Equilibrium.md",
-    "Deadweight Loss.md",
     "Tax.md",
+    "tax burden.md",
+    "Deadweight Loss.md",
+    "Economics/Equilibrium.md",
     "Gene Disorders.md",
     "Indirect Tax.md",
     "Direct Tax.md",
@@ -409,7 +410,6 @@
     "Nucleotide Bases.md",
     "Geometric Distribution.md",
     "Binomial Distribution.md",
-    "Hypergeometric Distribution.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
