@@ -1,2 +1,2 @@
 #biological-psychology 
-Epigenetic::your genes play a role in your health, epigenetics is the study of how behaviour and environment change the way your genes work.
+Epigenetic::your genes play a role in your health, epigenetics is the study of how behaviour and environment change the way your genes work. How your environment changes the way your genes work. Epigenetic changes are reversible and do not change your DNA sequencing, instead changing the way a body reads a DNA sequence.

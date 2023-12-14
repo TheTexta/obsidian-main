@@ -20,126 +20,6 @@
             }
           },
           {
-            "id": "dde834c14d251c18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "phenotype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8c3a241a827eecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "homozygous.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4abb86c288cfd279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heterozygous.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fe99859114a2cf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gene Disorders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "459633545190bc9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chromosome Disorders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b42f59d92ed664e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Identical Twins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "896e949557cde566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fraternal Twins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5541ca937d7fd37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23aee717a222a5d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thomas Bouchard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c4e86a96e23f584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heritability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8a113c736bbab92d",
             "type": "leaf",
             "state": {
@@ -320,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -395,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heritability.md",
+                "file": "Epigenetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heritability.md",
+                "file": "Epigenetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -435,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heritability.md"
+                "file": "Epigenetics.md"
               }
             }
           },
@@ -466,15 +346,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6c4e86a96e23f584",
+  "active": "8a113c736bbab92d",
   "lastOpenFiles": [
+    "Genotype.md",
+    "Phenotype.md",
+    "Homozygous.md",
+    "Heterozygous.md",
+    "Gene Disorders.md",
+    "Chromosome Disorders.md",
+    "Identical Twins.md",
+    "Fraternal Twins.md",
+    "Twins.md",
     "Thomas Bouchard.md",
     "Heritability.md",
-    "Twins.md",
-    "Fraternal Twins.md",
-    "Identical Twins.md",
-    "Chromosome Disorders.md",
-    "Gene Disorders.md",
+    "Molecular Behavioural Genetics.md",
     "Epigenetics.md",
     "Psychology/Biological Psychology/action potential.md",
     "Tax.md",
@@ -486,14 +371,9 @@
     "Economics/Services.md",
     "Economics/Goods.md",
     "good.md",
-    "Heterozygous.md",
-    "homozygous.md",
-    "phenotype.md",
-    "Genotype.md",
     "Behavioural Genetics.md",
     "Recessive Gene.md",
     "Allele.md",
-    "Sex Chromosome.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
