@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary Motor Cortex.md",
+                "file": "Frontal Lobes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e63055f6b64e4c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Posterior Association Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alzheimers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e63055f6b64e4c3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parietal Lobes.md",
+                "file": "Psychology/Biological Psychology/Alzheimers.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alzheimers.md",
+                "file": "Posterior Association Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alzheimers.md",
+                "file": "Posterior Association Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alzheimers.md"
+                "file": "Posterior Association Area.md"
               }
             }
           },
@@ -214,20 +214,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "da92cb38632fdd7d",
+  "active": "e63055f6b64e4c3d",
   "lastOpenFiles": [
+    "Parietal Lobes.md",
+    "Posterior Association Area.md",
+    "Frontal Lobes.md",
+    "Lobes.md",
+    "Primary Motor Cortex.md",
+    "Psychology/Biological Psychology/Alzheimers.md",
     "Psychology/Biological Psychology/Acetylcholine.md",
-    "Alzheimers.md",
     "Psychology/Biological Psychology/Antagonist.md",
     "Psychology/Biological Psychology/Antipsychotics.md",
     "Agonist.md",
     "Psychology/Biological Psychology/Neurotransmitters.md",
     "Antagonists.md",
     "Psychology/Biological Psychology/Corpus Callosum.md",
-    "Primary Motor Cortex.md",
-    "Frontal Lobes.md",
-    "Lobes.md",
-    "Parietal Lobes.md",
     "screenshot_ParietalLobe.jpg",
     "insomnia.md",
     "Cerebral Cortex.md",
@@ -245,7 +246,6 @@
     "Heterozygous.md",
     "Gene Disorders.md",
     "Chromosome Disorders.md",
-    "Identical Twins.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
