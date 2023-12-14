@@ -13,163 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontal Lobe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "896bab47080d1663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "insomnia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "522b87c839854a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "narcolepsy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fe6141da17db690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sleep Apnea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02b838356ca37c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parasomnias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be4e6af433ea90f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geometric Distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c3667a778ee1286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gene.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdda51fb015a16f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nucleotide Bases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9771ea9534f50ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Allele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7440da765b94ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chromosome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79a2e133e556a630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autosome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c2a473d21547b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sex Chromosome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f0d73fcbf919aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rumination.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b04eb757bb3f4fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tax.md",
+                "file": "Lobes.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontal Lobe.md",
+                "file": "Lobes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontal Lobe.md",
+                "file": "Lobes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontal Lobe.md"
+                "file": "Lobes.md"
               }
             }
           },
@@ -323,8 +167,10 @@
   },
   "active": "bfa99fadb44500db",
   "lastOpenFiles": [
-    "Cerebral Cortex.md",
     "Frontal Lobe.md",
+    "Lobes.md",
+    "insomnia.md",
+    "Cerebral Cortex.md",
     "Psychology/Corpus Callosum.md",
     "screenshot_CorpusCallosum.jpg",
     "Psychology/Biological Psychology/Cerebrum.md",
@@ -350,8 +196,6 @@
     "Tax.md",
     "tax burden.md",
     "Deadweight Loss.md",
-    "Economics/Equilibrium.md",
-    "Indirect Tax.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
