@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "b5541ca937d7fd37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8a113c736bbab92d",
             "type": "leaf",
             "state": {
@@ -284,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -359,7 +371,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fraternal Twins.md",
+                "file": "Twins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -376,7 +388,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fraternal Twins.md",
+                "file": "Twins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -399,7 +411,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fraternal Twins.md"
+                "file": "Twins.md"
               }
             }
           },
@@ -430,10 +442,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "896e949557cde566",
+  "active": "b5541ca937d7fd37",
   "lastOpenFiles": [
-    "Identical Twins.md",
     "Fraternal Twins.md",
+    "Twins.md",
+    "Identical Twins.md",
     "Chromosome Disorders.md",
     "Gene Disorders.md",
     "Epigenetics.md",
@@ -457,7 +470,6 @@
     "Sex Chromosome.md",
     "Gene.md",
     "Dominant Gene.md",
-    "Untitled.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
