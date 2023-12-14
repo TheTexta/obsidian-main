@@ -1,1 +1,2 @@
-a drug that treats psychosis by blocking [[Dopamine]] receptors by blocking the [[Neurotransmitters]] from entering.
+#biological-psychology 
+Antipsychotics::a classification of drug that treats [[psychosis]] by blocking [[Dopamine]] receptors with [[antagonist]]s that prevent [[neurotransmitters]] from entering receptors.
