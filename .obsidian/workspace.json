@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "8b42f59d92ed664e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identical Twins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8a113c736bbab92d",
             "type": "leaf",
             "state": {
@@ -260,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -335,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chromosome Disorders.md",
+                "file": "Identical Twins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chromosome Disorders.md",
+                "file": "Identical Twins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +387,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chromosome Disorders.md"
+                "file": "Identical Twins.md"
               }
             }
           },
@@ -406,10 +418,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "459633545190bc9b",
+  "active": "8b42f59d92ed664e",
   "lastOpenFiles": [
-    "Gene Disorders.md",
     "Chromosome Disorders.md",
+    "Identical Twins.md",
+    "Gene Disorders.md",
     "Epigenetics.md",
     "Psychology/Biological Psychology/action potential.md",
     "Tax.md",
@@ -433,7 +446,6 @@
     "Dominant Gene.md",
     "Untitled.md",
     "Autosome.md",
-    "Chromosome.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
