@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Broca.md",
+                "file": "Direct Tax.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paul Broca.md",
+                "file": "Direct Tax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paul Broca.md",
+                "file": "Direct Tax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Broca.md"
+                "file": "Direct Tax.md"
               }
             }
           },
@@ -204,14 +204,18 @@
   },
   "active": "22db7d50163a441d",
   "lastOpenFiles": [
-    "Psychology/Biological Psychology/Broca's Area.md",
-    "Paul Broca.md",
+    "Economics/Deadweight Loss.md",
+    "Psychology/Biological Psychology/Controlateral.md",
+    "Psychology/Biological Psychology/Chromosome Disorders.md",
+    "Consciousness.md",
+    "Psychology/Biological Psychology/Chromosome.md",
     "Brain-Computer Research.md",
-    "Chromosome.md",
-    "Psychology/Biological Psychology/Cerebral Cortex.md",
-    "Psychology/Biological Psychology/Blindsight.md",
     "Binomial Distribution.md",
     "Behavioural Genetics.md",
+    "Paul Broca.md",
+    "Psychology/Biological Psychology/Broca's Area.md",
+    "Psychology/Biological Psychology/Cerebral Cortex.md",
+    "Psychology/Biological Psychology/Blindsight.md",
     "Psychology/Biological Psychology/Autosome.md",
     "Psychology/Biological Psychology/Auditory Association Cortex.md",
     "Psychology/Biological Psychology/Agonist 1.md",
@@ -226,10 +230,6 @@
     "Psychology/Biological Psychology/Alzheimers.md",
     "Occipital Lobes.md",
     "Lobes.md",
-    "Temporal Lobes.md",
-    "Parietal Lobes.md",
-    "Frontal Eye Field.md",
-    "visual association cortex.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
