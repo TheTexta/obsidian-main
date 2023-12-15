@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cerebral Cortex.md",
+                "file": "Paul Broca.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cerebral Cortex.md",
+                "file": "Paul Broca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cerebral Cortex.md",
+                "file": "Paul Broca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cerebral Cortex.md"
+                "file": "Paul Broca.md"
               }
             }
           },
@@ -205,6 +205,10 @@
   "active": "22db7d50163a441d",
   "lastOpenFiles": [
     "Psychology/Biological Psychology/Broca's Area.md",
+    "Paul Broca.md",
+    "Brain-Computer Research.md",
+    "Chromosome.md",
+    "Psychology/Biological Psychology/Cerebral Cortex.md",
     "Psychology/Biological Psychology/Blindsight.md",
     "Binomial Distribution.md",
     "Behavioural Genetics.md",
@@ -226,13 +230,9 @@
     "Parietal Lobes.md",
     "Frontal Eye Field.md",
     "visual association cortex.md",
-    "primary visual cortex.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
-    "Olfactory Association cortex.md",
-    "Primary olfactory cortex.md",
-    "Wernicke's Area.md",
     "Parietal Lobe Described.png",
     "screenshot_ParietalLobe.jpg",
     "screenshot_CorpusCallosum.jpg",

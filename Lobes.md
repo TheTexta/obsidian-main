@@ -1,2 +1,2 @@
 #biological-psychology 
-Four Lobes::[[Frontal Lobes]], [[Parietal Lobes]], [[Temporal Lobes]], [[Occipital Lobes]]. All sit in the [[cerebral cortex]].
+Four Lobes::[[Frontal Lobes]], [[Parietal Lobes]], [[Temporal Lobes]], [[Occipital Lobes]]. All sit in the [[Cerebral Cortex]].
