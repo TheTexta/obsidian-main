@@ -1,5 +1,5 @@
 #biological-psychology 
-- Cell Body
+- [[Neuron Cell Body]]
 - [[Dendrites]]
 - [[Axon]]
 - [[Terminal Branches]]
