@@ -6,3 +6,4 @@ There are two phases of sleep:
 	3. N3
 2. rapid eye movement sleep ([[REM]])
 
+![[Stages in a typical night's sleep.pdf]]
