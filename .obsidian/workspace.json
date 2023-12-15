@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Neural Prosthetics.md",
+                "file": "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Neural Prosthetics.md",
+                "file": "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Neural Prosthetics.md",
+                "file": "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Neural Prosthetics.md"
+                "file": "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md"
               }
             }
           },
@@ -262,10 +262,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4ce7597e986fadd4",
+  "active": "1b31c21586683c68",
   "lastOpenFiles": [
     "Neurogenesis.md",
-    "Cognitive Neural Prosthetics.md",
+    "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
     "Neuroplasticity.md",
     "Wernicke's Aphasia.md",
     "Wernicke's Area.md",
