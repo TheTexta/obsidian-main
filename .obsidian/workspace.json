@@ -92,84 +92,24 @@
             }
           },
           {
-            "id": "e07476e0cfce56dd",
+            "id": "aa37364ff70620eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brain Lateralisation.md",
+                "file": "NREM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4e8294be0b48b42b",
+            "id": "63e3be819b91fb2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micheal Gazzaniga.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "363ab8e2fade48b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Corpus Callosum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1b540ca8c7396af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Split Brain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34e4239f336b72af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Circadian Rhythms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb74257b75c89ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultradian Rhythms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4eefa0b94ced22c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infradian Rhythms.md",
+                "file": "REM.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -275,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infradian Rhythms.md",
+                "file": "REM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infradian Rhythms.md",
+                "file": "REM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infradian Rhythms.md"
+                "file": "REM.md"
               }
             }
           },
@@ -346,17 +286,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c4eefa0b94ced22c",
+  "active": "63e3be819b91fb2d",
   "lastOpenFiles": [
+    "NREM.md",
+    "REM.md",
+    "delta waves.png",
+    "Kcomplex and Sleep Spindle.png",
+    "Sleep Cycle.md",
+    "Psychology/Biological Psychology/Controlateral.md",
+    "Brain Lateralisation.md",
+    "Micheal Gazzaniga.md",
+    "Psychology/Biological Psychology/Corpus Callosum.md",
+    "Split Brain.md",
+    "Circadian Rhythms.md",
     "Ultradian Rhythms.md",
     "Infradian Rhythms.md",
-    "Circadian Rhythms.md",
-    "Split Brain.md",
-    "Psychology/Biological Psychology/Corpus Callosum.md",
     "Roger Sperry.md",
-    "Micheal Gazzaniga.md",
-    "Brain Lateralisation.md",
-    "Psychology/Biological Psychology/Controlateral.md",
     "Consciousness.md",
     "Psychology/Psych 101/Cognitive Neuroscience.md",
     "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
@@ -371,9 +316,6 @@
     "Psychology/Biological Psychology/Broca's Aphasia.md",
     "Psychology/Biological Psychology/aphasia.md",
     "Psychology/Biological Psychology/Fraternal Twins.md",
-    "Psychology/Biological Psychology/Executive Functions.md",
-    "Psychology/Biological Psychology/Epigenetics.md",
-    "Dreams.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
@@ -382,8 +324,6 @@
     "screenshot_CorpusCallosum.jpg",
     "Psychology/Biological Psychology/Cerebrum, Cerebellum and Brainstem.png",
     "screenshot_LeftCerebralHemisphere.jpg",
-    "Chemistry/reactant product plusminus equilibrium shift.png",
-    "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",
