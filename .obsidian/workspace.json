@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Olfactory Association cortex.md",
+                "file": "Temporal Lobes.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Olfactory Association cortex.md",
+                "file": "Temporal Lobes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Olfactory Association cortex.md",
+                "file": "Temporal Lobes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Olfactory Association cortex.md"
+                "file": "Temporal Lobes.md"
               }
             }
           },
@@ -204,8 +204,8 @@
   },
   "active": "6ac3e67468a550d6",
   "lastOpenFiles": [
-    "Temporal Lobes.md",
     "Olfactory Association cortex.md",
+    "Temporal Lobes.md",
     "Primary olfactory cortex.md",
     "Wernicke's Area.md",
     "Auditory Association Cortex.md",
