@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Direct Tax.md",
+                "file": "Psychology/Biological Psychology/Fraternal Twins.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Direct Tax.md",
+                "file": "Psychology/Biological Psychology/Fraternal Twins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Direct Tax.md",
+                "file": "Psychology/Biological Psychology/Fraternal Twins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Direct Tax.md"
+                "file": "Psychology/Biological Psychology/Fraternal Twins.md"
               }
             }
           },
@@ -202,8 +202,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "22db7d50163a441d",
+  "active": "1b31c21586683c68",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/Executive Functions.md",
+    "Psychology/Biological Psychology/Epigenetics.md",
+    "Dual Processing.md",
+    "Dreams.md",
+    "Psychology/Biological Psychology/Dominant Gene.md",
+    "Economics/Direct Tax.md",
     "Economics/Deadweight Loss.md",
     "Psychology/Biological Psychology/Controlateral.md",
     "Psychology/Biological Psychology/Chromosome Disorders.md",
@@ -223,13 +229,7 @@
     "Primary Motor Cortex.md",
     "Somatosensory Cortex.md",
     "Motor association cortex.md",
-    "Executive Functions.md",
     "Motor Cortex.md",
-    "Prefrontal Cortex.md",
-    "Frontal Lobes.md",
-    "Psychology/Biological Psychology/Alzheimers.md",
-    "Occipital Lobes.md",
-    "Lobes.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
