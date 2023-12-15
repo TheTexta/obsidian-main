@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "visual association cortex.md",
+                "file": "Lobes.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "visual association cortex.md",
+                "file": "Lobes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "visual association cortex.md",
+                "file": "Lobes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "visual association cortex.md"
+                "file": "Lobes.md"
               }
             }
           },
@@ -205,10 +205,10 @@
   "active": "6ac3e67468a550d6",
   "lastOpenFiles": [
     "Occipital Lobes.md",
+    "Lobes.md",
     "visual association cortex.md",
     "primary visual cortex.md",
     "Occipital Lobe.png",
-    "Lobes.md",
     "Temporal Lobes.md",
     "temporal lobes.png",
     "temporal lobes.png",
