@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "Sleep Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "Sleep Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "Sleep Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "Sleep Cycle.md"
               }
             }
           },
@@ -300,8 +300,8 @@
   },
   "active": "85d45f4604b694b9",
   "lastOpenFiles": [
-    "Sleep Cycle.md",
     "sleep.md",
+    "Sleep Cycle.md",
     "melatonin.md",
     "Suprachiasmatic Nucleus.md",
     "Stages in a typical night's sleep.pdf",
