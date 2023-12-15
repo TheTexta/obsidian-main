@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Branches.md",
+                "file": "Psychology/Biological Psychology/myelin sheath.md",
                 "mode": "source",
                 "source": false
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal Branches.md",
+                "file": "Psychology/Biological Psychology/myelin sheath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal Branches.md",
+                "file": "Psychology/Biological Psychology/myelin sheath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal Branches.md"
+                "file": "Psychology/Biological Psychology/myelin sheath.md"
               }
             }
           },
@@ -325,6 +325,8 @@
   "active": "11ecab3f3209d1b5",
   "lastOpenFiles": [
     "Psychology/Biological Psychology/axon.md",
+    "Psychology/Biological Psychology/myelin sheath.md",
+    "Psychology/Biological Psychology/synapse.md",
     "Terminal Branches.md",
     "Dendrites.md",
     "Neuron Cell Body.md",
@@ -351,8 +353,6 @@
     "Infradian Rhythms.md",
     "Roger Sperry.md",
     "Consciousness.md",
-    "Psychology/Psych 101/Cognitive Neuroscience.md",
-    "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
