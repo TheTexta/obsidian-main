@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Broca's Area.md",
+                "file": "Parietal Lobes.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Broca's Area.md",
+                "file": "Parietal Lobes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Broca's Area.md",
+                "file": "Parietal Lobes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Broca's Area.md"
+                "file": "Parietal Lobes.md"
               }
             }
           },
@@ -204,12 +204,12 @@
   },
   "active": "6ac3e67468a550d6",
   "lastOpenFiles": [
+    "Lobes.md",
     "Frontal Lobes.md",
     "Broca's Area.md",
     "Prefrontal Cortex.md",
     "Frontal Eye Field.md",
     "Motor association cortex.md",
-    "Lobes.md",
     "Occipital Lobes.md",
     "visual association cortex.md",
     "primary visual cortex.md",
