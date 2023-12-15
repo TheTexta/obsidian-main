@@ -1,5 +1,5 @@
 #biological-psychology 
-Occipital Lobes::Processes visual information and makes sense of the visual stimuli.
+Occipital Lobes::Processes visual information and makes sense of the visual stimuli. 
 
 ![[Occipital Lobe.png]]
 
