@@ -85,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Psych 101/Cognitive Neuroscience.md",
+                "file": "Psychology/Biological Psychology/Controlateral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e07476e0cfce56dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain Lateralisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cognitive neurosci",
+                "query": "brain later",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Psych 101/Cognitive Neuroscience.md",
+                "file": "Brain Lateralisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Psych 101/Cognitive Neuroscience.md",
+                "file": "Brain Lateralisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Psych 101/Cognitive Neuroscience.md"
+                "file": "Brain Lateralisation.md"
               }
             }
           },
@@ -262,8 +274,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4ce7597e986fadd4",
+  "active": "e07476e0cfce56dd",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/Controlateral.md",
+    "Brain Lateralisation.md",
+    "Consciousness.md",
+    "Psychology/Psych 101/Cognitive Neuroscience.md",
     "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
     "Dual Processing.md",
     "sequential processing.md",
@@ -282,14 +298,10 @@
     "Psychology/Biological Psychology/Dominant Gene.md",
     "Economics/Direct Tax.md",
     "Economics/Deadweight Loss.md",
-    "Psychology/Biological Psychology/Controlateral.md",
     "Psychology/Biological Psychology/Chromosome Disorders.md",
-    "Consciousness.md",
     "Psychology/Biological Psychology/Chromosome.md",
     "Brain-Computer Research.md",
     "Binomial Distribution.md",
-    "Behavioural Genetics.md",
-    "Paul Broca.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
