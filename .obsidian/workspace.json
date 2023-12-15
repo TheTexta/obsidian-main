@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wernicke's Area.md",
+                "file": "Olfactory Association cortex.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wernicke's Area.md",
+                "file": "Olfactory Association cortex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wernicke's Area.md",
+                "file": "Olfactory Association cortex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wernicke's Area.md"
+                "file": "Olfactory Association cortex.md"
               }
             }
           },
@@ -205,6 +205,8 @@
   "active": "6ac3e67468a550d6",
   "lastOpenFiles": [
     "Temporal Lobes.md",
+    "Olfactory Association cortex.md",
+    "Primary olfactory cortex.md",
     "Wernicke's Area.md",
     "Auditory Association Cortex.md",
     "Primary Auditory Cortex.md",
@@ -233,8 +235,6 @@
     "screenshot_LeftCerebralHemisphere.jpg",
     "Association Areas.md",
     "Psychology/Biological Psychology/Allele.md",
-    "Sleep Deprivation.md",
-    "Genotype.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
