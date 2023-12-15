@@ -1,1 +1,0 @@
-The motor cortex disproportionally overemphasises certain areas of the brain. Lots of space is reserved for the face and hands. 

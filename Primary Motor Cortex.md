@@ -1,2 +1,2 @@
 #biological-psychology 
-Primary Motor Cortex::Directs movement through muscle contractions. Sits within the [[Frontal Lobes]] at the back.
+Primary Motor Cortex::Directs movement through muscle contractions. Sits within the [[Frontal Lobes]] at the back. The [[motor association cortex]] is associated with planning new movements and learning new ones.
