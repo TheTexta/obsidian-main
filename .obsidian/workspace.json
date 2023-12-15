@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
+                "file": "Dual Processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dual processing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
+                "file": "Dual Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
+                "file": "Dual Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md"
+                "file": "Dual Processing.md"
               }
             }
           },
@@ -262,10 +262,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b31c21586683c68",
+  "active": "4ce7597e986fadd4",
   "lastOpenFiles": [
-    "Neurogenesis.md",
     "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
+    "Neurogenesis.md",
     "Neuroplasticity.md",
     "Wernicke's Aphasia.md",
     "Wernicke's Area.md",

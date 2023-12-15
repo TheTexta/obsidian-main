@@ -1,4 +1,5 @@
-You processed sin the conscious mind what your are aware of and in the unconcious mind other information is processed.
+#biological-psychology 
+dual processing::we have two minds supported by separate neural equipment, one level is conscious and deliberate the other is unconscious and automatic
 
 [[parallel processing]]
 [[sequential processing]]
