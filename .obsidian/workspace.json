@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "abb8b399b40b83ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wernicke's Aphasia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eaff8c82176779e6",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wernicke's Area.md",
+                "file": "Wernicke's Aphasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wernicke's Area.md",
+                "file": "Wernicke's Aphasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wernicke's Area.md"
+                "file": "Wernicke's Aphasia.md"
               }
             }
           },
@@ -226,8 +238,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3c028fb89d5cc118",
+  "active": "abb8b399b40b83ae",
   "lastOpenFiles": [
+    "Wernicke's Area.md",
+    "Wernicke's Aphasia.md",
     "Carl Wernicke.md",
     "Psychology/Biological Psychology/Broca's Aphasia.md",
     "Psychology/Biological Psychology/aphasia.md",
@@ -252,8 +266,6 @@
     "Psychology/Biological Psychology/Blindsight.md",
     "Psychology/Biological Psychology/Autosome.md",
     "Psychology/Biological Psychology/Auditory Association Cortex.md",
-    "Psychology/Biological Psychology/Agonist 1.md",
-    "Psychology/Biological Psychology/Association Areas.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
