@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary Auditory Cortex.md",
+                "file": "Wernicke's Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primary Auditory Cortex.md",
+                "file": "Wernicke's Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primary Auditory Cortex.md",
+                "file": "Wernicke's Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primary Auditory Cortex.md"
+                "file": "Wernicke's Area.md"
               }
             }
           },
@@ -205,6 +205,8 @@
   "active": "6ac3e67468a550d6",
   "lastOpenFiles": [
     "Temporal Lobes.md",
+    "Wernicke's Area.md",
+    "Auditory Association Cortex.md",
     "Primary Auditory Cortex.md",
     "Frontal Lobes.md",
     "Parietal Lobes.md",
@@ -233,8 +235,6 @@
     "Psychology/Biological Psychology/Allele.md",
     "Sleep Deprivation.md",
     "Genotype.md",
-    "Epigenetics.md",
-    "Phenotype.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
