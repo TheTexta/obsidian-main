@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "11ecab3f3209d1b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alpha Waves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eaff8c82176779e6",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -239,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beta Waves.md",
+                "file": "Alpha Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beta Waves.md",
+                "file": "Alpha Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beta Waves.md"
+                "file": "Alpha Waves.md"
               }
             }
           },
@@ -310,10 +322,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c9a956f3910f29f5",
+  "active": "11ecab3f3209d1b5",
   "lastOpenFiles": [
-    "Circadian Rhythms.md",
     "Beta Waves.md",
+    "Alpha Waves.md",
+    "Circadian Rhythms.md",
     "Sleep Cycle.md",
     "sleep.md",
     "melatonin.md",
@@ -340,7 +353,6 @@
     "Neurogenesis.md",
     "Neuroplasticity.md",
     "Wernicke's Aphasia.md",
-    "Wernicke's Area.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
