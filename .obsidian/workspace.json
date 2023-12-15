@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuron Cell Body.md",
+                "file": "Dendrites.md",
                 "mode": "source",
                 "source": false
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuron Cell Body.md",
+                "file": "Dendrites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuron Cell Body.md",
+                "file": "Dendrites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuron Cell Body.md"
+                "file": "Dendrites.md"
               }
             }
           },
@@ -324,8 +324,9 @@
   },
   "active": "11ecab3f3209d1b5",
   "lastOpenFiles": [
-    "Psychology/Biological Psychology/Neuron.md",
     "Neuron Cell Body.md",
+    "Dendrites.md",
+    "Psychology/Biological Psychology/Neuron.md",
     "Psychology/Biological Psychology/Phrenology.md",
     "Alpha Waves.md",
     "Beta Waves.md",
@@ -352,7 +353,6 @@
     "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
     "Dual Processing.md",
     "sequential processing.md",
-    "parallel processing.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
