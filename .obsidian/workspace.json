@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aphasia.md",
+                "file": "Psychology/Biological Psychology/Broca's Aphasia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c028fb89d5cc118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wernicke's Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aphasia.md",
+                "file": "Wernicke's Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aphasia.md",
+                "file": "Wernicke's Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aphasia.md"
+                "file": "Wernicke's Area.md"
               }
             }
           },
@@ -214,10 +226,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d3ee943e7f9b0e69",
+  "active": "3c028fb89d5cc118",
   "lastOpenFiles": [
-    "Broca's Aphasia.md",
-    "aphasia.md",
+    "Carl Wernicke.md",
+    "Psychology/Biological Psychology/Broca's Aphasia.md",
+    "Psychology/Biological Psychology/aphasia.md",
     "Psychology/Biological Psychology/Fraternal Twins.md",
     "Psychology/Biological Psychology/Executive Functions.md",
     "Psychology/Biological Psychology/Epigenetics.md",
@@ -241,7 +254,6 @@
     "Psychology/Biological Psychology/Auditory Association Cortex.md",
     "Psychology/Biological Psychology/Agonist 1.md",
     "Psychology/Biological Psychology/Association Areas.md",
-    "Primary Motor Cortex.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
