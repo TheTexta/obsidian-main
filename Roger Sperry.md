@@ -1,0 +1,2 @@
+#biological-psychology 
+Roger Sperry::American neuroscientist who wont he Nobel prize in 1918 in psisiology and medicine for split brain research which increased understandings of [[Brain Lateralisation]].
