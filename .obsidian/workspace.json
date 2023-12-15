@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alpha Waves.md",
+                "file": "Psychology/Biological Psychology/Neuron.md",
                 "mode": "source",
                 "source": false
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alpha Waves.md",
+                "file": "Psychology/Biological Psychology/Neuron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alpha Waves.md",
+                "file": "Psychology/Biological Psychology/Neuron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alpha Waves.md"
+                "file": "Psychology/Biological Psychology/Neuron.md"
               }
             }
           },
@@ -324,8 +324,9 @@
   },
   "active": "11ecab3f3209d1b5",
   "lastOpenFiles": [
-    "Beta Waves.md",
+    "Psychology/Biological Psychology/Phrenology.md",
     "Alpha Waves.md",
+    "Beta Waves.md",
     "Circadian Rhythms.md",
     "Sleep Cycle.md",
     "sleep.md",
@@ -352,7 +353,6 @@
     "parallel processing.md",
     "Neurogenesis.md",
     "Neuroplasticity.md",
-    "Wernicke's Aphasia.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
