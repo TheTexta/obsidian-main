@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dual Processing.md",
+                "file": "sequential processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dual Processing.md",
+                "file": "sequential processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dual Processing.md",
+                "file": "sequential processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dual Processing.md"
+                "file": "sequential processing.md"
               }
             }
           },
@@ -264,6 +264,8 @@
   },
   "active": "4ce7597e986fadd4",
   "lastOpenFiles": [
+    "Dual Processing.md",
+    "parallel processing.md",
     "Psychology/Biological Psychology/Cognitive Neural Prosthetics.md",
     "Neurogenesis.md",
     "Neuroplasticity.md",
@@ -275,7 +277,6 @@
     "Psychology/Biological Psychology/Fraternal Twins.md",
     "Psychology/Biological Psychology/Executive Functions.md",
     "Psychology/Biological Psychology/Epigenetics.md",
-    "Dual Processing.md",
     "Dreams.md",
     "Psychology/Biological Psychology/Dominant Gene.md",
     "Economics/Direct Tax.md",
@@ -289,7 +290,6 @@
     "Behavioural Genetics.md",
     "Paul Broca.md",
     "Psychology/Biological Psychology/Broca's Area.md",
-    "Psychology/Biological Psychology/Cerebral Cortex.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
