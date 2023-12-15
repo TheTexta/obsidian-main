@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e63055f6b64e4c3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Somatosensory Association Cortex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eaff8c82176779e6",
             "type": "leaf",
             "state": {
@@ -61,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lobes.md",
+                "file": "Primary Auditory Cortex.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Somatosensory Association Cortex.md",
+                "file": "Primary Auditory Cortex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Somatosensory Association Cortex.md",
+                "file": "Primary Auditory Cortex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Somatosensory Association Cortex.md"
+                "file": "Primary Auditory Cortex.md"
               }
             }
           },
@@ -214,19 +202,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e63055f6b64e4c3d",
+  "active": "6ac3e67468a550d6",
   "lastOpenFiles": [
-    "Parietal Lobes.md",
-    "Somatosensory Association Cortex.md",
-    "Posterior Association Area.md",
+    "Temporal Lobes.md",
+    "Primary Auditory Cortex.md",
     "Frontal Lobes.md",
+    "Parietal Lobes.md",
+    "Posterior Association Area.md",
+    "Somatosensory Association Cortex.md",
+    "Somatosensory Cortex.md",
     "Lobes.md",
+    "Agonist.md",
+    "Parietal Lobe Described.png",
     "Primary Motor Cortex.md",
     "Psychology/Biological Psychology/Alzheimers.md",
     "Psychology/Biological Psychology/Acetylcholine.md",
     "Psychology/Biological Psychology/Antagonist.md",
     "Psychology/Biological Psychology/Antipsychotics.md",
-    "Agonist.md",
     "Psychology/Biological Psychology/Neurotransmitters.md",
     "Antagonists.md",
     "Psychology/Biological Psychology/Corpus Callosum.md",
@@ -243,15 +235,11 @@
     "Genotype.md",
     "Epigenetics.md",
     "Phenotype.md",
-    "Homozygous.md",
-    "Heterozygous.md",
-    "Gene Disorders.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "Chemistry/Screenshot 2023-11-23 at 9.33.06 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.32.29 AM.png",
     "Chemistry/Screenshot 2023-11-23 at 9.24.49 AM.png",
     "Chemistry/temperature shift in equilibrium.png",
-    "Chemistry/volume pressure shift in equilibrium.png",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",
