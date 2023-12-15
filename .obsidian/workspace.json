@@ -145,7 +145,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/myelin sheath.md",
+                "file": "Nodes of Ranvier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f795dfff012adf5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Valence Shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5a1e8422ae5dcbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aufbau Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -251,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/myelin sheath.md",
+                "file": "Aufbau Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/myelin sheath.md",
+                "file": "Aufbau Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/myelin sheath.md"
+                "file": "Aufbau Principle.md"
               }
             }
           },
@@ -322,10 +346,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "11ecab3f3209d1b5",
+  "active": "b5a1e8422ae5dcbb",
   "lastOpenFiles": [
-    "Psychology/Biological Psychology/axon.md",
+    "Chemistry/Valence Shell.md",
+    "Aufbau Principle.md",
+    "Behavioural Genetics.md",
+    "Unit 2 Review.md",
+    "Highest Energy Electron.md",
+    "Nodes of Ranvier.md",
     "Psychology/Biological Psychology/myelin sheath.md",
+    "Psychology/Biological Psychology/axon.md",
     "Psychology/Biological Psychology/synapse.md",
     "Terminal Branches.md",
     "Dendrites.md",
@@ -347,12 +377,6 @@
     "Psychology/Biological Psychology/Controlateral.md",
     "Brain Lateralisation.md",
     "Micheal Gazzaniga.md",
-    "Psychology/Biological Psychology/Corpus Callosum.md",
-    "Split Brain.md",
-    "Ultradian Rhythms.md",
-    "Infradian Rhythms.md",
-    "Roger Sperry.md",
-    "Consciousness.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
