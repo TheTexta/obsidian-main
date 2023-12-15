@@ -31,7 +31,7 @@ Types of neurotransmitters
 - [[Endorphins]]
 
 Neurotransmitters have mimics, other chemicals can do exactly what neurotransmitters do. Like drugs.
-* [[Agonist]], a drug that increases the length of the neurotransmitter or acts as one.
+* [[Agonist 1]], a drug that increases the length of the neurotransmitter or acts as one.
 * [[Antagonist]], a drug that blocks or decreases the function of a neurotransmitter
 * [[Re-uptake inhibitor]], makes the re-uptake of serotonin slow/stop.
 
