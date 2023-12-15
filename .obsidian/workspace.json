@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuroplasticity.md",
+                "file": "Neurogenesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ce7597e986fadd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Neural Prosthetics.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuroplasticity.md",
+                "file": "Cognitive Neural Prosthetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuroplasticity.md",
+                "file": "Cognitive Neural Prosthetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuroplasticity.md"
+                "file": "Cognitive Neural Prosthetics.md"
               }
             }
           },
@@ -250,10 +262,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "de06777062692fba",
+  "active": "4ce7597e986fadd4",
   "lastOpenFiles": [
-    "Wernicke's Aphasia.md",
+    "Neurogenesis.md",
+    "Cognitive Neural Prosthetics.md",
     "Neuroplasticity.md",
+    "Wernicke's Aphasia.md",
     "Wernicke's Area.md",
     "Carl Wernicke.md",
     "Psychology/Biological Psychology/Broca's Aphasia.md",
@@ -276,8 +290,6 @@
     "Paul Broca.md",
     "Psychology/Biological Psychology/Broca's Area.md",
     "Psychology/Biological Psychology/Cerebral Cortex.md",
-    "Psychology/Biological Psychology/Blindsight.md",
-    "Psychology/Biological Psychology/Autosome.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
