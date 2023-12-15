@@ -121,7 +121,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sleep Cycle.md",
+                "file": "Circadian Rhythms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9a956f3910f29f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beta Waves.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sleep Cycle.md",
+                "file": "Beta Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sleep Cycle.md",
+                "file": "Beta Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sleep Cycle.md"
+                "file": "Beta Waves.md"
               }
             }
           },
@@ -298,10 +310,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "85d45f4604b694b9",
+  "active": "c9a956f3910f29f5",
   "lastOpenFiles": [
-    "sleep.md",
+    "Circadian Rhythms.md",
+    "Beta Waves.md",
     "Sleep Cycle.md",
+    "sleep.md",
     "melatonin.md",
     "Suprachiasmatic Nucleus.md",
     "Stages in a typical night's sleep.pdf",
@@ -314,7 +328,6 @@
     "Micheal Gazzaniga.md",
     "Psychology/Biological Psychology/Corpus Callosum.md",
     "Split Brain.md",
-    "Circadian Rhythms.md",
     "Ultradian Rhythms.md",
     "Infradian Rhythms.md",
     "Roger Sperry.md",
@@ -328,7 +341,6 @@
     "Neuroplasticity.md",
     "Wernicke's Aphasia.md",
     "Wernicke's Area.md",
-    "Carl Wernicke.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
