@@ -121,7 +121,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roger Sperry.md",
+                "file": "Psychology/Biological Psychology/Corpus Callosum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1b540ca8c7396af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Split Brain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34e4239f336b72af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Circadian Rhythms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb74257b75c89ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ultradian Rhythms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4eefa0b94ced22c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infradian Rhythms.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -227,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roger Sperry.md",
+                "file": "Infradian Rhythms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roger Sperry.md",
+                "file": "Infradian Rhythms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roger Sperry.md"
+                "file": "Infradian Rhythms.md"
               }
             }
           },
@@ -298,10 +346,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "363ab8e2fade48b9",
+  "active": "c4eefa0b94ced22c",
   "lastOpenFiles": [
-    "Micheal Gazzaniga.md",
+    "Ultradian Rhythms.md",
+    "Infradian Rhythms.md",
+    "Circadian Rhythms.md",
+    "Split Brain.md",
+    "Psychology/Biological Psychology/Corpus Callosum.md",
     "Roger Sperry.md",
+    "Micheal Gazzaniga.md",
     "Brain Lateralisation.md",
     "Psychology/Biological Psychology/Controlateral.md",
     "Consciousness.md",
@@ -321,11 +374,6 @@
     "Psychology/Biological Psychology/Executive Functions.md",
     "Psychology/Biological Psychology/Epigenetics.md",
     "Dreams.md",
-    "Psychology/Biological Psychology/Dominant Gene.md",
-    "Economics/Direct Tax.md",
-    "Economics/Deadweight Loss.md",
-    "Psychology/Biological Psychology/Chromosome Disorders.md",
-    "Psychology/Biological Psychology/Chromosome.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
