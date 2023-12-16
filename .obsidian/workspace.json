@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/Central Nervous System.md",
+                "file": "Psychology/Biological Psychology/peripheral nervous system.md",
                 "mode": "source",
                 "source": false
               }
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/Central Nervous System.md",
+                "file": "Psychology/Biological Psychology/peripheral nervous system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/Central Nervous System.md",
+                "file": "Psychology/Biological Psychology/peripheral nervous system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/Central Nervous System.md"
+                "file": "Psychology/Biological Psychology/peripheral nervous system.md"
               }
             }
           },
@@ -456,6 +456,7 @@
   },
   "active": "6448c3fd4b9d31f8",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/Central Nervous System.md",
     "Psychology/Biological Psychology/Nerve cell.md",
     "Psychology/Biological Psychology/Nervous System.md",
     "Psychology/Biological Psychology/Re-uptake inhibitor.md",
@@ -481,7 +482,6 @@
     "Repolarisation.md",
     "Depolarisation.md",
     "Threshold.md",
-    "All-or-none Reponse.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
