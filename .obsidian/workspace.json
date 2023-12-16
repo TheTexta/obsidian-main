@@ -306,9 +306,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0d2bdc1b31df6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Biological Psychology/HPA axis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -335,7 +347,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "afferent",
+                "query": "adrenal cortex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -363,7 +375,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -383,7 +395,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/adrenal gland.md",
+                "file": "Psychology/Biological Psychology/HPA axis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +412,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/adrenal gland.md",
+                "file": "Psychology/Biological Psychology/HPA axis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +435,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/adrenal gland.md"
+                "file": "Psychology/Biological Psychology/HPA axis.md"
               }
             }
           },
@@ -454,8 +466,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "70f99f8dea587378",
+  "active": "a0d2bdc1b31df6a7",
   "lastOpenFiles": [
+    "cortisol.md",
+    "adrenal cortex.md",
+    "Psychology/Biological Psychology/adrenal gland.md",
+    "Adrenal Medulla.md",
+    "Sympathetic Nervous System.md",
+    "Psychology/Biological Psychology/Autonomic Nervous System.md",
     "Psychology/Biological Psychology/important hormones.md",
     "Untitled 1.md",
     "Psychology/Biological Psychology/oxytocin.md",
@@ -467,7 +485,6 @@
     "hormones.md",
     "Psychology/Biological Psychology/Endocrine System.md",
     "Psychology/Biological Psychology/Homeostasis.md",
-    "Psychology/Biological Psychology/Autonomic Nervous System.md",
     "Psychology/Biological Psychology/Somatic Nervous System.md",
     "Psychology/Biological Psychology/afferent.md",
     "interneurons.md",
@@ -477,11 +494,6 @@
     "Psychology/Biological Psychology/Central Nervous System.md",
     "efferent neurons.md",
     "Reflex.md",
-    "Spinal Cord.md",
-    "Brain.md",
-    "Psychology/Biological Psychology/peripheral nervous system.md",
-    "Psychology/Biological Psychology/Nerve cell.md",
-    "Psychology/Biological Psychology/Nervous System.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",

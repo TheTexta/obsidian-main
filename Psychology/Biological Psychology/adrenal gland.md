@@ -5,5 +5,4 @@ Adrenal Gland::A pair of [[endocrine glands|endocrine glands]] that sit above th
 
 to parts, the adrenal medulla and the adrenal cortex. 
 
-# adrenal cortex
-releases cortisol, floods into blood stream due to stress. used to relieve pain i stress. 
+[[adrenal cortex]]
