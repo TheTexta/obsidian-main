@@ -1,0 +1,2 @@
+#biological-psychology 
+Oligodendroglia::A type of [[glial cell]] that forms the [[myelin sheath]] on [[Neuron|neurons]] in the [[Central Nervous System]] and [[Schwann cells]] in the [[peripheral nervous system]].
