@@ -330,9 +330,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae3d555ce0dc10cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electroencephalogram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f517812badab83b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magnetoencephalography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afd124efd8b9626c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computed Tomography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1549551bfa08aa3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Positron Emission Tomography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c84e126ff9821462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magnetic Resonance Imaging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2aae02ace0a9f6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Magnetic Resonance Imaging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 26
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -359,7 +431,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noninv",
+                "query": "electroenc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -407,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transcranial direct current stimulation..md",
+                "file": "Functional Magnetic Resonance Imaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +496,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transcranial direct current stimulation..md",
+                "file": "Functional Magnetic Resonance Imaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -447,7 +519,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transcranial direct current stimulation..md"
+                "file": "Functional Magnetic Resonance Imaging.md"
               }
             }
           },
@@ -478,10 +550,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f98b4278354de4f4",
+  "active": "2aae02ace0a9f6ca",
   "lastOpenFiles": [
-    "Psychology/Biological Psychology/Noninvasive Brain Stimulation.md",
+    "Magnetic Resonance Imaging.md",
+    "Functional Magnetic Resonance Imaging.md",
+    "Positron Emission Tomography.md",
+    "Computed Tomography.md",
+    "Magnetoencephalography.md",
+    "Electroencephalogram.md",
     "transcranial direct current stimulation..md",
+    "Psychology/Biological Psychology/Noninvasive Brain Stimulation.md",
     "transcranial magnetic stimulation.md",
     "Psychology/Biological Psychology/Deep Brain Stimulation.md",
     "Psychology/Biological Psychology/Brain Stimulation.md",
@@ -500,12 +578,6 @@
     "adrenal cortex.md",
     "Psychology/Biological Psychology/adrenal gland.md",
     "Adrenal Medulla.md",
-    "Sympathetic Nervous System.md",
-    "Psychology/Biological Psychology/Autonomic Nervous System.md",
-    "Psychology/Biological Psychology/important hormones.md",
-    "Untitled 1.md",
-    "Psychology/Biological Psychology/oxytocin.md",
-    "Psychology/Biological Psychology/vasopressin.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
