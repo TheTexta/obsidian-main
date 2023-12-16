@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oligodendroglia.md",
+                "file": "Schwann cells.md",
                 "mode": "source",
                 "source": false
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oligodendroglia.md",
+                "file": "Schwann cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oligodendroglia.md",
+                "file": "Schwann cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oligodendroglia.md"
+                "file": "Schwann cells.md"
               }
             }
           },
@@ -324,8 +324,9 @@
   },
   "active": "b5d977e2583f9dff",
   "lastOpenFiles": [
-    "Glial Cell.md",
     "oligodendroglia.md",
+    "Schwann cells.md",
+    "Glial Cell.md",
     "Circadian Rhythms.md",
     "Beta Waves.md",
     "Nodes of Ranvier.md",
@@ -352,7 +353,6 @@
     "NREM.md",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
-    "Psychology/Biological Psychology/Controlateral.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
