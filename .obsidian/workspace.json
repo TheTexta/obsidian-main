@@ -145,7 +145,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schwann cells.md",
+                "file": "Psychology/Biological Psychology/Glial Cells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c714698bf42bdbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astrocytes.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -251,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schwann cells.md",
+                "file": "Astrocytes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schwann cells.md",
+                "file": "Astrocytes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schwann cells.md"
+                "file": "Astrocytes.md"
               }
             }
           },
@@ -322,10 +334,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b5d977e2583f9dff",
+  "active": "1c714698bf42bdbc",
   "lastOpenFiles": [
-    "oligodendroglia.md",
+    "Psychology/Biological Psychology/Glial Cells.md",
+    "Astrocytes.md",
     "Schwann cells.md",
+    "oligodendroglia.md",
     "Glial Cell.md",
     "Circadian Rhythms.md",
     "Beta Waves.md",
@@ -349,8 +363,6 @@
     "melatonin.md",
     "Suprachiasmatic Nucleus.md",
     "Stages in a typical night's sleep.pdf",
-    "REM.md",
-    "NREM.md",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
     "Occipital Lobe.png",
