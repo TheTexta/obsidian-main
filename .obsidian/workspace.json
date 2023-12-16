@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/Brain Stimulation.md",
+                "file": "Psychology/Biological Psychology/Deep Brain Stimulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -359,7 +359,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electrical stimul",
+                "query": "deep brain ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -407,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/Brain Stimulation.md",
+                "file": "Psychology/Biological Psychology/Deep Brain Stimulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +424,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/Brain Stimulation.md",
+                "file": "Psychology/Biological Psychology/Deep Brain Stimulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -447,7 +447,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/Brain Stimulation.md"
+                "file": "Psychology/Biological Psychology/Deep Brain Stimulation.md"
               }
             }
           },
@@ -480,6 +480,7 @@
   },
   "active": "f98b4278354de4f4",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/Brain Stimulation.md",
     "Phineas Cage.md",
     "Psychology/Biological Psychology/Lesion Studies.md",
     "Psychology/Biological Psychology/gonads.md",
@@ -505,7 +506,6 @@
     "Psychology/Biological Psychology/pituitary gland.md",
     "endocrine glands.md",
     "glands.md",
-    "hormones.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
