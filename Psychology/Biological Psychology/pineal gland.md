@@ -1,3 +1,2 @@
-sleep wake cycle, maintains [[melatonin]]
-
-Responsible for biological rhythms. 
+#biological-psychology 
+Pineal Gland::Located in the [[brain]], controls [[sleep]] wake cycle, maintains [[melatonin]]. in other animals it influences seasonal [[Behaviour|behaviours]] such as breeding

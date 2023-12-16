@@ -313,7 +313,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/HPA axis.md",
+                "file": "Psychology/Biological Psychology/thyroxine.md",
                 "mode": "source",
                 "source": false
               }
@@ -395,7 +395,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/HPA axis.md",
+                "file": "Psychology/Biological Psychology/thyroxine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +412,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/HPA axis.md",
+                "file": "Psychology/Biological Psychology/thyroxine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -435,7 +435,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/HPA axis.md"
+                "file": "Psychology/Biological Psychology/thyroxine.md"
               }
             }
           },
@@ -468,6 +468,9 @@
   },
   "active": "a0d2bdc1b31df6a7",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/thyroid gland.md",
+    "Psychology/Biological Psychology/pineal gland.md",
+    "Psychology/Biological Psychology/HPA axis.md",
     "cortisol.md",
     "adrenal cortex.md",
     "Psychology/Biological Psychology/adrenal gland.md",
@@ -491,9 +494,6 @@
     "Psychology/Biological Psychology/Neuron.md",
     "afferent neurons.md",
     "Psychology/Biological Psychology/Agonist 1.md",
-    "Psychology/Biological Psychology/Central Nervous System.md",
-    "efferent neurons.md",
-    "Reflex.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
