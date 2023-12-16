@@ -241,7 +241,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refractory Period.md",
+                "file": "Psychology/Biological Psychology/synaptic gap.md",
                 "mode": "source",
                 "source": false
               }
@@ -347,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refractory Period.md",
+                "file": "Psychology/Biological Psychology/synaptic gap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refractory Period.md",
+                "file": "Psychology/Biological Psychology/synaptic gap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +387,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refractory Period.md"
+                "file": "Psychology/Biological Psychology/synaptic gap.md"
               }
             }
           },
@@ -420,8 +420,10 @@
   },
   "active": "a4f7156020b6fcc2",
   "lastOpenFiles": [
-    "Hyperpolarization.md",
+    "Psychology/Biological Psychology/synaptic cleft.md",
+    "Psychology/Biological Psychology/synapse.md",
     "Refractory Period.md",
+    "Hyperpolarization.md",
     "Repolarisation.md",
     "Depolarisation.md",
     "Threshold.md",
@@ -444,8 +446,6 @@
     "Unit 2 Review.md",
     "Highest Energy Electron.md",
     "Psychology/Biological Psychology/myelin sheath.md",
-    "Psychology/Biological Psychology/axon.md",
-    "Psychology/Biological Psychology/synapse.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
