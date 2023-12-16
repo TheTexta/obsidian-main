@@ -10,7 +10,4 @@ sensations are different to perception. our brain perceives, it does not sense.
 # [[Spinal Cord]]
 Neurons which sit along the spinal cord.
 
-Three types of neurons
-- [[afferent neurons]]
-- [[efferent neurons]]
-- interneurons - connect the afferent and efferent neurons and make up the inside of the spinal cord. interneurons allow for reflexes, responses which bypass the brain. known as the [[reflex arc]].
+The cns contains all three types of [[neuron|neurons]]
