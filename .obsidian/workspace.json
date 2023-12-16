@@ -313,7 +313,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/thyroxine.md",
+                "file": "Psychology/Biological Psychology/gonads.md",
                 "mode": "source",
                 "source": false
               }
@@ -395,7 +395,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/thyroxine.md",
+                "file": "Psychology/Biological Psychology/gonads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +412,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/thyroxine.md",
+                "file": "Psychology/Biological Psychology/gonads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -435,7 +435,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/thyroxine.md"
+                "file": "Psychology/Biological Psychology/gonads.md"
               }
             }
           },
@@ -468,6 +468,12 @@
   },
   "active": "a0d2bdc1b31df6a7",
   "lastOpenFiles": [
+    "testosterone.md",
+    "Psychology/Biological Psychology/gonads.md",
+    "Psychology/Biological Psychology/pancreas.md",
+    "hypoglycemia.md",
+    "Psychology/Biological Psychology/parathyroid glands.md",
+    "Psychology/Biological Psychology/thyroxine.md",
     "Psychology/Biological Psychology/thyroid gland.md",
     "Psychology/Biological Psychology/pineal gland.md",
     "Psychology/Biological Psychology/HPA axis.md",
@@ -488,12 +494,6 @@
     "hormones.md",
     "Psychology/Biological Psychology/Endocrine System.md",
     "Psychology/Biological Psychology/Homeostasis.md",
-    "Psychology/Biological Psychology/Somatic Nervous System.md",
-    "Psychology/Biological Psychology/afferent.md",
-    "interneurons.md",
-    "Psychology/Biological Psychology/Neuron.md",
-    "afferent neurons.md",
-    "Psychology/Biological Psychology/Agonist 1.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",

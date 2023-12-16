@@ -1,3 +1,2 @@
-produces [[insulin]] to get energy from food and [[glucagon]] which decreases energy in your blood stream.
-
-hypoglycemia, low blood sugar
+#biological-psychology 
+Pancreas::produces and releases [[insulin]] and [[glucagon]] to get energy from food and [[glucagon]] which decreases energy / sugar in your blood stream. Too little blood sugar is known as [[hypoglycemia]]
