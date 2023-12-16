@@ -1,4 +1,5 @@
-Communicates throughout all parts of the body through neurons. A communication system. There are 10 quadrillion connections in the brain alone. 
+#biological-psychology 
+Nervous System::Communicates throughout all parts of the body through neurons. An electrochemical communication system. There are 10 quadrillion connections in the brain alone. 
 
 
 # [[Central Nervous System]]
