@@ -289,7 +289,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brain.md",
+                "file": "Spinal Cord.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70f99f8dea587378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "efferent neurons.md",
                 "mode": "source",
                 "source": false
               }
@@ -320,7 +332,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -347,7 +359,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pump",
+                "query": "afferent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -395,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brain.md",
+                "file": "efferent neurons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +424,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brain.md",
+                "file": "efferent neurons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -435,7 +447,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brain.md"
+                "file": "efferent neurons.md"
               }
             }
           },
@@ -466,11 +478,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fee1410d21ef6bbf",
+  "active": "70f99f8dea587378",
   "lastOpenFiles": [
-    "Psychology/Biological Psychology/peripheral nervous system.md",
-    "Brain.md",
     "Psychology/Biological Psychology/Central Nervous System.md",
+    "efferent neurons.md",
+    "afferent neurons.md",
+    "Reflex.md",
+    "Spinal Cord.md",
+    "Brain.md",
+    "Psychology/Biological Psychology/peripheral nervous system.md",
     "Psychology/Biological Psychology/Nerve cell.md",
     "Psychology/Biological Psychology/Nervous System.md",
     "Psychology/Biological Psychology/Re-uptake inhibitor.md",
@@ -490,10 +506,6 @@
     "Psychology/Biological Psychology/synaptic gap.md",
     "Psychology/Biological Psychology/synaptic cleft.md",
     "Psychology/Biological Psychology/synapse.md",
-    "Refractory Period.md",
-    "Hyperpolarization.md",
-    "Repolarisation.md",
-    "Depolarisation.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
