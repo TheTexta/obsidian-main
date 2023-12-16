@@ -397,7 +397,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Magnetic Resonance Imaging.md",
+                "file": "old brain.md",
                 "mode": "source",
                 "source": false
               }
@@ -431,7 +431,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electroenc",
+                "query": "old brain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -479,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Magnetic Resonance Imaging.md",
+                "file": "old brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -496,7 +496,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Magnetic Resonance Imaging.md",
+                "file": "old brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -519,7 +519,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Magnetic Resonance Imaging.md"
+                "file": "old brain.md"
               }
             }
           },
@@ -552,8 +552,10 @@
   },
   "active": "2aae02ace0a9f6ca",
   "lastOpenFiles": [
-    "Magnetic Resonance Imaging.md",
+    "Psychology/Biological Psychology/Old Brain New Brain.md",
+    "old brain.md",
     "Functional Magnetic Resonance Imaging.md",
+    "Magnetic Resonance Imaging.md",
     "Positron Emission Tomography.md",
     "Computed Tomography.md",
     "Magnetoencephalography.md",
@@ -576,8 +578,6 @@
     "Psychology/Biological Psychology/HPA axis.md",
     "cortisol.md",
     "adrenal cortex.md",
-    "Psychology/Biological Psychology/adrenal gland.md",
-    "Adrenal Medulla.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
