@@ -1,2 +1,2 @@
 #biological-psychology 
-Antipsychotics::a classification of drug that treats [[psychosis]] by blocking [[Dopamine]] receptors with [[antagonist]]s that prevent [[neurotransmitters]] from entering receptors.
+Antipsychotics::a classification of drug that treats [[psychosis]] by blocking [[Dopamine]] receptors with [[antagonist]]s that prevent [[Psychology/Biological Psychology/Neurotransmitters]] from entering receptors.

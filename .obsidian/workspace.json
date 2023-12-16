@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inhibition.md",
+                "file": "Psychology/Biological Psychology/Neurotransmitters.md",
                 "mode": "source",
                 "source": false
               }
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inhibition.md",
+                "file": "Psychology/Biological Psychology/Neurotransmitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inhibition.md",
+                "file": "Psychology/Biological Psychology/Neurotransmitters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inhibition.md"
+                "file": "Psychology/Biological Psychology/Neurotransmitters.md"
               }
             }
           },
@@ -456,8 +456,9 @@
   },
   "active": "6448c3fd4b9d31f8",
   "lastOpenFiles": [
-    "Excitation.md",
     "Inhibition.md",
+    "Neurotransmitters.md",
+    "Excitation.md",
     "Reuptake.md",
     "Psychology/Biological Psychology/Re-uptake inhibitor.md",
     "synaptic vesicles.md",
@@ -481,7 +482,6 @@
     "oligodendroglia.md",
     "Glial Cell.md",
     "Circadian Rhythms.md",
-    "Beta Waves.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",

@@ -1,2 +1,2 @@
 #biological-psychology 
-Excitation::The binding of a [[Neurotransmitters|neurotransmitter]] to a receptor site which produces a chemical reaction that [[Depolarisation|depolarises]] the cell membrane. If a [[threshold]] is reached, an [[action potential]] is created which is sent down the [[Neuron|neuron]].
+Excitation::The binding of a [[Psychology/Biological Psychology/Neurotransmitters|neurotransmitter]] to a receptor site which produces a chemical reaction that [[Depolarisation|depolarises]] the cell membrane. If a [[threshold]] is reached, an [[action potential]] is created which is sent down the [[Neuron|neuron]].

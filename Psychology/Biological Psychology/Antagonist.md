@@ -1,5 +1,5 @@
 #biological-psychology 
-Antagonist::a drug that blocks or decreases the function of a [[Neurotransmitters|neurotransmitter]]
+Antagonist::a drug that blocks or decreases the function of a [[Psychology/Biological Psychology/Neurotransmitters|neurotransmitter]]
 
 ### Examples of Antagonists
 * Botulinim Toxin::Botox which smoothes wrinkles by paralysing facial muscles.

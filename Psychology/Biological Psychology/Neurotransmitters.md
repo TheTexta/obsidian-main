@@ -1,3 +1,6 @@
+#biological-psychology 
+Neurotransmitters::Chemicals released by [[neuron|neurons]] which mediate transmissions of nerve signals across the junctions between neurons. When triggered by a nerve impulse, the neurotransmitter is released from the [[terminal]], and binds and reacts with receptor molecules in the postsynaptic membrane.
+
 Chemicals which transfer signals.
 - Synthesis
 - Storage
@@ -6,19 +9,19 @@ Chemicals which transfer signals.
 - Deactivation
 
 How are they made?
-The nerve cell makes the chemicals and stores them in [[synaptic vesicles]], little bubbles in the cells where the [[neurotransmitters]] are stored.
+The nerve cell makes the chemicals and stores them in [[synaptic vesicles]], little bubbles in the cells where the [[Psychology/Biological Psychology/Neurotransmitters]] are stored.
 
 
 How are they released?
-The [[action potential]], triggers calcium channels to open up and calcium will rush into the cell. Causing the [[synaptic vesicles|vesicles]] to join the [[presynaptic membrane]]. Once fused the [[Neurotransmitters]] will release.
+The [[action potential]], triggers calcium channels to open up and calcium will rush into the cell. Causing the [[synaptic vesicles|vesicles]] to join the [[presynaptic membrane]]. Once fused the [[Psychology/Biological Psychology/Neurotransmitters]] will release.
 
 How are they received?
-Once they are released, they are received by receptors, which are specially designed / shaped to only take in one type of [[Neurotransmitters|neurotransmitter]]. Once received, a [[action potential]] is triggered.
+Once they are released, they are received by receptors, which are specially designed / shaped to only take in one type of [[Psychology/Biological Psychology/Neurotransmitters|neurotransmitter]]. Once received, a [[action potential]] is triggered.
 
 How are they deactivated and recycled?
 Neurotransmitters floating in the space between need to be deactivated. Either they float away or are broken down by enzymes or they are re-uptaken. Re-uptake means that the neurotransmitters are collected by a special cell, and taken back to the terminal.
 
-If a [[Neurotransmitters|neurotransmitter]] is released while a action potential is already happening, the signal is hypo-polarised, which stops the signal. Which is called [[Psychology/Biological Psychology/inhibition]]. [[Psychology/Biological Psychology/Excitation]] is the opposite, when the transmitters cause a signal to start. 
+If a [[Psychology/Biological Psychology/Neurotransmitters|neurotransmitter]] is released while a action potential is already happening, the signal is hypo-polarised, which stops the signal. Which is called [[Psychology/Biological Psychology/inhibition]]. [[Psychology/Biological Psychology/Excitation]] is the opposite, when the transmitters cause a signal to start. 
 
 Types of neurotransmitters
 - [[Acetylcholine]] (ACh)
