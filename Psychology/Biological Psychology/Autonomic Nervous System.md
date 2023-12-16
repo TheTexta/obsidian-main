@@ -1,4 +1,5 @@
-Everything which isn't the [[Somatic Nervous System]], all the stuff which isn't sensation / movement. 
+#biological-psychology 
+Autonomic nervous system::Everything which isn't the [[Somatic Nervous System]], all the stuff which isn't sensation / movement. A devision of the [[peripheral nervous system]] which regulates the bodies internal environment, controls glands and involuntary muscle movements. Responsible for involuntary functions, hence *autonomic*.
 
 Sympathetic
 Prepares the body to react, the flight fight or freeze response, takes energy. Must be triggered through a stressful response. 

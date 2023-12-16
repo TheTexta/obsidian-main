@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interneurons.md",
+                "file": "Psychology/Biological Psychology/Autonomic Nervous System.md",
                 "mode": "source",
                 "source": false
               }
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interneurons.md",
+                "file": "Psychology/Biological Psychology/Autonomic Nervous System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interneurons.md",
+                "file": "Psychology/Biological Psychology/Autonomic Nervous System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interneurons.md"
+                "file": "Psychology/Biological Psychology/Autonomic Nervous System.md"
               }
             }
           },
@@ -456,9 +456,11 @@
   },
   "active": "70f99f8dea587378",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/Somatic Nervous System.md",
+    "Psychology/Biological Psychology/afferent.md",
+    "interneurons.md",
     "Psychology/Biological Psychology/Neuron.md",
     "afferent neurons.md",
-    "interneurons.md",
     "Psychology/Biological Psychology/Agonist 1.md",
     "Psychology/Biological Psychology/Central Nervous System.md",
     "efferent neurons.md",
@@ -480,8 +482,6 @@
     "Neurotransmitters.md",
     "Excitation.md",
     "Reuptake.md",
-    "synaptic vesicles.md",
-    "Psychology/Biological Psychology/terminal.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
