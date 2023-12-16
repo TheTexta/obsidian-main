@@ -1,5 +1,5 @@
-* growth hormone
-* oxytocin
-* vasapressin
+* [[growth hormone]]
+* [[oxytocin]]
+* [[vasopressin]]
 * adrenaline
 * 
