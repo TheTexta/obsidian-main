@@ -128,24 +128,12 @@
             }
           },
           {
-            "id": "c9a956f3910f29f5",
+            "id": "6a4e28ff41f3bffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beta Waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11ecab3f3209d1b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes of Ranvier.md",
+                "file": "Glial Cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -251,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodes of Ranvier.md",
+                "file": "Glial Cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodes of Ranvier.md",
+                "file": "Glial Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodes of Ranvier.md"
+                "file": "Glial Cell.md"
               }
             }
           },
@@ -322,14 +310,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "11ecab3f3209d1b5",
+  "active": "6a4e28ff41f3bffd",
   "lastOpenFiles": [
+    "Circadian Rhythms.md",
+    "Beta Waves.md",
+    "Nodes of Ranvier.md",
+    "Glial Cell.md",
     "Chemistry/Valence Shell.md",
     "Aufbau Principle.md",
     "Behavioural Genetics.md",
     "Unit 2 Review.md",
     "Highest Energy Electron.md",
-    "Nodes of Ranvier.md",
     "Psychology/Biological Psychology/myelin sheath.md",
     "Psychology/Biological Psychology/axon.md",
     "Psychology/Biological Psychology/synapse.md",
@@ -339,8 +330,6 @@
     "Psychology/Biological Psychology/Neuron.md",
     "Psychology/Biological Psychology/Phrenology.md",
     "Alpha Waves.md",
-    "Beta Waves.md",
-    "Circadian Rhythms.md",
     "Sleep Cycle.md",
     "sleep.md",
     "melatonin.md",
@@ -352,7 +341,6 @@
     "Kcomplex and Sleep Spindle.png",
     "Psychology/Biological Psychology/Controlateral.md",
     "Brain Lateralisation.md",
-    "Micheal Gazzaniga.md",
     "Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
