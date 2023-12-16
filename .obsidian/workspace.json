@@ -313,14 +313,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/gonads.md",
+                "file": "Psychology/Biological Psychology/Lesion Studies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f98b4278354de4f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phineas Cage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -395,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/gonads.md",
+                "file": "Phineas Cage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +424,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/gonads.md",
+                "file": "Phineas Cage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -435,7 +447,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/gonads.md"
+                "file": "Phineas Cage.md"
               }
             }
           },
@@ -466,10 +478,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a0d2bdc1b31df6a7",
+  "active": "f98b4278354de4f4",
   "lastOpenFiles": [
-    "testosterone.md",
+    "Psychology/Biological Psychology/Lesion Studies.md",
+    "Phineas Cage.md",
     "Psychology/Biological Psychology/gonads.md",
+    "testosterone.md",
     "Psychology/Biological Psychology/pancreas.md",
     "hypoglycemia.md",
     "Psychology/Biological Psychology/parathyroid glands.md",
@@ -492,8 +506,6 @@
     "endocrine glands.md",
     "glands.md",
     "hormones.md",
-    "Psychology/Biological Psychology/Endocrine System.md",
-    "Psychology/Biological Psychology/Homeostasis.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
