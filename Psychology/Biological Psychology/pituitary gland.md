@@ -1,3 +1,5 @@
+#biological-psychology 
+Pituitary Gland::The most important [[glands|gland]] in the [[Endocrine System]] which under control of the [[hypothalamus]], regulates growth and controls other [[endocrine glands]].
 - growth hormone, controls and regulates the increase in size as children grown infants to adulthood
 - [[oxytocin]]
 - [[vasopressin]]

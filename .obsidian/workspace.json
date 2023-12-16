@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glands.md",
+                "file": "endocrine glands.md",
                 "mode": "source",
                 "source": false
               }
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glands.md",
+                "file": "endocrine glands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glands.md",
+                "file": "endocrine glands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glands.md"
+                "file": "endocrine glands.md"
               }
             }
           },
@@ -456,8 +456,10 @@
   },
   "active": "70f99f8dea587378",
   "lastOpenFiles": [
-    "hormones.md",
+    "Psychology/Biological Psychology/pituitary gland.md",
+    "endocrine glands.md",
     "glands.md",
+    "hormones.md",
     "Psychology/Biological Psychology/Endocrine System.md",
     "Psychology/Biological Psychology/Homeostasis.md",
     "Psychology/Biological Psychology/Autonomic Nervous System.md",
@@ -480,8 +482,6 @@
     "Psychology/Biological Psychology/Agonist.md",
     "Psychology/Biological Psychology/Endorphins.md",
     "Psychology/Biological Psychology/Serotonin.md",
-    "Psychology/Biological Psychology/Dopamine.md",
-    "Psychology/Biological Psychology/Acetylcholine.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
