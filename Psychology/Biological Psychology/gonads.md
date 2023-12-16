@@ -1,1 +1,1 @@
-ovaries and testes, sex glands, just all that shit basically. part of the [[endocrine system]]. androgens are released in men, [[testosterone]]. in women the estogen and epigestorone, egg release and shit.
+ovaries and testes, sex glands, just all that shit basically. part of the [[Endocrine System]]. androgens are released in men, [[testosterone]]. in women the estogen and epigestorone, egg release and shit.

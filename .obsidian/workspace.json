@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/Homeostasis.md",
+                "file": "glands.md",
                 "mode": "source",
                 "source": false
               }
@@ -363,7 +363,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/Homeostasis.md",
+                "file": "glands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/Homeostasis.md",
+                "file": "glands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/Homeostasis.md"
+                "file": "glands.md"
               }
             }
           },
@@ -456,6 +456,10 @@
   },
   "active": "70f99f8dea587378",
   "lastOpenFiles": [
+    "hormones.md",
+    "glands.md",
+    "Psychology/Biological Psychology/Endocrine System.md",
+    "Psychology/Biological Psychology/Homeostasis.md",
     "Psychology/Biological Psychology/Autonomic Nervous System.md",
     "Psychology/Biological Psychology/Somatic Nervous System.md",
     "Psychology/Biological Psychology/afferent.md",
@@ -478,10 +482,6 @@
     "Psychology/Biological Psychology/Serotonin.md",
     "Psychology/Biological Psychology/Dopamine.md",
     "Psychology/Biological Psychology/Acetylcholine.md",
-    "Psychology/Biological Psychology/Neurotransmitters.md",
-    "Inhibition.md",
-    "Neurotransmitters.md",
-    "Excitation.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
