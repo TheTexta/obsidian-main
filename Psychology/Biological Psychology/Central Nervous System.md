@@ -1,4 +1,5 @@
-The nervous system encased in bone. Your brain and the spinal cord. Everything else which is a nerve is the [[peripheral nervous system]].
+#biological-psychology 
+Central Nervous System::The nervous system encased in bone. Your brain and the spinal cord. Everything else which is a nerve is the [[peripheral nervous system]].
 
 # Brain
 interpretating of information from senses
