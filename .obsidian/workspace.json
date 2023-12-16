@@ -260,6 +260,30 @@
             }
           },
           {
+            "id": "07784659a2004316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6448c3fd4b9d31f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inhibition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eaff8c82176779e6",
             "type": "leaf",
             "state": {
@@ -284,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -359,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reuptake.md",
+                "file": "Inhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -376,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reuptake.md",
+                "file": "Inhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -399,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reuptake.md"
+                "file": "Inhibition.md"
               }
             }
           },
@@ -430,10 +454,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7e1b0b46a1e3a2e1",
+  "active": "6448c3fd4b9d31f8",
   "lastOpenFiles": [
-    "Psychology/Biological Psychology/Re-uptake inhibitor.md",
+    "Excitation.md",
+    "Inhibition.md",
     "Reuptake.md",
+    "Psychology/Biological Psychology/Re-uptake inhibitor.md",
     "synaptic vesicles.md",
     "Psychology/Biological Psychology/terminal.md",
     "Psychology/Biological Psychology/synaptic gap.md",
@@ -456,8 +482,6 @@
     "Glial Cell.md",
     "Circadian Rhythms.md",
     "Beta Waves.md",
-    "Nodes of Ranvier.md",
-    "Chemistry/Valence Shell.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
