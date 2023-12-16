@@ -224,6 +224,18 @@
             }
           },
           {
+            "id": "202def1c35301aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Depolarisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eaff8c82176779e6",
             "type": "leaf",
             "state": {
@@ -248,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -323,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threshold.md",
+                "file": "Depolarisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threshold.md",
+                "file": "Depolarisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threshold.md"
+                "file": "Depolarisation.md"
               }
             }
           },
@@ -394,10 +406,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4fbf7a32df60136f",
+  "active": "202def1c35301aed",
   "lastOpenFiles": [
-    "All-or-none Reponse.md",
     "Threshold.md",
+    "Depolarisation.md",
+    "All-or-none Reponse.md",
     "Selective Permeability.md",
     "Sodium Potassium Pump.md",
     "Resting Membrane Potential.md",
@@ -421,7 +434,6 @@
     "Psychology/Biological Psychology/synapse.md",
     "Terminal Branches.md",
     "Dendrites.md",
-    "Neuron Cell Body.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
