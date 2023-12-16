@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phineas Cage.md",
+                "file": "Psychology/Biological Psychology/Brain Stimulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -359,7 +359,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adrenal cortex",
+                "query": "electrical stimul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -407,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phineas Cage.md",
+                "file": "Psychology/Biological Psychology/Brain Stimulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +424,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phineas Cage.md",
+                "file": "Psychology/Biological Psychology/Brain Stimulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -447,7 +447,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phineas Cage.md"
+                "file": "Psychology/Biological Psychology/Brain Stimulation.md"
               }
             }
           },
@@ -480,8 +480,8 @@
   },
   "active": "f98b4278354de4f4",
   "lastOpenFiles": [
-    "Psychology/Biological Psychology/Lesion Studies.md",
     "Phineas Cage.md",
+    "Psychology/Biological Psychology/Lesion Studies.md",
     "Psychology/Biological Psychology/gonads.md",
     "testosterone.md",
     "Psychology/Biological Psychology/pancreas.md",
