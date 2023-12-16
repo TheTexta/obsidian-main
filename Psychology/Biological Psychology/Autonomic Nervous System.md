@@ -1,7 +1,7 @@
 #biological-psychology 
 Autonomic nervous system::Everything which isn't the [[Somatic Nervous System]], all the stuff which isn't sensation / movement. A devision of the [[peripheral nervous system]] which regulates the bodies internal environment, controls glands and involuntary muscle movements. Responsible for involuntary functions, hence *autonomic*.
 
-Sympathetic Nervous system::Prepares the body to react, the flight fight or freeze response, takes energy. Must be triggered through a stressful response. The part of the [[Autonomic Nervous System]] which arouses the body.
+Sympathetic Nervous System::Prepares the body to react, the flight fight or freeze response, takes energy. Must be triggered through a stressful response. The part of the [[Autonomic Nervous System]] which arouses the body.
 
 - speeds your heart up
 - Dilates your pupils so more light can enter your eyes and improve your vision
@@ -10,6 +10,6 @@ Sympathetic Nervous system::Prepares the body to react, the flight fight or free
 - andreno gland releases stress hormones
 - bladder stops function (in extreme situations)
 
-Parasympathetic::Maintains body functions under ordinary conditions, saves energy. The part of the [[autonomic nervous system]] which calms the body, reducing energy consumption
+Parasympathetic Nervous System::Maintains body functions under ordinary conditions, saves energy. The part of the [[autonomic nervous system]] which calms the body, reducing energy consumption
 
 ### S for stress p for peace
