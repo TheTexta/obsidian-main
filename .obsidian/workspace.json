@@ -397,7 +397,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old brain.md",
+                "file": "new brain.md",
                 "mode": "source",
                 "source": false
               }
@@ -479,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old brain.md",
+                "file": "new brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -496,7 +496,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old brain.md",
+                "file": "new brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -519,7 +519,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old brain.md"
+                "file": "new brain.md"
               }
             }
           },
@@ -552,8 +552,9 @@
   },
   "active": "2aae02ace0a9f6ca",
   "lastOpenFiles": [
-    "Psychology/Biological Psychology/Old Brain New Brain.md",
     "old brain.md",
+    "new brain.md",
+    "Psychology/Biological Psychology/Old Brain New Brain.md",
     "Functional Magnetic Resonance Imaging.md",
     "Magnetic Resonance Imaging.md",
     "Positron Emission Tomography.md",
@@ -577,7 +578,6 @@
     "Psychology/Biological Psychology/pineal gland.md",
     "Psychology/Biological Psychology/HPA axis.md",
     "cortisol.md",
-    "adrenal cortex.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
