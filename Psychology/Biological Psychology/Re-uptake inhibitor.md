@@ -1,3 +1,3 @@
 #biological-psychology 
-Re-uptake inhibitor::makes the re-uptake of a [[Neurotransmitters|neurotransmitter]] slow/stop.
+Re-uptake inhibitor::makes the re-uptake of a [[Neurotransmitters|neurotransmitter]] slow/stop. Leaves more of the neurotransmitter in the system which increases the effects / duration of the [[Neurotransmitters|neurotransmitter]].
 * Inhibitors block the reuptake of [[Psychology/Biological Psychology/Neurotransmitters]]. Allowing for the neurotransmitter to stay there for longer and cause more affects.
