@@ -284,6 +284,18 @@
             }
           },
           {
+            "id": "fee1410d21ef6bbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eaff8c82176779e6",
             "type": "leaf",
             "state": {
@@ -308,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -383,7 +395,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/peripheral nervous system.md",
+                "file": "Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +412,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/peripheral nervous system.md",
+                "file": "Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +435,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/peripheral nervous system.md"
+                "file": "Brain.md"
               }
             }
           },
@@ -454,15 +466,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6448c3fd4b9d31f8",
+  "active": "fee1410d21ef6bbf",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/peripheral nervous system.md",
+    "Brain.md",
     "Psychology/Biological Psychology/Central Nervous System.md",
     "Psychology/Biological Psychology/Nerve cell.md",
     "Psychology/Biological Psychology/Nervous System.md",
     "Psychology/Biological Psychology/Re-uptake inhibitor.md",
     "Psychology/Biological Psychology/Antagonist.md",
     "Psychology/Biological Psychology/Agonist.md",
-    "Untitled 1.md",
     "Psychology/Biological Psychology/Endorphins.md",
     "Psychology/Biological Psychology/Serotonin.md",
     "Psychology/Biological Psychology/Dopamine.md",
@@ -481,7 +494,6 @@
     "Hyperpolarization.md",
     "Repolarisation.md",
     "Depolarisation.md",
-    "Threshold.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
