@@ -3,4 +3,4 @@ Noninvasive Brain Stimulation::NIBS, is the process of stimulating the brain ext
 
 ### [[transcranial magnetic stimulation]]
 
-### transcranial direct current stimulation.
+### [[transcranial direct current stimulation.]]
