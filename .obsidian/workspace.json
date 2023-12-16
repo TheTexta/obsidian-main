@@ -157,7 +157,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/action potential.md",
+                "file": "hyperpolarization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd7fb83a0bb50ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resting Membrane Potential.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/action potential.md",
+                "file": "Resting Membrane Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/action potential.md",
+                "file": "Resting Membrane Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/action potential.md"
+                "file": "Resting Membrane Potential.md"
               }
             }
           },
@@ -334,8 +346,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1c714698bf42bdbc",
+  "active": "fd7fb83a0bb50ff8",
   "lastOpenFiles": [
+    "hyperpolarization.md",
+    "Resting Membrane Potential.md",
+    "Psychology/Biological Psychology/action potential.md",
     "Astrocytes.md",
     "Psychology/Biological Psychology/Glial Cells.md",
     "Schwann cells.md",
@@ -359,9 +374,6 @@
     "Psychology/Biological Psychology/Phrenology.md",
     "Alpha Waves.md",
     "Sleep Cycle.md",
-    "sleep.md",
-    "melatonin.md",
-    "Suprachiasmatic Nucleus.md",
     "Stages in a typical night's sleep.pdf",
     "delta waves.png",
     "Kcomplex and Sleep Spindle.png",
