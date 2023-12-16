@@ -1,2 +1,2 @@
 #biological-psychology 
-Nodes of Ranvier::Regularly spaced gapes in the myelin sheath surrounding an axon. The gaps permit the exchange of ions across the plasma [[membrane]] at those points, allowing the nurve impulse to leap from one node to the next in saltatory conduction along the axon.
+Nodes of Ranvier::Regularly spaced gapes in the myelin sheath surrounding an axon. The gaps permit the exchange of ions across the plasma [[membrane]] at those points, allowing the nerve impulse to leap from one node to the next in saltatory conduction along the axon.
