@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyperpolarization.md",
+                "file": "Hyperpolarization.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyperpolarization.md",
+                "file": "Hyperpolarization.md",
                 "mode": "source",
                 "source": false
               }
@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hyperpolarization.md",
+                "file": "Hyperpolarization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hyperpolarization.md",
+                "file": "Hyperpolarization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hyperpolarization.md"
+                "file": "Hyperpolarization.md"
               }
             }
           },
@@ -415,7 +415,7 @@
     "Selective Permeability.md",
     "Sodium Potassium Pump.md",
     "Resting Membrane Potential.md",
-    "hyperpolarization.md",
+    "Hyperpolarization.md",
     "Psychology/Biological Psychology/action potential.md",
     "Astrocytes.md",
     "Psychology/Biological Psychology/Glial Cells.md",
