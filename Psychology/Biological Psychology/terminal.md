@@ -1,1 +1,2 @@
-A neuron [[terminal]] is the end of a [[neuron]], which connects to the [[dendrite]] of another [[neuron]].
+#biological-psychology 
+terminal::A neuron [[terminal]] is the end of a [[neuron]], which connects to the [[dendrite]] of another [[neuron]].
