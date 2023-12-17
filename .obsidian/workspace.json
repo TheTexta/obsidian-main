@@ -389,7 +389,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/thalamus.md",
+                "file": "Psychology/Biological Psychology/hypothalamus.md",
                 "mode": "source",
                 "source": false
               }
@@ -471,7 +471,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/thalamus.md",
+                "file": "Psychology/Biological Psychology/hypothalamus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -488,7 +488,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/thalamus.md",
+                "file": "Psychology/Biological Psychology/hypothalamus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -511,7 +511,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/thalamus.md"
+                "file": "Psychology/Biological Psychology/hypothalamus.md"
               }
             }
           },
@@ -544,10 +544,10 @@
   },
   "active": "2aae02ace0a9f6ca",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/thalamus.md",
     "Psychology/Biological Psychology/Limbic System.md",
     "Psychology/Biological Psychology/cerebellum.md",
     "Psychology/Biological Psychology/reticular formation.md",
-    "Psychology/Biological Psychology/thalamus.md",
     "Psychology/Biological Psychology/visual association cortex.md",
     "Psychology/Biological Psychology/Temporal Lobes.md",
     "Untitled.md",
