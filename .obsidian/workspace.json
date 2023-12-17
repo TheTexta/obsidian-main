@@ -401,14 +401,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolutionary Fitness.md",
+                "file": "Psychology/Social Psychology/Social Learning Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b51573cb8ba69cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28e4d4a1eddf96e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biopsychosocial Approach.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -483,7 +507,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolutionary Fitness.md",
+                "file": "Biopsychosocial Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -500,7 +524,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolutionary Fitness.md",
+                "file": "Biopsychosocial Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -523,7 +547,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolutionary Fitness.md"
+                "file": "Biopsychosocial Approach.md"
               }
             }
           },
@@ -554,10 +578,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9a11da69a233d41c",
+  "active": "28e4d4a1eddf96e6",
   "lastOpenFiles": [
-    "Mutation.md",
+    "Social Script.md",
+    "Biopsychosocial Approach.md",
+    "Psychology/Social Psychology/Social Learning Theory.md",
+    "Charles Darwin.md",
     "Evolutionary Fitness.md",
+    "Mutation.md",
     "Mathematics/Permutations.md",
     "natural selection.md",
     "Psychology/Biological Psychology/Thomas Bouchard.md",
@@ -578,10 +606,6 @@
     "Psychology/Biological Psychology/Temporal Lobes.md",
     "Untitled 1.md",
     "Economics/Tax.md",
-    "Psychology/Biological Psychology/synaptic vesicles.md",
-    "Psychology/Biological Psychology/Suprachiasmatic Nucleus.md",
-    "Psychology/Biological Psychology/Sleep Apnea.md",
-    "Psychology/Biological Psychology/sleep.md",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
     "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
     "Psychology/Biological Psychology/screenshot_CorpusCallosum.jpg",
