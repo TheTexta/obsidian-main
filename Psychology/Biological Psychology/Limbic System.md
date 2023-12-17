@@ -1,1 +1,2 @@
-The limbic system has four structures, [[HATH]], [[hypothalamus]], [[Amygdala]], [[thalamus]], [[hippocampus]]. There are two of everything save [[thalamus]].
+#biological-psychology 
+Limbic System::The limbic system has four structures, [[HATH]], [[hypothalamus]], [[Amygdala]], [[thalamus]], [[hippocampus]]. There are two of everything save [[thalamus]]. Involved in [[behaviour|behavioural]] / emotional responses.

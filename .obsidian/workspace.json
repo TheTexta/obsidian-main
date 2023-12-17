@@ -389,7 +389,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/cerebellum.md",
+                "file": "Psychology/Biological Psychology/Limbic System.md",
                 "mode": "source",
                 "source": false
               }
@@ -471,7 +471,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/cerebellum.md",
+                "file": "Psychology/Biological Psychology/Limbic System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -488,7 +488,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/cerebellum.md",
+                "file": "Psychology/Biological Psychology/Limbic System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -511,7 +511,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/cerebellum.md"
+                "file": "Psychology/Biological Psychology/Limbic System.md"
               }
             }
           },
@@ -544,6 +544,7 @@
   },
   "active": "2aae02ace0a9f6ca",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/cerebellum.md",
     "Psychology/Biological Psychology/reticular formation.md",
     "Psychology/Biological Psychology/thalamus.md",
     "Psychology/Biological Psychology/visual association cortex.md",
@@ -572,7 +573,6 @@
     "Psychology/Biological Psychology/insomnia.md",
     "Psychology/Biological Psychology/Infradian Rhythms.md",
     "Psychology/Biological Psychology/hyperpolarization.md",
-    "Psychology/Biological Psychology/glands.md",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology/delta waves.png",
     "Psychology/Biological Psychology/Kcomplex and Sleep Spindle.png",
