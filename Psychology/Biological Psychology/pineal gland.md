@@ -1,2 +1,2 @@
 #biological-psychology 
-Pineal Gland::Located in the [[brain]], controls [[sleep]] wake cycle, maintains [[melatonin]]. in other animals it influences seasonal [[Behaviour|behaviours]] such as breeding
+Pineal Gland::Located in the [[Brain]], controls [[sleep]] wake cycle, maintains [[melatonin]]. in other animals it influences seasonal [[Behaviour|behaviours]] such as breeding

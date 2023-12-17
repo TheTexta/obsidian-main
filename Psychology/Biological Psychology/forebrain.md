@@ -1,0 +1,2 @@
+#biological-psychology 
+Forebrain::By far the largest region of the [[Brain]] which contains the [[cerebrum]] and [[limbic system]]

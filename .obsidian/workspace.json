@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prefrontal Cortex.md",
+                "file": "Psychology/Biological Psychology/Prefrontal Cortex.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neurogenesis.md",
+                "file": "Psychology/Biological Psychology/Neurogenesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NREM.md",
+                "file": "Psychology/Biological Psychology/NREM.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circadian Rhythms.md",
+                "file": "Psychology/Biological Psychology/Circadian Rhythms.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glial Cell.md",
+                "file": "Psychology/Biological Psychology/Glial Cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,12 +155,8 @@
             "id": "1c714698bf42bdbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyperpolarization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -169,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resting Membrane Potential.md",
+                "file": "Psychology/Biological Psychology/Resting Membrane Potential.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All-or-none Reponse.md",
+                "file": "Psychology/Biological Psychology/All-or-none Reponse.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,7 +213,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Depolarisation.md",
+                "file": "Psychology/Biological Psychology/Depolarisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,12 +223,8 @@
             "id": "c90a4e72fef24aa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyperpolarization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -253,7 +245,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reuptake.md",
+                "file": "Psychology/Biological Psychology/Reuptake.md",
                 "mode": "source",
                 "source": false
               }
@@ -265,7 +257,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excitation.md",
+                "file": "Psychology/Biological Psychology/Excitation 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -337,7 +329,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electroencephalogram.md",
+                "file": "Psychology/Biological Psychology/Electroencephalogram.md",
                 "mode": "source",
                 "source": false
               }
@@ -349,7 +341,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnetoencephalography.md",
+                "file": "Psychology/Biological Psychology/Magnetoencephalography.md",
                 "mode": "source",
                 "source": false
               }
@@ -361,7 +353,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computed Tomography.md",
+                "file": "Psychology/Biological Psychology/Computed Tomography.md",
                 "mode": "source",
                 "source": false
               }
@@ -373,7 +365,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Positron Emission Tomography.md",
+                "file": "Psychology/Biological Psychology/Positron Emission Tomography.md",
                 "mode": "source",
                 "source": false
               }
@@ -385,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnetic Resonance Imaging.md",
+                "file": "Psychology/Biological Psychology/Magnetic Resonance Imaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -397,7 +389,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forebrain.md",
+                "file": "Psychology/Biological Psychology/NREM.md",
                 "mode": "source",
                 "source": false
               }
@@ -459,7 +451,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -479,7 +471,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forebrain.md",
+                "file": "Psychology/Biological Psychology/NREM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -496,7 +488,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forebrain.md",
+                "file": "Psychology/Biological Psychology/NREM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -519,7 +511,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forebrain.md"
+                "file": "Psychology/Biological Psychology/NREM.md"
               }
             }
           },
@@ -550,41 +542,41 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2aae02ace0a9f6ca",
+  "active": "1b31c21586683c68",
   "lastOpenFiles": [
-    "new brain.md",
-    "forebrain.md",
-    "old brain.md",
+    "Psychology/Biological Psychology/Magnetic Resonance Imaging.md",
+    "Psychology/Biological Psychology/Inhibition.md",
+    "Psychology/Biological Psychology/interneurons.md",
+    "Psychology/Biological Psychology/inhibition.md",
+    "Psychology/Biological Psychology/Lobes.md",
+    "Psychology/Biological Psychology/melatonin.md",
+    "Psychology/Biological Psychology/insomnia.md",
+    "Psychology/Biological Psychology/Infradian Rhythms.md",
+    "Psychology/Biological Psychology/hyperpolarization.md",
+    "Psychology/Biological Psychology/glands.md",
+    "Psychology/Biological Psychology/Depolarisation.md",
+    "Psychology/Biological Psychology/Carl Wernicke.md",
+    "Psychology/Biological Psychology/Astrocytes.md",
+    "Psychology/Biological Psychology/afferent neurons.md",
+    "Psychology/Biological Psychology/Adrenal Medulla.md",
+    "Psychology/Biological Psychology/forebrain.md",
+    "Psychology/Biological Psychology/new brain.md",
+    "Psychology/Biological Psychology/old brain.md",
     "Psychology/Biological Psychology/Old Brain New Brain.md",
-    "Functional Magnetic Resonance Imaging.md",
-    "Magnetic Resonance Imaging.md",
-    "Positron Emission Tomography.md",
-    "Computed Tomography.md",
-    "Magnetoencephalography.md",
-    "Electroencephalogram.md",
+    "Psychology/Biological Psychology/Functional Magnetic Resonance Imaging.md",
+    "Psychology/Biological Psychology/Positron Emission Tomography.md",
+    "Psychology/Biological Psychology/Computed Tomography.md",
+    "Psychology/Biological Psychology/Magnetoencephalography.md",
+    "Psychology/Biological Psychology/Electroencephalogram.md",
     "transcranial direct current stimulation..md",
     "Psychology/Biological Psychology/Noninvasive Brain Stimulation.md",
-    "transcranial magnetic stimulation.md",
-    "Psychology/Biological Psychology/Deep Brain Stimulation.md",
-    "Psychology/Biological Psychology/Brain Stimulation.md",
-    "Phineas Cage.md",
-    "Psychology/Biological Psychology/Lesion Studies.md",
-    "Psychology/Biological Psychology/gonads.md",
-    "testosterone.md",
-    "Psychology/Biological Psychology/pancreas.md",
-    "hypoglycemia.md",
-    "Psychology/Biological Psychology/parathyroid glands.md",
-    "Psychology/Biological Psychology/thyroxine.md",
-    "Psychology/Biological Psychology/thyroid gland.md",
-    "Psychology/Biological Psychology/pineal gland.md",
-    "Psychology/Biological Psychology/HPA axis.md",
     "Stages in a typical night's sleep.pdf",
-    "delta waves.png",
-    "Kcomplex and Sleep Spindle.png",
-    "Occipital Lobe.png",
+    "Psychology/Biological Psychology/delta waves.png",
+    "Psychology/Biological Psychology/Kcomplex and Sleep Spindle.png",
+    "Psychology/Biological Psychology/Occipital Lobe.png",
     "temporal lobes.png",
     "temporal lobes.png",
-    "Parietal Lobe Described.png",
+    "Psychology/Biological Psychology/Parietal Lobe Described.png",
     "screenshot_ParietalLobe.jpg",
     "screenshot_CorpusCallosum.jpg",
     "Psychology/Biological Psychology/Cerebrum, Cerebellum and Brainstem.png",

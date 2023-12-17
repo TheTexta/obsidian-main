@@ -1,2 +1,0 @@
-#biological-psychology 
-Interneurons::[[neuron|Neurons]] within the [[brain]] and [[spinal cord]] which communicate internally and process information from the sensory inputs ([[afferent neurons]]) and motor outputs ([[efferent neurons]])

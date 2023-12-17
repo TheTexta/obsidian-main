@@ -21,7 +21,7 @@ Once they are released, they are received by receptors, which are specially desi
 How are they deactivated and recycled?
 Neurotransmitters floating in the space between need to be deactivated. Either they float away or are broken down by enzymes or they are re-uptaken. Re-uptake means that the neurotransmitters are collected by a special cell, and taken back to the terminal.
 
-If a [[Psychology/Biological Psychology/Neurotransmitters|neurotransmitter]] is released while a action potential is already happening, the signal is hypo-polarised, which stops the signal. Which is called [[Psychology/Biological Psychology/inhibition]]. [[Psychology/Biological Psychology/Excitation]] is the opposite, when the transmitters cause a signal to start. 
+If a [[Psychology/Biological Psychology/Neurotransmitters|neurotransmitter]] is released while a action potential is already happening, the signal is hypo-polarised, which stops the signal. Which is called [[Inhibition]]. [[Psychology/Biological Psychology/Excitation]] is the opposite, when the transmitters cause a signal to start. 
 
 Types of neurotransmitters
 - [[Acetylcholine]] (ACh)

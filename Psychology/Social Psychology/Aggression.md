@@ -16,7 +16,7 @@ Decreased front lobe is associated with what::Increased aggression.
 
 tldr: when threatened we can get aggressive. 
 
-The [[prefrontal cortex|prefrontal cortexs]] relation to aggression::The [[prefrontal cortex]] is involved in the impulse control component of the brain, controlling how we respond to aggressive inclinations.
+The [[Prefrontal Cortex|prefrontal cortexs]] relation to aggression::The [[Prefrontal Cortex]] is involved in the impulse control component of the brain, controlling how we respond to aggressive inclinations.
 <!--SR:!2023-11-13,6,250-->
 
 In effect it is a control centre for aggression. when activated we are more capable of controlling our aggressive tendencies.

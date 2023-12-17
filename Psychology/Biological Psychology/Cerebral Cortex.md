@@ -6,6 +6,6 @@ The ridges formed to increase surface area are known as sulcus and gyri. sulcus 
 
 [[Lobes]]
 * [[Frontal Lobes]]
-* [[occipital lobes]]
+* [[Occipital Lobes]]
 * [[Temporal Lobes]]
 * [[Parietal Lobes]]
