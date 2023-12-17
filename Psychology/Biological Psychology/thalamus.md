@@ -1,1 +1,2 @@
-The thalamus is a pair of egg-shapped acting as the brains sensory control center. The grand sorting station for the input of sensory data. Sight, hearing, taste, touch, *smell does not*.
+#biological-psychology 
+Thalamus::The thalamus is a pair of egg-shapped acting as the brains sensory control center. The grand sorting station for the input of sensory data. Sight, hearing, taste, touch, *smell does not*.

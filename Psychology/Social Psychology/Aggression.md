@@ -21,7 +21,7 @@ The [[Prefrontal Cortex|prefrontal cortexs]] relation to aggression::The [[Prefr
 
 In effect it is a control centre for aggression. when activated we are more capable of controlling our aggressive tendencies.
 ### Biochemical influences
-[[Testosterone]]s affect on aggression::[[testosterone]] influences the neural systems which control aggression, wide bodies and faces have more natural testosterone. Testosorone is positively correlated with chance of exhibiting aggressive behaviour.
+[[testosterone]]s affect on aggression::[[testosterone]] influences the neural systems which control aggression, wide bodies and faces have more natural testosterone. Testosorone is positively correlated with chance of exhibiting aggressive behaviour.
 <!--SR:!2023-11-16,9,250-->
 [[Alcohol]]s influence on aggression::Alcohol is a disinhebitor, it lowers chemicals in our body which control mood and motivation, it lowers serotonin which is a mood stabiliser, making people more moody.
 <!--SR:!2023-11-13,6,250-->

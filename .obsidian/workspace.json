@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wernicke's Area.md",
+                "file": "Psychology/Biological Psychology/Wernicke's Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wernicke's Aphasia.md",
+                "file": "Psychology/Biological Psychology/Wernicke's Aphasia.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sleep Cycle.md",
+                "file": "Psychology/Biological Psychology/Sleep Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sodium Potassium Pump.md",
+                "file": "Psychology/Biological Psychology/Sodium Potassium Pump.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selective Permeability.md",
+                "file": "Psychology/Biological Psychology/Selective Permeability.md",
                 "mode": "source",
                 "source": false
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spinal Cord.md",
+                "file": "Psychology/Biological Psychology/Spinal Cord.md",
                 "mode": "source",
                 "source": false
               }
@@ -317,7 +317,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transcranial direct current stimulation..md",
+                "file": "Psychology/Biological Psychology/transcranial direct current stimulation..md",
                 "mode": "source",
                 "source": false
               }
@@ -389,7 +389,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/NREM.md",
+                "file": "Psychology/Biological Psychology/thalamus.md",
                 "mode": "source",
                 "source": false
               }
@@ -471,7 +471,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/NREM.md",
+                "file": "Psychology/Biological Psychology/thalamus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -488,7 +488,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/NREM.md",
+                "file": "Psychology/Biological Psychology/thalamus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -511,7 +511,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/NREM.md"
+                "file": "Psychology/Biological Psychology/thalamus.md"
               }
             }
           },
@@ -542,8 +542,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b31c21586683c68",
+  "active": "2aae02ace0a9f6ca",
   "lastOpenFiles": [
+    "Psychology/Biological Psychology/visual association cortex.md",
+    "Psychology/Biological Psychology/Temporal Lobes.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Economics/Tax.md",
+    "Psychology/Biological Psychology/synaptic vesicles.md",
+    "Psychology/Biological Psychology/Suprachiasmatic Nucleus.md",
+    "Psychology/Biological Psychology/Sleep Apnea.md",
+    "Psychology/Biological Psychology/sleep.md",
+    "Psychology/Biological Psychology/Sex Chromosome.md",
+    "Psychology/Biological Psychology/sequential processing.md",
+    "Psychology/Biological Psychology/Selective Permeability.md",
+    "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
+    "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
+    "Psychology/Biological Psychology/screenshot_CorpusCallosum.jpg",
+    "Psychology/Biological Psychology/Neuron.md",
+    "Psychology/Biological Psychology/NREM.md",
     "Psychology/Biological Psychology/Magnetic Resonance Imaging.md",
     "Psychology/Biological Psychology/Inhibition.md",
     "Psychology/Biological Psychology/interneurons.md",
@@ -556,31 +573,14 @@
     "Psychology/Biological Psychology/glands.md",
     "Psychology/Biological Psychology/Depolarisation.md",
     "Psychology/Biological Psychology/Carl Wernicke.md",
-    "Psychology/Biological Psychology/Astrocytes.md",
-    "Psychology/Biological Psychology/afferent neurons.md",
-    "Psychology/Biological Psychology/Adrenal Medulla.md",
-    "Psychology/Biological Psychology/forebrain.md",
-    "Psychology/Biological Psychology/new brain.md",
-    "Psychology/Biological Psychology/old brain.md",
-    "Psychology/Biological Psychology/Old Brain New Brain.md",
-    "Psychology/Biological Psychology/Functional Magnetic Resonance Imaging.md",
-    "Psychology/Biological Psychology/Positron Emission Tomography.md",
-    "Psychology/Biological Psychology/Computed Tomography.md",
-    "Psychology/Biological Psychology/Magnetoencephalography.md",
-    "Psychology/Biological Psychology/Electroencephalogram.md",
-    "transcranial direct current stimulation..md",
-    "Psychology/Biological Psychology/Noninvasive Brain Stimulation.md",
-    "Stages in a typical night's sleep.pdf",
+    "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology/delta waves.png",
     "Psychology/Biological Psychology/Kcomplex and Sleep Spindle.png",
     "Psychology/Biological Psychology/Occipital Lobe.png",
-    "temporal lobes.png",
-    "temporal lobes.png",
+    "Psychology/Biological Psychology/temporal lobes.png",
+    "Psychology/Biological Psychology/temporal lobes.png",
     "Psychology/Biological Psychology/Parietal Lobe Described.png",
-    "screenshot_ParietalLobe.jpg",
-    "screenshot_CorpusCallosum.jpg",
     "Psychology/Biological Psychology/Cerebrum, Cerebellum and Brainstem.png",
-    "screenshot_LeftCerebralHemisphere.jpg",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",
