@@ -425,7 +425,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biopsychosocial Approach.md",
+                "file": "Psychology/Biological Psychology/brainstem.md",
                 "mode": "source",
                 "source": false
               }
@@ -459,7 +459,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dna",
+                "query": "pons::",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -507,7 +507,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biopsychosocial Approach.md",
+                "file": "Psychology/Biological Psychology/brainstem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -524,7 +524,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biopsychosocial Approach.md",
+                "file": "Psychology/Biological Psychology/brainstem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -547,7 +547,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biopsychosocial Approach.md"
+                "file": "Psychology/Biological Psychology/brainstem.md"
               }
             }
           },
@@ -580,32 +580,33 @@
   },
   "active": "28e4d4a1eddf96e6",
   "lastOpenFiles": [
-    "Social Script.md",
+    "Psychology/Biological Psychology/Forebrain, Midbrain, Hindbrain.md",
+    "Psychology/Biological Psychology/pons.md",
+    "Psychology/Biological Psychology/Nodes of Ranvier.md",
+    "Psychology/Biological Psychology/Glial Cell.md",
+    "Psychology/Biological Psychology/pineal gland.md",
+    "Psychology/Biological Psychology/testosterone.md",
+    "Psychology/Biological Psychology/parathyroid glands.md",
+    "Psychology/Biological Psychology/thyroid gland.md",
+    "Psychology/Biological Psychology/Heritability.md",
+    "Psychology/Biological Psychology/cerebellum.md",
+    "cerebellum.webp",
+    "Psychology/Biological Psychology/Dreams.md",
+    "Psychology/Biological Psychology/Parasomnias.md",
+    "Psychology/Biological Psychology/NREM.md",
+    "Psychology/Biological Psychology/Sleep Apnea.md",
+    "Psychology/Biological Psychology/narcolepsy.md",
+    "Psychology/Biological Psychology/insomnia.md",
+    "Inasoa.md",
+    "Psychology/Biological Psychology/Suprachiasmatic Nucleus.md",
     "Biopsychosocial Approach.md",
+    "Social Script.md",
     "Psychology/Social Psychology/Social Learning Theory.md",
     "Charles Darwin.md",
     "Evolutionary Fitness.md",
     "Mutation.md",
     "Mathematics/Permutations.md",
     "natural selection.md",
-    "Psychology/Biological Psychology/Thomas Bouchard.md",
-    "Psychology/Biological Psychology/Genotype.md",
-    "Psychology/Biological Psychology/Autosome.md",
-    "Psychology/Biological Psychology/Nucleotide Bases.md",
-    "DNA.md",
-    "Psychology/Biological Psychology/sequential processing.md",
-    "Psychology/Biological Psychology/Roger Sperry.md",
-    "Psychology/Biological Psychology/Amygdala.md",
-    "Psychology/Biological Psychology/hippocampus.md",
-    "Psychology/Biological Psychology/hypothalamus.md",
-    "Psychology/Biological Psychology/thalamus.md",
-    "Psychology/Biological Psychology/Limbic System.md",
-    "Psychology/Biological Psychology/cerebellum.md",
-    "Psychology/Biological Psychology/reticular formation.md",
-    "Psychology/Biological Psychology/visual association cortex.md",
-    "Psychology/Biological Psychology/Temporal Lobes.md",
-    "Untitled 1.md",
-    "Economics/Tax.md",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
     "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
     "Psychology/Biological Psychology/screenshot_CorpusCallosum.jpg",
@@ -616,7 +617,6 @@
     "Psychology/Biological Psychology/temporal lobes.png",
     "Psychology/Biological Psychology/temporal lobes.png",
     "Psychology/Biological Psychology/Parietal Lobe Described.png",
-    "Psychology/Biological Psychology/Cerebrum, Cerebellum and Brainstem.png",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",
