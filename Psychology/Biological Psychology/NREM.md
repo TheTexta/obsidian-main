@@ -10,13 +10,16 @@ N1 Sleep Stage::The stage of transition from [[wakefulness]] to sleep, generally
 * you produce low amplitude mixed frequency waves in the theta range (4hz to 7hz)
 
 Hypnagogic hallucinations::During this brief NREM - 1 sleep, you may experience bizarre hallucinogenic sensations such as jerking or a feeling of falling or floating weightlessly , while transitioning to sleep.
+<!--SR:!2023-12-20,3,250-->
 ### N2
 N2 Sleep Stage::Lasts for 10-25 mins, a brief stage where you can be awakened easily
+<!--SR:!2023-12-20,3,250-->
 * heartrate and breathing further slow
 * no eye movements
 * body temp drops
 
-Sleep Spindles and K-complexes::Two distinct brain wave features that appear in N2 sleep thought to be involved in memory consolidation. 
+Sleep Spindles and K-complexes::Two distinct brain wave features that appear in N2 sleep thought to be involved in memory consolidation.
+<!--SR:!2023-12-20,2,230-->
 ![[Kcomplex and Sleep Spindle.png]]
 
 Theta Waves::Present in the N2 and N1 stages of sleep, (light sleep)

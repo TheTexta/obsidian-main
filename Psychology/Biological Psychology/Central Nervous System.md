@@ -1,5 +1,6 @@
 #biological-psychology 
 Central Nervous System::The nervous system encased in bone. Your brain and the spinal cord. Everything else which is a nerve is the [[peripheral nervous system]].
+<!--SR:!2023-12-21,3,250-->
 
 # Brain
 interpretating of information from senses

@@ -8,8 +8,10 @@ If things cant go through the membrane but need to go through, cells embed prote
 If they cant go through thous channels they can go through something called a pump. Pumps are channels which pump against energy. Channels only allow for diffusion to occur pumps allow for increased non diffusive movements to occur. 
 
 Selective Permeability::The membrane of the axon is selectively permeable allowing for some things to go through and others not.
+<!--SR:!2023-12-21,3,250-->
 
 Resting Membrane potential::The difference between the outside and inside of a neurons membrane, it is -70 millivolts (-70mV). More positive ions outside membrane and more negative on the inside.
+<!--SR:!2023-12-21,3,250-->
 
 The difference in charge allows for the channels between neurons to work, which only allow flow in one direction of one type of particle. The pump then resets the two neurons by pumping the positive and negative charges back to where they came from.
 

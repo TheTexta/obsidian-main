@@ -425,7 +425,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/brainstem.md",
+                "file": "Psychology/Biological Psychology/thalamus.md",
                 "mode": "source",
                 "source": false
               }
@@ -459,7 +459,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pons::",
+                "query": "pons",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -507,7 +507,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/brainstem.md",
+                "file": "Psychology/Biological Psychology/thalamus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -524,7 +524,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/brainstem.md",
+                "file": "Psychology/Biological Psychology/thalamus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -547,7 +547,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/brainstem.md"
+                "file": "Psychology/Biological Psychology/thalamus.md"
               }
             }
           },
@@ -580,8 +580,17 @@
   },
   "active": "28e4d4a1eddf96e6",
   "lastOpenFiles": [
-    "Psychology/Biological Psychology/Forebrain, Midbrain, Hindbrain.md",
+    "Psychology/Biological Psychology/Limbic System.md",
+    "Psychology/Biological Psychology/Amygdala.md",
+    "Psychology/Social Psychology/Social Learning Theory.md",
+    "Psychology/Biological Psychology/parallel processing.md",
+    "Psychology/Biological Psychology/Dual Processing.md",
+    "Psychology/Biological Psychology/Autonomic Nervous System.md",
+    "Psychology/Biological Psychology/reticular formation.md",
     "Psychology/Biological Psychology/pons.md",
+    "Psychology/Biological Psychology/REM.md",
+    "Psychology/Biological Psychology/brainstem.md",
+    "Psychology/Biological Psychology/Forebrain, Midbrain, Hindbrain.md",
     "Psychology/Biological Psychology/Nodes of Ranvier.md",
     "Psychology/Biological Psychology/Glial Cell.md",
     "Psychology/Biological Psychology/pineal gland.md",
@@ -598,15 +607,6 @@
     "Psychology/Biological Psychology/narcolepsy.md",
     "Psychology/Biological Psychology/insomnia.md",
     "Inasoa.md",
-    "Psychology/Biological Psychology/Suprachiasmatic Nucleus.md",
-    "Biopsychosocial Approach.md",
-    "Social Script.md",
-    "Psychology/Social Psychology/Social Learning Theory.md",
-    "Charles Darwin.md",
-    "Evolutionary Fitness.md",
-    "Mutation.md",
-    "Mathematics/Permutations.md",
-    "natural selection.md",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
     "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
     "Psychology/Biological Psychology/screenshot_CorpusCallosum.jpg",
