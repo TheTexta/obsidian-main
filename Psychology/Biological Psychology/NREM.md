@@ -38,4 +38,5 @@ N3 Sleep Stage::The final stage of non-REM sleep is the deep sleep stage lasting
 - immune system strengthens
 
 Delta Waves::Present in those in the N3 stage of sleep (1hz to 3.99hz)
+<!--SR:!2023-12-20,2,248-->
 ![[delta waves.png]]

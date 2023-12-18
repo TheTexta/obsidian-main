@@ -12,5 +12,6 @@ Autonomic nervous system::Everything which isn't the [[Somatic Nervous System]],
 - bladder stops function (in extreme situations)
 
 Parasympathetic Nervous System::Maintains body functions under ordinary conditions, saves energy. The part of the [[autonomic nervous system]] which calms the body, reducing energy consumption
+<!--SR:!2023-12-21,3,250-->
 
 ### S for stress p for peace

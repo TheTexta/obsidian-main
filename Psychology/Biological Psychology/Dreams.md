@@ -8,6 +8,7 @@ What we dream
 
 Why we dream
 * Freuds wish fulfilment::The theory that dreams provide a "psychic safety valve" for expressing otherwise inappropriate feelings. contains manifest and latent content
+<!--SR:!2023-12-20,2,248-->
 * Manifest content::the symbolic storyline of a dream as a censored version of a dreams latent content the unconscious drives and wishes that would be threatening if expressed directly. The storyline of a dream
 <!--SR:!2023-12-21,3,250-->
 * Latent Content::The unconscious drives and wishes of a persons dream that are threatening if expressed directly. The underlying meaning of a dream
@@ -22,7 +23,8 @@ Why we dream
 <!--SR:!2023-12-19,1,230-->
 	* This may explain why our dreams seem less inhibited than real life. 
 	* Does not explain the story behind dreams
-* Cognitive Development::By activating segments of the brain we are learning something. Dreams stimulate the mind, including worse case scenarios. 
+* Cognitive Development::By activating segments of the brain we are learning something. Dreams stimulate the mind, including worse case scenarios.
+<!--SR:!2023-12-19,1,228-->
 
 REM Rebound::Not getting enough sleep causes REM rebound, the tendency for REM sleep to increase following REM sleep deprivation.
 <!--SR:!2023-12-21,3,250-->
