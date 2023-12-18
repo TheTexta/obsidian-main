@@ -3,6 +3,7 @@ NREM:Non rapid eye movement sleep, divided into three stages, n1, n2 and n3.
 
 ### N1
 N1 Sleep Stage::The stage of transition from [[wakefulness]] to sleep, generally only lasts a few minutes. This is the lightest stage of sleep
+<!--SR:!2023-12-20,2,248-->
 
 * Eye movements slow
 * heartrate and breathing slow
@@ -23,8 +24,10 @@ Sleep Spindles and K-complexes::Two distinct brain wave features that appear in 
 ![[Kcomplex and Sleep Spindle.png]]
 
 Theta Waves::Present in the N2 and N1 stages of sleep, (light sleep)
+<!--SR:!2023-12-20,2,248-->
 ### N3
 N3 Sleep Stage::The final stage of non-REM sleep is the deep sleep stage lasting for 20 to 40 minutes. also known as slow wave / delta sleep.
+<!--SR:!2023-12-20,2,248-->
 
 * arousal from sleep is difficult
 - heartbeat and breathing are at their slowest rate

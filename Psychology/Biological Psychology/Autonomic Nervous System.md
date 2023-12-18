@@ -1,5 +1,6 @@
 #biological-psychology 
 Autonomic nervous system::Everything which isn't the [[Somatic Nervous System]], all the stuff which isn't sensation / movement. A devision of the [[peripheral nervous system]] which regulates the bodies internal environment, controls glands and involuntary muscle movements. Responsible for involuntary functions, hence *autonomic*.
+<!--SR:!2023-12-21,3,250-->
 
 [[Sympathetic Nervous System]]
 

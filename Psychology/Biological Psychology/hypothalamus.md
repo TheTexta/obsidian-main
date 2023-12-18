@@ -1,2 +1,3 @@
 #biological-psychology 
 Hypothalamus::The hypothalamus is a very small but very important structure of the [[Limbic System]], located below and in front of the [[thalamus]]. There are two of them. About controlling our communication systems, controls the [[pituitary gland]], releasing important hormones. Includes regulation of body temperature, thirst, hunger, biological rhythms of [[sleep|sleeping]] and waking, sexual arousal and emotions.
+<!--SR:!2023-12-21,3,250-->

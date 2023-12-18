@@ -1,6 +1,7 @@
 #biological-psychology 
 
-Behavioural Genetics::The study of genetics and environmental influences on our behaviour. 
+Behavioural Genetics::The study of genetics and environmental influences on our behaviour.
+<!--SR:!2023-12-21,3,250-->
 
 List of terms:
 * [[Gene]]

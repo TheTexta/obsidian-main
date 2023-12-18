@@ -1,5 +1,6 @@
 #biological-psychology 
 Agonist::a drug that increases the length of the neurotransmitter or acts as one.
+<!--SR:!2023-12-21,3,250-->
 
 * Nicotine binds to acetylcholine receptors
 * Opiates mimic endorphins (natural painkillers)

@@ -10,8 +10,10 @@ Why we dream
 * Freuds wish fulfilment::The theory that dreams provide a "psychic safety valve" for expressing otherwise inappropriate feelings. contains manifest and latent content
 * Manifest content::the symbolic storyline of a dream as a censored version of a dreams latent content the unconscious drives and wishes that would be threatening if expressed directly. The storyline of a dream
 <!--SR:!2023-12-21,3,250-->
-	* Latent Content::The unconscious drives and wishes of a persons dream that are threatening if expressed directly. The underlying meaning of a dream
+* Latent Content::The unconscious drives and wishes of a persons dream that are threatening if expressed directly. The underlying meaning of a dream
+<!--SR:!2023-12-20,2,248-->
 * Informational Processing::Dreams help sift, sort and fix the days experiences in our memory.
+<!--SR:!2023-12-20,2,248-->
 	* studies have shown that people rembmer things better if they have had uninterrrypted night of sleep with lots of slow-wave and REM sleep.
 * Physiological Function::REM sleep stimulates the brain to exercise the neurons
 <!--SR:!2023-12-21,3,250-->
