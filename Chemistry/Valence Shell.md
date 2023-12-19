@@ -1,1 +1,2 @@
-The outermost shell of an atom. The valence charge refers to the number of electrons in that outermost shell. If a valence shell is full/empty then the atom is stable (as long as the number of protons in the centre aligns) and it will not accept additional [[Electron|electrons]]. 
+#chemistry 
+Valence Shell::The outermost shell of an atom. The [[valence charge]] refers to the number of [[Electron|electrons]] in that outermost shell. If a valence shell is full/empty then the atom is stable (as long as the number of [[Proton|protons]] in the centre aligns) and it will not accept additional [[Electron|electrons]]. **Remember the highest energy [[electron]] is not the same as the valence electron**

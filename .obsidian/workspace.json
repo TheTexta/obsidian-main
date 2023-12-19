@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfa99fadb44500db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Prefrontal Cortex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "22db7d50163a441d",
             "type": "leaf",
             "state": {
@@ -44,96 +32,12 @@
             }
           },
           {
-            "id": "3c028fb89d5cc118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Wernicke's Area.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abb8b399b40b83ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Wernicke's Aphasia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de06777062692fba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Neurogenesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4ce7597e986fadd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Psychology/Biological Psychology/Controlateral.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa37364ff70620eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/NREM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63e3be819b91fb2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Sleep Cycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85d45f4604b694b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Circadian Rhythms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a4e28ff41f3bffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Glial Cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,66 +64,6 @@
             }
           },
           {
-            "id": "fd7fb83a0bb50ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Resting Membrane Potential.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66aecdcc1184a436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Sodium Potassium Pump.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01d0c644d7b3439a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Selective Permeability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb1e38b33331a686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/All-or-none Reponse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fbf7a32df60136f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Depolarisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c90a4e72fef24aa7",
             "type": "leaf",
             "state": {
@@ -240,48 +84,12 @@
             }
           },
           {
-            "id": "7e1b0b46a1e3a2e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Reuptake.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07784659a2004316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Excitation 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6448c3fd4b9d31f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Psychology/Biological Psychology/peripheral nervous system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fee1410d21ef6bbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Spinal Cord.md",
                 "mode": "source",
                 "source": false
               }
@@ -312,223 +120,19 @@
             }
           },
           {
-            "id": "f98b4278354de4f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/transcranial direct current stimulation..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae3d555ce0dc10cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Electroencephalogram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f517812badab83b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Magnetoencephalography.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afd124efd8b9626c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Computed Tomography.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1549551bfa08aa3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Positron Emission Tomography.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c84e126ff9821462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Magnetic Resonance Imaging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2aae02ace0a9f6ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Permutations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a11da69a233d41c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Social Psychology/Social Learning Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b51573cb8ba69cd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28e4d4a1eddf96e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "price floor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec734f3b039f7458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/tax burden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18e3cc7a6dd47c24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "specific subsidies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "182b2715b86dea07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consumer Incidence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b5e2543bf475fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/International Trade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddea53ffcf7b5ffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autarky.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b1e69b1424071c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exporting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd0d0c23151fbd76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Importing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b20578eb207f7998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Aufbau Principle.md",
+                "file": "Chemistry/Valence Shell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 43
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -555,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "two allelesftg",
+                "query": "market surp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -603,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Aufbau Principle.md",
+                "file": "Chemistry/Valence Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -620,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Aufbau Principle.md",
+                "file": "Chemistry/Valence Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -643,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Aufbau Principle.md"
+                "file": "Chemistry/Valence Shell.md"
               }
             }
           },
@@ -674,44 +278,46 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b20578eb207f7998",
+  "active": "2aae02ace0a9f6ca",
   "lastOpenFiles": [
-    "Quota.md",
-    "Quota Example.png",
-    "Importing.md",
-    "Exporting.md",
-    "Autarky.md",
-    "Economics/International Trade.md",
+    "Mathematics/Inverse.md",
+    "vat.md",
     "tariffs.md",
-    "Welfare Loss.md",
-    "Producer Incidence.md",
-    "Consumer Incidence.md",
     "specific subsidies.md",
+    "specific indirect tax.png",
+    "price floor.md",
+    "income tax.md",
+    "government intervention.md",
+    "corporate tax.md",
+    "ad valorem tax.gif",
+    "Welfare Loss.md",
+    "Tax Revenue.md",
     "Subsidies.md",
     "Specific Subsidies.png",
-    "Economics/tax burden.md",
-    "Tax Revenue.md",
-    "corporate tax.md",
-    "income tax.md",
-    "Economics/Direct Tax.md",
+    "Quota.md",
+    "Quota Example.png",
+    "Producer Incidence.md",
     "Price Ceilings.md",
-    "price floor.md",
-    "vat.md",
-    "Economics/Indirect Tax.md",
+    "Importing.md",
     "GST.md",
-    "specific indirect tax.png",
-    "ad valorem tax.gif",
-    "Economics/Tax.md",
-    "government intervention.md",
+    "Exporting.md",
+    "Consumer Incidence.md",
+    "Autarky.md",
     "Economics/Deadweight Loss.md",
-    "Psychology/Biological Psychology/Gene Disorders.md",
+    "Psychology/Biological Psychology/Suprachiasmatic Nucleus.md",
+    "Psychology/Biological Psychology/pituitary gland.md",
+    "Psychology/Biological Psychology/vasopressin.md",
+    "Psychology/Biological Psychology/pineal gland.md",
+    "Psychology/Biological Psychology/Epinephrine.md",
+    "Psychology/Biological Psychology/cerebellum.md",
     "cerebellum.webp",
+    "Psychology/Biological Psychology/temporal lobes.png",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
     "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
     "Psychology/Biological Psychology/screenshot_CorpusCallosum.jpg",
-    "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology/delta waves.png",
-    "Psychology/Biological Psychology/Kcomplex and Sleep Spindle.png",
+    "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
+    "Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",
