@@ -425,14 +425,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tax Revenue.md",
+                "file": "price floor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec734f3b039f7458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/tax burden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18e3cc7a6dd47c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "specific subsidies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 37
       }
     ],
     "direction": "vertical"
@@ -507,7 +531,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tax Revenue.md",
+                "file": "specific subsidies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -524,7 +548,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tax Revenue.md",
+                "file": "specific subsidies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -547,7 +571,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tax Revenue.md"
+                "file": "specific subsidies.md"
               }
             }
           },
@@ -578,12 +602,27 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "28e4d4a1eddf96e6",
+  "active": "18e3cc7a6dd47c24",
   "lastOpenFiles": [
-    "tariffs.md",
+    "Subsidies.md",
+    "specific subsidies.md",
+    "Welfare Loss.md",
+    "Subsidies.png",
+    "Economics/tax burden.md",
     "Tax Revenue.md",
-    "government intervention.md",
+    "corporate tax.md",
+    "income tax.md",
+    "Economics/Direct Tax.md",
+    "Price Ceilings.md",
+    "price floor.md",
+    "vat.md",
+    "Economics/Indirect Tax.md",
+    "GST.md",
+    "specific indirect tax.png",
+    "ad valorem tax.gif",
     "Economics/Tax.md",
+    "tariffs.md",
+    "government intervention.md",
     "Economics/Deadweight Loss.md",
     "Psychology/Biological Psychology/Gene Disorders.md",
     "Psychology/Biological Psychology/gamma-aminobutyric acid.md",
@@ -594,18 +633,6 @@
     "Psychology/Biological Psychology/Dreams.md",
     "Psychology/Biological Psychology/sleep.md",
     "Psychology/Biological Psychology/Sleep Cycle.md",
-    "Psychology/Biological Psychology/hypothalamus.md",
-    "Psychology/Biological Psychology/hippocampus.md",
-    "Psychology/Biological Psychology/thalamus.md",
-    "Psychology/Biological Psychology/Forebrain, Midbrain, Hindbrain.md",
-    "Psychology/Biological Psychology/pons.md",
-    "Psychology/Biological Psychology/cerebellum.md",
-    "Psychology/Biological Psychology/Cerebrum.md",
-    "Psychology/Biological Psychology/Norepinephrine.md",
-    "Psychology/Biological Psychology/Epinephrine.md",
-    "Psychology/Biological Psychology/Adrenal Medulla.md",
-    "Psychology/Biological Psychology/medulla.md",
-    "Psychology/Biological Psychology/vasopressin.md",
     "cerebellum.webp",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
     "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
@@ -614,9 +641,6 @@
     "Psychology/Biological Psychology/delta waves.png",
     "Psychology/Biological Psychology/Kcomplex and Sleep Spindle.png",
     "Psychology/Biological Psychology/Occipital Lobe.png",
-    "Psychology/Biological Psychology/temporal lobes.png",
-    "Psychology/Biological Psychology/temporal lobes.png",
-    "Psychology/Biological Psychology/Parietal Lobe Described.png",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",
