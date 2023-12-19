@@ -1,0 +1,1 @@
+International Trade:: sets supply point at a constant price, if below equilibrium will create 

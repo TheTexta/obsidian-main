@@ -454,9 +454,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "182b2715b86dea07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consumer Incidence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b5e2543bf475fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/International Trade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddea53ffcf7b5ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autarky.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b1e69b1424071c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exporting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd0d0c23151fbd76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Importing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b20578eb207f7998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quota.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 37
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -531,7 +603,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "specific subsidies.md",
+                "file": "Quota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -548,7 +620,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "specific subsidies.md",
+                "file": "Quota.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -571,7 +643,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "specific subsidies.md"
+                "file": "Quota.md"
               }
             }
           },
@@ -602,12 +674,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "18e3cc7a6dd47c24",
+  "active": "b20578eb207f7998",
   "lastOpenFiles": [
-    "Subsidies.md",
-    "specific subsidies.md",
+    "Quota Example.png",
+    "Importing.md",
+    "Quota.md",
+    "Exporting.md",
+    "Autarky.md",
+    "Economics/International Trade.md",
+    "tariffs.md",
     "Welfare Loss.md",
-    "Subsidies.png",
+    "Producer Incidence.md",
+    "Consumer Incidence.md",
+    "specific subsidies.md",
+    "Subsidies.md",
+    "Specific Subsidies.png",
     "Economics/tax burden.md",
     "Tax Revenue.md",
     "corporate tax.md",
@@ -621,18 +702,9 @@
     "specific indirect tax.png",
     "ad valorem tax.gif",
     "Economics/Tax.md",
-    "tariffs.md",
     "government intervention.md",
     "Economics/Deadweight Loss.md",
     "Psychology/Biological Psychology/Gene Disorders.md",
-    "Psychology/Biological Psychology/gamma-aminobutyric acid.md",
-    "Psychology/Biological Psychology/Neurotransmitters.md",
-    "Psychology/Psych 101/Gamblers Fallacy.md",
-    "Psychology/Biological Psychology/Glutamate.md",
-    "Psychology/Biological Psychology/Endorphins.md",
-    "Psychology/Biological Psychology/Dreams.md",
-    "Psychology/Biological Psychology/sleep.md",
-    "Psychology/Biological Psychology/Sleep Cycle.md",
     "cerebellum.webp",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
     "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
