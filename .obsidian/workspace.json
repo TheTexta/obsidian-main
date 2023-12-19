@@ -521,7 +521,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quota.md",
+                "file": "Chemistry/Aufbau Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -603,7 +603,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quota.md",
+                "file": "Chemistry/Aufbau Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -620,7 +620,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quota.md",
+                "file": "Chemistry/Aufbau Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -643,7 +643,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quota.md"
+                "file": "Chemistry/Aufbau Principle.md"
               }
             }
           },
@@ -676,9 +676,9 @@
   },
   "active": "b20578eb207f7998",
   "lastOpenFiles": [
+    "Quota.md",
     "Quota Example.png",
     "Importing.md",
-    "Quota.md",
     "Exporting.md",
     "Autarky.md",
     "Economics/International Trade.md",
@@ -712,7 +712,6 @@
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology/delta waves.png",
     "Psychology/Biological Psychology/Kcomplex and Sleep Spindle.png",
-    "Psychology/Biological Psychology/Occipital Lobe.png",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",
