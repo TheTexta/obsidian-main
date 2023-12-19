@@ -425,7 +425,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/Gene Disorders.md",
+                "file": "Tax Revenue.md",
                 "mode": "source",
                 "source": false
               }
@@ -507,7 +507,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/Gene Disorders.md",
+                "file": "Tax Revenue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -524,7 +524,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/Gene Disorders.md",
+                "file": "Tax Revenue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -547,7 +547,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Biological Psychology/Gene Disorders.md"
+                "file": "Tax Revenue.md"
               }
             }
           },
@@ -578,8 +578,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bc26f921e137dcc5",
+  "active": "28e4d4a1eddf96e6",
   "lastOpenFiles": [
+    "tariffs.md",
+    "Tax Revenue.md",
+    "government intervention.md",
+    "Economics/Tax.md",
+    "Economics/Deadweight Loss.md",
+    "Psychology/Biological Psychology/Gene Disorders.md",
     "Psychology/Biological Psychology/gamma-aminobutyric acid.md",
     "Psychology/Biological Psychology/Neurotransmitters.md",
     "Psychology/Psych 101/Gamblers Fallacy.md",
@@ -600,12 +606,6 @@
     "Psychology/Biological Psychology/Adrenal Medulla.md",
     "Psychology/Biological Psychology/medulla.md",
     "Psychology/Biological Psychology/vasopressin.md",
-    "Psychology/Biological Psychology/parathyroid glands.md",
-    "Psychology/Biological Psychology/Limbic System.md",
-    "Psychology/Biological Psychology/Amygdala.md",
-    "Psychology/Social Psychology/Social Learning Theory.md",
-    "Psychology/Biological Psychology/parallel processing.md",
-    "Psychology/Biological Psychology/Dual Processing.md",
     "cerebellum.webp",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
     "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
