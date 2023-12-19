@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Valence Shell.md",
+                "file": "Pauli exclusion principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Valence Shell.md",
+                "file": "Pauli exclusion principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Valence Shell.md",
+                "file": "Pauli exclusion principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Valence Shell.md"
+                "file": "Pauli exclusion principle.md"
               }
             }
           },
@@ -280,6 +280,9 @@
   },
   "active": "2aae02ace0a9f6ca",
   "lastOpenFiles": [
+    "Chemistry/Orbitals.md",
+    "Pauli exclusion principle.md",
+    "Chemistry/Valence Shell.md",
     "Mathematics/Inverse.md",
     "vat.md",
     "tariffs.md",
@@ -307,9 +310,6 @@
     "Psychology/Biological Psychology/Suprachiasmatic Nucleus.md",
     "Psychology/Biological Psychology/pituitary gland.md",
     "Psychology/Biological Psychology/vasopressin.md",
-    "Psychology/Biological Psychology/pineal gland.md",
-    "Psychology/Biological Psychology/Epinephrine.md",
-    "Psychology/Biological Psychology/cerebellum.md",
     "cerebellum.webp",
     "Psychology/Biological Psychology/temporal lobes.png",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
