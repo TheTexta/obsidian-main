@@ -125,14 +125,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hund's Rule.md",
+                "file": "subshells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27b8fba546aa9d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Elasticity of Demand.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -187,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hund's Rule.md",
+                "file": "Economics/Elasticity of Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hund's Rule.md",
+                "file": "Economics/Elasticity of Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hund's Rule.md"
+                "file": "Economics/Elasticity of Demand.md"
               }
             }
           },
@@ -278,11 +290,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2aae02ace0a9f6ca",
+  "active": "27b8fba546aa9d16",
   "lastOpenFiles": [
-    "Pauli exclusion principle.md",
+    "Economics/Marginal Analysis.md",
     "Hund's Rule.md",
+    "Stability.md",
+    "subshells.md",
     "Chemistry/Orbitals.md",
+    "Pauli exclusion principle.md",
     "Chemistry/Valence Shell.md",
     "Mathematics/Inverse.md",
     "vat.md",
@@ -307,9 +322,6 @@
     "Exporting.md",
     "Consumer Incidence.md",
     "Autarky.md",
-    "Economics/Deadweight Loss.md",
-    "Psychology/Biological Psychology/Suprachiasmatic Nucleus.md",
-    "Psychology/Biological Psychology/pituitary gland.md",
     "cerebellum.webp",
     "Psychology/Biological Psychology/temporal lobes.png",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
