@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e58d241d9f11ea99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Categorical Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantitative Variable.md",
+                "file": "Categorical Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantitative Variable.md",
+                "file": "Categorical Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantitative Variable.md"
+                "file": "Categorical Data.md"
               }
             }
           },
@@ -202,10 +214,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ea98a23b0a5cf7c6",
+  "active": "e58d241d9f11ea99",
   "lastOpenFiles": [
-    "Categorical Variables.md",
     "Quantitative Variable.md",
+    "Categorical Data.md",
+    "Categorical Variables.md",
     "Graphing rules for AP Statistics.md",
     "relative frequency tables.md",
     "frequency tables.md",
@@ -230,7 +243,6 @@
     "Economics/Exporting.md",
     "Psychology/DNA.md",
     "Economics/Consumer Incidence.md",
-    "Psychology/Behaviour Addictions.md",
     "Economics/ad valorem tax.gif",
     "Economics/Quota Example.png",
     "Economics/Specific Subsidies.png",
