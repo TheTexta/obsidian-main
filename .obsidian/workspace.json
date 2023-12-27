@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphing rules for AP Statistics.md",
+                "file": "Categorical Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea98a23b0a5cf7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantitative Variable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphing rules for AP Statistics.md",
+                "file": "Quantitative Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphing rules for AP Statistics.md",
+                "file": "Quantitative Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphing rules for AP Statistics.md"
+                "file": "Quantitative Variable.md"
               }
             }
           },
@@ -190,11 +202,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b9f468ff6ca0b632",
+  "active": "ea98a23b0a5cf7c6",
   "lastOpenFiles": [
-    "relative frequency tables.md",
-    "Graphing rules for AP Statistics.md",
     "Categorical Variables.md",
+    "Quantitative Variable.md",
+    "Graphing rules for AP Statistics.md",
+    "relative frequency tables.md",
     "frequency tables.md",
     "Variables.md",
     "Economics/VAT.md",
@@ -219,7 +232,6 @@
     "Economics/Consumer Incidence.md",
     "Psychology/Behaviour Addictions.md",
     "Economics/ad valorem tax.gif",
-    "Psychology/Addiciton.md",
     "Economics/Quota Example.png",
     "Economics/Specific Subsidies.png",
     "Psychology/cerebellum.webp",
