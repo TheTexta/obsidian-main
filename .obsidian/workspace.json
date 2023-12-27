@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/vat.md",
+                "file": "Economics/VAT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7820c685559fac9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "relative frequency tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9f468ff6ca0b632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphing rules for AP Statistics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/vat.md",
+                "file": "Graphing rules for AP Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/vat.md",
+                "file": "Graphing rules for AP Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/vat.md"
+                "file": "Graphing rules for AP Statistics.md"
               }
             }
           },
@@ -165,10 +190,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1cfd30328380de0c",
+  "active": "b9f468ff6ca0b632",
   "lastOpenFiles": [
+    "relative frequency tables.md",
+    "Graphing rules for AP Statistics.md",
+    "Categorical Variables.md",
+    "frequency tables.md",
+    "Variables.md",
+    "Economics/VAT.md",
     "November study plan.md",
-    "Economics/vat.md",
     "Chemistry/Unit 2 Review.md",
     "Chemistry/Tolerance.md",
     "Economics/tariffs.md",
@@ -190,11 +220,6 @@
     "Psychology/Behaviour Addictions.md",
     "Economics/ad valorem tax.gif",
     "Psychology/Addiciton.md",
-    "Chemistry/Aufbau Principle.md",
-    "Economics/Autarky.md",
-    "Economics/International Trade.md",
-    "Economics/specific subsidies.md",
-    "Economics/tax burden.md",
     "Economics/Quota Example.png",
     "Economics/Specific Subsidies.png",
     "Psychology/cerebellum.webp",
