@@ -4,207 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cf22acc582d70c30",
+        "id": "823c6ccb32bb3105",
         "type": "tabs",
         "children": [
           {
-            "id": "22db7d50163a441d",
+            "id": "1cfd30328380de0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/Fraternal Twins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3ee943e7f9b0e69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Broca's Aphasia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ce7597e986fadd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Controlateral.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5d977e2583f9dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Glial Cells.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c714698bf42bdbc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c90a4e72fef24aa7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a4f7156020b6fcc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Re-uptake inhibitor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6448c3fd4b9d31f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/peripheral nervous system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70f99f8dea587378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/adrenal gland.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0d2bdc1b31df6a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Biological Psychology/Lesion Studies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2aae02ace0a9f6ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "subshells.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27b8fba546aa9d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Elasticity of Demand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "565d9aba41db6d80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychoactive Drugs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d05eab6e0c15047c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Substance Use Disorders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d489d2122c486a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tolerance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb9d432d697487c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Addiciton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b59eea6e3f058933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychoactive Drugs.md",
+                "file": "Economics/vat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "market surp",
+                "query": "two allelesftg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychoactive Drugs.md",
+                "file": "Economics/vat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychoactive Drugs.md",
+                "file": "Economics/vat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychoactive Drugs.md"
+                "file": "Economics/vat.md"
               }
             }
           },
@@ -350,46 +165,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b59eea6e3f058933",
+  "active": "1cfd30328380de0c",
   "lastOpenFiles": [
-    "Paranoia.md",
-    "Psychoactive Drugs.md",
-    "Behaviour Addictions.md",
-    "Addiciton.md",
-    "Tolerance.md",
-    "neuroadaptation.md",
-    "Substance Use Disorders.md",
-    "Economics/Elasticity of Demand.md",
-    "Economics/Marginal Analysis.md",
-    "Hund's Rule.md",
-    "Stability.md",
-    "subshells.md",
-    "Chemistry/Orbitals.md",
-    "Pauli exclusion principle.md",
-    "Chemistry/Valence Shell.md",
-    "Mathematics/Inverse.md",
-    "vat.md",
-    "tariffs.md",
-    "specific subsidies.md",
-    "specific indirect tax.png",
-    "price floor.md",
-    "income tax.md",
-    "government intervention.md",
-    "corporate tax.md",
-    "ad valorem tax.gif",
-    "Welfare Loss.md",
-    "Tax Revenue.md",
-    "Subsidies.md",
-    "Specific Subsidies.png",
-    "Quota Example.png",
-    "cerebellum.webp",
-    "Psychology/Biological Psychology/temporal lobes.png",
+    "November study plan.md",
+    "Economics/vat.md",
+    "Chemistry/Unit 2 Review.md",
+    "Chemistry/Tolerance.md",
+    "Economics/tariffs.md",
+    "Psychology/Substance Use Disorders.md",
+    "Psychology/Social Script.md",
+    "Economics/Subsidies.md",
+    "Chemistry/Stability.md",
+    "Economics/specific indirect tax.png",
+    "Economics/Quota.md",
+    "Economics/price floor.md",
+    "Chemistry/Pauli exclusion principle.md",
+    "Psychology/Paranoia.md",
+    "Psychology/Mutation.md",
+    "Economics/Importing.md",
+    "Chemistry/Hund's Rule.md",
+    "Economics/Exporting.md",
+    "Psychology/DNA.md",
+    "Economics/Consumer Incidence.md",
+    "Psychology/Behaviour Addictions.md",
+    "Economics/ad valorem tax.gif",
+    "Psychology/Addiciton.md",
+    "Chemistry/Aufbau Principle.md",
+    "Economics/Autarky.md",
+    "Economics/International Trade.md",
+    "Economics/specific subsidies.md",
+    "Economics/tax burden.md",
+    "Economics/Quota Example.png",
+    "Economics/Specific Subsidies.png",
+    "Psychology/cerebellum.webp",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
     "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
     "Psychology/Biological Psychology/screenshot_CorpusCallosum.jpg",
-    "Psychology/Biological Psychology/delta waves.png",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
-    "Stages in a typical night's sleep.pdf",
+    "Psychology/Biological Psychology/delta waves.png",
+    "Psychology/Biological Psychology/Kcomplex and Sleep Spindle.png",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",
