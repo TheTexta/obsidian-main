@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantitative Variable.md",
+                "file": "Quantitative Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80e20a6f23fc318a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantitative Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Categorical Data.md",
+                "file": "Quantitative Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Categorical Data.md",
+                "file": "Quantitative Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Categorical Data.md"
+                "file": "Quantitative Data.md"
               }
             }
           },
@@ -214,13 +226,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e58d241d9f11ea99",
+  "active": "80e20a6f23fc318a",
   "lastOpenFiles": [
-    "Quantitative Variable.md",
+    "Quantitative Variables.md",
+    "relative frequency tables.md",
+    "Quantitative Data.md",
     "Categorical Data.md",
     "Categorical Variables.md",
     "Graphing rules for AP Statistics.md",
-    "relative frequency tables.md",
     "frequency tables.md",
     "Variables.md",
     "Economics/VAT.md",
@@ -242,7 +255,6 @@
     "Chemistry/Hund's Rule.md",
     "Economics/Exporting.md",
     "Psychology/DNA.md",
-    "Economics/Consumer Incidence.md",
     "Economics/ad valorem tax.gif",
     "Economics/Quota Example.png",
     "Economics/Specific Subsidies.png",
