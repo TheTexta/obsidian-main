@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantitative Data.md",
+                "file": "frequency tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantitative Data.md",
+                "file": "frequency tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantitative Data.md",
+                "file": "frequency tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantitative Data.md"
+                "file": "frequency tables.md"
               }
             }
           },
@@ -228,9 +228,10 @@
   },
   "active": "80e20a6f23fc318a",
   "lastOpenFiles": [
+    "frequency table example.png",
     "Quantitative Variables.md",
-    "relative frequency tables.md",
     "Quantitative Data.md",
+    "relative frequency tables.md",
     "Categorical Data.md",
     "Categorical Variables.md",
     "Graphing rules for AP Statistics.md",
@@ -254,7 +255,6 @@
     "Economics/Importing.md",
     "Chemistry/Hund's Rule.md",
     "Economics/Exporting.md",
-    "Psychology/DNA.md",
     "Economics/ad valorem tax.gif",
     "Economics/Quota Example.png",
     "Economics/Specific Subsidies.png",

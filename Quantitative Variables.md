@@ -1,2 +1,2 @@
 #statistics 
-Quantitative Variable::Takes on numerical values for measured/counted quantity. **Quantitative variables are ones which make sense to find an average of**.
+Quantitative Variable::Takes on numerical values for measured/counted quantity. **Quantitative variables are ones which make sense to find an average of**. *It is possible to take a quantitative variable and make it into a categorical variable through grouping values.* 
