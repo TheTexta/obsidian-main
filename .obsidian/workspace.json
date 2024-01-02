@@ -68,12 +68,36 @@
             }
           },
           {
+            "id": "63bde8d06de4f51c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bar Chart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "80e20a6f23fc318a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "frequency tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ae37b3c966acddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem Set Working.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frequency tables.md",
+                "file": "Bar Chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frequency tables.md",
+                "file": "Bar Chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frequency tables.md"
+                "file": "Bar Chart.md"
               }
             }
           },
@@ -226,16 +250,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "80e20a6f23fc318a",
+  "active": "63bde8d06de4f51c",
   "lastOpenFiles": [
+    "bar chart 2d.png",
+    "Graphing rules for AP Statistics.md",
+    "Bar Chart.md",
+    "Categorical Data.md",
+    "Problem Set Working.md",
+    "frequency tables.md",
+    "relative frequency tables.md",
+    "relative frequency table example.png",
     "frequency table example.png",
     "Quantitative Variables.md",
     "Quantitative Data.md",
-    "relative frequency tables.md",
-    "Categorical Data.md",
     "Categorical Variables.md",
-    "Graphing rules for AP Statistics.md",
-    "frequency tables.md",
     "Variables.md",
     "Economics/VAT.md",
     "November study plan.md",
@@ -253,8 +281,6 @@
     "Psychology/Paranoia.md",
     "Psychology/Mutation.md",
     "Economics/Importing.md",
-    "Chemistry/Hund's Rule.md",
-    "Economics/Exporting.md",
     "Economics/ad valorem tax.gif",
     "Economics/Quota Example.png",
     "Economics/Specific Subsidies.png",
@@ -263,8 +289,6 @@
     "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
     "Psychology/Biological Psychology/screenshot_CorpusCallosum.jpg",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
-    "Psychology/Biological Psychology/delta waves.png",
-    "Psychology/Biological Psychology/Kcomplex and Sleep Spindle.png",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",

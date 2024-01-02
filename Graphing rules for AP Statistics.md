@@ -1,2 +1,2 @@
 #statistics 
-Graphing rules for AP Statistics::Graphs must have horizontal and vertical labelling. Along with correct scaling.
+Graphing rules for AP Statistics::Graphs must have horizontal and vertical labelling. Along with correct scaling, which means spacing the categories correctly, and going up in senseble increments, start at 0. 
