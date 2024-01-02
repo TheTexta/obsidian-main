@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discrete variables.md",
+                "file": "Discrete Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuous variables.md",
+                "file": "Discrete Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continuous variables.md",
+                "file": "Discrete Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continuous variables.md",
+                "file": "Discrete Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Continuous variables.md"
+                "file": "Discrete Variables.md"
               }
             }
           },
@@ -276,8 +276,8 @@
   },
   "active": "759e41ab0a2f5a55",
   "lastOpenFiles": [
-    "discrete variables.md",
     "Continuous variables.md",
+    "Discrete Variables.md",
     "Quantitative Variables.md",
     "Quantitative Data.md",
     "Describing Distribution of Quantitative Data.md",
