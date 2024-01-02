@@ -7,8 +7,15 @@
 	* Bimodal - multiple peaks
 * Centre
 	* Which value in a distribution best describes the typical response?
+		* Mean
+		* Median
+		* Compare the Q1 to Q3
 * Variability
 	* Are the values closely packed together or are they more spread out?
+		* Range
+		* IQR: Q3 - Q1
+		* Standard Deviation
+			* The values typically vary by 14.35 ppb from the mean of 7.31 ppb.
 * Unusual Features
 	* Values which are outliers
 	* Gaps and clusters in the dataset

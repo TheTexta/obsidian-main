@@ -1,0 +1,2 @@
+#statistics 
+Mosaic Plots::A way to visualise a two way table while taking the sample size of the data set into account. Scales the horizontal axis by the proportion of the sample size that demographic represents. 

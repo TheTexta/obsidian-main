@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Variables.md",
+                "file": "Describing Distribution of Quantitative Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6237e3694ff461ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mosaic Plots.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -203,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Variables.md",
+                "file": "Mosaic Plots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Variables.md",
+                "file": "Mosaic Plots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Variables.md"
+                "file": "Mosaic Plots.md"
               }
             }
           },
@@ -274,23 +286,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "759e41ab0a2f5a55",
+  "active": "6237e3694ff461ed",
   "lastOpenFiles": [
+    "Describing Distribution of Quantitative Data.md",
+    "Mosaic Plots.md",
+    "Categorical Data.md",
+    "Categorical Variables.md",
     "Continuous variables.md",
     "Discrete Variables.md",
     "Quantitative Variables.md",
     "Quantitative Data.md",
-    "Describing Distribution of Quantitative Data.md",
     "Bar Chart.md",
     "bar chart 2d.png",
     "Graphing rules for AP Statistics.md",
-    "Categorical Data.md",
     "Problem Set Working.md",
     "frequency tables.md",
     "relative frequency tables.md",
     "relative frequency table example.png",
     "frequency table example.png",
-    "Categorical Variables.md",
     "Variables.md",
     "Economics/VAT.md",
     "November study plan.md",
@@ -305,7 +318,6 @@
     "Economics/Quota.md",
     "Economics/price floor.md",
     "Chemistry/Pauli exclusion principle.md",
-    "Psychology/Paranoia.md",
     "Economics/ad valorem tax.gif",
     "Economics/Quota Example.png",
     "Economics/Specific Subsidies.png",
