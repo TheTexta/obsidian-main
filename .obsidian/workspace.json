@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "f86283fd278c51c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "759e41ab0a2f5a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuous variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "80e20a6f23fc318a",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -131,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "two allelesftg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bar Chart.md",
+                "file": "Continuous variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bar Chart.md",
+                "file": "Continuous variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bar Chart.md"
+                "file": "Continuous variables.md"
               }
             }
           },
@@ -250,19 +274,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "63bde8d06de4f51c",
+  "active": "759e41ab0a2f5a55",
   "lastOpenFiles": [
+    "discrete variables.md",
+    "Continuous variables.md",
+    "Quantitative Variables.md",
+    "Quantitative Data.md",
+    "Describing Distribution of Quantitative Data.md",
+    "Bar Chart.md",
     "bar chart 2d.png",
     "Graphing rules for AP Statistics.md",
-    "Bar Chart.md",
     "Categorical Data.md",
     "Problem Set Working.md",
     "frequency tables.md",
     "relative frequency tables.md",
     "relative frequency table example.png",
     "frequency table example.png",
-    "Quantitative Variables.md",
-    "Quantitative Data.md",
     "Categorical Variables.md",
     "Variables.md",
     "Economics/VAT.md",
@@ -279,15 +306,12 @@
     "Economics/price floor.md",
     "Chemistry/Pauli exclusion principle.md",
     "Psychology/Paranoia.md",
-    "Psychology/Mutation.md",
-    "Economics/Importing.md",
     "Economics/ad valorem tax.gif",
     "Economics/Quota Example.png",
     "Economics/Specific Subsidies.png",
     "Psychology/cerebellum.webp",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
     "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
-    "Psychology/Biological Psychology/screenshot_CorpusCallosum.jpg",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
