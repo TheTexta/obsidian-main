@@ -1,1 +1,3 @@
-The difference between the 3rd and 1st quartile. ![[Inter Quartile Range Example.png]]
+#statistics 
+
+Inter Quartile Range::The difference between the 3rd and 1st quartile. ![[Inter Quartile Range Example.png]]

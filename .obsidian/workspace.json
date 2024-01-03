@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skewed.md",
+                "file": "Psychology/Psych 101/Inter Quartile Range.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skewed.md",
+                "file": "Psychology/Psych 101/Inter Quartile Range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skewed.md",
+                "file": "Psychology/Psych 101/Inter Quartile Range.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skewed.md"
+                "file": "Psychology/Psych 101/Inter Quartile Range.md"
               }
             }
           },
@@ -300,8 +300,10 @@
   },
   "active": "d7a5b5709dcafd0f",
   "lastOpenFiles": [
+    "Outliers.md",
+    "skew.md",
+    "relative frequency table example.png",
     "symmetrical.md",
-    "skewed.md",
     "symmetrical distribution.png",
     "Describing Distribution of Quantitative Data.md",
     "skewed distribution.png",
@@ -314,7 +316,6 @@
     "Mosaic Plots.md",
     "Problem Set Working.md",
     "Quantitative Data.md",
-    "Outliers.md",
     "Categorical Data.md",
     "Categorical Variables.md",
     "Continuous variables.md",
@@ -322,7 +323,6 @@
     "Bar Chart.md",
     "bar chart 2d.png",
     "relative frequency tables.md",
-    "relative frequency table example.png",
     "Variables.md",
     "Economics/VAT.md",
     "November study plan.md",
