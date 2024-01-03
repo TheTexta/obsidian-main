@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditional Distribution.md",
+                "file": "Psychology/Psych 101/Standard Deviation.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data",
+                "query": "resistan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -275,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditional Distribution.md",
+                "file": "Psychology/Psych 101/Standard Deviation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditional Distribution.md",
+                "file": "Psychology/Psych 101/Standard Deviation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditional Distribution.md"
+                "file": "Psychology/Psych 101/Standard Deviation.md"
               }
             }
           },
@@ -348,9 +348,13 @@
   },
   "active": "a36ef3bffce514f3",
   "lastOpenFiles": [
+    "Statistics/Describing Distribution of Quantitative Data.md",
+    "Psychology/Psych 101/Histogram.md",
+    "Psychology/Psych 101/Standard Deviation.md",
+    "Statistics/Resistant vs Non-Resistant measures.md",
+    "Conditional Distribution.md",
     "marginal distribution.md",
     "marginal and conditional distributions.png",
-    "Conditional Distribution.md",
     "Statistics/Quantitative Data.md",
     "Statistics/Discrete Variables.md",
     "Statistics/Categorical Data.md",
@@ -362,11 +366,8 @@
     "Statistics/Bimodal.md",
     "Statistics/Categorical Variables.md",
     "Statistics/Shape.md",
-    "Statistics/Resistant vs Non-Resistant measures.md",
     "Statistics/Inter Quartile Range.md",
-    "Statistics/Describing Distribution of Quantitative Data.md",
     "Psychology/Psych 101/Variability.md",
-    "Psychology/Psych 101/Standard Deviation.md",
     "Psychology/Psych 101/Median.md",
     "Psychology/Psych 101/Mean.md",
     "Statistics/skew.md",
