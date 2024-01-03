@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "d7a5b5709dcafd0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Describing Distribution of Quantitative Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "80e20a6f23fc318a",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -215,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mosaic Plots.md",
+                "file": "Describing Distribution of Quantitative Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mosaic Plots.md",
+                "file": "Describing Distribution of Quantitative Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mosaic Plots.md"
+                "file": "Describing Distribution of Quantitative Data.md"
               }
             }
           },
@@ -286,24 +298,29 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6237e3694ff461ed",
+  "active": "d7a5b5709dcafd0f",
   "lastOpenFiles": [
+    "skewed.md",
+    "skewed distribution.png",
     "Describing Distribution of Quantitative Data.md",
+    "Psychology/Psych 101/Median.md",
+    "Psychology/Psych 101/Standard Deviation.md",
+    "Discrete Variables.md",
+    "frequency table example.png",
+    "frequency tables.md",
+    "Graphing rules for AP Statistics.md",
     "Mosaic Plots.md",
+    "Problem Set Working.md",
+    "Quantitative Data.md",
+    "Outliers.md",
     "Categorical Data.md",
     "Categorical Variables.md",
     "Continuous variables.md",
-    "Discrete Variables.md",
     "Quantitative Variables.md",
-    "Quantitative Data.md",
     "Bar Chart.md",
     "bar chart 2d.png",
-    "Graphing rules for AP Statistics.md",
-    "Problem Set Working.md",
-    "frequency tables.md",
     "relative frequency tables.md",
     "relative frequency table example.png",
-    "frequency table example.png",
     "Variables.md",
     "Economics/VAT.md",
     "November study plan.md",
@@ -312,18 +329,12 @@
     "Economics/tariffs.md",
     "Psychology/Substance Use Disorders.md",
     "Psychology/Social Script.md",
-    "Economics/Subsidies.md",
-    "Chemistry/Stability.md",
     "Economics/specific indirect tax.png",
-    "Economics/Quota.md",
-    "Economics/price floor.md",
-    "Chemistry/Pauli exclusion principle.md",
     "Economics/ad valorem tax.gif",
     "Economics/Quota Example.png",
     "Economics/Specific Subsidies.png",
     "Psychology/cerebellum.webp",
     "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
-    "Psychology/Biological Psychology/screenshot_LeftCerebralHemisphere.jpg",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
