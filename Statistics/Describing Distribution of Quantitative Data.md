@@ -26,4 +26,7 @@
 
 Always include the context of the values
 
+Non-resistant::Summary statistics which are non-resistant change or are impacted when [[outliers]] are removed in a data set.
+Resistant::Summary statistics which are resistant *do not change* or are *not impacted* when [[outliers]] are removed in a data set.
+
 

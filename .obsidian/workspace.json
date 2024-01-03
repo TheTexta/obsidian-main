@@ -121,7 +121,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/skew.md",
+                "file": "Statistics/Describing Distribution of Quantitative Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "560521103bcdb0b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resistant vs Non-Resistant measures.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/skew.md",
+                "file": "Resistant vs Non-Resistant measures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/skew.md",
+                "file": "Resistant vs Non-Resistant measures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/skew.md"
+                "file": "Resistant vs Non-Resistant measures.md"
               }
             }
           },
@@ -298,12 +310,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d7a5b5709dcafd0f",
+  "active": "560521103bcdb0b3",
   "lastOpenFiles": [
-    "Leftward Skew.md",
     "Statistics/skew.md",
-    "rightward skew.md",
+    "Resistant vs Non-Resistant measures.md",
     "Statistics/Describing Distribution of Quantitative Data.md",
+    "Statistics/Outliers.md",
+    "Leftward Skew.md",
+    "rightward skew.md",
     "Bimodal.md",
     "bimodal.png",
     "Unimodal.md",
@@ -318,7 +332,6 @@
     "Statistics/Bar Chart.md",
     "Statistics",
     "Psychology/Evolutionary Fitness.md",
-    "Statistics/Outliers.md",
     "Statistics/relative frequency table example.png",
     "Statistics/symmetrical.md",
     "Statistics/symmetrical distribution.png",
@@ -334,7 +347,6 @@
     "Statistics/bar chart 2d.png",
     "Statistics/relative frequency tables.md",
     "Statistics/Variables.md",
-    "Economics/VAT.md",
     "Economics/specific indirect tax.png",
     "Economics/ad valorem tax.gif",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
