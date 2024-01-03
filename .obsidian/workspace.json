@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Describing Distribution of Quantitative Data.md",
+                "file": "skewed.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Describing Distribution of Quantitative Data.md",
+                "file": "skewed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Describing Distribution of Quantitative Data.md",
+                "file": "skewed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Describing Distribution of Quantitative Data.md"
+                "file": "skewed.md"
               }
             }
           },
@@ -300,9 +300,11 @@
   },
   "active": "d7a5b5709dcafd0f",
   "lastOpenFiles": [
+    "symmetrical.md",
     "skewed.md",
-    "skewed distribution.png",
+    "symmetrical distribution.png",
     "Describing Distribution of Quantitative Data.md",
+    "skewed distribution.png",
     "Psychology/Psych 101/Median.md",
     "Psychology/Psych 101/Standard Deviation.md",
     "Discrete Variables.md",
@@ -328,13 +330,11 @@
     "Chemistry/Tolerance.md",
     "Economics/tariffs.md",
     "Psychology/Substance Use Disorders.md",
-    "Psychology/Social Script.md",
     "Economics/specific indirect tax.png",
     "Economics/ad valorem tax.gif",
     "Economics/Quota Example.png",
     "Economics/Specific Subsidies.png",
     "Psychology/cerebellum.webp",
-    "Psychology/Biological Psychology/screenshot_ParietalLobe.jpg",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
