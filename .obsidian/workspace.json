@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Data.md",
+                "file": "Statistics/Discrete Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dummy Variable.md",
+                "file": "Statistics/Quantitative Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a36ef3bffce514f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "marginal distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dummy Variable.md",
+                "file": "marginal distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dummy Variable.md",
+                "file": "marginal distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dummy Variable.md"
+                "file": "marginal distribution.md"
               }
             }
           },
@@ -334,15 +346,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "077d2ab5c10cafce",
+  "active": "a36ef3bffce514f3",
   "lastOpenFiles": [
-    "Discrete Data.md",
-    "Dummy Variable.md",
+    "marginal and conditional distributions.png",
+    "Conditional Distribution.md",
+    "marginal distribution.md",
     "Statistics/Quantitative Data.md",
     "Statistics/Discrete Variables.md",
+    "Statistics/Categorical Data.md",
+    "Statistics/Discrete Data.md",
+    "Statistics/Dummy Variable.md",
     "Statistics/Quantitative Variables.md",
     "Statistics/Continuous variables.md",
-    "Statistics/Categorical Data.md",
     "Statistics/Graphing rules for AP Statistics.md",
     "Statistics/Bimodal.md",
     "Statistics/Categorical Variables.md",
@@ -362,11 +377,8 @@
     "Statistics/Unimodal.md",
     "Statistics/unimodal distribution.png",
     "Statistics/frequency table example.png",
-    "Statistics/frequency tables.md",
     "Statistics/Inter Quartile Range Example.png",
-    "Statistics/Bar Chart.md",
     "Statistics",
-    "Psychology/Evolutionary Fitness.md",
     "Statistics/relative frequency table example.png",
     "Statistics/symmetrical distribution.png",
     "Statistics/skewed distribution.png",
