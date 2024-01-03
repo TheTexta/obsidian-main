@@ -1,2 +1,0 @@
-#statistics 
-Frequency Tables::Give the number of cases falling into a specific category ([[Categorical Variables]]). Used to represent [[categorical data]] in tabular form.![[frequency table example.png]]
