@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marginal distribution.md",
+                "file": "Conditional Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -275,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marginal distribution.md",
+                "file": "Conditional Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marginal distribution.md",
+                "file": "Conditional Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marginal distribution.md"
+                "file": "Conditional Distribution.md"
               }
             }
           },
@@ -348,9 +348,9 @@
   },
   "active": "a36ef3bffce514f3",
   "lastOpenFiles": [
+    "marginal distribution.md",
     "marginal and conditional distributions.png",
     "Conditional Distribution.md",
-    "marginal distribution.md",
     "Statistics/Quantitative Data.md",
     "Statistics/Discrete Variables.md",
     "Statistics/Categorical Data.md",
@@ -384,7 +384,6 @@
     "Statistics/skewed distribution.png",
     "Statistics/bar chart 2d.png",
     "Economics/specific indirect tax.png",
-    "Economics/ad valorem tax.gif",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
