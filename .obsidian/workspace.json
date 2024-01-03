@@ -133,7 +133,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Bimodal.md",
+                "file": "Statistics/Quantitative Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89b1773e05644e47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "077d2ab5c10cafce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dummy Variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -191,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Bimodal.md",
+                "file": "Dummy Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Bimodal.md",
+                "file": "Dummy Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Bimodal.md"
+                "file": "Dummy Variable.md"
               }
             }
           },
@@ -310,8 +334,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b31c21586683c68",
+  "active": "077d2ab5c10cafce",
   "lastOpenFiles": [
+    "Discrete Data.md",
+    "Dummy Variable.md",
+    "Statistics/Quantitative Data.md",
+    "Statistics/Discrete Variables.md",
+    "Statistics/Quantitative Variables.md",
+    "Statistics/Continuous variables.md",
+    "Statistics/Categorical Data.md",
+    "Statistics/Graphing rules for AP Statistics.md",
+    "Statistics/Bimodal.md",
     "Statistics/Categorical Variables.md",
     "Statistics/Shape.md",
     "Statistics/Resistant vs Non-Resistant measures.md",
@@ -325,27 +358,18 @@
     "Statistics/Outliers.md",
     "Statistics/Leftward Skew.md",
     "Statistics/rightward skew.md",
-    "Statistics/Bimodal.md",
     "Statistics/bimodal.png",
     "Statistics/Unimodal.md",
     "Statistics/unimodal distribution.png",
     "Statistics/frequency table example.png",
     "Statistics/frequency tables.md",
-    "Statistics/Discrete Variables.md",
-    "Statistics/Graphing rules for AP Statistics.md",
     "Statistics/Inter Quartile Range Example.png",
     "Statistics/Bar Chart.md",
     "Statistics",
     "Psychology/Evolutionary Fitness.md",
     "Statistics/relative frequency table example.png",
-    "Statistics/symmetrical.md",
     "Statistics/symmetrical distribution.png",
     "Statistics/skewed distribution.png",
-    "Statistics/Mosaic Plots.md",
-    "Statistics/Problem Set Working.md",
-    "Statistics/Quantitative Data.md",
-    "Statistics/Categorical Data.md",
-    "Statistics/Continuous variables.md",
     "Statistics/bar chart 2d.png",
     "Economics/specific indirect tax.png",
     "Economics/ad valorem tax.gif",
