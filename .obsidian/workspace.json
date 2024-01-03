@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resistant vs Non-Resistant measures.md",
+                "file": "Statistics/Bimodal.md",
                 "mode": "source",
                 "source": false
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resistant vs Non-Resistant measures.md",
+                "file": "Statistics/Bimodal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resistant vs Non-Resistant measures.md",
+                "file": "Statistics/Bimodal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resistant vs Non-Resistant measures.md"
+                "file": "Statistics/Bimodal.md"
               }
             }
           },
@@ -310,24 +310,29 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "560521103bcdb0b3",
+  "active": "1b31c21586683c68",
   "lastOpenFiles": [
-    "Statistics/skew.md",
-    "Resistant vs Non-Resistant measures.md",
+    "Statistics/Categorical Variables.md",
+    "Statistics/Shape.md",
+    "Statistics/Resistant vs Non-Resistant measures.md",
+    "Statistics/Inter Quartile Range.md",
     "Statistics/Describing Distribution of Quantitative Data.md",
-    "Statistics/Outliers.md",
-    "Leftward Skew.md",
-    "rightward skew.md",
-    "Bimodal.md",
-    "bimodal.png",
-    "Unimodal.md",
-    "unimodal distribution.png",
+    "Psychology/Psych 101/Variability.md",
     "Psychology/Psych 101/Standard Deviation.md",
+    "Psychology/Psych 101/Median.md",
+    "Psychology/Psych 101/Mean.md",
+    "Statistics/skew.md",
+    "Statistics/Outliers.md",
+    "Statistics/Leftward Skew.md",
+    "Statistics/rightward skew.md",
+    "Statistics/Bimodal.md",
+    "Statistics/bimodal.png",
+    "Statistics/Unimodal.md",
+    "Statistics/unimodal distribution.png",
     "Statistics/frequency table example.png",
     "Statistics/frequency tables.md",
     "Statistics/Discrete Variables.md",
     "Statistics/Graphing rules for AP Statistics.md",
-    "Statistics/Inter Quartile Range.md",
     "Statistics/Inter Quartile Range Example.png",
     "Statistics/Bar Chart.md",
     "Statistics",
@@ -336,17 +341,12 @@
     "Statistics/symmetrical.md",
     "Statistics/symmetrical distribution.png",
     "Statistics/skewed distribution.png",
-    "Psychology/Psych 101/Median.md",
     "Statistics/Mosaic Plots.md",
     "Statistics/Problem Set Working.md",
     "Statistics/Quantitative Data.md",
     "Statistics/Categorical Data.md",
-    "Statistics/Categorical Variables.md",
     "Statistics/Continuous variables.md",
-    "Statistics/Quantitative Variables.md",
     "Statistics/bar chart 2d.png",
-    "Statistics/relative frequency tables.md",
-    "Statistics/Variables.md",
     "Economics/specific indirect tax.png",
     "Economics/ad valorem tax.gif",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
