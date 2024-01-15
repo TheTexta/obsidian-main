@@ -8,27 +8,197 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a81cbe9046fb41b0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "f22cb6184adc57de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sensation and Perception.md",
+                "file": "Psychology/Biological Psychology/Blindsight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1aa87977515f60a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aef0fd0b138734f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "absolute threshold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00603d0b5f556d46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Single Detection Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2555d009f74a7eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subliminal Sensation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "673d74133a318b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Difference thresholds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea9c75cb17795430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webers Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86f5aaa1ebbdbe00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Habituation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeca69514d6cdd85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sensory Adaptation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca999ec9c7b18b54",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "b32602cacb7cc8b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Context, motivation and emotion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58ea20c25c3d3050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cdefe727c6abef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Derivative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8153c568dc1cfcf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perceptual Schemas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cda8a815a8de3e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bottom-up Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "293fbdef2a9a67d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Top-down Processing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -55,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "market surp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensation and Perception.md",
+                "file": "Mathematics/Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensation and Perception.md",
+                "file": "Mathematics/Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensation and Perception.md"
+                "file": "Mathematics/Derivative.md"
               }
             }
           },
@@ -174,42 +344,42 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f22cb6184adc57de",
+  "active": "6cdefe727c6abef9",
   "lastOpenFiles": [
+    "Electromagnetic Spectrum.md",
+    "ESP.md",
+    "Context, motivation and emotion.md",
+    "Perceptual Set.md",
+    "Perceptual Schemas.md",
+    "Habituation.md",
+    "Sensory Adaptation.md",
+    "Webers Law.md",
+    "Difference thresholds.md",
+    "Subliminal Sensation.md",
+    "Single Detection Theory.md",
+    "absolute threshold.md",
+    "Sensory Thresholds.md",
+    "Transduction.md",
+    "Psychology/Biological Psychology/Blindsight.md",
+    "Psychology/Biological Psychology/Dual Processing.md",
+    "Sensation and Perception.md",
+    "Bottom-up Processing.md",
+    "Top-down Processing.md",
+    "sensation.md",
     "Conditional Distribution.md",
     "marginal and conditional distributions.png",
     "marginal distribution.md",
-    "sensation.md",
-    "Sensation and Perception.md",
     "Psychology/Biological Psychology/Glial Cells.md",
     "Psychology/Biological Psychology/Re-uptake inhibitor.md",
     "Psychology/Biological Psychology/peripheral nervous system.md",
     "Psychology/Biological Psychology/adrenal gland.md",
-    "Psychology/Biological Psychology/Lesion Studies.md",
-    "Economics/Elasticity of Demand.md",
-    "Tolerance.md",
-    "Psychoactive Drugs.md",
     "Statistics/unimodal distribution.png",
-    "Statistics/symmetrical.md",
-    "Statistics/relative frequency tables.md",
     "Statistics/symmetrical distribution.png",
     "Statistics/skewed distribution.png",
-    "Statistics/skew.md",
-    "Statistics/rightward skew.md",
     "Statistics/relative frequency table example.png",
-    "Statistics/frequency tables.md",
     "Statistics/bimodal.png",
     "Statistics/frequency table example.png",
     "Statistics/bar chart 2d.png",
-    "Statistics/Variables.md",
-    "Statistics/Unimodal.md",
-    "Statistics/Problem Set Working.md",
-    "Statistics/Shape.md",
-    "Statistics/Quantitative Variables.md",
-    "Statistics/Resistant vs Non-Resistant measures.md",
-    "Statistics/Quantitative Data.md",
-    "Statistics/Inter Quartile Range.md",
-    "Statistics/Outliers.md",
     "Statistics/Inter Quartile Range Example.png",
     "Statistics",
     "Psychology/cerebellum.webp",

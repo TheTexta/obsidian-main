@@ -1,0 +1,1 @@
+Two stimuli must differ by a minimum constant percentage of 0.3% for audio. Except for Visual 

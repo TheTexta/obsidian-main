@@ -1,0 +1,1 @@
+At what point can you hear the difference between two simulis, eg changing pitch of an audio track. Just noticeable difference is the point where you notice the difference, its a percentage of the thing kinda.

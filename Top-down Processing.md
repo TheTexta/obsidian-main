@@ -1,0 +1,1 @@
+knowing the idea straight away.

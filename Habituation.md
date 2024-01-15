@@ -1,0 +1,1 @@
+Habituation is where your sensory receptors still respond to a stimuli but you are psychologically ignoring it. 

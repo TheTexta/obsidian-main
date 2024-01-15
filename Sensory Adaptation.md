@@ -1,0 +1,1 @@
+Sensory adaptation is where your senses no longer respond to a stimuli. Spice is an example of a stimulus which causes sensory adaptation. 
