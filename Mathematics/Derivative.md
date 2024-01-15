@@ -1,5 +1,21 @@
 A derivative is the equation for the slope of a graph at a given point on the graph. The function for the rate of change of a function at a given time. 
 
+## Derizzatives - That boy look bizzy . . nevermind he gettin rizzy
+
+* $(u^x)' = xu^{x-1}\cdot u'$
+* $sin(u)' = cos(u) \cdot u'$
+* $cos(u)' = -sin(u) \cdot u'$
+* $tan(u)' = \frac{1}{cos^2(u)} \cdot u'$
+* $csc(u)' = -cot(u) \cdot csc(u) \cdot u'$
+* $sec(u)' = tan(u) \cdot sin(u) \cdot u'$
+* $cot(u)'=-\frac{1}{sin^2(u)} \cdot u'$
+* $(e^{u})'=e^{u} \cdot u'$
+* $(log_a(x))' = \frac{1}{xln(a)}$
+* $(a^u)' = a^u \cdot ln(a) \cdot u'$
+* $arcsin(u)' = \frac{1}{\sqrt{1-u^2}}\cdot u'$
+* $arccos(u)' = \frac {-1}{1-u^2} \cdot u'$
+* $arctan(u)' = \frac{1}{1+u^2} \cdot u'$
+
 ## Standard Definition
 A derivative is defined by the following standard formula which is the [[Limits|limit]] of the function as the difference between two points in the function become $\infty$ small:
 $$ \lim_{h\to0}(\frac{f(x+h)-f(x)}{h}) $$
@@ -32,15 +48,4 @@ When a function is divided by another
 $$
 \frac{d}{dx}(\frac{u}{v}) = \frac{u'v - uv'}{v^2}
 $$
-## Derizzatives - That boy look bizzy . . nevermind he gettin rizzy
-
-* $(u^x)' = xu^{x-1}\cdot u'$
-* $(sin(x))' = cos(x)$
-* $(cos(x))' = -sin(x)$
-* $(tan(x))' = \frac{1}{cos^2(x)}$
-* $(cot(x))'=-\frac{1}{sin^2(x)}$
-* $(e^u)'=e^u \cdot u'$
-* $(log_a(x))' = \frac{1}{xln(a)}$
-* $(a^u)' = a^u \cdot ln(a) \cdot u'$
-
 
