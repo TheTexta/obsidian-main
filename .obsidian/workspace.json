@@ -162,6 +162,162 @@
             }
           },
           {
+            "id": "2275c1168ca32b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feature Detectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec3407887bd0f919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b87f855a07095f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blindsight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2d938dbefca8863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "form perception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9c161a7ee3940ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Figure-Ground.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d27bd60741eec26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proximity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22bb4b3da67e42a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Similarity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99191b36ed75837f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Closure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ca13851413edb7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aa14de2af9f9e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perceptual Constancy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c0675cc05931495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colour Constancy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6a7a35181ad0a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conjugate Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de91c01cf1957bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ionisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8153c568dc1cfcf3",
             "type": "leaf",
             "state": {
@@ -198,7 +354,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -273,7 +429,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Derivative.md",
+                "file": "ionisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +446,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Derivative.md",
+                "file": "ionisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +469,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Derivative.md"
+                "file": "ionisation.md"
               }
             }
           },
@@ -344,35 +500,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6cdefe727c6abef9",
+  "active": "de91c01cf1957bcd",
   "lastOpenFiles": [
+    "Conjugate Acids.md",
+    "Conjugate Base.md",
+    "ionisation.md",
+    "Bronsted-Lowry.md",
+    "Chemistry/Acid.md",
+    "Chemistry/Double Displacement Reactions.md",
+    "Chemistry/Precipitation.md",
+    "Chemistry/Proton.md",
+    "Chemistry/reactant product plusminus equilibrium shift.png",
+    "Chemistry/Reactions.md",
+    "Depth Percetion.md",
+    "Colour Constancy.md",
+    "Perceptual Constancy.md",
+    "Continuity.md",
+    "Closure.md",
+    "Similarity.md",
+    "Proximity.md",
+    "Figure-Ground.md",
+    "form perception.md",
+    "Gestalt Principles.md",
+    "Blindsight.md",
+    "Parallel Processing.md",
+    "Feature Detectors.md",
+    "Mathematics/Derivative.md",
     "Electromagnetic Spectrum.md",
     "ESP.md",
     "Context, motivation and emotion.md",
-    "Perceptual Set.md",
-    "Perceptual Schemas.md",
-    "Habituation.md",
-    "Sensory Adaptation.md",
-    "Webers Law.md",
-    "Difference thresholds.md",
-    "Subliminal Sensation.md",
-    "Single Detection Theory.md",
-    "absolute threshold.md",
-    "Sensory Thresholds.md",
-    "Transduction.md",
-    "Psychology/Biological Psychology/Blindsight.md",
-    "Psychology/Biological Psychology/Dual Processing.md",
-    "Sensation and Perception.md",
-    "Bottom-up Processing.md",
-    "Top-down Processing.md",
-    "sensation.md",
-    "Conditional Distribution.md",
     "marginal and conditional distributions.png",
-    "marginal distribution.md",
-    "Psychology/Biological Psychology/Glial Cells.md",
-    "Psychology/Biological Psychology/Re-uptake inhibitor.md",
-    "Psychology/Biological Psychology/peripheral nervous system.md",
-    "Psychology/Biological Psychology/adrenal gland.md",
     "Statistics/unimodal distribution.png",
     "Statistics/symmetrical distribution.png",
     "Statistics/skewed distribution.png",
@@ -382,7 +539,6 @@
     "Statistics/bar chart 2d.png",
     "Statistics/Inter Quartile Range Example.png",
     "Statistics",
-    "Psychology/cerebellum.webp",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology",

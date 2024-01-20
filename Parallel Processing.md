@@ -1,0 +1,1 @@
+Motion, form, depth and colour are all processed separately and simultaneously./

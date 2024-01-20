@@ -1,0 +1,1 @@
+Bases form conjugate acids when they receive a hydrogen ion.

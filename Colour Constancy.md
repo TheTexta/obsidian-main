@@ -1,0 +1,1 @@
+Colours of objects depend of there context. 

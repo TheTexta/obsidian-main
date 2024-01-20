@@ -16,6 +16,13 @@ A derivative is the equation for the slope of a graph at a given point on the gr
 * $arccos(u)' = \frac {-1}{1-u^2} \cdot u'$
 * $arctan(u)' = \frac{1}{1+u^2} \cdot u'$
 
+
+Important things to remember.
+* $\pm$ when using $\sqrt{}$ .
+* plug the derivative solved for zero back into the underived equation to solve for the point of aymptote. e.g. $y^3-3xy=2$, $\frac{dy}{dx} = \frac{y}{y^2-x}$, the asymptote is when $y^2-x = 0$, therefor plug in the solved version of that equation for x/y and you will get the value of x which correlates with the asymptote. 
+* Linear approx. just means find the derivative and plug the values in for the point and create a linear function with the derivative and the x/y coords given/found. 
+* Always remember to derive the inside function of arctans and shit.
+* $f(f^-1(x)) = x$, therefor: $f'(f^{-1}(x))\cdot f'^{-1}(x)=0$. 
 ## Standard Definition
 A derivative is defined by the following standard formula which is the [[Limits|limit]] of the function as the difference between two points in the function become $\infty$ small:
 $$ \lim_{h\to0}(\frac{f(x+h)-f(x)}{h}) $$

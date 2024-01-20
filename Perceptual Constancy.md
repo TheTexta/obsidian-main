@@ -1,0 +1,1 @@
+It is abosllutely necessary that we are able to recognise familiar stimuli under varying conditions. A top down process where objecs are perceived as unchangin regarldess of angle.

@@ -1,0 +1,1 @@
+Blindsight is where a componenet of the [[Parallel Processing]] 4 stages is no longer functioning. 
