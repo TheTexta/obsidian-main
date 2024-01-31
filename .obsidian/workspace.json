@@ -515,7 +515,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "choice blindness.md",
+                "file": "signal detection theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -585,7 +585,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "selective attentino",
+                "query": "psych",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -633,7 +633,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "choice blindness.md",
+                "file": "signal detection theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -650,7 +650,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "choice blindness.md",
+                "file": "signal detection theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -673,7 +673,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "choice blindness.md"
+                "file": "signal detection theory.md"
               }
             }
           },
@@ -706,8 +706,12 @@
   },
   "active": "3bd770cd27f132f3",
   "lastOpenFiles": [
-    "pop-out effect.md",
+    "absolute threshold.md",
+    "signal detection theory.md",
+    "psychophysics.md",
+    "Transduction.md",
     "choice blindness.md",
+    "pop-out effect.md",
     "change deafness.md",
     "change blindness.md",
     "inattentional deafness.md",
@@ -728,10 +732,6 @@
     "Untitled.md",
     "Free Riders.md",
     "Taste.md",
-    "pain.md",
-    "gate-control theory.md",
-    "Influence of cognition on touch.md",
-    "proprioceptors.md",
     "Ear Diagram.png",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "marginal and conditional distributions.png",

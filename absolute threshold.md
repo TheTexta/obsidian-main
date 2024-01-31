@@ -1,5 +1,5 @@
 #sensation/perception-psychology 
-Absolute threshold is the maximum you can perceive of a sense. 
+Absolute threshold::the minimum stimulation necessary to detect a particular stimulus (light, sound, pressure, taste, or odour) **50%** of the time.
 
 Methods:
 1. Limits - You take an increasingly limiting stimulus and measure when you can detect it 50% of the time. 

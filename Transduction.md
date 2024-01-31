@@ -1,2 +1,2 @@
 #sensation/perception-psychology 
-Transduction, 
+Transduction::The conversion of one form of energy to another. In sensation the transduction is the process which sights, smells and sounds are transformed into neural impulses which our brain can interpret. 
