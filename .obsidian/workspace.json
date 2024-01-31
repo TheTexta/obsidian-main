@@ -515,7 +515,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stroop effect.md",
+                "file": "choice blindness.md",
                 "mode": "source",
                 "source": false
               }
@@ -633,7 +633,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stroop effect.md",
+                "file": "choice blindness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -650,7 +650,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stroop effect.md",
+                "file": "choice blindness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -673,7 +673,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stroop effect.md"
+                "file": "choice blindness.md"
               }
             }
           },
@@ -706,8 +706,14 @@
   },
   "active": "3bd770cd27f132f3",
   "lastOpenFiles": [
-    "cocktail party effect.md",
+    "pop-out effect.md",
+    "choice blindness.md",
+    "change deafness.md",
+    "change blindness.md",
+    "inattentional deafness.md",
+    "inattentional blindness.md",
     "Stroop effect.md",
+    "cocktail party effect.md",
     "selective attention.md",
     "Top-down Processing.md",
     "Bottom-up Processing.md",
@@ -726,12 +732,6 @@
     "gate-control theory.md",
     "Influence of cognition on touch.md",
     "proprioceptors.md",
-    "Nociceptors.md",
-    "Skin Receptors.md",
-    "Mechanoreceptors.md",
-    "Thermoreceptors.md",
-    "the other senses.md",
-    "Cochlear Implant.md",
     "Ear Diagram.png",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "marginal and conditional distributions.png",
