@@ -515,7 +515,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal detection theory.md",
+                "file": "microsaccades.md",
                 "mode": "source",
                 "source": false
               }
@@ -633,7 +633,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal detection theory.md",
+                "file": "microsaccades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -650,7 +650,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal detection theory.md",
+                "file": "microsaccades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -673,7 +673,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal detection theory.md"
+                "file": "microsaccades.md"
               }
             }
           },
@@ -706,8 +706,16 @@
   },
   "active": "3bd770cd27f132f3",
   "lastOpenFiles": [
-    "absolute threshold.md",
+    "Sensory Adaptation.md",
+    "microsaccades.md",
+    "dehabituation.md",
+    "Habituation.md",
+    "Webers Law.md",
+    "Difference thresholds.md",
+    "priming.md",
+    "Subliminal Sensation.md",
     "signal detection theory.md",
+    "absolute threshold.md",
     "psychophysics.md",
     "Transduction.md",
     "choice blindness.md",
@@ -724,14 +732,6 @@
     "perception (sensation).md",
     "Psychology/Social Psychology/Perception.md",
     "Sensation and Perception.md",
-    "sensory receptors.md",
-    "Psychology/Biological Psychology/Nervous System.md",
-    "Psychology/Biological Psychology/afferent neurons.md",
-    "sensation.md",
-    "public goods.md",
-    "Untitled.md",
-    "Free Riders.md",
-    "Taste.md",
     "Ear Diagram.png",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "marginal and conditional distributions.png",
