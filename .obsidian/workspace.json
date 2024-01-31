@@ -515,7 +515,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "selective attention.md",
+                "file": "Stroop effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -633,7 +633,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "selective attention.md",
+                "file": "Stroop effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -650,7 +650,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "selective attention.md",
+                "file": "Stroop effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -673,7 +673,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "selective attention.md"
+                "file": "Stroop effect.md"
               }
             }
           },
@@ -706,8 +706,10 @@
   },
   "active": "3bd770cd27f132f3",
   "lastOpenFiles": [
-    "Top-down Processing.md",
+    "cocktail party effect.md",
+    "Stroop effect.md",
     "selective attention.md",
+    "Top-down Processing.md",
     "Bottom-up Processing.md",
     "perception (sensation).md",
     "Psychology/Social Psychology/Perception.md",
@@ -730,8 +732,6 @@
     "Thermoreceptors.md",
     "the other senses.md",
     "Cochlear Implant.md",
-    "sensorineural hearing loss.md",
-    "Conduction hearing loss.md",
     "Ear Diagram.png",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "marginal and conditional distributions.png",
