@@ -1,4 +1,4 @@
-Probability of blackjack from first 2 cards through using a hypogeometric distribution. 
+Probability of blackjack from first 2 cards through using a hypergeometric distribution. 
 
 ### Formula
 

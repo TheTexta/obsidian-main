@@ -1,0 +1,1 @@
+Motion parallax is a monocular depth cue arising from the relative velocities of objects moving across the retinae a moving person. 
