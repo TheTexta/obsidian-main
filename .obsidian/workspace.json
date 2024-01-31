@@ -503,7 +503,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sensation.md",
+                "file": "Psychology/Social Psychology/Perception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bd770cd27f132f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "perception (sensation).md",
                 "mode": "source",
                 "source": false
               }
@@ -546,7 +558,7 @@
             }
           }
         ],
-        "currentTab": 41
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -573,7 +585,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sensory receptors",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -601,7 +613,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -621,7 +633,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sensation.md",
+                "file": "perception (sensation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -638,7 +650,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sensation.md",
+                "file": "perception (sensation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -661,7 +673,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sensation.md"
+                "file": "perception (sensation).md"
               }
             }
           },
@@ -692,8 +704,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d55279635f6d1b04",
+  "active": "3bd770cd27f132f3",
   "lastOpenFiles": [
+    "Psychology/Social Psychology/Perception.md",
+    "perception (sensation).md",
+    "Sensation and Perception.md",
+    "sensory receptors.md",
+    "Psychology/Biological Psychology/Nervous System.md",
+    "Psychology/Biological Psychology/afferent neurons.md",
+    "sensation.md",
     "public goods.md",
     "Untitled.md",
     "Free Riders.md",
@@ -712,15 +731,8 @@
     "Conduction hearing loss.md",
     "Hearing Loss.md",
     "Stereophonic Hearing.md",
-    "Psychology/Social Psychology/Perception.md",
     "Negative Externalities.md",
-    "Ear.md",
     "Ear Diagram.png",
-    "Sound Energy.md",
-    "Motional Parallax.md",
-    "Monocular Cues.md",
-    "Temp working for data assignment.md",
-    "Mathematics/Hypergeometric Distribution.md",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "marginal and conditional distributions.png",
     "Statistics/unimodal distribution.png",

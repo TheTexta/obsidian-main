@@ -1,2 +1,2 @@
 #sensation/perception-psychology 
-[[sensation]] is what you feel, [[perception]] is how you interpret it.
+[[sensation]] is what you feel, [[Psychology/Social Psychology/Perception]] is how you interpret it.
