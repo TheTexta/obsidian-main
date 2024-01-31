@@ -515,7 +515,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perception (sensation).md",
+                "file": "selective attention.md",
                 "mode": "source",
                 "source": false
               }
@@ -585,7 +585,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sensory receptors",
+                "query": "selective attentino",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -633,7 +633,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "perception (sensation).md",
+                "file": "selective attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -650,7 +650,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "perception (sensation).md",
+                "file": "selective attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -673,7 +673,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "perception (sensation).md"
+                "file": "selective attention.md"
               }
             }
           },
@@ -706,8 +706,11 @@
   },
   "active": "3bd770cd27f132f3",
   "lastOpenFiles": [
-    "Psychology/Social Psychology/Perception.md",
+    "Top-down Processing.md",
+    "selective attention.md",
+    "Bottom-up Processing.md",
     "perception (sensation).md",
+    "Psychology/Social Psychology/Perception.md",
     "Sensation and Perception.md",
     "sensory receptors.md",
     "Psychology/Biological Psychology/Nervous System.md",
@@ -729,9 +732,6 @@
     "Cochlear Implant.md",
     "sensorineural hearing loss.md",
     "Conduction hearing loss.md",
-    "Hearing Loss.md",
-    "Stereophonic Hearing.md",
-    "Negative Externalities.md",
     "Ear Diagram.png",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "marginal and conditional distributions.png",
