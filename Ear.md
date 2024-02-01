@@ -1,4 +1,4 @@
-#sensation/perception-psychology 
+#perception-psychology 
 ![[Ear Diagram.png]]
 
 The outer ear collectss and directs sound waves through the ear. 

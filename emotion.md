@@ -1,2 +1,2 @@
-#sensation/perception-psychology 
+#perception-psychology 
 Emotion::emotions are psychological states brought on by neurophysical changes, variously associated with thoughts, feelings, behavioural responses and a degree of pleasure or displeasure. 

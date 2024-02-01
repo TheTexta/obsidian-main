@@ -1,4 +1,4 @@
-#sensation/perception-psychology 
+#perception-psychology 
 Sensory adaptation::A process by which constant unchanging information from the sensory receptors is effectively ignored because the receptor cells themselves become less responsive to an unchanging stimulus and no longer send signals to the brain.
 
 

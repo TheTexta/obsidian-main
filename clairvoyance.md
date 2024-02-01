@@ -1,2 +1,2 @@
-#sensation/perception-psychology 
+#perception-psychology 
 Clairvoyance::perceiving remote events, house burning

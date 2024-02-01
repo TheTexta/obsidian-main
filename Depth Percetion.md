@@ -1,4 +1,4 @@
-#sensation/perception-psychology 
+#perception-psychology 
 Depth is processed by taking the difference
 
 Monocular Cues:

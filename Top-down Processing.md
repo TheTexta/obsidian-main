@@ -1,2 +1,2 @@
-#sensation/perception-psychology 
+#perception-psychology 
 Top down Processing::The process that constructs perceptions based on sensory experience and expectations. occurs by drawing upon prior knowledge / context of the input. 

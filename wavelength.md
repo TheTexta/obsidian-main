@@ -1,2 +1,2 @@
-#sensation/perception-psychology #physics
+#perception-psychology #physics
 Wavelength::the distance between successive peaks in a wave.

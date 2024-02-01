@@ -1,4 +1,4 @@
-#sensation/perception-psychology 
+#perception-psychology 
 
 procreoption
 Tunisia

@@ -1,4 +1,4 @@
-#sensation/perception-psychology 
+#perception-psychology 
 Absolute threshold::the minimum stimulation necessary to detect a particular stimulus (light, sound, pressure, taste, or odour) **50%** of the time.
 
 Methods:

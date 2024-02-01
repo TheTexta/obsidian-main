@@ -1,4 +1,4 @@
-#sensation/perception-psychology 
+#perception-psychology 
 Difference Thresholds::The minimum difference between two stimuli required for detection 50% of the time. We experience the difference threshold as a just noticeable difference (***JND***). The detectable difference increases with the size of the stimulus. 
 
 

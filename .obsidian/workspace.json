@@ -539,7 +539,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myopia.md",
+                "file": "bipolar cells.md",
                 "mode": "source",
                 "source": false
               }
@@ -637,7 +637,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -657,7 +657,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myopia.md",
+                "file": "bipolar cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -674,7 +674,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myopia.md",
+                "file": "bipolar cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -697,7 +697,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myopia.md"
+                "file": "bipolar cells.md"
               }
             }
           },
@@ -710,7 +710,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -730,8 +730,11 @@
   },
   "active": "b14104fd80af979e",
   "lastOpenFiles": [
-    "accommodation.md",
+    "receptor cones.md",
+    "bipolar cells.md",
+    "receptor rods.md",
     "myopia.md",
+    "accommodation.md",
     "blind spot.md",
     "optic nerve.md",
     "fovea centralis.md",
@@ -755,9 +758,6 @@
     "telepathy.md",
     "extrasensory perception.md",
     "emotion.md",
-    "motivation.md",
-    "Unit 4 Review.md",
-    "context effect.md",
     "Ear Diagram.png",
     "Chemistry/reactant product plusminus equilibrium shift.png",
     "marginal and conditional distributions.png",

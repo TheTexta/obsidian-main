@@ -1,4 +1,4 @@
-#sensation/perception-psychology 
+#perception-psychology 
 Pain experiences are both bottom-up and top-down cognitions. pain is a biopsychosocial event. 
 
 Bottom up pain: new sensation

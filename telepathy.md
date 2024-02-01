@@ -1,2 +1,2 @@
-#sensation/perception-psychology 
+#perception-psychology 
 Telepathy::Mind to mind communication
