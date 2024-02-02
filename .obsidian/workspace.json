@@ -539,7 +539,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synesthesia.md",
+                "file": "Unit 3 Review Psych.md",
                 "mode": "source",
                 "source": false
               }
@@ -609,7 +609,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psych",
+                "query": "Saccule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -637,7 +637,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -657,7 +657,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "synesthesia.md",
+                "file": "Unit 3 Review Psych.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -674,7 +674,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "synesthesia.md",
+                "file": "Unit 3 Review Psych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -697,7 +697,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "synesthesia.md"
+                "file": "Unit 3 Review Psych.md"
               }
             }
           },
@@ -730,11 +730,14 @@
   },
   "active": "b14104fd80af979e",
   "lastOpenFiles": [
-    "embedded cognition.md",
+    "Nociceptor.md",
+    "Unit 3 Review Psych.md",
+    "otolith organs.md",
+    "Economics/Unit Elasticity Curved.webp",
     "synesthesia.md",
+    "embedded cognition.md",
     "mcgurk effect.md",
     "sensory interaction.md",
-    "otolith organs.md",
     "semicircular canal.md",
     "vestibular sense.md",
     "proprioceptors.md",
@@ -750,14 +753,11 @@
     "papillae.md",
     "olfaction.md",
     "gustation.md",
-    "Nociceptor.md",
     "Five sensations of taste.md",
     "sensorineural hearing loss.md",
     "Conduction hearing loss.md",
     "Stereophonic Hearing.md",
     "frequency theory.md",
-    "place theory.md",
-    "auditory hair cells.md",
     "Screenshot 2024-02-01 at 8.01.46 PM.png",
     "Screenshot 2024-02-01 at 8.00.08 PM.png",
     "Screenshot 2024-02-01 at 7.56.13 PM.png",
@@ -765,7 +765,6 @@
     "Pasted image 20240201193813.png",
     "Pasted image 20240201193736.png",
     "Pasted image 20240201193633.png",
-    "figure ground relationship.png",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Stages in a typical night's sleep.pdf",
