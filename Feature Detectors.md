@@ -1,1 +1,0 @@
-Like in a neural network, the feature detectors break down shapes into there most basic components and stitch them together to find the whole symbol.

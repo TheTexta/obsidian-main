@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Detectors.md",
+                "file": "Feature Detector Cells.md",
                 "mode": "source",
                 "source": false
               }
@@ -359,7 +359,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motional Parallax.md",
+                "file": "Motion Parallax.md",
                 "mode": "source",
                 "source": false
               }
@@ -539,7 +539,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bipolar cells.md",
+                "file": "Cochlear Implant.md",
                 "mode": "source",
                 "source": false
               }
@@ -657,7 +657,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bipolar cells.md",
+                "file": "Cochlear Implant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -674,7 +674,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bipolar cells.md",
+                "file": "Cochlear Implant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -697,7 +697,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bipolar cells.md"
+                "file": "Cochlear Implant.md"
               }
             }
           },
@@ -730,42 +730,42 @@
   },
   "active": "b14104fd80af979e",
   "lastOpenFiles": [
-    "receptor cones.md",
-    "bipolar cells.md",
-    "receptor rods.md",
-    "myopia.md",
-    "accommodation.md",
-    "blind spot.md",
-    "optic nerve.md",
-    "fovea centralis.md",
-    "retina.md",
-    "lens.md",
-    "iris.md",
-    "pupil.md",
-    "cornea.md",
+    "sensorineural hearing loss.md",
+    "Conduction hearing loss.md",
+    "Stereophonic Hearing.md",
+    "frequency theory.md",
+    "place theory.md",
+    "auditory hair cells.md",
+    "organ of Corti.md",
+    "basilar membrane.md",
+    "oval window.md",
+    "cochlea.md",
+    "bones of the middle ear.md",
+    "eardrum.md",
+    "inner ear.md",
+    "middle ear.md",
+    "pinna.md",
+    "outer ear.md",
+    "Psychology/Biological Psychology/Brain-Computer Research.md",
     "intensity.md",
-    "hue.md",
-    "amplitude.md",
-    "frequency.md",
-    "wavelength.md",
-    "Unit 3 Review Psych.md",
+    "pitch.md",
+    "Psychology/Psych 101/Positive Psychology.md",
+    "audio spectrum.md",
+    "perceptual adaptation.md",
+    "Motion Parallax.md",
+    "Psychology/Psych 101/phi phenomenom.md",
+    "stroboscopic movement.md",
+    "retinal disparity.md",
+    "Screenshot 2024-02-01 at 8.01.46 PM.png",
+    "Screenshot 2024-02-01 at 8.00.08 PM.png",
+    "Screenshot 2024-02-01 at 7.56.13 PM.png",
+    "Screenshot 2024-02-01 at 7.54.52 PM.png",
+    "Pasted image 20240201193813.png",
+    "Pasted image 20240201193736.png",
+    "Pasted image 20240201193633.png",
+    "figure ground relationship.png",
     "Pasted image 20240201182901.png",
     "Pasted image 20240201182835.png",
-    "parapsychology.md",
-    "psychokinesis.md",
-    "precognition.md",
-    "clairvoyance.md",
-    "telepathy.md",
-    "extrasensory perception.md",
-    "emotion.md",
-    "Ear Diagram.png",
-    "Chemistry/reactant product plusminus equilibrium shift.png",
-    "marginal and conditional distributions.png",
-    "Statistics/unimodal distribution.png",
-    "Statistics/symmetrical distribution.png",
-    "Statistics/skewed distribution.png",
-    "Statistics/relative frequency table example.png",
-    "Statistics/bimodal.png",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Stages in a typical night's sleep.pdf",
