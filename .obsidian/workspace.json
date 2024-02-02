@@ -4,203 +4,585 @@
     "type": "split",
     "children": [
       {
-        "id": "823c6ccb32bb3105",
+        "id": "cf22acc582d70c30",
         "type": "tabs",
         "children": [
           {
-            "id": "1cfd30328380de0c",
+            "id": "f22cb6184adc57de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/VAT.md",
+                "file": "Psychology/Biological Psychology/Blindsight.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7820c685559fac9c",
+            "id": "1aa87977515f60a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/relative frequency tables.md",
+                "file": "Transduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9f468ff6ca0b632",
+            "id": "6aef0fd0b138734f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Categorical Variables.md",
+                "file": "absolute threshold.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea98a23b0a5cf7c6",
+            "id": "00603d0b5f556d46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Quantitative Variables.md",
+                "file": "Single Detection Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e58d241d9f11ea99",
+            "id": "2555d009f74a7eda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Categorical Data.md",
+                "file": "Subliminal Sensation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "63bde8d06de4f51c",
+            "id": "673d74133a318b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Bar Chart.md",
+                "file": "Difference thresholds.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f86283fd278c51c2",
+            "id": "ea9c75cb17795430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Discrete Variables.md",
+                "file": "Webers Law.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "759e41ab0a2f5a55",
+            "id": "86f5aaa1ebbdbe00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Describing Distribution of Quantitative Data.md",
+                "file": "Habituation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6237e3694ff461ed",
+            "id": "eeca69514d6cdd85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Mosaic Plots.md",
+                "file": "Sensory Adaptation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d7a5b5709dcafd0f",
+            "id": "ca999ec9c7b18b54",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "b32602cacb7cc8b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Describing Distribution of Quantitative Data.md",
+                "file": "Context, motivation and emotion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "560521103bcdb0b3",
+            "id": "58ea20c25c3d3050",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Quantitative Data.md",
+                "file": "ESP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "89b1773e05644e47",
+            "id": "6cdefe727c6abef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Discrete Data.md",
+                "file": "Mathematics/Derivative.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "077d2ab5c10cafce",
+            "id": "2275c1168ca32b96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Quantitative Data.md",
+                "file": "Feature Detector Cells.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a36ef3bffce514f3",
+            "id": "ec3407887bd0f919",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Odorant molecules.md",
+                "file": "Parallel Processing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80e20a6f23fc318a",
+            "id": "b87f855a07095f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/frequency tables.md",
+                "file": "Blindsight.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ae37b3c966acddf",
+            "id": "c2d938dbefca8863",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Problem Set Working.md",
+                "file": "form perception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9c161a7ee3940ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Figure-Ground.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d27bd60741eec26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proximity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22bb4b3da67e42a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Similarity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99191b36ed75837f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Closure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ca13851413edb7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aa14de2af9f9e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perceptual Constancy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c0675cc05931495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colour Constancy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6a7a35181ad0a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conjugate Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de91c01cf1957bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8f53b414ca1f547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conjugate Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5a9fc554a5300cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp working for data assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "911f5baa4d50d360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monocular Cues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "098f459fc7c9e0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motion Parallax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23847d1edd39eeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sound Energy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ff783b7845f4ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb09830da11072e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Negative Externalities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00b123c1fe8866eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hearing Loss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4df42c51bd7149d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sensorineural hearing loss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57b92206a9d9927f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the other senses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bdebc16d56f05c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proprioceptors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d949e0881fc7c935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a63a903c954c5f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d9344ccfbc19a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taste.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3321b3535e424c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Free Riders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d55279635f6d1b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/Perception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bd770cd27f132f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "motivation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ff6bea5281e308c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parapsychology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b14104fd80af979e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "synesthesia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8153c568dc1cfcf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perceptual Schemas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cda8a815a8de3e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bottom-up Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "293fbdef2a9a67d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Top-down Processing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 44
       }
     ],
     "direction": "vertical"
@@ -227,7 +609,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noci",
+                "query": "psych",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,7 +637,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -275,7 +657,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odorant molecules.md",
+                "file": "synesthesia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +674,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odorant molecules.md",
+                "file": "synesthesia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +697,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Odorant molecules.md"
+                "file": "synesthesia.md"
               }
             }
           },
@@ -328,7 +710,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -346,46 +728,47 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a36ef3bffce514f3",
+  "active": "b14104fd80af979e",
   "lastOpenFiles": [
-    "olfaction.md",
+    "embedded cognition.md",
+    "synesthesia.md",
+    "mcgurk effect.md",
+    "sensory interaction.md",
+    "otolith organs.md",
+    "semicircular canal.md",
+    "vestibular sense.md",
+    "proprioceptors.md",
+    "kinesthesia.md",
+    "proprioception.md",
+    "olfactory bulbs.md",
     "Odorant molecules.md",
-    "papillae.md",
-    "Five sensations of taste.md",
-    "gustation.md",
-    "Psychology/Psych 101/Naturalistic Observation.md",
-    "phantom limb sensations.md",
-    "gate-control theory.md",
-    "Nociceptor.md",
-    "Skin Receptors.md",
-    "skin sensors.md",
-    "noci.md",
-    "Unit 3 Review Psych.md",
-    "taste buds.png",
+    "Cochlear Implant.md",
     "vestibular system.png",
-    "absolute threshold.md",
-    "Psychology/Psych 101/Standard Deviation.md",
-    "wavelength.md",
-    "visual acuity.md",
-    "thomas young.md",
-    "the other senses.md",
-    "texture gradient.md",
-    "telepathy.md",
-    "stroboscopic movement.md",
-    "size constancy.md",
-    "signal detection theory.md",
-    "sensory receptors.md",
+    "taste buds.png",
+    "skin sensors.md",
+    "phantom limb sensations.md",
+    "papillae.md",
+    "olfaction.md",
+    "gustation.md",
+    "Nociceptor.md",
+    "Five sensations of taste.md",
     "sensorineural hearing loss.md",
-    "figure ground relationship.png",
+    "Conduction hearing loss.md",
+    "Stereophonic Hearing.md",
+    "frequency theory.md",
+    "place theory.md",
+    "auditory hair cells.md",
     "Screenshot 2024-02-01 at 8.01.46 PM.png",
     "Screenshot 2024-02-01 at 8.00.08 PM.png",
     "Screenshot 2024-02-01 at 7.56.13 PM.png",
     "Screenshot 2024-02-01 at 7.54.52 PM.png",
-    "Ear Diagram.png",
-    "marginal and conditional distributions.png",
-    "Statistics/bimodal.png",
+    "Pasted image 20240201193813.png",
+    "Pasted image 20240201193736.png",
+    "Pasted image 20240201193633.png",
+    "figure ground relationship.png",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
+    "Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",
