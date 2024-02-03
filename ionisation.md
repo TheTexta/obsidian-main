@@ -1,5 +1,2 @@
-When acids disolve they donate hydrogen ions and bases dissolve to accept hydroxide. 
+when a molecules [[covalent bonds]] are broken and the compound splits apart forming charged ions. 
 
-Strong acids completely ionise in water, weak do not.
-
-Strong bases almost completely ionise in water, weak bases do not.

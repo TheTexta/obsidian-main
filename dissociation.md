@@ -1,0 +1,1 @@
+ when a compounds [[ionic bonds]] are broken and it splits apart into the ions it already consists of. 
