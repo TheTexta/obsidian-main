@@ -13,4 +13,7 @@ When acids dissolve they donate hydrogen ions and bases dissolve to accept hydro
 ##### Concentration
 Measured in mol/L it is the ratio of [[solute]] to [[solvent]] in a solution. Its important to note that [[pH]] is related to concentration not strength. 
 #### Strength
-Strength is the extent to which [[ionisation]] and [[dissociation]] occur in [[acid]] / [[base]] solutions. It can be measured using the [[K value]]. [[Percent ionisation]] is used to measure strength as well.
+Strength is the extent to which [[ionisation]] and [[dissociation]] occur in [[acid]] / [[base]] solutions. It can be measured using the [[K value]]. [[Percent ionisation]] is used to measure strength as well. *Why acids are strong or weak is beyond the scope of the course.*
+
+## In Equilibrium or Complete?
+Some [[reactions]] are one way and complete others fall into [[equilibrium]]. *[[Strong acids]]/[[Strong bases|bases]]* always fully ionise and are one way $\ce{->}$ while [[weak acids]]/[[weak bases|bases]] are two way $\ce{<=>}$. 
