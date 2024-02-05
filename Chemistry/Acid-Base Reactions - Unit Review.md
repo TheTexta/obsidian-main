@@ -1,3 +1,4 @@
+# Concepts
 An [[Acid-Base Reactions - Unit Review|acid-base reaction]] occurs when an [[acid]] [[compound]] reacts with a [[base|basic]] compound. The resulting chemical is a [[salt]] + [[water]] product. Acid base reactions can be used in [[titration]] to determine the concentration of an unknown product (the [[titrate]]) through the addition of a known product (the [[titrant]]). 
 
 The [[Bronsted-Lowry]] theory states that [[acid|acids]] are hydrogen donors and [[base|bases]] are hydrogen ion acceptors.
@@ -33,16 +34,23 @@ For weak base ionisation reactions:
 $p = \frac{[OH^-]_{eq}}{[B]_{initial}}\cdot 100\%$
 #### Percent Ionisation and Concentration
 $K_a$ provide a better way of comparing the strengths of weak acids. percent ionisation can also be used in this way but only if solutions of equal initial concentration are compared. As the graph below shows, as concentration *increases*, the [[equilibrium]] will shift so [[percent ionisation]] *increases*. $K_a$ on the other hand is constant which is why its preferred by chemists. When water is added to the system it acts as a stress and [[Equilibrium Shifts|shifts equilibrium]] rightward, increasing ionisation. **Dilution decreases pH of acids and decreases pOH of bases**
+![[percent ionisation and concentration.png]]
 
 ## Buffers
 Titration curves for weak acid strong base titrations have a flattened region due to buffering
 ![[Buffer Region weak acid strong base.png]]
-A buffer solution resists changes in pH upon the additon of an acid or base. It is an equillibrium mixture of equal concentrations of a weak acid and its perfect conjugate base. Buffers respond to changes in pH (via [[equilibrium shifts]]) by shifting their equilibrium left / right in response to the pH stress. 
+A buffer solution resists changes in [[pH]] upon the addition of an acid or base. It is an equilibrium mixture of equal concentrations of a weak acid and its perfect conjugate base. Buffers respond to changes in [[pH]] (via [[equilibrium shifts]]) by shifting their equilibrium left / right in response to the pH stress. 
 #### Acid Buffer:
 $\ce{\text{Weak Acid} <=> \text{conjugate base of the WA} + H^+}$
 
 #### Specific to weak acid strong base reactions
 Since a weak acid  has a low concentration of free $H^+$ during a titration, when the base is added it will consume these $H^+$ quickly. But the removal of these free $H^+$ ions by the addition of a base interrupts the acid eq as a stress and shifts eq right causing further ionisation of the weak acid. Because the pH changes very little we call this ***buffering***.
+
+## Amphiprotic
+A substance can only be classified as B-L acid or base for a specific reaction. Water is [[amphiprotic]], meaning it can act as both a [[proton]] donor and acceptor. All amphiprotic substances are negatively charged.
+
+## [[Autoionization]]
+The [[autoionization]] of water into its constituent ions has a very low K value, denoted as $K_W$. $K_W = 1 \cdot 10^{-14}$
 # Solving Acid-Base Reactions
 
 ## Strong bases and Acids needed to know
@@ -55,7 +63,7 @@ $H_2SO_4, HCI, HBr, HNO_3, HI, HClO_4$
 Due to the small [[magnitude]] of $K_a$ and $K_b$ approximations are used to simplify problem solving. *If $K_a$ < $10^{-3}$ assume x=0*, but only if you don't know any equilibrium concentration ($[H^+]$ or [[pH]])
 
 ## Certainty of pH
-The [[Significant Figures]] on the concentration of [[hydroxide|H+]] is equal to the number of decimal places required in the [[pH]]. 
+The [[Significant Figures]] on the *concentration* of [[hydroxide|H+]] is equal to the number of *decimal places* required in the [[pH]]. 
 
 ## Using % Ionisation and pH to find $K_a$ and $K_b$.
 Use rice tables
@@ -135,4 +143,15 @@ From here its just plug and play with all the variables.
 In a SA + SB reaction, the two react completely to form a neutral salt and water. We know the salt is neutral because SA and SB both fully dissociate and do not react with H2O. The pH will always be neutral.
 e.g. $\ce{HCl + NaCL -> Na^+ Cl^- + H_2O}$
 
-A $SB + WA$ reaction will always produce an anion which reacts with water to produce $OH^-$ because the $A^-$ is a stronger conjugate base than $H_2O$. 
+A $SB + WA$ reaction will always produce an anion which reacts with water to produce $OH^-$ because the $A^-$ is a stronger conjugate base than $H_2O$. The pH in this case is always basic.
+e.g. $\ce{KOH + HF ->K^+ + F^- + H_2O}$
+
+**Just remember this rule: Ions from SA + SB are always neutral and ions from WA + WB are always basic / acidic**
+
+## Define equivalence point
+The equivalence point is when the mols of the titrant have fully reacted with the moles of the titrate.
+
+## Explain shifts in the acid base equilibria
+The weak acid is responding to further stress by righting in rightward eq so H^+ is absorbed at about equal rate of consumption.
+
+## The stronger the acid the weaker its conjugate base???
