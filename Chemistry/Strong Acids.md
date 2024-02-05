@@ -1,7 +1,7 @@
 There are six strong [[Acid|acids]], So I Brought No Clean Clothes is the associated mnemonic. These [[Acid|acids]] completely [[ionise]] in [[aqueous]] solutions.
 
 $$
-HSO_4
+H_2SO_4
 $$
 $$
 HCI
@@ -13,7 +13,7 @@ $$
 HNO_3
 $$
 $$
-HCl
+HI
 $$
 $$
 HClO_4

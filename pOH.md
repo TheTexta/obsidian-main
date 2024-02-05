@@ -1,0 +1,1 @@
+potential of [[hydroxide]], measure of the concentration of [[hydroxide]] in a solution.
