@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "843fa6fadab90cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Quantitative Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acid",
+                "query": "qualitative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +146,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market Failures- Unit Review.md",
+                "file": "Statistics/Quantitative Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market Failures- Unit Review.md",
+                "file": "Statistics/Quantitative Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market Failures- Unit Review.md"
+                "file": "Statistics/Quantitative Variables.md"
               }
             }
           },
@@ -226,8 +237,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "403b91367139ecf4",
+  "active": "843fa6fadab90cca",
   "lastOpenFiles": [
+    "Statistics/Continuous variables.md",
+    "Statistics/Quantitative Variables.md",
+    "Statistics/Discrete Variables.md",
+    "Statistics/Categorical Variables.md",
+    "Qualitative Variables.md",
+    "Ordinal.md",
+    "Nominal.md",
+    "Statistics/Quantitative Data.md",
+    "Market Failures- Unit Review.md",
     "Atkinson Shiffrin Model.md",
     "Models of Memory.md",
     "Storage and Retrieval.md",
@@ -237,7 +257,6 @@
     "Screenshot 2024-02-06 at 12.34.29 PM.png",
     "Measuring Memory.md",
     "Memory.md",
-    "Market Failures- Unit Review.md",
     "Marginal Social Benefit.md",
     "Marginal Benefit.md",
     "Chemistry/Acid-Base Reactions - Unit Review.md",
@@ -249,14 +268,6 @@
     "Buffer Region weak acid strong base.png",
     "water.md",
     "pOH.md",
-    "hydroxide.md",
-    "Chemistry/Reactions.md",
-    "Conjugate Base.md",
-    "Conjugate Acids.md",
-    "Sensory Adaptation.md",
-    "Habituation.md",
-    "Webers Law.md",
-    "Difference thresholds.md",
     "Economics/Unit Elasticity Curved.webp",
     "vestibular system.png",
     "taste buds.png",
