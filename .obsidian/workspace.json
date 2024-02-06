@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Ceteris Paribus.md",
+                "file": "Negative Production Externalities.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Ceteris Paribus.md",
+                "file": "Negative Production Externalities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Ceteris Paribus.md",
+                "file": "Negative Production Externalities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Ceteris Paribus.md"
+                "file": "Negative Production Externalities.md"
               }
             }
           },
@@ -235,11 +236,14 @@
   },
   "active": "403b91367139ecf4",
   "lastOpenFiles": [
+    "market price.md",
+    "Negative Production Externalities.md",
+    "Market Failures.md",
+    "Negative Consumption Externalities.md",
+    "Positive Consumption Externalities.md",
+    "Economics/Ceteris Paribus.md",
     "Economics/Demand.md",
     "private benefits.md",
-    "Negative Consumption Externalities.md",
-    "Market Failures.md",
-    "Positive Consumption Externalities.md",
     "Positive Production Externalities.md",
     "social costs.md",
     "social benefits.md",
@@ -249,7 +253,6 @@
     "Psychology/Biological Psychology/good.md",
     "market quantity.md",
     "Negative Externalities.md",
-    "market price.md",
     "Economics/Equilibrium.md",
     "Information Failure.md",
     "Chemistry/Acid-Base Reactions.md",
@@ -259,8 +262,6 @@
     "Income Inequality.md",
     "Statistics/Quantitative Variables.md",
     "Statistics/Continuous variables.md",
-    "Statistics/Discrete Variables.md",
-    "Statistics/Categorical Variables.md",
     "Screenshot 2024-02-06 at 12.34.29 PM.png",
     "percent ionisation and concentration.png",
     "Buffer Region weak acid strong base.png",

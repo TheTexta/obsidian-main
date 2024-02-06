@@ -1,0 +1,2 @@
+#microeconomics 
+Negative Production Externalities::When the [[social costs]] are greater then the [[private costs]]. The [[market price]] is lower then what it should be resulting in over-production of the [[Goods|good]] / [[Services|service]]
