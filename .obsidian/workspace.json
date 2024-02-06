@@ -4,167 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "823c6ccb32bb3105",
+        "id": "87babfd0e12ebb59",
         "type": "tabs",
         "children": [
           {
-            "id": "1cfd30328380de0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/VAT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7820c685559fac9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/relative frequency tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9f468ff6ca0b632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Categorical Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea98a23b0a5cf7c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Quantitative Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e58d241d9f11ea99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Categorical Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63bde8d06de4f51c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Bar Chart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f86283fd278c51c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Discrete Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "759e41ab0a2f5a55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Describing Distribution of Quantitative Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6237e3694ff461ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Mosaic Plots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7a5b5709dcafd0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Describing Distribution of Quantitative Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "560521103bcdb0b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Quantitative Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89b1773e05644e47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Discrete Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "077d2ab5c10cafce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Quantitative Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a36ef3bffce514f3",
+            "id": "ec94140e4107f9a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,31 +20,75 @@
             }
           },
           {
-            "id": "80e20a6f23fc318a",
+            "id": "403b91367139ecf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/frequency tables.md",
+                "file": "Market Failures- Unit Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ae37b3c966acddf",
+            "id": "ae18eeac96288fe2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef2b6488a712a011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Problem Set Working.md",
+                "file": "Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70c5038760122df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Measuring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee41d799c194a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hermann Ebbinghaus Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e963679e134c6c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atkinson Shiffrin Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,20 +102,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e0d0a2055900e4e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "bc26f921e137dcc5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "noci",
+                "query": "acid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,11 +135,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 200
   },
   "right": {
     "id": "d8940c650c9a5d51",
@@ -275,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions - Unit Review.md",
+                "file": "Market Failures- Unit Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions - Unit Review.md",
+                "file": "Market Failures- Unit Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions - Unit Review.md"
+                "file": "Market Failures- Unit Review.md"
               }
             }
           },
@@ -328,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -346,46 +226,47 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a36ef3bffce514f3",
+  "active": "403b91367139ecf4",
   "lastOpenFiles": [
+    "Atkinson Shiffrin Model.md",
+    "Models of Memory.md",
+    "Storage and Retrieval.md",
+    "Encoding.md",
+    "Measuring.md",
+    "Hermann Ebbinghaus Research.md",
+    "Screenshot 2024-02-06 at 12.34.29 PM.png",
+    "Measuring Memory.md",
+    "Memory.md",
+    "Market Failures- Unit Review.md",
+    "Marginal Social Benefit.md",
+    "Marginal Benefit.md",
+    "Chemistry/Acid-Base Reactions - Unit Review.md",
     "percent ionisation and concentration.png",
     "autoionization.md",
-    "Chemistry/Acid-Base Reactions - Unit Review.md",
-    "Amphiprotic.md",
-    "Odorant molecules.md",
-    "otolith organs.md",
-    "olfactory bulbs.md",
-    "mcgurk effect.md",
-    "magnitude.md",
-    "kinesthesia.md",
-    "hydroxide.md",
-    "embedded cognition.md",
-    "dissociation.md",
-    "difference threshold.md",
-    "base.md",
+    "Chemistry/Strong Acids.md",
     "Strong Bases.md",
-    "K value.md",
+    "magnitude.md",
     "Buffer Region weak acid strong base.png",
-    "olfaction.md",
-    "papillae.md",
-    "Five sensations of taste.md",
-    "gustation.md",
-    "Psychology/Psych 101/Naturalistic Observation.md",
-    "phantom limb sensations.md",
-    "gate-control theory.md",
-    "Nociceptor.md",
-    "Skin Receptors.md",
-    "taste buds.png",
+    "water.md",
+    "pOH.md",
+    "hydroxide.md",
+    "Chemistry/Reactions.md",
+    "Conjugate Base.md",
+    "Conjugate Acids.md",
+    "Sensory Adaptation.md",
+    "Habituation.md",
+    "Webers Law.md",
+    "Difference thresholds.md",
+    "Economics/Unit Elasticity Curved.webp",
     "vestibular system.png",
-    "figure ground relationship.png",
+    "taste buds.png",
     "Screenshot 2024-02-01 at 8.01.46 PM.png",
     "Screenshot 2024-02-01 at 8.00.08 PM.png",
     "Screenshot 2024-02-01 at 7.56.13 PM.png",
     "Screenshot 2024-02-01 at 7.54.52 PM.png",
-    "Ear Diagram.png",
-    "marginal and conditional distributions.png",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
+    "Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
     "Physics",
