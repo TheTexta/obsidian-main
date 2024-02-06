@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Market Failures.md",
+                "file": "Economics/Ceteris Paribus.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market Failures.md",
+                "file": "Economics/Ceteris Paribus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market Failures.md",
+                "file": "Economics/Ceteris Paribus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market Failures.md"
+                "file": "Economics/Ceteris Paribus.md"
               }
             }
           },
@@ -235,9 +235,13 @@
   },
   "active": "403b91367139ecf4",
   "lastOpenFiles": [
-    "social costs.md",
+    "Economics/Demand.md",
+    "private benefits.md",
+    "Negative Consumption Externalities.md",
     "Market Failures.md",
     "Positive Consumption Externalities.md",
+    "Positive Production Externalities.md",
+    "social costs.md",
     "social benefits.md",
     "Positive Externalities.md",
     "Economics/Goods.md",
@@ -257,10 +261,6 @@
     "Statistics/Continuous variables.md",
     "Statistics/Discrete Variables.md",
     "Statistics/Categorical Variables.md",
-    "Qualitative Variables.md",
-    "Ordinal.md",
-    "Nominal.md",
-    "Statistics/Quantitative Data.md",
     "Screenshot 2024-02-06 at 12.34.29 PM.png",
     "percent ionisation and concentration.png",
     "Buffer Region weak acid strong base.png",
