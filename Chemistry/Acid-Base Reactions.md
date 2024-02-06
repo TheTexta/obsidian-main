@@ -1,5 +1,6 @@
+#review 
 # Concepts
-An [[Acid-Base Reactions - Unit Review|acid-base reaction]] occurs when an [[acid]] [[compound]] reacts with a [[base|basic]] compound. The resulting chemical is a [[salt]] + [[water]] product. Acid base reactions can be used in [[titration]] to determine the concentration of an unknown product (the [[titrate]]) through the addition of a known product (the [[titrant]]). 
+An [[Acid-Base Reactions|acid-base reaction]] occurs when an [[acid]] [[compound]] reacts with a [[base|basic]] compound. The resulting chemical is a [[salt]] + [[water]] product. Acid base reactions can be used in [[titration]] to determine the concentration of an unknown product (the [[titrate]]) through the addition of a known product (the [[titrant]]). 
 
 The [[Bronsted-Lowry]] theory states that [[acid|acids]] are hydrogen donors and [[base|bases]] are hydrogen ion acceptors.
 
@@ -20,7 +21,7 @@ Strength is the extent to which [[ionisation]] and [[dissociation]] occur in [[a
 Some [[reactions]] are one way and complete others fall into [[equilibrium]]. *[[Strong acids]]/[[Strong Bases|bases]]* always fully ionise and are one way $\ce{->}$ while [[weak acids]]/[[weak bases|bases]] are two way $\ce{<=>}$. 
 
 ## Conjugate Acid-Base Pairs
-[[Acid-Base Reactions - Unit Review]] are competitions for protons $H^+$. [[Conjugate base]] is the molecule left after a [[hydroxide|H+]] is removed from an [[acid]] and vice versa for [[conjugate acids]].
+[[Acid-Base Reactions]] are competitions for protons $H^+$. [[Conjugate base]] is the molecule left after a [[hydroxide|H+]] is removed from an [[acid]] and vice versa for [[conjugate acids]].
 
 ## Weak acids and bases ($K_a$ and $K_b$)
 Weak acids and bases are in a state of [[Equilibrium]], not fully [[ionisation|ionised]]/[[dissociation|dissociated]]. Therefor, *all weak acids and bases have a $K_a$ and $K_b$ value indicating the extent to which they are [[ionisation|ionised]] or dissociated, giving an indication of their* **Strength**. Anything with a K value greater then 1 is likely a strong acid / base.

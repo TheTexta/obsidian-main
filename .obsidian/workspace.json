@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions - Unit Review.md",
+                "file": "Chemistry/Acid-Base Reactions.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Market Failures- Unit Review.md",
+                "file": "Economics/Goods.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,16 +91,12 @@
             "id": "843fa6fadab90cca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Quantitative Variables.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Quantitative Variables.md",
+                "file": "Economics/Goods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Quantitative Variables.md",
+                "file": "Economics/Goods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Quantitative Variables.md"
+                "file": "Economics/Goods.md"
               }
             }
           },
@@ -237,37 +233,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "843fa6fadab90cca",
+  "active": "403b91367139ecf4",
   "lastOpenFiles": [
-    "Statistics/Continuous variables.md",
+    "Positive Externalities.md",
+    "good.md",
+    "Economics/Goods.md",
+    "Psychology/Biological Psychology/good.md",
+    "market quantity.md",
+    "Market Failures.md",
+    "Negative Externalities.md",
+    "market price.md",
+    "Economics/Equilibrium.md",
+    "Information Failure.md",
+    "Chemistry/Acid-Base Reactions.md",
+    "Free Riders.md",
+    "public goods.md",
+    "Poverty and Inequality.md",
+    "Income Inequality.md",
     "Statistics/Quantitative Variables.md",
+    "Statistics/Continuous variables.md",
     "Statistics/Discrete Variables.md",
     "Statistics/Categorical Variables.md",
     "Qualitative Variables.md",
     "Ordinal.md",
     "Nominal.md",
     "Statistics/Quantitative Data.md",
-    "Market Failures- Unit Review.md",
     "Atkinson Shiffrin Model.md",
     "Models of Memory.md",
     "Storage and Retrieval.md",
-    "Encoding.md",
-    "Measuring.md",
-    "Hermann Ebbinghaus Research.md",
     "Screenshot 2024-02-06 at 12.34.29 PM.png",
-    "Measuring Memory.md",
-    "Memory.md",
-    "Marginal Social Benefit.md",
-    "Marginal Benefit.md",
-    "Chemistry/Acid-Base Reactions - Unit Review.md",
     "percent ionisation and concentration.png",
-    "autoionization.md",
-    "Chemistry/Strong Acids.md",
-    "Strong Bases.md",
-    "magnitude.md",
     "Buffer Region weak acid strong base.png",
-    "water.md",
-    "pOH.md",
     "Economics/Unit Elasticity Curved.webp",
     "vestibular system.png",
     "taste buds.png",

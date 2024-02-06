@@ -1,3 +1,8 @@
+---
+aliases:
+  - good
+---
+
 Tangible items which can be consumed
 
 # Types of Goods

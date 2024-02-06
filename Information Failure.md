@@ -1,0 +1,2 @@
+#microeconomics 
+Information Failure::When individuals do not posses perfect information about prices and quality, when there is asymmetric information is where one party in a transaction has more / left information then another. 
