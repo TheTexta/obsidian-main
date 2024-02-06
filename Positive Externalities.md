@@ -1,2 +1,2 @@
 #microeconomics 
-Positive Externalities::When the economic activities of a firm ([[Positive Production Externalities|production]] or [[Positive Consumption Externalities|consumption]] of a [[good]]) create spillover effects that benefit third parties in ways not reflected through the [[market price]] / [[market quantity]]
+Positive Externalities::When the economic activities of a firm ([[Positive Production Externalities|production]] or [[Positive Consumption Externalities|consumption]] of a [[Goods|good]]) create spillover effects that benefit third parties in ways not reflected through the [[market price]] / [[market quantity]]

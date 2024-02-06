@@ -10,6 +10,9 @@ Social Costs and Benefits represents the benefits and costs to society that a go
 
 Producer Costs and Benefits represent the benefits and costs to the producers of a good in a market.
 
+[[social benefits]]
+[[social costs]]
+
 [[Positive Externalities]]
 [[Positive Consumption Externalities]]
 [[Positive Production Externalities]]
@@ -19,6 +22,7 @@ Producer Costs and Benefits represent the benefits and costs to the producers of
 [[Negative Production Externalities]]
 
 [[Information Failure]]
+
 
 ## Goods
 [[Merit Goods]]
