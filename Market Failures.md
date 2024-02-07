@@ -1,5 +1,5 @@
 #microeconomics #review
-
+Market Failure::Occurs when the production or consumption of a good or service causes additional positive or negative externalities (spill-over effects) on a third party not involved in the economic activity. The market forces of demand and supply fail to allocate resources efficiently. As a result, community surplus is not maximised.
 ## Externalities
 [[Marginal Social Benefit]] (MSB)
 [[Marginal Social Cost]] (MSC)
@@ -28,11 +28,20 @@ Producer Costs and Benefits represent the benefits and costs to the producers of
 [[Merit Goods]]
 [[Demerit Goods]]
 
+rival::one persons benefit decreases another
+excludable::a person cant benefit without paying
+
 [[Private Goods]]
 [[Public Goods]]
 [[Quasi-public goods]]
 
+[[Free Riders]]
 [[Unstable Prices]]
+[[Moral Hazard]]
+[[Asymmetric Information]]
+[[Adverse Selection]]
+
+[[Common Access Resource]]
 
 ## Inequality
 [[Income Inequality]]

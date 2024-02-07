@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Negative Production Externalities.md",
+                "file": "Market Failures.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Negative Production Externalities.md",
+                "file": "Market Failures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Negative Production Externalities.md",
+                "file": "Market Failures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Negative Production Externalities.md"
+                "file": "Market Failures.md"
               }
             }
           },
@@ -236,17 +236,26 @@
   },
   "active": "403b91367139ecf4",
   "lastOpenFiles": [
-    "negative production externality.png",
-    "Negative Consumption Externalities.md",
-    "negative consumption externality.png",
-    "Positive Production Externalities.md",
-    "positive production externality.png",
+    "Asymmetric Information.md",
+    "Adverse Selection.md",
     "Market Failures.md",
+    "Unstable Prices.md",
+    "Moral Hazard.md",
+    "Demerit Goods.md",
+    "Merit Goods.md",
+    "Private Goods.md",
+    "Quasi-public goods.md",
+    "public goods.md",
+    "Positive Production Externalities.md",
+    "Negative Consumption Externalities.md",
+    "Negative Production Externalities.md",
+    "negative production externality.png",
+    "negative consumption externality.png",
+    "positive production externality.png",
     "Marginal Social Cost.md",
     "Positive Consumption Externalities.md",
     "positive consumption externality.png",
     "Marginal Social Benefit.md",
-    "Negative Production Externalities.md",
     "market price.md",
     "Economics/Ceteris Paribus.md",
     "Economics/Demand.md",
@@ -257,21 +266,12 @@
     "Economics/Goods.md",
     "good.md",
     "Psychology/Biological Psychology/good.md",
-    "market quantity.md",
-    "Negative Externalities.md",
-    "Economics/Equilibrium.md",
-    "Information Failure.md",
-    "Chemistry/Acid-Base Reactions.md",
-    "Free Riders.md",
-    "public goods.md",
-    "Poverty and Inequality.md",
     "Screenshot 2024-02-06 at 12.34.29 PM.png",
     "percent ionisation and concentration.png",
     "Buffer Region weak acid strong base.png",
     "Economics/Unit Elasticity Curved.webp",
     "vestibular system.png",
     "taste buds.png",
-    "Screenshot 2024-02-01 at 8.01.46 PM.png",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Stages in a typical night's sleep.pdf",
