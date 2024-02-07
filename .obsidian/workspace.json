@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Market Failures.md",
+                "file": "Regressive Taxes.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market Failures.md",
+                "file": "Regressive Taxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market Failures.md",
+                "file": "Regressive Taxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market Failures.md"
+                "file": "Regressive Taxes.md"
               }
             }
           },
@@ -236,9 +236,18 @@
   },
   "active": "403b91367139ecf4",
   "lastOpenFiles": [
+    "Market Failures.md",
+    "Regressive Taxes.md",
+    "Proportional Taxes.md",
+    "Progressive Taxes.md",
+    "Gini Coefficient.md",
+    "Lorenz Curve.md",
+    "Lorenz Curve.png",
+    "Tragedy of the Commons.md",
+    "Marginal Private Benefit.md",
+    "Marginal Private Cost.md",
     "Asymmetric Information.md",
     "Adverse Selection.md",
-    "Market Failures.md",
     "Unstable Prices.md",
     "Moral Hazard.md",
     "Demerit Goods.md",
@@ -258,20 +267,11 @@
     "Marginal Social Benefit.md",
     "market price.md",
     "Economics/Ceteris Paribus.md",
-    "Economics/Demand.md",
-    "private benefits.md",
-    "social costs.md",
-    "social benefits.md",
-    "Positive Externalities.md",
-    "Economics/Goods.md",
-    "good.md",
-    "Psychology/Biological Psychology/good.md",
     "Screenshot 2024-02-06 at 12.34.29 PM.png",
     "percent ionisation and concentration.png",
     "Buffer Region weak acid strong base.png",
     "Economics/Unit Elasticity Curved.webp",
     "vestibular system.png",
-    "taste buds.png",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Stages in a typical night's sleep.pdf",

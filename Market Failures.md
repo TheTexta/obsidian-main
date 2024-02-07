@@ -3,8 +3,8 @@ Market Failure::Occurs when the production or consumption of a good or service c
 ## Externalities
 [[Marginal Social Benefit]] (MSB)
 [[Marginal Social Cost]] (MSC)
-[[Marginal Producer Benefit]] (MPB)
-[[Marginal Producer Cost]] (MPC)
+[[Marginal Private Benefit]] (MPB)
+[[Marginal Private Cost]] (MPC)
 
 Social Costs and Benefits represents the benefits and costs to society that a good induces on a market.
 
@@ -41,9 +41,19 @@ excludable::a person cant benefit without paying
 [[Asymmetric Information]]
 [[Adverse Selection]]
 
+[[Tragedy of the Commons]]
 [[Common Access Resource]]
 
 ## Inequality
 [[Income Inequality]]
 [[Poverty and Inequality]]
+
+[[Lorenz Curve]]
+[[Gini Coefficient]]
+
 ## Government Intervention to Correct Externalities
+Taxes
+
+[[Progressive Taxes]]
+[[Proportional Taxes]]
+[[Regressive Taxes]]

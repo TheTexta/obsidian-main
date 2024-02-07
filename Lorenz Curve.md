@@ -1,0 +1,2 @@
+#microeconomics 
+Lorenz Curve::Dividing the population into 5 quintiles, the bottom 20% would earn 20% of the income, 40% of the families would earn 40% of the income and so on. This is called perfect equality. The Lorenz curve is a measurement of the actual distribution which is then compared to the perfect equality curve. ![[Lorenz Curve.png]]
