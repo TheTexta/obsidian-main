@@ -95,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sampling",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chunking.md",
+                "file": "Chemistry/Acid-Base Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chunking.md",
+                "file": "Chemistry/Acid-Base Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chunking.md"
+                "file": "Chemistry/Acid-Base Reactions.md"
               }
             }
           },
@@ -233,10 +232,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "403b91367139ecf4",
+  "active": "ec94140e4107f9a3",
   "lastOpenFiles": [
-    "Encoding.md",
+    "Chemistry/Acid-Base Reactions.md",
     "chunking.md",
+    "Encoding.md",
     "Working Memory.md",
     "Atkinson Shiffrin Model.md",
     "Short-Term Memory.md",
@@ -260,7 +260,6 @@
     "Psychology/Psych 101/Surveys.md",
     "Lorenz Curve.md",
     "Market Failures.md",
-    "Chemistry/Acid-Base Reactions.md",
     "Tragedy of the Commons.md",
     "Lorenz Curve.png",
     "negative production externality.png",

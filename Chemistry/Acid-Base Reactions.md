@@ -45,7 +45,7 @@ A buffer solution resists changes in [[pH]] upon the addition of an acid or base
 $\ce{\text{Weak Acid} <=> \text{conjugate base of the WA} + H^+}$
 
 #### Specific to weak acid strong base reactions
-Since a weak acid  has a low concentration of free $H^+$ during a titration, when the base is added it will consume these $H^+$ quickly. But the removal of these free $H^+$ ions by the addition of a base interrupts the acid eq as a stress and shifts eq right causing further ionisation of the weak acid. Because the pH changes very little we call this ***buffering***.
+Since a weak acid  has a low concentration of free $H^+$ during a titration, when the base is added it will consume these $H^+$ quickly. But the removal of these free $H^+$ ions by the addition of a base interrupts the acid eq as a stress and shifts eq right causing further ionisation of the weak acid. Because the [[pH]] changes very little we call this ***buffering***.
 
 ## Amphiprotic
 A substance can only be classified as B-L acid or base for a specific reaction. Water is [[amphiprotic]], meaning it can act as both a [[proton]] donor and acceptor. All amphiprotic substances are negatively charged.
@@ -99,13 +99,13 @@ $C_aV_a=C_bV_b$
 
 #### Strong acid and strong base titrations
 Produce a neutral [[salt]] which *doesn't* affect the [[pH]].
-Strong Acid + Strong Base $\ce{=>}$ Neutral Salt + $H_2O$
+[[Strong Acids|Strong Acid]] + [[Strong Bases|Strong Base]] $\ce{=>}$ Neutral Salt + $H_2O$
 e.g. $\ce{HCL + NaOH =>NaCl + H_2O}$
 *Equivalence point is when pH = 7 in a strong base strong acid reaction*. 
-If there is an excess of product / reactant, find the excess moles and calculate the ph of that. MAKE SURE TO DEVIDE BY TOTAL LITRES.
+If there is an excess of product / reactant, find the excess moles and calculate the [[pH]] of that. MAKE SURE TO DEVIDE BY TOTAL LITRES.
 #### Weak acid and strong base titrations
 Produce basic salt ions.
-Weak Acid + Strong Base $\ce{=>}$ Basic Salt + $H_2O$
+[[weak acids|Weak Acid]] + [[Strong Bases|Strong Base]] $\ce{=>}$ Basic Salt + $H_2O$
 
 Some salt anions and cations are stronger conjugate acids or bases than water. This means they can either steal $H^+$ from water or donate an $H^+$ to water which will change water's pH. *Salts produced from weak acids mixed with strong bases = basic.*
 
@@ -125,13 +125,13 @@ These reactions will be basic at equilibrium due to the hydrolysis increasing th
 ###### How do you determine how basic the solution is in a WA + SB titration?
 Since at eq the WA + SB reaction is basic, the ph depends on the concentration of $OH^-$, which is determined through stoichiometry. Just remember to divide the mols of $OH^-$ by the total volume of the solution. The moles of OH will be equal to the salt moles assuming 1:1:1:1 ratio.
 
-###### Summary Guide - General form of Weak Acid Strong Base titrations:
+###### Summary Guide - General form of [[weak acids|Weak Acid]] [[Strong Bases|Strong Base]] titrations:
 $\ce{HA + SB -> basic salt + water}$
 
-Keep in mind the weak acid equilibrium is happening at the same time (you don't need to write this):
+Keep in mind the [[weak acids|weak acid]] [[equilibrium]] is happening at the same time (you don't need to write this):
 $HA -> H^+ + A^-$
 
-Basic Salt Dissociation:
+Basic Salt [[Dissociation]]:
 $\ce{\text{basic salt} -> \text{cation of salt} + \text{anion of salt}}$
 $\ce{MA -> M^+ + A^-}$
 
@@ -141,18 +141,25 @@ $\ce{\text{Basic salt anion}(A^-) + H_2O <=> HA + OH^-}$
 From here its just plug and play with all the variables.
 
 ## Why does the pH at EQ change for titration depending on the type of acids and bases involved?
-In a SA + SB reaction, the two react completely to form a neutral salt and water. We know the salt is neutral because SA and SB both fully dissociate and do not react with H2O. The pH will always be neutral.
+In a SA + SB reaction, the two react completely to form a neutral salt and water. We know the salt is neutral because SA and SB both fully dissociate and do not react with $H_2O$. The [[pH]] will always be neutral.
 e.g. $\ce{HCl + NaCL -> Na^+ Cl^- + H_2O}$
 
-A $SB + WA$ reaction will always produce an anion which reacts with water to produce $OH^-$ because the $A^-$ is a stronger conjugate base than $H_2O$. The pH in this case is always basic.
+A $SB + WA$ reaction will always produce an anion which reacts with water to produce $OH^-$ because the $A^-$ is a stronger conjugate base than $H_2O$. The [[pH]] in this case is always basic.
 e.g. $\ce{KOH + HF ->K^+ + F^- + H_2O}$
 
 **Just remember this rule: Ions from SA + SB are always neutral and ions from WA + WB are always basic / acidic**
 
 ## Define equivalence point
-The equivalence point is when the mols of the titrant have fully reacted with the moles of the titrate.
+The equivalence point is when the mols of the titrant are stoichiometrically equal to the mols of titrate.
 
 ## Explain shifts in the acid base equilibria
-The weak acid is responding to further stress by righting in rightward eq so H^+ is absorbed at about equal rate of consumption.
+The [[weak acids|weak acid]] is responding to further stress by righting in rightward eq so $H^+$ is absorbed at about equal rate of consumption. 
 
 ## The stronger the acid the weaker its conjugate base???
+
+## Explain the buffer region
+The buffer region is because the [[weak acids|weak acid]] dissociates increasingly so as the $OH^-$ is added which acts as a stress to [[Equilibrium Shifts|shift equilibrium]] in the forward direction, replacing the $H^+$ which is reacting with the $OH^-$ producing [[water]]. Which keeps the [[pH]] consistent because the $H^+$ removed is about equal to the $H^+$ produced because of the stress.
+
+## Identify Amphiprotic
+Needs a h in the equation
+Must have a negative or neutral charge
