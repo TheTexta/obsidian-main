@@ -156,6 +156,7 @@ The equivalence point is when the mols of the titrant are stoichiometrically equ
 The [[weak acids|weak acid]] is responding to further stress by righting in rightward eq so $H^+$ is absorbed at about equal rate of consumption. 
 
 ## The stronger the acid the weaker its conjugate base???
+This is because stronger acids produce weaker conjugate bases which is why weak acids strong conjugate bases react with water in the first place and do that whole eq shit
 
 ## Explain the buffer region
 The buffer region is because the [[weak acids|weak acid]] dissociates increasingly so as the $OH^-$ is added which acts as a stress to [[Equilibrium Shifts|shift equilibrium]] in the forward direction, replacing the $H^+$ which is reacting with the $OH^-$ producing [[water]]. Which keeps the [[pH]] consistent because the $H^+$ removed is about equal to the $H^+$ produced because of the stress.
