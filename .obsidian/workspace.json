@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Market Failures.md",
+                "file": "chunking.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "qualitative",
+                "query": "sampling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,8 +142,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market Failures.md",
+                "file": "chunking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market Failures.md",
+                "file": "chunking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market Failures.md"
+                "file": "chunking.md"
               }
             }
           },
@@ -236,42 +235,42 @@
   },
   "active": "403b91367139ecf4",
   "lastOpenFiles": [
-    "Regressive Taxes.md",
-    "Market Failures.md",
-    "Proportional Taxes.md",
-    "Progressive Taxes.md",
-    "Gini Coefficient.md",
+    "Encoding.md",
+    "chunking.md",
+    "Working Memory.md",
+    "Atkinson Shiffrin Model.md",
+    "Short-Term Memory.md",
+    "Shiffrin Atkinson Model.png",
+    "Mathematics/Integration.md",
+    "Sampling bias.md",
+    "Sampling Methods.md",
+    "Under-coverage Bias.md",
+    "Voluntary Response Bias.md",
+    "Response Bias.md",
+    "Non-Response Bias.md",
+    "Convenience Sample.md",
+    "Cluster Sampling.md",
+    "Systematic Sampling.md",
+    "Stratified Sampling.md",
+    "Simple Random Sampling.md",
+    "Convenience Sampling.md",
+    "Voluntary Sampling.md",
+    "Snowball Sampling.md",
+    "Purposive Sampling.md",
+    "Psychology/Psych 101/Surveys.md",
     "Lorenz Curve.md",
-    "Lorenz Curve.png",
+    "Market Failures.md",
+    "Chemistry/Acid-Base Reactions.md",
     "Tragedy of the Commons.md",
-    "Marginal Private Benefit.md",
-    "Marginal Private Cost.md",
-    "Asymmetric Information.md",
-    "Adverse Selection.md",
-    "Unstable Prices.md",
-    "Moral Hazard.md",
-    "Demerit Goods.md",
-    "Merit Goods.md",
-    "Private Goods.md",
-    "Quasi-public goods.md",
-    "public goods.md",
-    "Positive Production Externalities.md",
-    "Negative Consumption Externalities.md",
-    "Negative Production Externalities.md",
+    "Lorenz Curve.png",
     "negative production externality.png",
     "negative consumption externality.png",
     "positive production externality.png",
-    "Marginal Social Cost.md",
-    "Positive Consumption Externalities.md",
     "positive consumption externality.png",
-    "Marginal Social Benefit.md",
-    "market price.md",
-    "Economics/Ceteris Paribus.md",
     "Screenshot 2024-02-06 at 12.34.29 PM.png",
     "percent ionisation and concentration.png",
     "Buffer Region weak acid strong base.png",
     "Economics/Unit Elasticity Curved.webp",
-    "vestibular system.png",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Stages in a typical night's sleep.pdf",

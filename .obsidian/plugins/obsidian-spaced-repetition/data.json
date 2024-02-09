@@ -9,7 +9,8 @@
       "#microeconomics",
       "#biological-psychology",
       "#statistics",
-      "#perception-psychology"
+      "#perception-psychology",
+      "#data-management"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -43,7 +44,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-02-06",
+  "buryDate": "2024-02-08",
   "buryList": [],
   "historyDeck": null
 }

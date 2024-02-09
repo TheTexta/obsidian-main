@@ -57,3 +57,4 @@ Taxes
 [[Progressive Taxes]]
 [[Proportional Taxes]]
 [[Regressive Taxes]]
+
