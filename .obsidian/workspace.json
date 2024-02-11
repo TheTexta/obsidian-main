@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md",
+                "file": "interval.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md",
+                "file": "interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md",
+                "file": "interval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md"
+                "file": "interval.md"
               }
             }
           },
@@ -234,6 +234,10 @@
   },
   "active": "ec94140e4107f9a3",
   "lastOpenFiles": [
+    "Concavity.md",
+    "interval.md",
+    "Inflection Points.md",
+    "concavity examples.png",
     "Chemistry/Acid-Base Reactions.md",
     "chunking.md",
     "Encoding.md",
@@ -258,9 +262,6 @@
     "Snowball Sampling.md",
     "Purposive Sampling.md",
     "Psychology/Psych 101/Surveys.md",
-    "Lorenz Curve.md",
-    "Market Failures.md",
-    "Tragedy of the Commons.md",
     "Lorenz Curve.png",
     "negative production externality.png",
     "negative consumption externality.png",
@@ -269,7 +270,6 @@
     "Screenshot 2024-02-06 at 12.34.29 PM.png",
     "percent ionisation and concentration.png",
     "Buffer Region weak acid strong base.png",
-    "Economics/Unit Elasticity Curved.webp",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
     "Stages in a typical night's sleep.pdf",
