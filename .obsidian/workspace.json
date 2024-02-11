@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec94140e4107f9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interval.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "403b91367139ecf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chunking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae18eeac96288fe2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "ef2b6488a712a011",
             "type": "leaf",
             "state": {
@@ -161,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interval.md",
+                "file": "Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interval.md",
+                "file": "Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interval.md"
+                "file": "Memory.md"
               }
             }
           },
@@ -232,14 +200,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ec94140e4107f9a3",
+  "active": "ef2b6488a712a011",
   "lastOpenFiles": [
+    "chunking.md",
+    "Interval.md",
     "Concavity.md",
-    "interval.md",
     "Inflection Points.md",
     "concavity examples.png",
     "Chemistry/Acid-Base Reactions.md",
-    "chunking.md",
     "Encoding.md",
     "Working Memory.md",
     "Atkinson Shiffrin Model.md",
