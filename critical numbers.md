@@ -1,0 +1,1 @@
+When the [[Derivative]] equals zero

@@ -8,59 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef2b6488a712a011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70c5038760122df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Measuring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aee41d799c194a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hermann Ebbinghaus Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e963679e134c6c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atkinson Shiffrin Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "843fa6fadab90cca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "critical numbers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -129,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory.md",
+                "file": "critical numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory.md",
+                "file": "critical numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory.md"
+                "file": "critical numbers.md"
               }
             }
           },
@@ -200,8 +156,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ef2b6488a712a011",
+  "active": "843fa6fadab90cca",
   "lastOpenFiles": [
+    "Mathematics/l'Hopital's Rule.md",
+    "critical numbers.md",
+    "Mathematics/Mean Value Theorem.md",
+    "Mathematics/Continuity.md",
+    "Atkinson Shiffrin Model.md",
+    "Hermann Ebbinghaus Research.md",
+    "Measuring.md",
+    "Memory.md",
     "chunking.md",
     "Interval.md",
     "Concavity.md",
@@ -210,7 +174,6 @@
     "Chemistry/Acid-Base Reactions.md",
     "Encoding.md",
     "Working Memory.md",
-    "Atkinson Shiffrin Model.md",
     "Short-Term Memory.md",
     "Shiffrin Atkinson Model.png",
     "Mathematics/Integration.md",
@@ -223,13 +186,6 @@
     "Convenience Sample.md",
     "Cluster Sampling.md",
     "Systematic Sampling.md",
-    "Stratified Sampling.md",
-    "Simple Random Sampling.md",
-    "Convenience Sampling.md",
-    "Voluntary Sampling.md",
-    "Snowball Sampling.md",
-    "Purposive Sampling.md",
-    "Psychology/Psych 101/Surveys.md",
     "Lorenz Curve.png",
     "negative production externality.png",
     "negative consumption externality.png",
