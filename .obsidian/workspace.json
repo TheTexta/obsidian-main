@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hierarchy.md",
+                "file": "Distributed Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hierarchy.md",
+                "file": "Distributed Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hierarchy.md",
+                "file": "Distributed Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hierarchy.md"
+                "file": "Distributed Practice.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "843fa6fadab90cca",
   "lastOpenFiles": [
-    "Mnemonics.md",
+    "Psychology/Encoding.md",
+    "Distributed Practice.md",
     "hierarchy.md",
+    "Mnemonics.md",
     "Method of Loci.md",
     "conflict-files-obsidian-git.md",
     "Statistics/Data Management - Unit 4 Review.md",
@@ -183,8 +185,6 @@
     "Statistics/Non-Response Bias.md",
     "Statistics/Nominal.md",
     "Statistics/Convenience Sampling.md",
-    "Statistics/Convenience Sample.md",
-    "Statistics/Conditional Distribution.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",
