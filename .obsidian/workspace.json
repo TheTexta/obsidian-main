@@ -8,87 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec94140e4107f9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Sampling bias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55d549af54ccf20e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Management - Unit 4 Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef2b6488a712a011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70c5038760122df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Measuring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aee41d799c194a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Hermann Ebbinghaus Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e963679e134c6c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Atkinson Shiffrin Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "843fa6fadab90cca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Method of Loci.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management - Unit 4 Review.md",
+                "file": "Method of Loci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Management - Unit 4 Review.md",
+                "file": "Method of Loci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Management - Unit 4 Review.md"
+                "file": "Method of Loci.md"
               }
             }
           },
@@ -211,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,44 +157,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "55d549af54ccf20e",
+  "active": "843fa6fadab90cca",
   "lastOpenFiles": [
-    "Statistics/Cluster Sampling.md",
-    "Data Management - Unit 4 Review.md",
+    "Method of Loci.md",
+    "Statistics/Data Management - Unit 4 Review.md",
+    "Mathematics/l'Hopital's Rule.md",
+    "critical numbers.md",
     "Statistics/Voluntary Sampling.md",
     "Statistics/Voluntary Response Bias.md",
+    "Statistics/Under-coverage Bias.md",
+    "Statistics/Temp working for data assignment.md",
     "Statistics/Systematic Sampling.md",
+    "Statistics/Stratified Sampling.md",
     "Statistics/Snowball Sampling.md",
     "Statistics/Simple Random Sampling.md",
-    "Statistics/Sampling Methods.md",
     "Statistics/Sampling bias.md",
+    "Statistics/Sampling Methods.md",
     "Statistics/Response Bias.md",
-    "Statistics/Quantitative Variables.md",
     "Statistics/Qualitative Variables.md",
     "Statistics/Purposive Sampling.md",
     "Statistics/Ordinal.md",
     "Statistics/Non-Response Bias.md",
     "Statistics/Nominal.md",
-    "Statistics/Discrete Variables.md",
-    "Statistics/Convenience Sample.md",
-    "Statistics/Continuous variables.md",
     "Statistics/Convenience Sampling.md",
-    "Statistics/Stratified Sampling.md",
-    "Statistics/Under-coverage Bias.md",
-    "Statistics/Outliers.md",
-    "Chemistry/Acid-Base Reactions.md",
-    "Statistics/Problem Set Working.md",
-    "Chemistry/Strong Acids.md",
+    "Statistics/Convenience Sample.md",
+    "Statistics/Conditional Distribution.md",
+    "Statistics/Cluster Sampling.md",
+    "Psychology/chunking.md",
+    "Psychology/Working Memory.md",
     "Psychology/Shiffrin Atkinson Model.png",
-    "Psychology/Screenshot 2024-02-06 at 12.34.29 PM.png",
+    "Psychology/Sensation - Perception/vestibular system.png",
+    "Psychology/Sensation - Perception/taste buds.png",
+    "Psychology/Sensation - Perception/figure ground relationship.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 8.01.46 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 8.00.08 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 7.56.13 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 7.54.52 PM.png",
     "Psychology/Sensation - Perception/Pasted image 20240201193813.png",
     "Psychology/Sensation - Perception/Pasted image 20240201193736.png",
-    "Psychology/Sensation - Perception/Pasted image 20240201193633.png",
-    "Psychology/Sensation - Perception/Pasted image 20240201182901.png",
     "Psychology/Sensation - Perception",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",

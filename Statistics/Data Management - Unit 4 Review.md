@@ -4,7 +4,7 @@
 - [[Convenience Sample]] - Sampling those most readily available leads to bias
 - [[Under-coverage Bias]] - sampling a subgroup that isn't representative of a larger demographic leads to under coverage bias
 - [[Non-Response Bias]] - when the sample who responds differs in opinion to the demographic
-- [[Response Bias]] - Questions in the survey which influence the response given - how do you feel about the degusting food in Osler.
+- [[Response Bias]] - Questions in the survey which influence the response given - how do you feel about the digusting food in Osler.
 
 [[Sampling Methods]]
 - [[Simple Random Sampling]] - Random subset of population through random num gen or any technique relying entirely on chance
