@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Method of Loci.md",
+                "file": "hierarchy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Method of Loci.md",
+                "file": "hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Method of Loci.md",
+                "file": "hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Method of Loci.md"
+                "file": "hierarchy.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "843fa6fadab90cca",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Mnemonics.md",
+    "hierarchy.md",
     "Method of Loci.md",
+    "conflict-files-obsidian-git.md",
     "Statistics/Data Management - Unit 4 Review.md",
     "Mathematics/l'Hopital's Rule.md",
     "critical numbers.md",
@@ -183,8 +185,6 @@
     "Statistics/Convenience Sampling.md",
     "Statistics/Convenience Sample.md",
     "Statistics/Conditional Distribution.md",
-    "Statistics/Cluster Sampling.md",
-    "Psychology/chunking.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",
