@@ -3,7 +3,7 @@ If a function is continuous over a given interval then it can be drawn without l
 2. $\lim_{x\to c} f(c)$ exists
 3. $\lim_{x\to c}f(x) = f(c)$ - *key point* if this is true then the function is continuous.
 
-## Ways to represent [[Interval|intervals]] and continuity
+## Ways to represent [[interval|intervals]] and continuity
 () - round brackets indicate continuity but not including the number
 $[\text{  }]$ - square brackets indicates continuity including the number
 If a function is continuous on the right side but not the left then it is ( continuous as opposed to $\text{[}$ continuous
