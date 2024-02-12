@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implicit Memories.md",
+                "file": "Statistics/Data Management - Unit 4 Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implicit Memories.md",
+                "file": "Statistics/Data Management - Unit 4 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implicit Memories.md",
+                "file": "Statistics/Data Management - Unit 4 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implicit Memories.md"
+                "file": "Statistics/Data Management - Unit 4 Review.md"
               }
             }
           },
@@ -172,11 +171,13 @@
   },
   "active": "934762b34384f26e",
   "lastOpenFiles": [
+    "Chemistry/Acid-Base Reactions.md",
+    "Chemistry/Factors affecting rates of reactions.md",
+    "Implicit Memories.md",
     "Memory Consolidation.md",
     "explicit memories.md",
     "episodic.md",
     "semantic.md",
-    "Implicit Memories.md",
     "Levels of Processing.md",
     "Distributed Practice.md",
     "Learning/Cognitive Load.md",
@@ -196,8 +197,6 @@
     "Statistics/Stratified Sampling.md",
     "Statistics/Snowball Sampling.md",
     "Statistics/Simple Random Sampling.md",
-    "Statistics/Sampling bias.md",
-    "Statistics/Sampling Methods.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",

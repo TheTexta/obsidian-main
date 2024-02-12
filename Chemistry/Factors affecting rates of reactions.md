@@ -1,3 +1,4 @@
+#review #chemistry 
 **There are too main mechanisms which affect rates of reactions. Either you can affect the efficiency of the reaction or the number of total reactions which occur in a given time**
 
 ###### Factors affecting *number* of collisions:
