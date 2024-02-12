@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b44acb67fc6dfb35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Method of Loci.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Method of Loci.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Method of Loci.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -157,9 +170,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "843fa6fadab90cca",
+  "active": "b44acb67fc6dfb35",
   "lastOpenFiles": [
     "Method of Loci.md",
+    "conflict-files-obsidian-git.md",
     "Statistics/Data Management - Unit 4 Review.md",
     "Mathematics/l'Hopital's Rule.md",
     "critical numbers.md",
@@ -184,7 +198,6 @@
     "Statistics/Conditional Distribution.md",
     "Statistics/Cluster Sampling.md",
     "Psychology/chunking.md",
-    "Psychology/Working Memory.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",
