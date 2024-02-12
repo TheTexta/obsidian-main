@@ -35,7 +35,7 @@ Vestibular sense - sense of balance
 
 *Gate control theory* - pain goes through spinal cord and is controlled by gates which can be closed through massage.
 
-[[Embedded Cognition]] - influence of body sensations on cognitive judgements
+[[embedded cognition]] - influence of body sensations on cognitive judgements
 
 Eardrum - makes the sounds louder at the end of the ear canal
 
