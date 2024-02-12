@@ -50,7 +50,7 @@ Since a weak acid  has a low concentration of free $H^+$ during a titration, whe
 ## Amphiprotic
 A substance can only be classified as B-L acid or base for a specific reaction. Water is [[Amphiprotic]], meaning it can act as both a [[proton]] donor and acceptor. All amphiprotic substances are negatively charged.
 
-## [[Autoionization]]
+## [[autoionization]]
 The [[autoionization]] of water into its constituent ions has a very low K value, denoted as $K_W$. $K_W = 1 \cdot 10^{-14}$
 # Solving Acid-Base Reactions
 

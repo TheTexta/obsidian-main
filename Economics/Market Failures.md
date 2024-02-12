@@ -32,7 +32,7 @@ rival::one persons benefit decreases another
 excludable::a person cant benefit without paying
 
 [[Private Goods]]
-[[Public Goods]]
+[[public goods]]
 [[Quasi-public goods]]
 
 [[Free Riders]]

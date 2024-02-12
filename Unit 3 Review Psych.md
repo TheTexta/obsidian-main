@@ -26,7 +26,7 @@ Utricle - Horizontal movements
 
 [[bipolar cells]] go to [[ganglion cells]]
 
-[[basilla membrane]] holds the [[organ of corti]]
+[[basilla membrane]] holds the [[organ of Corti]]
 
 Vestibular sense - sense of balance
 
@@ -43,7 +43,7 @@ parallel processing - how we are able to recognise faces without effort and conc
 
 [[Perceptual Set]] - a mental predisposition to perceive something one way or another. hearing lines in audio when told it is there.
 
-[[Precognition]] - its bullshit, perceiving future events
+[[precognition]] - its bullshit, perceiving future events
 
 Relative Luminance
 
@@ -53,7 +53,7 @@ choice blindness
 
 [[place theory]] - how pitch relates to the location of the cells receiving the impulse
 
-[[sensory adaptation]] - unchanging information from a sensor is ignored
+[[Sensory Adaptation]] - unchanging information from a sensor is ignored
 
 McGurk Effect
 
