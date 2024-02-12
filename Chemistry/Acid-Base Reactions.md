@@ -5,7 +5,7 @@ An [[Acid-Base Reactions|acid-base reaction]] occurs when an [[acid]] [[compound
 The [[Bronsted-Lowry]] theory states that [[acid|acids]] are hydrogen donors and [[base|bases]] are hydrogen ion acceptors.
 
 ## Ionisation vs Dissociation in water
-[[ionisation]] is different from [[dissociation]] but in the context of the course here they are the same. [[Ionisation]] is when a molecules [[covalent bonds]] are broken and the [[compound]] splits apart forming charged [[ion|ions]]. [[Dissociation]] is when a compounds [[ionic bonds]] are broken and it splits apart into the [[ion|ions]] it already consists of. 
+[[ionisation]] is different from [[dissociation]] but in the context of the course here they are the same. [[Ionisation]] is when a molecules [[covalent bonds]] are broken and the [[compound]] splits apart forming charged [[ion|ions]]. [[dissociation]] is when a compounds [[ionic bonds]] are broken and it splits apart into the [[ion|ions]] it already consists of. 
 
 When acids dissolve they donate hydrogen ions and bases dissolve to accept hydroxide. [[Strong acids]] completely ionise in water, [[weak acids|weak]] do not. [[Strong Bases]] almost completely ionise in water, [[weak bases]] do not.
 
@@ -21,7 +21,7 @@ Strength is the extent to which [[ionisation]] and [[dissociation]] occur in [[a
 Some [[reactions]] are one way and complete others fall into [[equilibrium]]. *[[Strong acids]]/[[Strong Bases|bases]]* always fully ionise and are one way $\ce{->}$ while [[weak acids]]/[[weak bases|bases]] are two way $\ce{<=>}$. 
 
 ## Conjugate Acid-Base Pairs
-[[Acid-Base Reactions]] are competitions for protons $H^+$. [[Conjugate base]] is the molecule left after a [[hydroxide|H+]] is removed from an [[acid]] and vice versa for [[conjugate acids]].
+[[Acid-Base Reactions]] are competitions for protons $H^+$. [[Conjugate Base]] is the molecule left after a [[hydroxide|H+]] is removed from an [[acid]] and vice versa for [[Conjugate Acids]].
 
 ## Weak acids and bases ($K_a$ and $K_b$)
 Weak acids and bases are in a state of [[Equilibrium]], not fully [[ionisation|ionised]]/[[dissociation|dissociated]]. Therefor, *all weak acids and bases have a $K_a$ and $K_b$ value indicating the extent to which they are [[ionisation|ionised]] or dissociated, giving an indication of their* **Strength**. Anything with a K value greater then 1 is likely a strong acid / base.
@@ -48,7 +48,7 @@ $\ce{\text{Weak Acid} <=> \text{conjugate base of the WA} + H^+}$
 Since a weak acid  has a low concentration of free $H^+$ during a titration, when the base is added it will consume these $H^+$ quickly. But the removal of these free $H^+$ ions by the addition of a base interrupts the acid eq as a stress and shifts eq right causing further ionisation of the weak acid. Because the [[pH]] changes very little we call this ***buffering***.
 
 ## Amphiprotic
-A substance can only be classified as B-L acid or base for a specific reaction. Water is [[amphiprotic]], meaning it can act as both a [[proton]] donor and acceptor. All amphiprotic substances are negatively charged.
+A substance can only be classified as B-L acid or base for a specific reaction. Water is [[Amphiprotic]], meaning it can act as both a [[proton]] donor and acceptor. All amphiprotic substances are negatively charged.
 
 ## [[Autoionization]]
 The [[autoionization]] of water into its constituent ions has a very low K value, denoted as $K_W$. $K_W = 1 \cdot 10^{-14}$
@@ -131,7 +131,7 @@ $\ce{HA + SB -> basic salt + water}$
 Keep in mind the [[weak acids|weak acid]] [[equilibrium]] is happening at the same time (you don't need to write this):
 $HA -> H^+ + A^-$
 
-Basic Salt [[Dissociation]]:
+Basic Salt [[dissociation]]:
 $\ce{\text{basic salt} -> \text{cation of salt} + \text{anion of salt}}$
 $\ce{MA -> M^+ + A^-}$
 

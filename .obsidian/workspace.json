@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md",
+                "file": "Psychology/Sensation - Perception/Electromagnetic Spectrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,10 +102,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "qualitative",
+                "query": "tag:#perception-psychology  ",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md",
+                "file": "Psychology/Sensation - Perception/Electromagnetic Spectrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md",
+                "file": "Psychology/Sensation - Perception/Electromagnetic Spectrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md"
+                "file": "Psychology/Sensation - Perception/Electromagnetic Spectrum.md"
               }
             }
           },
@@ -221,36 +221,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ec94140e4107f9a3",
+  "active": "1b31c21586683c68",
   "lastOpenFiles": [
-    "Market Failures.md",
-    "interval.md",
+    "Chemistry/dissociation.md",
+    "Psychology/Sensation - Perception/difference threshold.md",
+    "Economics/Demerit Goods.md",
+    "Psychology/Sensation - Perception/David Hubel.md",
+    "Psychology/Sensation - Perception/dehabituation.md",
+    "Psychology/Sensation - Perception/convergence.md",
     "critical numbers.md",
-    "concavity examples.png",
-    "chunking.md",
-    "Working Memory.md",
-    "Voluntary Sampling.md",
-    "Voluntary Response Bias.md",
-    "Under-coverage Bias.md",
-    "Systematic Sampling.md",
-    "Stratified Sampling.md",
-    "Snowball Sampling.md",
-    "Simple Random Sampling.md",
-    "Short-Term Memory.md",
-    "Shiffrin Atkinson Model.png",
-    "Sampling bias.md",
-    "Sampling Methods.md",
-    "Response Bias.md",
-    "Purposive Sampling.md",
-    "Non-Response Bias.md",
-    "Inflection Points.md",
-    "Convenience Sampling.md",
+    "Psychology/Sensation - Perception/cornea.md",
+    "Psychology/Sensation - Perception/Conduction hearing loss.md",
+    "Psychology/Sensation - Perception/Continuity.md",
     "Convenience Sample.md",
-    "Concavity.md",
-    "Cluster Sampling.md",
-    "Regressive Taxes.md",
-    "Proportional Taxes.md",
-    "Progressive Taxes.md",
+    "Psychology/Sensation - Perception/Context, motivation and emotion.md",
+    "Psychology/Sensation - Perception/context effect.md",
+    "Psychology/Sensation - Perception/context.md",
+    "Conditional Distribution.md",
+    "Chemistry/Conjugate Acids.md",
+    "Mathematics/Concavity.md",
+    "Mathematics/concavity examples.png",
+    "Psychology/Sensation - Perception/cochlea.md",
+    "Psychology/Sensation - Perception/clairvoyance.md",
+    "Psychology/Sensation - Perception/change blindness.md",
+    "Psychology/Sensation - Perception/brightness constancy.md",
+    "Bronsted-Lowry.md",
+    "Psychology/Sensation - Perception/bones of the middle ear.md",
+    "Psychology/Sensation - Perception/Bottom-up Processing.md",
+    "Psychology/Sensation - Perception/Blindsight.md",
+    "Psychology/Sensation - Perception/blind spot.md",
+    "Psychology/Sensation - Perception",
+    "Shiffrin Atkinson Model.png",
     "Lorenz Curve.png",
     "negative production externality.png",
     "negative consumption externality.png",

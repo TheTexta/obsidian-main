@@ -24,7 +24,7 @@ ear canal - eardrum - hammer - anvil - stirup - oval window - cochlea
 Saccule - vertical movements
 Utricle - Horizontal movements
 
-[[Bipolar cells]] go to [[ganglion cells]]
+[[bipolar cells]] go to [[ganglion cells]]
 
 [[basilla membrane]] holds the [[organ of corti]]
 
