@@ -8,15 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "843fa6fadab90cca",
+            "id": "ec94140e4107f9a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "critical numbers.md",
+                "file": "Chemistry/Acid-Base Reactions.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "ae18eeac96288fe2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef2b6488a712a011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70c5038760122df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Measuring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee41d799c194a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hermann Ebbinghaus Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e963679e134c6c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atkinson Shiffrin Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "843fa6fadab90cca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -38,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "qualitative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "critical numbers.md",
+                "file": "Chemistry/Acid-Base Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "critical numbers.md",
+                "file": "Chemistry/Acid-Base Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "critical numbers.md"
+                "file": "Chemistry/Acid-Base Reactions.md"
               }
             }
           },
@@ -156,36 +221,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "843fa6fadab90cca",
+  "active": "ec94140e4107f9a3",
   "lastOpenFiles": [
-    "Mathematics/l'Hopital's Rule.md",
+    "Market Failures.md",
+    "interval.md",
     "critical numbers.md",
-    "Mathematics/Mean Value Theorem.md",
-    "Mathematics/Continuity.md",
-    "Atkinson Shiffrin Model.md",
-    "Hermann Ebbinghaus Research.md",
-    "Measuring.md",
-    "Memory.md",
-    "chunking.md",
-    "Interval.md",
-    "Concavity.md",
-    "Inflection Points.md",
     "concavity examples.png",
-    "Chemistry/Acid-Base Reactions.md",
-    "Encoding.md",
+    "chunking.md",
     "Working Memory.md",
+    "Voluntary Sampling.md",
+    "Voluntary Response Bias.md",
+    "Under-coverage Bias.md",
+    "Systematic Sampling.md",
+    "Stratified Sampling.md",
+    "Snowball Sampling.md",
+    "Simple Random Sampling.md",
     "Short-Term Memory.md",
     "Shiffrin Atkinson Model.png",
-    "Mathematics/Integration.md",
     "Sampling bias.md",
     "Sampling Methods.md",
-    "Under-coverage Bias.md",
-    "Voluntary Response Bias.md",
     "Response Bias.md",
+    "Purposive Sampling.md",
     "Non-Response Bias.md",
+    "Inflection Points.md",
+    "Convenience Sampling.md",
     "Convenience Sample.md",
+    "Concavity.md",
     "Cluster Sampling.md",
-    "Systematic Sampling.md",
+    "Regressive Taxes.md",
+    "Proportional Taxes.md",
+    "Progressive Taxes.md",
     "Lorenz Curve.png",
     "negative production externality.png",
     "negative consumption externality.png",
