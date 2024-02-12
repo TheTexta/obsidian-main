@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 4 Review Data Management.md",
+                "file": "Data Management - Unit 4 Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#data",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4 Review Data Management.md",
+                "file": "Data Management - Unit 4 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4 Review Data Management.md",
+                "file": "Data Management - Unit 4 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4 Review Data Management.md"
+                "file": "Data Management - Unit 4 Review.md"
               }
             }
           },
@@ -227,34 +227,34 @@
   },
   "active": "55d549af54ccf20e",
   "lastOpenFiles": [
+    "Statistics/Cluster Sampling.md",
+    "Data Management - Unit 4 Review.md",
+    "Statistics/Voluntary Sampling.md",
+    "Statistics/Voluntary Response Bias.md",
+    "Statistics/Systematic Sampling.md",
+    "Statistics/Snowball Sampling.md",
+    "Statistics/Simple Random Sampling.md",
     "Statistics/Sampling Methods.md",
-    "Unit 4 Review Data Management.md",
     "Statistics/Sampling bias.md",
+    "Statistics/Response Bias.md",
+    "Statistics/Quantitative Variables.md",
+    "Statistics/Qualitative Variables.md",
+    "Statistics/Purposive Sampling.md",
+    "Statistics/Ordinal.md",
+    "Statistics/Non-Response Bias.md",
+    "Statistics/Nominal.md",
+    "Statistics/Discrete Variables.md",
+    "Statistics/Convenience Sample.md",
+    "Statistics/Continuous variables.md",
+    "Statistics/Convenience Sampling.md",
+    "Statistics/Stratified Sampling.md",
     "Statistics/Under-coverage Bias.md",
     "Statistics/Outliers.md",
-    "Statistics/Purposive Sampling.md",
     "Chemistry/Acid-Base Reactions.md",
     "Statistics/Problem Set Working.md",
     "Chemistry/Strong Acids.md",
-    "Psychology/Atkinson Shiffrin Model.md",
-    "Psychology/chunking.md",
-    "Psychology/Encoding.md",
-    "Psychology/Hermann Ebbinghaus Research.md",
-    "Psychology/Measuring.md",
-    "Psychology/Measuring Memory.md",
-    "Psychology/Memory.md",
-    "Psychology/Unit 3 Review Psych.md",
-    "Psychology/Working Memory.md",
-    "Psychology/Stroop effect.md",
-    "Psychology/Storage and Retrieval.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Screenshot 2024-02-06 at 12.34.29 PM.png",
-    "Psychology/Sensation - Perception/receptor rods.md",
-    "Unit 4 Review.md",
-    "Psychology/Models of Memory.md",
-    "Psychology/Sensation - Perception/embedded cognition.md",
-    "magnitude.md",
-    "Psychology/Sensation - Perception/Transduction.md",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 8.01.46 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 8.00.08 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 7.56.13 PM.png",
