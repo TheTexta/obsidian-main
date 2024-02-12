@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "explicit memories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "934762b34384f26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Implicit Memories.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,10 +170,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "843fa6fadab90cca",
+  "active": "934762b34384f26e",
   "lastOpenFiles": [
-    "Levels of Processing.md",
+    "Memory Consolidation.md",
+    "explicit memories.md",
+    "episodic.md",
+    "semantic.md",
     "Implicit Memories.md",
+    "Levels of Processing.md",
     "Distributed Practice.md",
     "Learning/Cognitive Load.md",
     "Psychology/Encoding.md",
@@ -181,10 +198,6 @@
     "Statistics/Simple Random Sampling.md",
     "Statistics/Sampling bias.md",
     "Statistics/Sampling Methods.md",
-    "Statistics/Response Bias.md",
-    "Statistics/Qualitative Variables.md",
-    "Statistics/Purposive Sampling.md",
-    "Statistics/Ordinal.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",
