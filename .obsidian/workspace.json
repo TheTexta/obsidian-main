@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Data Management - Unit 4 Review.md",
+                "file": "Chemistry/Acid-Base Reactions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Data Management - Unit 4 Review.md",
+                "file": "Chemistry/Acid-Base Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Data Management - Unit 4 Review.md",
+                "file": "Chemistry/Acid-Base Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Data Management - Unit 4 Review.md"
+                "file": "Chemistry/Acid-Base Reactions.md"
               }
             }
           },
@@ -171,7 +171,10 @@
   },
   "active": "934762b34384f26e",
   "lastOpenFiles": [
+    "Print.md",
     "Chemistry/Acid-Base Reactions.md",
+    "Economics/Market Failures.md",
+    "Statistics/Data Management - Unit 4 Review.md",
     "Chemistry/Factors affecting rates of reactions.md",
     "Implicit Memories.md",
     "Memory Consolidation.md",
@@ -186,7 +189,6 @@
     "Mnemonics.md",
     "Method of Loci.md",
     "conflict-files-obsidian-git.md",
-    "Statistics/Data Management - Unit 4 Review.md",
     "Mathematics/l'Hopital's Rule.md",
     "critical numbers.md",
     "Statistics/Voluntary Sampling.md",
@@ -195,8 +197,6 @@
     "Statistics/Temp working for data assignment.md",
     "Statistics/Systematic Sampling.md",
     "Statistics/Stratified Sampling.md",
-    "Statistics/Snowball Sampling.md",
-    "Statistics/Simple Random Sampling.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",

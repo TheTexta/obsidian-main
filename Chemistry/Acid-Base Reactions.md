@@ -164,3 +164,9 @@ The buffer region is because the [[weak acids|weak acid]] dissociates increasing
 ## Identify Amphiprotic
 Needs a h in the equation
 Must have a negative or neutral charge
+
+## Slat Hydrolisis
+Where the weak base salt dissociates for its anion to react with water. that reaction is called the hydrolosis.
+
+## Explain why higher Ka needs more base volume to neutralise
+Since Ka is higher and concentration and volume are equal for all else, the [H+] has to be greater for that higher Ka acid. Therefor it would require more base neutralise
