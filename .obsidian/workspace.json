@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md",
+                "file": "Mathematics/Inflection Points.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md",
+                "file": "Mathematics/Inflection Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md",
+                "file": "Mathematics/Inflection Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Acid-Base Reactions.md"
+                "file": "Mathematics/Inflection Points.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "934762b34384f26e",
   "lastOpenFiles": [
-    "Print.md",
+    "inflection point example.png",
+    "Mathematics/critical numbers.md",
+    "Mathematics/Inflection Points.md",
     "Chemistry/Acid-Base Reactions.md",
+    "Print.md",
     "Economics/Market Failures.md",
     "Statistics/Data Management - Unit 4 Review.md",
     "Chemistry/Factors affecting rates of reactions.md",
@@ -194,9 +197,6 @@
     "Statistics/Voluntary Sampling.md",
     "Statistics/Voluntary Response Bias.md",
     "Statistics/Under-coverage Bias.md",
-    "Statistics/Temp working for data assignment.md",
-    "Statistics/Systematic Sampling.md",
-    "Statistics/Stratified Sampling.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",

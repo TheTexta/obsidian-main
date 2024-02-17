@@ -170,3 +170,6 @@ Where the weak base salt dissociates for its anion to react with water. that rea
 
 ## Explain why higher Ka needs more base volume to neutralise
 Since Ka is higher and concentration and volume are equal for all else, the [H+] has to be greater for that higher Ka acid. Therefor it would require more base neutralise
+
+## Identify Buffer Solutions
+They always consist of weak acids and there conjugate bases or vice versa with weak bases.
