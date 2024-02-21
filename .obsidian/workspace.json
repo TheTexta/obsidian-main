@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Context-dependent memory.md",
+                "file": "Retrieval Cues.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Context-dependent memory.md",
+                "file": "Retrieval Cues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Context-dependent memory.md",
+                "file": "Retrieval Cues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Context-dependent memory.md"
+                "file": "Retrieval Cues.md"
               }
             }
           },
@@ -183,9 +183,11 @@
   },
   "active": "63961d2d8505081d",
   "lastOpenFiles": [
-    "retrieval cues.md",
-    "Context-dependent memory.md",
+    "State-dependent memory.md",
+    "Retrieval Cues.md",
     "Psychology/Sensation - Perception/priming.md",
+    "Context-dependent memory.md",
+    "Encoding specificity principle.md",
     "memory retrieval.md",
     "Economics/Elasticity of Demand.md",
     "Economics/elasticity.md",
@@ -210,8 +212,6 @@
     "Statistics/Data Management - Unit 4 Review.md",
     "Chemistry/Factors affecting rates of reactions.md",
     "Implicit Memories.md",
-    "Memory Consolidation.md",
-    "explicit memories.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",

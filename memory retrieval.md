@@ -1,1 +1,1 @@
-Memory isn't just encoding and storage, you need [[retrieval cues]] to remember something.
+Memory isn't just encoding and storage, you need [[Retrieval Cues]] to remember something.
