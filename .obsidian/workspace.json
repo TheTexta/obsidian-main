@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retrieval Cues.md",
+                "file": "Serial position effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retrieval Cues.md",
+                "file": "Serial position effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retrieval Cues.md",
+                "file": "Serial position effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retrieval Cues.md"
+                "file": "Serial position effect.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   },
   "active": "63961d2d8505081d",
   "lastOpenFiles": [
-    "State-dependent memory.md",
+    "von Restorff effect.md",
+    "Serial position effect.md",
     "Retrieval Cues.md",
+    "State-dependent memory.md",
     "Psychology/Sensation - Perception/priming.md",
     "Context-dependent memory.md",
     "Encoding specificity principle.md",
@@ -210,8 +212,6 @@
     "Print.md",
     "Economics/Market Failures.md",
     "Statistics/Data Management - Unit 4 Review.md",
-    "Chemistry/Factors affecting rates of reactions.md",
-    "Implicit Memories.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",
