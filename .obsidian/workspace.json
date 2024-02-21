@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serial position effect.md",
+                "file": "motivated forgetting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04dbbc6fa4feaffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Psych 101/Range.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serial position effect.md",
+                "file": "Psychology/Psych 101/Range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serial position effect.md",
+                "file": "Psychology/Psych 101/Range.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serial position effect.md"
+                "file": "Psychology/Psych 101/Range.md"
               }
             }
           },
@@ -181,11 +193,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "63961d2d8505081d",
+  "active": "04dbbc6fa4feaffe",
   "lastOpenFiles": [
-    "von Restorff effect.md",
-    "Serial position effect.md",
+    "Psychology/Psych 101/Mode.md",
+    "Economics/Tax.md",
+    "motivated forgetting.md",
+    "retroactive interference.md",
+    "proactive interference.md",
+    "retrieval failure.md",
+    "Storage decay.md",
+    "encoding failure.md",
+    "Forgetting.md",
+    "dissociative amnesia.md",
+    "amnesia.md",
+    "Psychology/Biological Psychology/Functional Magnetic Resonance Imaging.md",
+    "hyperthymesia.md",
     "Retrieval Cues.md",
+    "retrograde amnesia.md",
+    "anterograde amnesia.md",
+    "Serial position effect.md",
+    "von Restorff effect.md",
     "State-dependent memory.md",
     "Psychology/Sensation - Perception/priming.md",
     "Context-dependent memory.md",
@@ -194,24 +221,9 @@
     "Economics/Elasticity of Demand.md",
     "Economics/elasticity.md",
     "oligopoly.md",
-    "diseconomies of scale.md",
-    "decreasing returns to scale.md",
-    "increasing returns to scale.md",
-    "Returns of Scale.md",
-    "constant returns to scale.md",
-    "Important Theorems.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
-    "first derivative test.md",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
-    "Mathematics/Mean Value Theorem.md",
-    "Critical Points.md",
-    "Mathematics/Inflection Points.md",
     "inflection point example.png",
-    "Mathematics/critical numbers.md",
-    "Chemistry/Acid-Base Reactions.md",
-    "Print.md",
-    "Economics/Market Failures.md",
-    "Statistics/Data Management - Unit 4 Review.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",
