@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Inflection Points.md",
+                "file": "Economics/Elasticity of Demand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63961d2d8505081d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Context-dependent memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#review",
+                "query": "second derivative test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Inflection Points.md",
+                "file": "Context-dependent memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Inflection Points.md",
+                "file": "Context-dependent memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Inflection Points.md"
+                "file": "Context-dependent memory.md"
               }
             }
           },
@@ -169,11 +181,29 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "934762b34384f26e",
+  "active": "63961d2d8505081d",
   "lastOpenFiles": [
+    "retrieval cues.md",
+    "Context-dependent memory.md",
+    "Psychology/Sensation - Perception/priming.md",
+    "memory retrieval.md",
+    "Economics/Elasticity of Demand.md",
+    "Economics/elasticity.md",
+    "oligopoly.md",
+    "diseconomies of scale.md",
+    "decreasing returns to scale.md",
+    "increasing returns to scale.md",
+    "Returns of Scale.md",
+    "constant returns to scale.md",
+    "Important Theorems.md",
+    "Screenshot 2024-02-17 at 5.22.12 PM.png",
+    "first derivative test.md",
+    "Screenshot 2024-02-17 at 5.18.28 PM.png",
+    "Mathematics/Mean Value Theorem.md",
+    "Critical Points.md",
+    "Mathematics/Inflection Points.md",
     "inflection point example.png",
     "Mathematics/critical numbers.md",
-    "Mathematics/Inflection Points.md",
     "Chemistry/Acid-Base Reactions.md",
     "Print.md",
     "Economics/Market Failures.md",
@@ -182,21 +212,6 @@
     "Implicit Memories.md",
     "Memory Consolidation.md",
     "explicit memories.md",
-    "episodic.md",
-    "semantic.md",
-    "Levels of Processing.md",
-    "Distributed Practice.md",
-    "Learning/Cognitive Load.md",
-    "Psychology/Encoding.md",
-    "hierarchy.md",
-    "Mnemonics.md",
-    "Method of Loci.md",
-    "conflict-files-obsidian-git.md",
-    "Mathematics/l'Hopital's Rule.md",
-    "critical numbers.md",
-    "Statistics/Voluntary Sampling.md",
-    "Statistics/Voluntary Response Bias.md",
-    "Statistics/Under-coverage Bias.md",
     "Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Sensation - Perception/vestibular system.png",
     "Psychology/Sensation - Perception/taste buds.png",
@@ -204,9 +219,6 @@
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 8.01.46 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 8.00.08 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 7.56.13 PM.png",
-    "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 7.54.52 PM.png",
-    "Psychology/Sensation - Perception/Pasted image 20240201193813.png",
-    "Psychology/Sensation - Perception/Pasted image 20240201193736.png",
     "Psychology/Sensation - Perception",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",

@@ -1,4 +1,4 @@
-l#microeconomics 
+#microeconomics 
 TLDR; as price increases if PED is high then [[Consumers|consumers]] react strongly and decrease the quantity which they demand of the item. If PED is low then they don't give a shit. [[PASIFIC]] factors can influence PED along with the broadness of the definition of a market, addictiveness of the good, the time period considered (longer times means more time for [[consumers]] to react), the portion of income spent on the [[Goods|good]], and the necessities versus luxuries. A *positive PED* indicates a [[Goods|giffen good]].
 
 # Revenue
