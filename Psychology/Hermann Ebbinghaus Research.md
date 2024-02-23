@@ -1,1 +1,0 @@
-This guy told people to remember three letters with a syllable and recall the items. The longer he spent not ![[Screenshot 2024-02-06 at 12.34.29 PM.png]]

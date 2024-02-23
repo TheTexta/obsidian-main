@@ -1,1 +1,1 @@
-[[Hermann Ebbinghaus Research]]
+[[Hermann Ebbinghaus]]

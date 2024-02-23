@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing effect.md",
+                "file": "Psychology/Hermann Ebbinghaus.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "second derivative test",
+                "query": "cognitive psychology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing effect.md",
+                "file": "Psychology/Hermann Ebbinghaus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing effect.md",
+                "file": "Psychology/Hermann Ebbinghaus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing effect.md"
+                "file": "Psychology/Hermann Ebbinghaus.md"
               }
             }
           },
@@ -193,10 +193,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "04dbbc6fa4feaffe",
+  "active": "bc26f921e137dcc5",
   "lastOpenFiles": [
-    "spacing effect.md",
+    "deep processing.md",
+    "shallow processing.md",
     "testing effect.md",
+    "spacing effect.md",
     "mass study.md",
     "Mnemonics.md",
     "Psychology/chunking.md",
@@ -219,8 +221,6 @@
     "Learning/Free Recall.md",
     "Psychology/Memory.md",
     "Mathematics/Inflection Points.md",
-    "Psychology/Social Psychology/Other-Race Effect.md",
-    "motivated forgetting.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
