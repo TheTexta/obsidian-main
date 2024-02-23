@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iconic memory.md",
+                "file": "Psychology/chunking.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iconic memory.md",
+                "file": "Psychology/chunking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iconic memory.md",
+                "file": "Psychology/chunking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iconic memory.md"
+                "file": "Psychology/chunking.md"
               }
             }
           },
@@ -195,8 +195,8 @@
   },
   "active": "04dbbc6fa4feaffe",
   "lastOpenFiles": [
-    "Implicit Memories.md",
     "iconic memory.md",
+    "Implicit Memories.md",
     "automatic processing.md",
     "effortful processing.md",
     "explicit memories.md",
