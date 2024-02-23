@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "explicit memories.md",
+                "file": "Implicit Memories.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "explicit memories.md",
+                "file": "Implicit Memories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "explicit memories.md",
+                "file": "Implicit Memories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "explicit memories.md"
+                "file": "Implicit Memories.md"
               }
             }
           },
@@ -195,6 +195,9 @@
   },
   "active": "04dbbc6fa4feaffe",
   "lastOpenFiles": [
+    "automatic processing.md",
+    "effortful processing.md",
+    "explicit memories.md",
     "Psychology/Working Memory.md",
     "long-term memory.md",
     "Psychology/Short-Term Memory.md",
@@ -218,9 +221,6 @@
     "Economics/Tax.md",
     "retroactive interference.md",
     "proactive interference.md",
-    "retrieval failure.md",
-    "Storage decay.md",
-    "encoding failure.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
