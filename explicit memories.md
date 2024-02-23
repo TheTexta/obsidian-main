@@ -1,5 +1,7 @@
 #cognitive-psychology 
-Explicit Memories information we memorise consciously, episodic memories. Also known as declaritive memory.
+Explicit Memories::Retention of facts and experiences that one can consciously know and declare, aka declarative memory.
+
+information we memorise consciously, episodic memories. Also known as declaritive memory.
 
 Either they are [[semantic]] or [[episodic]]
 

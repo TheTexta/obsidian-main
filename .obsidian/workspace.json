@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Working Memory.md",
+                "file": "explicit memories.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Working Memory.md",
+                "file": "explicit memories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Working Memory.md",
+                "file": "explicit memories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Working Memory.md"
+                "file": "explicit memories.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "04dbbc6fa4feaffe",
   "lastOpenFiles": [
+    "Psychology/Working Memory.md",
     "long-term memory.md",
     "Psychology/Short-Term Memory.md",
     "sensory memory.md",
@@ -220,7 +221,6 @@
     "retrieval failure.md",
     "Storage decay.md",
     "encoding failure.md",
-    "Forgetting.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
