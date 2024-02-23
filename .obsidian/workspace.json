@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/chunking.md",
+                "file": "testing effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/chunking.md",
+                "file": "testing effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/chunking.md",
+                "file": "testing effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/chunking.md"
+                "file": "testing effect.md"
               }
             }
           },
@@ -195,6 +195,11 @@
   },
   "active": "04dbbc6fa4feaffe",
   "lastOpenFiles": [
+    "spacing effect.md",
+    "testing effect.md",
+    "mass study.md",
+    "Mnemonics.md",
+    "Psychology/chunking.md",
     "iconic memory.md",
     "Implicit Memories.md",
     "automatic processing.md",
@@ -216,11 +221,6 @@
     "Mathematics/Inflection Points.md",
     "Psychology/Social Psychology/Other-Race Effect.md",
     "motivated forgetting.md",
-    "variable costs.md",
-    "Psychology/Psych 101/Standard Deviation.md",
-    "Psychology/Psych 101/Range.md",
-    "Psychology/Psych 101/Mode.md",
-    "Economics/Tax.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
