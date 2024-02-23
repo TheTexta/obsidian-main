@@ -1,1 +1,0 @@
-Memory isn't just encoding and storage, you need [[Retrieval Cues]] to remember something.
