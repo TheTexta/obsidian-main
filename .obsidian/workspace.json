@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semantic memory.md",
+                "file": "episodic memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semantic memory.md",
+                "file": "episodic memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semantic memory.md",
+                "file": "episodic memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semantic memory.md"
+                "file": "episodic memory.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "04dbbc6fa4feaffe",
   "lastOpenFiles": [
+    "semantic memory.md",
     "Psychology/Hermann Ebbinghaus.md",
     "deep processing.md",
     "shallow processing.md",
@@ -220,7 +221,6 @@
     "recognition.md",
     "recall.md",
     "Learning/Free Recall.md",
-    "Psychology/Memory.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
