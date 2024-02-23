@@ -3,7 +3,7 @@ Explicit Memories::Retention of facts and experiences that one can consciously k
 
 information we memorise consciously, episodic memories. Also known as declaritive memory.
 
-Either they are [[semantic]] or [[episodic]]
+Either they are [[semantic memory]] or [[episodic]]
 
 The network that processes and stores new explicit memories of facts and episodes includes your [[frontal lobes]] and your [[hippocampus]].
 
