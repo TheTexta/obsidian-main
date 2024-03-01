@@ -1,0 +1,1 @@
+When making each days judgements we follow intuition.

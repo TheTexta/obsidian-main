@@ -1,3 +1,3 @@
-#biological-psychology 
-Hippocampus::Means seahorse, the structures kind of resemble one. Two structures which surround the [[thalamus]]. Involved in memory, converting short term memories to long term ones. Only if the memory is seen to be important enough is it [[How to learn|learned]], through active recalls.
+#biological-psychology #cognitive-psychology 
+Hippocampus::Means seahorse, the structures kind of resemble one. Two structures which surround the [[thalamus]]. Involved in memory, converting short term memories to long term ones. Only if the memory is seen to be important enough is it [[How to learn|learned]], through active recalls. **processes explicit / conscious memories - of facts or events for storage.**
 <!--SR:!2023-12-21,3,250-->

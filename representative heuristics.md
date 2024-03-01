@@ -1,0 +1,1 @@
+Mental shortcut to tell you how to classify something based on past examples. 

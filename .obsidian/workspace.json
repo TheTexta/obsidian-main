@@ -49,14 +49,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodic memory.md",
+                "file": "cognition.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "27d520cafd2f7812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/Heuristics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc5d376773bbc55b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "representative heuristics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c8e56381ffb7972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "belief perseverance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4583c78e0c1fd7c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -102,7 +148,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodic memory.md",
+                "file": "belief perseverance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "episodic memory.md",
+                "file": "belief perseverance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "episodic memory.md"
+                "file": "belief perseverance.md"
               }
             }
           },
@@ -193,8 +240,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "04dbbc6fa4feaffe",
+  "active": "a4583c78e0c1fd7c",
   "lastOpenFiles": [
+    "Psychology/Psych 101/Overconfidence Bias.md",
+    "belief perseverance.md",
+    "representative heuristics.md",
+    "intuition.md",
+    "mental set.md",
+    "Psychology/Sensation - Perception/Perceptual Set.md",
+    "Mathematics/Non Mutually Exclusive Events.md",
+    "Psychology/Social Psychology/Heuristics.md",
+    "algorithms.md",
+    "cognition.md",
+    "flashbulb memory.md",
+    "infantile amnesia.md",
+    "basal ganglia.md",
+    "Psychology/Biological Psychology/cerebellum.md",
+    "Memory Consolidation.md",
+    "Psychology/Biological Psychology/hippocampus.md",
+    "episodic memory.md",
     "semantic memory.md",
     "Psychology/Hermann Ebbinghaus.md",
     "deep processing.md",
@@ -204,23 +268,6 @@
     "mass study.md",
     "Mnemonics.md",
     "Psychology/chunking.md",
-    "iconic memory.md",
-    "Implicit Memories.md",
-    "automatic processing.md",
-    "effortful processing.md",
-    "explicit memories.md",
-    "Psychology/Working Memory.md",
-    "long-term memory.md",
-    "Psychology/Short-Term Memory.md",
-    "sensory memory.md",
-    "Psychology/Sensation - Perception/Parallel Processing.md",
-    "retrieval.md",
-    "storage.md",
-    "Psychology/Encoding.md",
-    "relearning.md",
-    "recognition.md",
-    "recall.md",
-    "Learning/Free Recall.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
