@@ -8,51 +8,93 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ec94140e4107f9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Sampling bias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55d549af54ccf20e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "production function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77d719e90d60c59c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "c78e4a3712108d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "profit maximisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef2b6488a712a011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70c5038760122df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Measuring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e963679e134c6c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Atkinson Shiffrin Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "843fa6fadab90cca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "explicit memories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "934762b34384f26e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Elasticity of Demand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63961d2d8505081d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "motivated forgetting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04dbbc6fa4feaffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Hermann Ebbinghaus.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -75,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cognitive psychology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +144,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Hermann Ebbinghaus.md",
+                "file": "profit maximisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Hermann Ebbinghaus.md",
+                "file": "profit maximisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Hermann Ebbinghaus.md"
+                "file": "profit maximisation.md"
               }
             }
           },
@@ -179,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,44 +235,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bc26f921e137dcc5",
+  "active": "c78e4a3712108d1a",
   "lastOpenFiles": [
-    "deep processing.md",
-    "shallow processing.md",
+    "Economics/Capital.md",
+    "profit maximisation.md",
+    "average product.md",
+    "average product of labour.md",
+    "retroactive interference.md",
+    "von Restorff effect.md",
+    "variable costs.md",
     "testing effect.md",
-    "spacing effect.md",
-    "mass study.md",
-    "Mnemonics.md",
-    "Psychology/chunking.md",
-    "iconic memory.md",
-    "Implicit Memories.md",
-    "automatic processing.md",
-    "effortful processing.md",
-    "explicit memories.md",
-    "Psychology/Working Memory.md",
-    "long-term memory.md",
-    "Psychology/Short-Term Memory.md",
-    "sensory memory.md",
-    "Psychology/Sensation - Perception/Parallel Processing.md",
-    "retrieval.md",
     "storage.md",
-    "Psychology/Encoding.md",
+    "spacing effect.md",
+    "shallow processing.md",
+    "sensory memory.md",
+    "semantic.md",
+    "retrograde amnesia.md",
+    "retrieval.md",
+    "retrieval failure.md",
+    "retrieval cues.md",
     "relearning.md",
     "recognition.md",
     "recall.md",
-    "Learning/Free Recall.md",
-    "Psychology/Memory.md",
-    "Mathematics/Inflection Points.md",
-    "Screenshot 2024-02-17 at 5.22.12 PM.png",
-    "Screenshot 2024-02-17 at 5.18.28 PM.png",
+    "proactive interference.md",
+    "oligopoly.md",
+    "motivated forgetting.md",
+    "mass study.md",
+    "long-term memory.md",
     "inflection point example.png",
+    "increasing returns to scale.md",
+    "Screenshot 2024-02-17 at 5.22.12 PM.png",
+    "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "Psychology/Shiffrin Atkinson Model.png",
-    "Psychology/Sensation - Perception/vestibular system.png",
-    "Psychology/Sensation - Perception/taste buds.png",
-    "Psychology/Sensation - Perception/figure ground relationship.png",
+    "Psychology/Screenshot 2024-02-06 at 12.34.29 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 8.01.46 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 8.00.08 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 7.56.13 PM.png",
+    "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 7.54.52 PM.png",
+    "Psychology/Sensation - Perception/Pasted image 20240201193813.png",
     "Psychology/Sensation - Perception",
     "Statistics",
     "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
