@@ -1,1 +1,2 @@
-Step by step logical processes to a solution
+#cognitive-psychology 
+Algorithms::Methodical logical rules which guarantee solutions to problems
