@@ -1,0 +1,1 @@
+Crystallised Intelligence::Cumulative knowledge and verbal skills; increases with age.

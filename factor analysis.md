@@ -1,0 +1,2 @@
+#cognitive-psychology 
+Factor Analysis::Statistical procedure that finds clusters of related items (factors) on a test; used to identify different dimensions of performance that underlie a persons final score on said test.

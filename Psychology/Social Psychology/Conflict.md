@@ -30,7 +30,7 @@ Reducing tension through GRIT strategy. Grit consists of two main steps which ar
 
 actually relates to the earlier units, [[reciprocity norm]] and the [[foot in the door phenomena]]
 
-[[GRIT]]
+[[Psychology/Social Psychology/GRIT]]
 
 Subordinate Goals::achievable tasks that require two groups to complete
 <!--SR:!2023-11-10,3,268-->

@@ -122,9 +122,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4582ea3eb1e95f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gardners multiple intelligences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62b2fdf63cbce365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Social Psychology/GRIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5e6c6210eecb5cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Biological Psychology/aphasia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -191,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligence.md",
+                "file": "Psychology/Biological Psychology/aphasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligence.md",
+                "file": "Psychology/Biological Psychology/aphasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligence.md"
+                "file": "Psychology/Biological Psychology/aphasia.md"
               }
             }
           },
@@ -262,34 +298,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d2e242d72839d844",
+  "active": "c5e6c6210eecb5cf",
   "lastOpenFiles": [
-    "intelligence.md",
-    "profit maximisation.md",
-    "production function.md",
-    "average product.md",
-    "average product of labour.md",
-    "Psychology/Psych 101/Overconfidence Bias.md",
-    "belief perseverance.md",
-    "representative heuristics.md",
-    "intuition.md",
-    "mental set.md",
-    "Psychology/Sensation - Perception/Perceptual Set.md",
-    "Mathematics/Non Mutually Exclusive Events.md",
-    "Psychology/Social Psychology/Heuristics.md",
-    "algorithms.md",
-    "cognition.md",
-    "flashbulb memory.md",
-    "infantile amnesia.md",
-    "basal ganglia.md",
-    "Psychology/Biological Psychology/cerebellum.md",
-    "Memory Consolidation.md",
-    "Psychology/Biological Psychology/hippocampus.md",
-    "episodic memory.md",
-    "semantic memory.md",
-    "Psychology/Hermann Ebbinghaus.md",
-    "deep processing.md",
-    "shallow processing.md",
+    "Psychology/Biological Psychology/Wernicke's Area.md",
+    "Psychology/Biological Psychology/Broca's Area.md",
+    "telegraphic speech.md",
+    "two-word stage.md",
+    "one-word stage.md",
+    "babbling stage.md",
+    "productive language.md",
+    "receptive language.md",
+    "universal grammar.md",
+    "Noam Chomsky.md",
+    "syntax.md",
+    "semantics.md",
+    "grammar.md",
+    "morpheme.md",
+    "phoneme.md",
+    "Psychology/Sensation - Perception/Mechanoreceptors.md",
+    "language.md",
+    "culture fair test.md",
+    "Psychology/Social Psychology/Bias.md",
+    "Psychology/Social Psychology/Stereotype Threat.md",
+    "carol dweck.md",
+    "J McVicker Hunt.md",
+    "fixed mindset.md",
+    "growth mindset.md",
+    "polygenetic.md",
+    "Psychology/Biological Psychology/Heritability.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",

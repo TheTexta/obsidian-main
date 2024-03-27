@@ -1,0 +1,1 @@
+[[average product]] of [[labour]]
