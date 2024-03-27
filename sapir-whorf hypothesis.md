@@ -1,0 +1,2 @@
+#cognitive-psychology 
+Sapir-Whorf Hypothesis::Linguistic relativity hypothesis is the idea that the language one speaks influences there ability to think about reality. How language affects worldview. 
