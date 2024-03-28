@@ -1,2 +1,2 @@
 #cognitive-psychology 
-Encoding Failure::
+Encoding Failure::Failure to process information into memory. 

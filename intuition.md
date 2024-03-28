@@ -1,1 +1,2 @@
-When making each days judgements we follow intuition.
+#cognitive-psychology 
+Intuition::Effortless immediate feelings or thoughts which contrast that of explicit reasoning. **System 1**.

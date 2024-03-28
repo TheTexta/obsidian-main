@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms.md",
+                "file": "semantic memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms.md",
+                "file": "semantic memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms.md",
+                "file": "semantic memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms.md"
+                "file": "semantic memory.md"
               }
             }
           },
@@ -300,32 +300,32 @@
   },
   "active": "c5e6c6210eecb5cf",
   "lastOpenFiles": [
-    "Noam Chomsky.md",
-    "linguistic influence.md",
-    "linguistic determinism.md",
-    "sapir-whorf hypothesis.md",
-    "Psychology/Biological Psychology/aphasia.md",
-    "Psychology/Biological Psychology/Wernicke's Area.md",
-    "Psychology/Biological Psychology/Broca's Area.md",
-    "telegraphic speech.md",
-    "two-word stage.md",
-    "one-word stage.md",
-    "babbling stage.md",
-    "productive language.md",
-    "receptive language.md",
-    "universal grammar.md",
-    "syntax.md",
-    "semantics.md",
-    "grammar.md",
-    "morpheme.md",
-    "phoneme.md",
-    "Psychology/Sensation - Perception/Mechanoreceptors.md",
-    "language.md",
-    "culture fair test.md",
-    "Psychology/Social Psychology/Bias.md",
-    "Psychology/Social Psychology/Stereotype Threat.md",
-    "carol dweck.md",
-    "J McVicker Hunt.md",
+    "Elizabeth Loftus.md",
+    "deja vu.md",
+    "source amnesia.md",
+    "misinformation effect.md",
+    "constructive processing.md",
+    "reconsolidation.md",
+    "positive transfer.md",
+    "suppression.md",
+    "repression.md",
+    "retroactive interference.md",
+    "proactive interference.md",
+    "encoding failure.md",
+    "retrograde amnesia.md",
+    "dissociative amnesia.md",
+    "anterograde amnesia.md",
+    "hyperthymesia.md",
+    "four tips for boosting creativity.md",
+    "five components of creativity.md",
+    "divergent thinking.md",
+    "convergent thinking.md",
+    "creativity.md",
+    "prototype.md",
+    "natural concept.md",
+    "formal concept.md",
+    "concept.md",
+    "cognition.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
