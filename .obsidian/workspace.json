@@ -158,9 +158,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "834b967e0d880ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clinical Psychology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87bc725685e8797f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "normality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7e73b0fc731e006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "oxidisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -179,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cognitive psychology",
+                "query": "redox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,8 +242,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semantic memory.md",
+                "file": "oxidisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semantic memory.md",
+                "file": "oxidisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semantic memory.md"
+                "file": "oxidisation.md"
               }
             }
           },
@@ -298,34 +333,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c5e6c6210eecb5cf",
+  "active": "a7e73b0fc731e006",
   "lastOpenFiles": [
+    "oxidising agent.md",
+    "oxidisation.md",
+    "Redox Reactions.md",
+    "reducing agent.md",
+    "reduction.md",
+    "Chemistry/Reactions.md",
+    "when do disorders strike.md",
+    "Vulnerability.md",
+    "diathesis.md",
+    "Psychology/Biological Psychology/Biopsychosocial Approach.md",
+    "the medical model.md",
+    "Deviance.md",
+    "distress.md",
+    "dysfunction.md",
+    "syndrome.md",
+    "down syndrome.md",
+    "normality.md",
+    "abnormality.md",
+    "Clinical Psychology.md",
+    "semantic memory.md",
     "Elizabeth Loftus.md",
     "deja vu.md",
     "source amnesia.md",
     "misinformation effect.md",
     "constructive processing.md",
     "reconsolidation.md",
-    "positive transfer.md",
-    "suppression.md",
-    "repression.md",
-    "retroactive interference.md",
-    "proactive interference.md",
-    "encoding failure.md",
-    "retrograde amnesia.md",
-    "dissociative amnesia.md",
-    "anterograde amnesia.md",
-    "hyperthymesia.md",
-    "four tips for boosting creativity.md",
-    "five components of creativity.md",
-    "divergent thinking.md",
-    "convergent thinking.md",
-    "creativity.md",
-    "prototype.md",
-    "natural concept.md",
-    "formal concept.md",
-    "concept.md",
-    "cognition.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
