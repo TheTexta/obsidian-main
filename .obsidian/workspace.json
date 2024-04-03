@@ -189,7 +189,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Galvanic Cells.md",
+                "file": "Electrochemistry.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Galvanic Cells.md",
+                "file": "Electrochemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Galvanic Cells.md",
+                "file": "Electrochemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Galvanic Cells.md"
+                "file": "Electrochemistry.md"
               }
             }
           },
@@ -335,9 +335,17 @@
   },
   "active": "a7e73b0fc731e006",
   "lastOpenFiles": [
-    "reduction potentials table.md",
-    "Galvanic Cells.md",
+    "hydrides.md",
     "Electrochemistry.md",
+    "Mathematics/Integration.md",
+    "oxidisation number.md",
+    "Spontaneity of redox reactions.md",
+    "electrode potential.md",
+    "anode.md",
+    "cathode.md",
+    "Galvanic Cells.md",
+    "salt bridge.md",
+    "reduction potentials table.md",
     "oxidising agent.md",
     "Redox Reactions.md",
     "oxidisation.md",
@@ -353,14 +361,6 @@
     "distress.md",
     "dysfunction.md",
     "syndrome.md",
-    "down syndrome.md",
-    "normality.md",
-    "abnormality.md",
-    "Clinical Psychology.md",
-    "semantic memory.md",
-    "Elizabeth Loftus.md",
-    "deja vu.md",
-    "source amnesia.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",

@@ -1,0 +1,1 @@
+first column of periodic table
