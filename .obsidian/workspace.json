@@ -4,223 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "87babfd0e12ebb59",
+        "id": "6f234ee48f99780b",
         "type": "tabs",
         "children": [
           {
-            "id": "843fa6fadab90cca",
+            "id": "0868b3e1bc581223",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "explicit memories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "934762b34384f26e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Elasticity of Demand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63961d2d8505081d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "motivated forgetting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04dbbc6fa4feaffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cognition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27d520cafd2f7812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Social Psychology/Heuristics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc5d376773bbc55b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "representative heuristics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c8e56381ffb7972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "belief perseverance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4583c78e0c1fd7c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "c8ae886bcda77967",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "d2e242d72839d844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intelligence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4582ea3eb1e95f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gardners multiple intelligences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62b2fdf63cbce365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Social Psychology/GRIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5e6c6210eecb5cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semantic memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "834b967e0d880ec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clinical Psychology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87bc725685e8797f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "normality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e73b0fc731e006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrochemistry - Unit 5 Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "027c81171bad0403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Psych 101/Standard Deviation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3293d7680536380c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shallow processing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shallow processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shallow processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "shallow processing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -357,34 +148,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3293d7680536380c",
+  "active": "0868b3e1bc581223",
   "lastOpenFiles": [
-    "deep processing.md",
+    "explicit memories.md",
+    "Economics/Elasticity of Demand.md",
+    "motivated forgetting.md",
+    "cognition.md",
+    "Psychology/Social Psychology/Heuristics.md",
+    "representative heuristics.md",
+    "belief perseverance.md",
+    "intelligence.md",
+    "Gardners multiple intelligences.md",
+    "Psychology/Social Psychology/GRIT.md",
+    "semantic memory.md",
+    "Clinical Psychology.md",
+    "normality.md",
+    "Electrochemistry - Unit 5 Review.md",
+    "Psychology/Psych 101/Standard Deviation.md",
     "shallow processing.md",
+    "deep processing.md",
     "retroactive interference.md",
     "proactive interference.md",
     "10 year rule.md",
     "agoraphobia.md",
     "phobias.md",
-    "Psychology/Psych 101/Standard Deviation.md",
     "Psychology/Psych 101/Z Score.md",
     "Untitled.md",
-    "Electrochemistry - Unit 5 Review.md",
     "hydrides.md",
     "Mathematics/Integration.md",
-    "oxidisation number.md",
-    "Spontaneity of redox reactions.md",
-    "electrode potential.md",
-    "anode.md",
-    "cathode.md",
-    "Galvanic Cells.md",
-    "salt bridge.md",
-    "reduction potentials table.md",
-    "oxidising agent.md",
-    "Redox Reactions.md",
-    "oxidisation.md",
-    "reducing agent.md",
-    "reduction.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
