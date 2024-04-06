@@ -1,2 +1,3 @@
 #cognitive-psychology 
-Mental Set::A tendency to approach a *problem* in one particular way; often a way which has been successful in the past. 
+Mental Set::A tendency to approach a *problem* in one particular way; often a way which has been successful in the past.
+<!--SR:!2024-04-09,3,250-->

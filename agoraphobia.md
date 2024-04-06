@@ -1,0 +1,1 @@
+Agoraphobia::Anxiety disorder, fear of leaving the house. a phobia

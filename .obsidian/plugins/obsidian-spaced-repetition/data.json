@@ -10,7 +10,10 @@
       "#biological-psychology",
       "#statistics",
       "#perception-psychology",
-      "#data-management"
+      "#data-management",
+      "#clinical-psychology",
+      "#cognitive-psychology",
+      ""
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -44,7 +47,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-04-01",
+  "buryDate": "2024-04-06",
   "buryList": [],
   "historyDeck": null
 }

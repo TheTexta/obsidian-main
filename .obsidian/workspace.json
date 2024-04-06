@@ -189,14 +189,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrochemistry.md",
+                "file": "Electrochemistry - Unit 5 Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "027c81171bad0403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Psych 101/Standard Deviation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3293d7680536380c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shallow processing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -215,7 +239,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redox",
+                "query": "psychology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrochemistry.md",
+                "file": "shallow processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrochemistry.md",
+                "file": "shallow processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrochemistry.md"
+                "file": "shallow processing.md"
               }
             }
           },
@@ -333,10 +357,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a7e73b0fc731e006",
+  "active": "3293d7680536380c",
   "lastOpenFiles": [
+    "deep processing.md",
+    "shallow processing.md",
+    "retroactive interference.md",
+    "proactive interference.md",
+    "10 year rule.md",
+    "agoraphobia.md",
+    "phobias.md",
+    "Psychology/Psych 101/Standard Deviation.md",
+    "Psychology/Psych 101/Z Score.md",
+    "Untitled.md",
+    "Electrochemistry - Unit 5 Review.md",
     "hydrides.md",
-    "Electrochemistry.md",
     "Mathematics/Integration.md",
     "oxidisation number.md",
     "Spontaneity of redox reactions.md",
@@ -351,16 +385,6 @@
     "oxidisation.md",
     "reducing agent.md",
     "reduction.md",
-    "Chemistry/Reactions.md",
-    "when do disorders strike.md",
-    "Vulnerability.md",
-    "diathesis.md",
-    "Psychology/Biological Psychology/Biopsychosocial Approach.md",
-    "the medical model.md",
-    "Deviance.md",
-    "distress.md",
-    "dysfunction.md",
-    "syndrome.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",

@@ -3,6 +3,8 @@ Standard Deviation::A measure of how dispersed the data is relative to the [[Mea
 
 Visually Asses Standard Deviation::The further values are away from the mean, the higher then standard deviation.
 
+The three st devs to remember::68.26%, 95.44% and 99.72% for 1, 2 and 3 st devs from the mean respectively.
+
 ### Formula
 $s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}$
 

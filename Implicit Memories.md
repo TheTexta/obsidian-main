@@ -1,5 +1,6 @@
 #cognitive-psychology 
 Implicit memories::Retention of learned skills or classically conditioned associations independent of conscious recollection, also know as non-declarative memory.
+<!--SR:!2024-04-07,1,230-->
 
 
 
