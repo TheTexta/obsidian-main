@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/chunking.md",
+                "file": "mass study.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/chunking.md",
+                "file": "mass study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/chunking.md",
+                "file": "mass study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/chunking.md"
+                "file": "mass study.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "0868b3e1bc581223",
   "lastOpenFiles": [
-    "fixation.md",
     "Psychology/chunking.md",
+    "fixation.md",
     "echoic memory.md",
     "Psychology/Sensation - Perception/Parallel Processing.md",
     "mood congruent memory.md",
