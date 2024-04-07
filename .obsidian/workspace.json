@@ -11,8 +11,12 @@
             "id": "0868b3e1bc581223",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/chunking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Psychology/chunking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Psychology/chunking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Psychology/chunking.md"
+              }
             }
           },
           {
@@ -150,6 +158,23 @@
   },
   "active": "0868b3e1bc581223",
   "lastOpenFiles": [
+    "fixation.md",
+    "Psychology/chunking.md",
+    "echoic memory.md",
+    "Psychology/Sensation - Perception/Parallel Processing.md",
+    "mood congruent memory.md",
+    "Encoding specificity principle.md",
+    "Context-dependent memory.md",
+    "Psychology/Sensation - Perception/priming.md",
+    "Retrieval Cues.md",
+    "long term potentiation.md",
+    "synaptic plasticity.md",
+    "flashbulb memory.md",
+    "Psychology/Biological Psychology/cerebellum.md",
+    "Memory Consolidation.md",
+    "Psychology/Biological Psychology/hippocampus.md",
+    "episodic memory.md",
+    "semantic memory.md",
     "explicit memories.md",
     "Economics/Elasticity of Demand.md",
     "motivated forgetting.md",
@@ -159,23 +184,6 @@
     "belief perseverance.md",
     "intelligence.md",
     "Gardners multiple intelligences.md",
-    "Psychology/Social Psychology/GRIT.md",
-    "semantic memory.md",
-    "Clinical Psychology.md",
-    "normality.md",
-    "Electrochemistry - Unit 5 Review.md",
-    "Psychology/Psych 101/Standard Deviation.md",
-    "shallow processing.md",
-    "deep processing.md",
-    "retroactive interference.md",
-    "proactive interference.md",
-    "10 year rule.md",
-    "agoraphobia.md",
-    "phobias.md",
-    "Psychology/Psych 101/Z Score.md",
-    "Untitled.md",
-    "hydrides.md",
-    "Mathematics/Integration.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
