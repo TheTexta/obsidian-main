@@ -1,3 +1,3 @@
 #cognitive-psychology 
 Linguistic Influence::The weaker form of the [[sapir-whorf hypothesis]] in the idea that our thinking and worldview are influenced by our language.
-<!--SR:!2024-04-07,1,230-->
+<!--SR:!2024-04-09,2,230-->

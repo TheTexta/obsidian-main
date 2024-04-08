@@ -1,6 +1,6 @@
 #cognitive-psychology 
 Working Memory::Newer understanding of [[Short-Term Memory]] that adds conscious, active processing of incoming auditory and visual information, and of information retrieved from [[long-term memory]].
-<!--SR:!2024-04-07,1,230-->
+<!--SR:!2024-04-09,1,210-->
 
 
 Baddeley Hitch - Working memory

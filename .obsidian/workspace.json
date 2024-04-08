@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mass study.md",
+                "file": "Psychology/chunking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4efb9f9663ecdcfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crystallised intelligence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mass study.md",
+                "file": "crystallised intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mass study.md",
+                "file": "crystallised intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mass study.md"
+                "file": "crystallised intelligence.md"
               }
             }
           },
@@ -156,9 +169,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0868b3e1bc581223",
+  "active": "4efb9f9663ecdcfd",
   "lastOpenFiles": [
     "Psychology/chunking.md",
+    "mass study.md",
     "fixation.md",
     "echoic memory.md",
     "Psychology/Sensation - Perception/Parallel Processing.md",
@@ -183,7 +197,6 @@
     "representative heuristics.md",
     "belief perseverance.md",
     "intelligence.md",
-    "Gardners multiple intelligences.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",

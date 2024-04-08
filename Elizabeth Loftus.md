@@ -1,3 +1,3 @@
 #cognitive-psychology 
 Elizabeth Loftus::American psychologist known for her work on the misinformation effect, false memory, and criticism of recovered memories therapies.
-<!--SR:!2024-04-07,1,230-->
+<!--SR:!2024-04-09,1,190-->
