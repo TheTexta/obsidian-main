@@ -1,0 +1,1 @@
+take the [[Integration|integral]] and divide it by the length of the [[Integration|integral]].
