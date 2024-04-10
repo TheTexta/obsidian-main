@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/Heritability.md",
+                "file": "eidetic memory.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "73ac4225bbd89c7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Biological Psychology/Heritability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Biological Psychology/Heritability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Psychology/Biological Psychology/Heritability.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +173,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e3c8eff104dfc997",
+  "active": "73ac4225bbd89c7b",
   "lastOpenFiles": [
+    "eidetic memory.md",
+    "echoic memory.md",
+    "Psychology/Working Memory.md",
+    "Psychology/Biological Psychology/Heritability.md",
     "Alfred binet.md",
     "predictive validity.md",
     "Stanford Binet.md",
@@ -184,7 +192,6 @@
     "crystallised intelligence.md",
     "mass study.md",
     "fixation.md",
-    "echoic memory.md",
     "Psychology/Sensation - Perception/Parallel Processing.md",
     "mood congruent memory.md",
     "Encoding specificity principle.md",
@@ -194,9 +201,6 @@
     "long term potentiation.md",
     "synaptic plasticity.md",
     "flashbulb memory.md",
-    "Psychology/Biological Psychology/cerebellum.md",
-    "Memory Consolidation.md",
-    "episodic memory.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
