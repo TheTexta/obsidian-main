@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eidetic memory.md",
+                "file": "retrieval failure.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "retro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "retrieval failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "retrieval failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "retrieval failure.md"
+              }
             }
           },
           {
@@ -173,8 +177,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "73ac4225bbd89c7b",
+  "active": "e3c8eff104dfc997",
   "lastOpenFiles": [
+    "proactive interference.md",
+    "retrieval failure.md",
+    "retroactive interference.md",
+    "retrograde amnesia.md",
     "eidetic memory.md",
     "echoic memory.md",
     "Psychology/Working Memory.md",
@@ -197,10 +205,6 @@
     "Encoding specificity principle.md",
     "Context-dependent memory.md",
     "Psychology/Sensation - Perception/priming.md",
-    "Retrieval Cues.md",
-    "long term potentiation.md",
-    "synaptic plasticity.md",
-    "flashbulb memory.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
