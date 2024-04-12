@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamental Theorem of Calculus.md",
+                "file": "schizophrenia.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamental Theorem of Calculus.md",
+                "file": "schizophrenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamental Theorem of Calculus.md",
+                "file": "schizophrenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamental Theorem of Calculus.md"
+                "file": "schizophrenia.md"
               }
             }
           },
@@ -191,8 +191,11 @@
   },
   "active": "cfa38a99a6f84fe6",
   "lastOpenFiles": [
-    "Second Fundamental Theorem of Calculus.md",
+    "Mathematics/Integration.md",
+    "schizophrenia.md",
     "Fundamental Theorem of Calculus.md",
+    "Mathematics/Calculus.md",
+    "Second Fundamental Theorem of Calculus.md",
     "Market Structures.md",
     "Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Psychology/Psych 101/Z Score.md",
@@ -215,9 +218,6 @@
     "proactive interference.md",
     "retroactive interference.md",
     "retrograde amnesia.md",
-    "echoic memory.md",
-    "Psychology/Working Memory.md",
-    "Psychology/Biological Psychology/Heritability.md",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
