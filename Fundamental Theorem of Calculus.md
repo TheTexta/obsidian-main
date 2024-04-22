@@ -1,7 +1,7 @@
 If $f$ is continuous over $[a,x]$ and where $F(x)=\int{f(x)dx}$
 ### First
 $f(x)\cdot \frac{d}{dx}(u)=\frac{d}{dx}(\int_{a}^{u}f(t)dt)$
-Basically a theorem for finding the [[derivative]] of the [[Integration|integral]] of a [[functions|function]].
+Basically a theorem for finding the [[derivative]] of the [[Integration|integral]] of a [[functions|function]]. It doesnt matter what the lower integral is.
 
 ### Second
 $\int_{a}^{b}f(x)dx = F(b)-F(a)$

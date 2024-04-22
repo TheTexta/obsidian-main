@@ -9,3 +9,7 @@ where $\Delta{x}=\frac{b-a}{n}$ and $x_i=\text{value of the } i_{th} \text{ rect
 
 Remember you can split integrals
 $\int_a^b (f(x)+g(x))=\int_a^b (f(x)) + \int_a^b (g(x))$
+
+Some important ones:
+$\int{sec(u)\cdot tan(u)}=sec(u)$
+
