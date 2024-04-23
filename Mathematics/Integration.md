@@ -12,4 +12,5 @@ $\int_a^b (f(x)+g(x))=\int_a^b (f(x)) + \int_a^b (g(x))$
 
 Some important ones:
 $\int{sec(u)\cdot tan(u)}=sec(u)$
+$\int{\frac{1}{x^2+1}}=tan^-1(x)$
 
