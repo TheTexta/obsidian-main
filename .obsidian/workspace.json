@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35fc4180a67acc7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "attention deficit hyperactivity disorder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "359ad828dfc3c796",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Covalent Bonds Unit 6 Review.md",
+                "file": "attention deficit hyperactivity disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Covalent Bonds Unit 6 Review.md",
+                "file": "attention deficit hyperactivity disorder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Covalent Bonds Unit 6 Review.md"
+                "file": "attention deficit hyperactivity disorder.md"
               }
             }
           },
@@ -157,10 +178,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cfa38a99a6f84fe6",
+  "active": "35fc4180a67acc7e",
   "lastOpenFiles": [
-    "Mathematics/Integration.md",
+    "DSM-5.md",
+    "attention deficit hyperactivity disorder.md",
+    "Psychology/Biological Psychology/Epigenetics.md",
     "Covalent Bonds Unit 6 Review.md",
+    "medical model.md",
+    "Psychological Disorder.md",
+    "Mathematics/Integration.md",
     "Economics/marginal distribution.md",
     "Economics/Marginal Social Benefit.md",
     "Economics/Marginal Utility.md",
@@ -180,11 +206,6 @@
     "Economics/Proportional Taxes.md",
     "Economics/public goods.md",
     "Economics/Quasi-public goods.md",
-    "Economics/Scarcity.md",
-    "mass study.md",
-    "Psychology/Psych 101/Z Score.md",
-    "Fundamental Theorem of Calculus.md",
-    "Mathematics/Calculus.md",
     "Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
