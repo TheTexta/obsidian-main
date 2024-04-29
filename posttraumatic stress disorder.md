@@ -1,0 +1,2 @@
+#disorder-psychology 
+Posttraumatic Stress Disorder::A disorder chractersided by haunting memories, nightmares, hypervigilance, social withdrawal, jumpy anxiety, numbness of feeling, and/or insomnia that lingers for four weeks or more after a traumatic experience. 

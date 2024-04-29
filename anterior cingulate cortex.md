@@ -1,0 +1,2 @@
+#disorder-psychology 
+Anterior Cingulate Cortex::A brain region that monitors our actions and checks for errors, it seems especially likely to be hyperactive in those with [[obsessive-compulsive disorder|ocd]].

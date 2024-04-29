@@ -1,0 +1,2 @@
+#disorder-psychology 
+Major Depressive Disorder::A disorder in which a person experiences, in the absence of drugs or medical conditions, two or more weeks with five or more symptoms, at least one of which must be either depressed mood or loss of interest or pleasure.

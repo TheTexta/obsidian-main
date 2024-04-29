@@ -1,0 +1,2 @@
+#disorder-psychology 
+A [[Psychological Disorder|disorder]] in which a person alternates between the. hopelessness and lethargy of [[persistent depressive disorder|depression]] and the overexcited state of [[mania]]. (Formerly known as manic depressive disorder).

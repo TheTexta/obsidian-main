@@ -1,1 +1,2 @@
-always irrational fears so fear of spiders is not 
+#disorder-psychology 
+Phobias::Always irrational, fears so fear of spiders is not a phobia since that is a rational fear. An anxiety disorder marked by a persistent irrational fear and avoidance of a specific object activity or situation. 
