@@ -3,3 +3,6 @@ Functions defined in the form (r,$\theta$), identify points by specifying r the 
 $\text{If } r<0:$
 $\theta = \theta + 180$
 $r = r*-1$
+
+Transforming from polar to normal planar
+$y=r\cdot sin(\theta)$ and $x=r\cdot cos(\theta)$
