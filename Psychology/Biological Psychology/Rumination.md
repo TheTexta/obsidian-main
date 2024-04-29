@@ -1,1 +1,2 @@
-Thought loops of moments caused by anxiety
+#disorder-psychology 
+Rumination::Compulsive fretting, overthinking our problems and their causes. 

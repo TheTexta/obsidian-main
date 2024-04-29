@@ -1,3 +1,6 @@
+#disorder-psychology 
+Schizophrenia::A disorder characterised by delusions, hallucinations, disorganised speech and /. or diminished, inappropriate emotional expression.
+
 Schizophrenia is a psychotic disorder a group of disorders marked by irrationality, distorted perceptions and lost contact with reality. The word means split mind. schizo + phrenia. 
 
 Positive (inappropriate behaviours which are present)
