@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "non suicidal self injury.md",
+                "file": "schizophrenia.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "non suicidal self injury.md",
+                "file": "schizophrenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "non suicidal self injury.md",
+                "file": "schizophrenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "non suicidal self injury.md"
+                "file": "schizophrenia.md"
               }
             }
           },
@@ -232,6 +232,8 @@
   },
   "active": "6c5d2a4c9166f00b",
   "lastOpenFiles": [
+    "bipolar disorder.md",
+    "non suicidal self injury.md",
     "major depressive disorder.md",
     "Psychology/Biological Psychology/Biopsychosocial Approach.md",
     "Integral Test.md",
@@ -239,8 +241,6 @@
     "Equilateral Triangle Formula.md",
     "agoraphobia.md",
     "Covalent Bonds Unit 6 Review.md",
-    "non suicidal self injury.md",
-    "bipolar disorder.md",
     "panic disorder.md",
     "posttraumatic stress disorder.md",
     "Stress Vulnerability Model.md",
