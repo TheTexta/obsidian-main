@@ -7,6 +7,26 @@
       "folder": "Psychology/Unit 8 - Disorder Psychology",
       "tag": "#disorder-psychology",
       "pattern": ""
+    },
+    {
+      "folder": "Psychology/Unit 3 - Sensation Psychology",
+      "tag": "#perception-psychology",
+      "pattern": ""
+    },
+    {
+      "folder": "Psychology/Unit 9 - Social Psychology",
+      "tag": "#social-psychology",
+      "pattern": ""
+    },
+    {
+      "folder": "Psychology/Unit 2 - Biological Psychology",
+      "tag": "#biological-psychology",
+      "pattern": ""
+    },
+    {
+      "folder": "Psychology/Unit 5 - Cognitive Psychology",
+      "tag": "#cognitive-psychology",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/electroconvulsive therapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sensation-psychology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/electroconvulsive therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/electroconvulsive therapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md"
+                "file": "Psychology/Unit 8 - Disorder Psychology/electroconvulsive therapy.md"
               }
             }
           },
@@ -228,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,8 +241,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "917b8133df6bd11c",
+  "active": "0a857e206c597661",
   "lastOpenFiles": [
+    "Psychology/Unit 8 - Disorder Psychology/repetitive transcranial magnetic stimulation.md",
+    "Psychology/Unit 8 - Disorder Psychology/psychosurgery.md",
+    "Psychology/Encoding.md",
+    "Psychology/Measuring Memory.md",
+    "Psychology/Unit 5 - Cognitive Psychology/Short-Term Memory.md",
+    "Psychology/Unit 5 - Cognitive Psychology/Working Memory.md",
+    "Psychology/Unit 5 - Cognitive Psychology/Hermann Ebbinghaus.md",
+    "Psychology/Unit 5 - Cognitive Psychology/Memory.md",
+    "Psychology/Unit 5 - Cognitive Psychology/chunking.md",
+    "Psychology/Unit 5 - Cognitive Psychology",
+    "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
     "Psychology/Unit 8 - Disorder Psychology/non suicidal self injury.md",
     "Psychology/Unit 8 - Disorder Psychology/bipolar disorder.md",
     "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md",
@@ -252,7 +262,6 @@
     "Learning.md",
     "dissociative identity disorder.md",
     "psychodynamic therapy.md",
-    "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
     "Psychology/Unit 2 - Biological Psychology/Biopsychosocial Approach.md",
     "Integral Test.md",
     "Mathematics/Polar Function.md",
@@ -262,15 +271,6 @@
     "panic disorder.md",
     "posttraumatic stress disorder.md",
     "Stress Vulnerability Model.md",
-    "Psychological Disorder.md",
-    "posttraumatic growth.md",
-    "DSM-5.md",
-    "resilience.md",
-    "lobotomy.md",
-    "psychosurgery.md",
-    "repetitive transcranial magnetic stimulation.md",
-    "electroconvulsive therapy.md",
-    "antidepressant drugs.md",
     "Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
