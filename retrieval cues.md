@@ -3,7 +3,7 @@ Retrieval Cues::A prompt to help us remember something. The more someone has to 
 <!--SR:!2024-04-18,8,250-->
 
 
-[[Priming]]
+[[priming]]
 [[Context-dependent memory]]
 [[State-dependent memory]]
 [[Serial position effect]]

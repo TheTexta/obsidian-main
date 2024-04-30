@@ -1,1 +1,0 @@
-Terminals connect to dendrites of the next neuron. They do not touch, the gap between the terminal and the dendrite its called the [[synapse]]. For the signal to cross the gap, they must be converted to chemicals known as [[Psychology/Biological Psychology/Neurotransmitters]].

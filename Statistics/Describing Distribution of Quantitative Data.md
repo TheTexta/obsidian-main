@@ -6,8 +6,8 @@
 	* [[Unimodal]] - singular peak
 	* [[Bimodal]] - multiple peaks
 * [[Centre]]
-	* When [[skew]] use what as a measure for centre::use the [[median]] as a measure for centre. 
-	* When [[symmetrical]] use what as a measure for centre::use [[mean]].
+	* When [[skew]] use what as a measure for centre::use the [[Median]] as a measure for centre. 
+	* When [[symmetrical]] use what as a measure for centre::use [[Mean]].
 	* Which value in a distribution best describes the typical response?
 		* [[Mean]]
 		* [[Median]]

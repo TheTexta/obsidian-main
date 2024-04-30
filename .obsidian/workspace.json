@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Biological Psychology/Biopsychosocial Approach.md",
+                "file": "Psychology/Unit 2 - Biological Psychology/Biopsychosocial Approach.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md"
+                "file": "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md"
               }
             }
           },
@@ -244,16 +244,16 @@
   },
   "active": "917b8133df6bd11c",
   "lastOpenFiles": [
+    "Psychology/Unit 8 - Disorder Psychology/non suicidal self injury.md",
+    "Psychology/Unit 8 - Disorder Psychology/bipolar disorder.md",
+    "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md",
     "active listening.md",
     "Psychology/Unit 8 - Disorder Psychology",
     "Learning.md",
     "dissociative identity disorder.md",
     "psychodynamic therapy.md",
-    "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md",
-    "bipolar disorder.md",
-    "non suicidal self injury.md",
-    "major depressive disorder.md",
-    "Psychology/Biological Psychology/Biopsychosocial Approach.md",
+    "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
+    "Psychology/Unit 2 - Biological Psychology/Biopsychosocial Approach.md",
     "Integral Test.md",
     "Mathematics/Polar Function.md",
     "Equilateral Triangle Formula.md",
@@ -276,18 +276,18 @@
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
     "Psychology/Shiffrin Atkinson Model.png",
-    "Psychology/Sensation - Perception/vestibular system.png",
-    "Psychology/Sensation - Perception/taste buds.png",
-    "Psychology/Sensation - Perception/figure ground relationship.png",
+    "Psychology/Unit 3 - Sensation Psychology/vestibular system.png",
+    "Psychology/Unit 3 - Sensation Psychology/taste buds.png",
+    "Psychology/Unit 3 - Sensation Psychology/figure ground relationship.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 8.01.46 PM.png",
     "Psychology/Sensation - Perception/Screenshot 2024-02-01 at 8.00.08 PM.png",
-    "Psychology/Sensation - Perception",
+    "Psychology/Unit 3 - Sensation Psychology",
     "Statistics",
-    "Psychology/Biological Psychology/Stages in a typical night's sleep.pdf",
+    "Psychology/Unit 2 - Biological Psychology/Stages in a typical night's sleep.pdf",
     "Stages in a typical night's sleep.pdf",
-    "Psychology/Biological Psychology",
-    "Psychology/Psych 101",
+    "Psychology/Unit 2 - Biological Psychology",
+    "Psychology/Unit 1 - Psychology Basics",
     "Physics",
-    "Psychology/Social Psychology"
+    "Psychology/Unit 9 - Social Psychology"
   ]
 }

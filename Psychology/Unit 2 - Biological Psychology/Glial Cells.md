@@ -1,0 +1,1 @@
+Cells which support the nervous system and surround the [[Neuron|neurons]]. They protect neurons, glue them together, provide nutrient, develop the [[myelin sheath]], and work with [[neurons]] in the process of [[How to learn|learning]], thinking and memory.
