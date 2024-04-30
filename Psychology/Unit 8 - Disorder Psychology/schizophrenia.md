@@ -1,4 +1,4 @@
-#disorder-psychology 
+#disorder-psychology  
 Schizophrenia::A disorder characterised by delusions, hallucinations, disorganised speech and /. or diminished, inappropriate emotional expression.
 
 Twin study show::Shared placentas indicate viral exposure.

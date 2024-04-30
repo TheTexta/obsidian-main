@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "active listening.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "active listening.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "active listening.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "active listening.md"
+                "file": "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md"
               }
             }
           },
@@ -242,13 +242,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b31c21586683c68",
+  "active": "917b8133df6bd11c",
   "lastOpenFiles": [
+    "active listening.md",
     "Psychology/Unit 8 - Disorder Psychology",
     "Learning.md",
     "dissociative identity disorder.md",
     "psychodynamic therapy.md",
-    "schizophrenia.md",
+    "Psychology/Unit 8 - Disorder Psychology/schizophrenia.md",
     "bipolar disorder.md",
     "non suicidal self injury.md",
     "major depressive disorder.md",
