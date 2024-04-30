@@ -1,0 +1,2 @@
+#disorder-psychology 
+Counterconditioning::Behaviour therapy procesdures that use classical conditioning to evoke new responses to stimluli that are triggering unwanted behaviours; include exposure therapies and aversive conditioning.

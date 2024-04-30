@@ -1,0 +1,2 @@
+#disorder-psychology 
+Autism Spectrum Disorder::Autism spectrum disorder is a disorder that appears in childhood and is marked by limitations in communication and social interaction, and by rigidly fixed interests and repetitive behaviour.

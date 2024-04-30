@@ -1,0 +1,2 @@
+#disorder-psychology 
+Specific Learning Disorders::Chronic difficulties in perceiving and processing information. Specific learning disorder is a classification that encompasses a series of disorders characterised by difficulties in learning academic skills, such as reading (dyslexia), writing (dysgraphia), or mathematics (dyscalculia), which are not explained by intellectual disabilities, developmental disorders, or inadequate educational opportunities. 
