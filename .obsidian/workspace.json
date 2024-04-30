@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posttraumatic growth.md",
+                "file": "Psychology/Biological Psychology/Biopsychosocial Approach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c5d2a4c9166f00b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stress Vulnerability Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posttraumatic growth.md",
+                "file": "Stress Vulnerability Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posttraumatic growth.md",
+                "file": "Stress Vulnerability Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posttraumatic growth.md"
+                "file": "Stress Vulnerability Model.md"
               }
             }
           },
@@ -218,10 +230,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9adfdb47c169c863",
+  "active": "6c5d2a4c9166f00b",
   "lastOpenFiles": [
-    "resilience.md",
+    "Stress Vulnerability Model.md",
+    "Psychology/Biological Psychology/Biopsychosocial Approach.md",
+    "DSM-5.md",
+    "Psychological Disorder.md",
     "posttraumatic growth.md",
+    "resilience.md",
     "lobotomy.md",
     "psychosurgery.md",
     "repetitive transcranial magnetic stimulation.md",
@@ -242,10 +258,6 @@
     "aversive conditioning.md",
     "virtual reality exposure therapy.md",
     "systematic Desentisation.md",
-    "exposure therapies.md",
-    "counterconditioning.md",
-    "behaviour therapy.md",
-    "unconditional positive regard.md",
     "Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
