@@ -1,4 +1,4 @@
-#flashcards 
+#social-psychology 
 Groupthink::when individuals perceive there to be a group consensus on an issue without individually believing it to be correct, optimal or valid.
 <!--SR:!2023-11-15,8,250-->
 

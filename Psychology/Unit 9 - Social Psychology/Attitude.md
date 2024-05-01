@@ -1,4 +1,4 @@
-#flashcards #urgent
+#social-psychology #urgent
 How you feel about your perception of a person. Eg you perceive someone to be stupid therefor you hate them. Attitude is about the predisposed emotion one feels towards an idea. When you meet a retard you feel sorry for them, a predisposed emotion towards an idea. When you see a homeless person feel disgusted at the post industrial complex which produces these issues.
 
 [[Attitude]]::Feelings which predispose our emotional response to a given situation, person, idea or object

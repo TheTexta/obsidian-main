@@ -1,4 +1,4 @@
-#flashcards 
+#social-psychology 
 Different to like and [[Love]]. Attraction is purely biological and physical. 
 # Factors for attraction
 Factors for attraction::Proximity, physical attractiveness and similarity. in that order

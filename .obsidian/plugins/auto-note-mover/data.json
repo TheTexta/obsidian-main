@@ -27,6 +27,21 @@
       "folder": "Psychology/Unit 5 - Cognitive Psychology",
       "tag": "#cognitive-psychology",
       "pattern": ""
+    },
+    {
+      "folder": "Economics",
+      "tag": "#microeconomics",
+      "pattern": ""
+    },
+    {
+      "folder": "Chemistry",
+      "tag": "#chemistry",
+      "pattern": ""
+    },
+    {
+      "folder": "",
+      "tag": "",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

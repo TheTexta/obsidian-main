@@ -1,4 +1,4 @@
-#flashcards 
+#social-psychology 
 relates to the reciprocity norm and the foot in the door phenomena. 
 
 GRIT::*Graduated* and *Reciprocated* *Initiative* in *Tension* reduction.

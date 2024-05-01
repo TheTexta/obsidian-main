@@ -1,4 +1,4 @@
-#flashcards 
+#social-psychology 
 Cross cultural bias::[[Bias]] which permeates a whole culture. Cultures can either be collectivistic and individualistically biast.
 <!--SR:!2023-11-08,4,272-->
 

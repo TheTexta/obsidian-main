@@ -1,4 +1,4 @@
-#flashcards #urgent
+#social-psychology #urgent
 Prejudice::"prejudgement", an unsupported unjustifiable and usually negative treatment of a person associated with a negative [[Attitude]] towards that person / group.
 <!--SR:!2023-11-08,2,210-->
 

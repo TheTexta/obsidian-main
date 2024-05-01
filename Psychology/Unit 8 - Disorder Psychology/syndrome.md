@@ -1,2 +1,2 @@
-#clinical-psychology 
+#disorder-psychology 
 Syndrome::A collection of symptoms. 

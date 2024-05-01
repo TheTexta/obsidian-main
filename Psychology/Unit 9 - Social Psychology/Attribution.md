@@ -1,4 +1,4 @@
-#flashcards #urgent
+#social-psychology #urgent
 Attribution::[[Perception|Perceiving]] the causes of [[Behaviour]].
 <!--SR:!2023-11-10,3,210-->
 #### Dispositional vs Situational Attribution

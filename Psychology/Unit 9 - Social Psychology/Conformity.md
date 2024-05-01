@@ -1,4 +1,4 @@
-#flashcards #urgent
+#social-psychology #urgent
 Conformity::Changing ones [[Attitude]] or [[Behaviour]] to match those around you.
 <!--SR:!2023-11-11,4,230-->
 

@@ -1,4 +1,4 @@
-#flashcards 
+#social-psychology 
 To do something nice completely selflessly. You can argue there is no such thing as being completely altruistic. In [[Psychology]] we don't care if there is anything that is truly altruism, we are just interested in what causes altruism.
 
 [[Evolutionary Psychology|Evolutionary psychologist]] suggest that altruistic behaviour is a way to protect the genetic material for the species. The [[temporoparietal junction]] is larger in those that are more altruistic. Therefor the tendency to be altruistic is genetic. 

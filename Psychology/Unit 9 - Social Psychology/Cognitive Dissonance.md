@@ -1,4 +1,4 @@
-#flashcards 
+#social-psychology 
 Cognitive Dissonance::The mental conflict which occurs when our actions do not align with our own [[Attitude|attitudes]] / beliefs.
 <!--SR:!2023-11-14,7,250-->
 

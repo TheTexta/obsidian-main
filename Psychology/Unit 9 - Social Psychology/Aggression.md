@@ -1,4 +1,4 @@
-#flashcards 
+#social-psychology 
 Aggression is a form of [[Social Interaction]], wherein the person is harmfully interacting with another. Physical / social harm which is *deliberate*, is known as [[Aggression]]. Unintended social / physical harm is *not [[Aggression]].*
 ## Types of aggression
 ##### [[Instrumental Aggression]]

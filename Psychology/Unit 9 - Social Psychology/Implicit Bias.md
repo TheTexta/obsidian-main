@@ -1,4 +1,4 @@
-#flashcards 
+#social-psychology 
 Implicit Bias::An unthinking knee jerk response that operates without conscious awareness. implicit bias is always present, despite any good intentions. also known as implicit [[Prejudice]], a form of prejudice is implicit bias, along with its counterpart [[Explicit Bias]].
 <!--SR:!2023-11-15,8,250-->
 

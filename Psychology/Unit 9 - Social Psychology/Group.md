@@ -1,4 +1,4 @@
-#flashcards 
+#social-psychology 
 In [[Psychology]], a group is defined with the following characteristics:
 * independence - individual members depend on one another
 * [[Social Interaction]] - members interact with one another
