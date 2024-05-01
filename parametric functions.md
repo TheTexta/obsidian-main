@@ -1,3 +1,4 @@
+#calculus 
 Defined by an x and y function where x and y are defined as functions of t. 
 
 $\frac{dy}{dx}=\frac{\frac{dx}{dt}}{\frac{dy}{dt}}$

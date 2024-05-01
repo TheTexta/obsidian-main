@@ -1,4 +1,4 @@
-#review 
+#review #microeconomics 
 #### Perfect Competition
 - All products are equal (homogeneous)
 - Firms are price takers (They can't change the price)

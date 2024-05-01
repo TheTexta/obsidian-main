@@ -1,1 +1,2 @@
+#perception-psychology 
 The Stroop Effect::The delay in reaction time between congruent and incongruent stimuli. e.g. the time it takes a participant to name the colour of ink in which a word is printed is longer for words that denote incongruent colour names than for neutral words or words which are a congruent colour. [![Stroop effect - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b8/Stroop_comparison.png)

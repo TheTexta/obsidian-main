@@ -1,4 +1,4 @@
-#review 
+#calculus #review 
 
 [[Extreme value theorem]]
 Formal Statement: If a function $f$ is continuous on a closed interval $[a,b]$, then: 

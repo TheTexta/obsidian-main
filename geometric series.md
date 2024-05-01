@@ -1,3 +1,4 @@
+#calculus 
 Series defined where terms are multiplied by a constant factor
 
 $S= c\cdot \frac{1}{3} + c\cdot \frac{1}{3^2} + c\cdot \frac{1}{3^3} + (...)$

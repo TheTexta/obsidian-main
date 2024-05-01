@@ -1,2 +1,0 @@
-#learning-psychology
-Learning

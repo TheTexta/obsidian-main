@@ -1,3 +1,4 @@
+#calculus 
 If $f$ is continuous over $[a,x]$ and where $F(x)=\int{f(x)dx}$
 ### First
 $f(x)\cdot \frac{d}{dx}(u)=\frac{d}{dx}(\int_{a}^{u}f(t)dt)$
