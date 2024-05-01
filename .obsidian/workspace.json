@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equilateral Triangle Formula.md",
+                "file": "Mathematics/Equilateral Triangle Formula.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integral Test.md",
+                "file": "Mathematics/Integral Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,35 +241,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "917b8133df6bd11c",
+  "active": "0a857e206c597661",
   "lastOpenFiles": [
-    "Sequences.md",
-    "Partial Sum.md",
+    "Review",
+    "Mathematics/Sequences.md",
+    "Mathematics/Partial Sum.md",
     "Second Fundamental Theorem of Calculus.md",
     "Print.md",
-    "parametric functions.md",
-    "P-Series.md",
+    "Mathematics/parametric functions.md",
+    "Mathematics/P-Series.md",
     "Economics/Market Structures.md",
-    "Logarithms.md",
-    "Limit comparison test.md",
-    "Integral Test.md",
+    "Mathematics/Logarithms.md",
+    "Mathematics/Limit comparison test.md",
+    "Mathematics/Integral Test.md",
     "inflection point example.png",
-    "Important Theorems.md",
+    "Review/Important Theorems.md",
     "Psychology/Unit 5 - Cognitive Psychology/Levels of Processing.md",
     "Psychology/Unit 8 - Disorder Psychology/intellectual disability.md",
-    "geometric series.md",
+    "Mathematics/geometric series.md",
     "Chemistry/hydrides.md",
     "Psychology/Unit 5 - Cognitive Psychology/hierarchy.md",
-    "Fundamental Theorem of Calculus.md",
-    "first derivative test.md",
-    "Equilateral Triangle Formula.md",
-    "divergence test.md",
-    "Direct Comparison Test.md",
-    "Critical Points.md",
+    "Mathematics/Fundamental Theorem of Calculus.md",
+    "Mathematics/first derivative test.md",
+    "Mathematics/Equilateral Triangle Formula.md",
+    "Mathematics/divergence test.md",
+    "Mathematics/Direct Comparison Test.md",
+    "Mathematics/Critical Points.md",
     "Economics/average product of labour.md",
-    "arc length.md",
-    "AP Calculus Review.md",
-    "Psychology/Unit 5 - Cognitive Psychology/Models of Memory.md",
+    "Mathematics/arc length.md",
+    "Mathematics/AP Calculus Review.md",
     "Psychology/Unit 5 - Cognitive Psychology/Screenshot 2024-02-06 at 12.34.29 PM.png",
     "Psychology/Unit 5 - Cognitive Psychology/Shiffrin Atkinson Model.png",
     "Screenshot 2024-04-11 at 12.05.21 AM.png",

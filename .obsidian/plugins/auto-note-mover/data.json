@@ -4,6 +4,11 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
+      "folder": "Review",
+      "tag": "#review",
+      "pattern": ""
+    },
+    {
       "folder": "Psychology/Unit 8 - Disorder Psychology",
       "tag": "#disorder-psychology",
       "pattern": ""
@@ -41,6 +46,11 @@
     {
       "folder": "Psychology/Unit 1 - Psychology Basics",
       "tag": "#basic-psychology",
+      "pattern": ""
+    },
+    {
+      "folder": "Mathematics",
+      "tag": "#calculus",
       "pattern": ""
     }
   ],

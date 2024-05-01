@@ -24,7 +24,7 @@ Special version of [[Mean Value Theorem|MVT]], If a function $f$ is continuous o
 *If a function is continuous over $[a,b]$ and differentiable over $(a,b)$ and the points $a$ and $b$ are the same output there is a point between those points where the slope is $0$.*
 
 ###### First and Second Derivative tests
-[[First Derivative Test]]:
+[[first derivative test]]:
 * If $f'(p)>0$ then $f(x)$ is an increasing function at point $p$
 * If $f'(p)<0$ then $f(x)$ is a decreasing function at point $p$
 * If $f'(p)=0$ then $f(x)$ is a critical point at point p
