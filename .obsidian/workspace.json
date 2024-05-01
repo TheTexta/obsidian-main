@@ -95,12 +95,8 @@
             "id": "917b8133df6bd11c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Unit 1 - Psychology Basics/Gestalt Psychology.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -171,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Unit 1 - Psychology Basics/Gestalt Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Unit 1 - Psychology Basics/Gestalt Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Psychology/Unit 1 - Psychology Basics/Gestalt Psychology.md"
-              }
+              "state": {}
             }
           },
           {
@@ -243,6 +235,8 @@
   },
   "active": "917b8133df6bd11c",
   "lastOpenFiles": [
+    "Psychology/Unit 1 - Psychology Basics/Behaviour.md",
+    "Psychology/Unit 1 - Psychology Basics/Gestalt Psychology.md",
     "Review/Market Failures.md",
     "Review/Important Theorems.md",
     "Review/Market Structures.md",
@@ -272,8 +266,6 @@
     "Psychology/Unit 8 - Disorder Psychology/intellectual disability.md",
     "Mathematics/geometric series.md",
     "Chemistry/hydrides.md",
-    "Psychology/Unit 5 - Cognitive Psychology/hierarchy.md",
-    "Mathematics/Fundamental Theorem of Calculus.md",
     "Psychology/Unit 5 - Cognitive Psychology/Screenshot 2024-02-06 at 12.34.29 PM.png",
     "Psychology/Unit 5 - Cognitive Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Unit 5 - Cognitive Psychology",
