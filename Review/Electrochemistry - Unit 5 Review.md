@@ -31,6 +31,5 @@
 	* When there is an acid (excess positive ions) you need to balance the O atoms by adding h2o molecules and than balance the H atoms by adding H+ (only to the side requiring)
 	* For basic solutions add enough OH- to the side requiring negative charge then add the apropriate water molecules to balance the O and H's
 	* Charge must always balance!!!
-	* 
 
 
