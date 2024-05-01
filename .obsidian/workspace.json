@@ -95,8 +95,12 @@
             "id": "917b8133df6bd11c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Unit 1 - Psychology Basics/Z Score.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -167,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Psychology/Unit 1 - Psychology Basics/Z Score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Psychology/Unit 1 - Psychology Basics/Z Score.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +210,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Psychology/Unit 1 - Psychology Basics/Z Score.md"
+              }
             }
           },
           {
@@ -235,6 +243,12 @@
   },
   "active": "917b8133df6bd11c",
   "lastOpenFiles": [
+    "Psychology/Unit 1 - Psychology Basics/Rene Descartes.md",
+    "Psychology/Unit 1 - Psychology Basics/Mean.md",
+    "Psychology/Unit 1 - Psychology Basics/Z Score.md",
+    "Psychology/Unit 1 - Psychology Basics/Standard Deviation.md",
+    "Market Structures.md",
+    "Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Economics/Returns of Scale.md",
     "Psychology/Unit 9 - Social Psychology/Normative Social Influence.md",
     "Psychology/Unit 9 - Social Psychology/Deindividuation.md",
@@ -256,14 +270,8 @@
     "Psychology/Unit 8 - Disorder Psychology/repetitive transcranial magnetic stimulation.md",
     "Psychology/Unit 8 - Disorder Psychology/psychosurgery.md",
     "Psychology/Unit 5 - Cognitive Psychology/Encoding.md",
-    "Psychology/Measuring Memory.md",
-    "Psychology/Unit 5 - Cognitive Psychology/Short-Term Memory.md",
-    "Psychology/Unit 5 - Cognitive Psychology/Working Memory.md",
-    "Psychology/Unit 5 - Cognitive Psychology/Hermann Ebbinghaus.md",
-    "Psychology/Unit 5 - Cognitive Psychology/Memory.md",
     "Psychology/Unit 5 - Cognitive Psychology",
     "Psychology/Unit 8 - Disorder Psychology",
-    "Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "inflection point example.png",
