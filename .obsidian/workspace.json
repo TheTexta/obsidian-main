@@ -95,12 +95,8 @@
             "id": "917b8133df6bd11c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Returns of Scale.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -171,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Returns of Scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Returns of Scale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economics/Returns of Scale.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,8 +233,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0a857e206c597661",
+  "active": "917b8133df6bd11c",
   "lastOpenFiles": [
+    "Economics/Returns of Scale.md",
     "Psychology/Unit 9 - Social Psychology/Normative Social Influence.md",
     "Psychology/Unit 9 - Social Psychology/Deindividuation.md",
     "Psychology/Unit 9 - Social Psychology/Chameleon Effect.md",
@@ -257,7 +250,6 @@
     "Psychology/Unit 8 - Disorder Psychology/binge-eating disorder.md",
     "Limit comparison test.md",
     "average product of labour.md",
-    "Economics/Returns of Scale.md",
     "Psychology/Unit 5 - Cognitive Psychology/Retrieval Cues.md",
     "Psychology/Unit 5 - Cognitive Psychology/Serial position effect.md",
     "Psychology/Unit 8 - Disorder Psychology/electroconvulsive therapy.md",
