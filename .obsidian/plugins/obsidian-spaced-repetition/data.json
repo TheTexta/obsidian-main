@@ -4,7 +4,6 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#flashcards",
       "#urgent",
       "#microeconomics",
       "#biological-psychology",
@@ -13,7 +12,8 @@
       "#data-management",
       "#clinical-psychology",
       "#cognitive-psychology",
-      "#disorder-psychology"
+      "#disorder-psychology",
+      "#social-psychology"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
