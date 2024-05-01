@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Important Theorems.md",
+                "file": "Psychology/Unit 1 - Psychology Basics/Gestalt Psychology.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Important Theorems.md",
+                "file": "Psychology/Unit 1 - Psychology Basics/Gestalt Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Important Theorems.md",
+                "file": "Psychology/Unit 1 - Psychology Basics/Gestalt Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Important Theorems.md"
+                "file": "Psychology/Unit 1 - Psychology Basics/Gestalt Psychology.md"
               }
             }
           },
@@ -241,15 +241,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b31c21586683c68",
+  "active": "917b8133df6bd11c",
   "lastOpenFiles": [
-    "Review/Market Structures.md",
     "Review/Market Failures.md",
+    "Review/Important Theorems.md",
+    "Review/Market Structures.md",
     "Review/Acid-Base Reactions.md",
     "Review/Data Management - Unit 4 Review.md",
     "Review/Electrochemistry - Unit 5 Review.md",
     "Review/Factors affecting rates of reactions.md",
-    "Review/Important Theorems.md",
     "Chemistry/cathode.md",
     "Chemistry/anode.md",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
