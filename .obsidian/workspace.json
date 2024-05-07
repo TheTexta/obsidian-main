@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/particular solution.md",
+                "file": "Mathematics/Limit comparison test.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/particular solution.md",
+                "file": "Mathematics/Limit comparison test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/particular solution.md",
+                "file": "Mathematics/Limit comparison test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/particular solution.md"
+                "file": "Mathematics/Limit comparison test.md"
               }
             }
           },
