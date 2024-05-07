@@ -95,12 +95,28 @@
             "id": "917b8133df6bd11c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/oxidisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8617806ec0abd2eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/particular solution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics/particular solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematics/particular solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematics/particular solution.md"
+              }
             }
           },
           {
@@ -216,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,8 +253,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "917b8133df6bd11c",
+  "active": "8617806ec0abd2eb",
   "lastOpenFiles": [
+    "Mathematics/particular solution.md",
+    "Chemistry/oxidisation.md",
+    "Chemistry/oxidising agent.md",
+    "Chemistry/Moles.md",
+    "Chemistry/molecular formula.md",
+    "Chemistry/Kinetic Energy.md",
+    "Psychology/Unit 8 - Disorder Psychology/alters.md",
+    "Psychology/Unit 8 - Disorder Psychology/antidepressant drugs.md",
+    "Psychology/Unit 8 - Disorder Psychology/agoraphobia.md",
+    "Psychology/Unit 9 - Social Psychology/Prejudice.md",
+    "Psychology/Unit 9 - Social Psychology/ethnocentrism.md",
+    "Psychology/Unit 2 - Biological Psychology/Neuron.md",
+    "Psychology/Unit 8 - Disorder Psychology/somatic system disorder.md",
+    "Psychology/Unit 8 - Disorder Psychology/conversion disorder.md",
+    "Statistics/Sampling Methods.md",
     "Psychology/Unit 1 - Psychology Basics/Behaviour.md",
     "Psychology/Unit 1 - Psychology Basics/Gestalt Psychology.md",
     "Review/Market Failures.md",
@@ -249,23 +284,8 @@
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.18.28 PM.png",
-    "Mathematics/average value interval.md",
-    "Psychology/Unit 5 - Cognitive Psychology/sternbergs three intelligences.md",
     "Review",
-    "Mathematics/Sequences.md",
-    "Mathematics/Partial Sum.md",
-    "Second Fundamental Theorem of Calculus.md",
-    "Print.md",
-    "Mathematics/parametric functions.md",
-    "Mathematics/P-Series.md",
-    "Mathematics/Logarithms.md",
-    "Mathematics/Limit comparison test.md",
-    "Mathematics/Integral Test.md",
     "Mathematics/inflection point example.png",
-    "Psychology/Unit 5 - Cognitive Psychology/Levels of Processing.md",
-    "Psychology/Unit 8 - Disorder Psychology/intellectual disability.md",
-    "Mathematics/geometric series.md",
-    "Chemistry/hydrides.md",
     "Psychology/Unit 5 - Cognitive Psychology/Screenshot 2024-02-06 at 12.34.29 PM.png",
     "Psychology/Unit 5 - Cognitive Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Unit 5 - Cognitive Psychology",
