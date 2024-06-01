@@ -1,3 +1,4 @@
+#chemistry 
 1. Write the [[Equilibrium Constant|Equilibrium Constant]], $K$, *exclude $(l)$ and $(s)$ substances*. 
 2. Calculate initial concentrations of the substances
 3. Find $Q$ and compare to $K$. State which direction the reaction will proceed

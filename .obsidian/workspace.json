@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfa38a99a6f84fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Covalent Bonds Unit 6 Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35fc4180a67acc7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/agoraphobia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "359ad828dfc3c796",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Equilateral Triangle Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a059cb9e0aa6a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Polar Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cd383dd66f0d51e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Integral Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9adfdb47c169c863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Unit 2 - Biological Psychology/Biopsychosocial Approach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c5d2a4c9166f00b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/dissociative identity disorder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "917b8133df6bd11c",
             "type": "leaf",
             "state": {
@@ -104,43 +20,55 @@
             }
           },
           {
+            "id": "b772dcbca02b0116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/Covalent Bonds and VESPR - Unit 6 Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "739f5752f788477e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/Market Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8617806ec0abd2eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/AP Calculus Review.md",
+                "file": "Chemistry/Aufbau Principle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ce3aad4e7ae598f",
+            "id": "804aaa0be9fff4b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/conjugate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ffd8e92b6e025e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Systems.md",
+                "file": "Review/Econ Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Aufbau Principle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -206,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/AP Calculus Review.md",
+                "file": "Review/Econ Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/AP Calculus Review.md",
+                "file": "Review/Econ Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/AP Calculus Review.md"
+                "file": "Review/Econ Review.md"
               }
             }
           },
@@ -277,34 +206,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8617806ec0abd2eb",
+  "active": "804aaa0be9fff4b2",
   "lastOpenFiles": [
-    "Physics/Systems.md",
-    "Mathematics/conjugate.md",
-    "Mathematics/AP Calculus Review.md",
-    "Mathematics/AP Calc Test Tips.md",
-    "Mathematics/Sample Space.md",
-    "Mathematics/Rational Functions.md",
-    "Mathematics/ratio series test.md",
-    "Mathematics/geometric series.md",
-    "Mathematics/P-Series.md",
-    "Psychology/Unit 9 - Social Psychology/Implicit Bias.md",
-    "Mathematics/alternating series test.md",
-    "Mathematics/Continuity.md",
-    "Mathematics/Infinite Limits.md",
-    "Mathematics/Limits.md",
-    "Economics/Economic System.md",
-    "Statistics/Continuous variables.md",
-    "Mathematics/Hypergeometric Distribution.md",
-    "Mathematics/Inverse.md",
-    "Mathematics/l'Hopital's Rule.md",
-    "Mathematics/Limit comparison test.md",
-    "Mathematics/Reciprocal.md",
+    "Review/Econ Review.md",
+    "Review/Market Structures.md",
+    "Review/Organic Chemistry - Unit 7 Review.md",
+    "Review/Market Failures.md",
+    "Review/Important Theorems.md",
+    "Review/Acid-Base Reactions - Unit 2 and 4 Review.md",
+    "Review/Rates of reactions - Unit 1 Review.md",
+    "Review/Atomic Structure - Unit 3 Review.md",
+    "doc03399520240509202958 (dragged).pdf",
+    "Review/Covalent Bonds and VESPR - Unit 6 Review.md",
+    "Chemistry/spdf periodic table.png",
+    "Chemistry/Pauli exclusion principle.md",
+    "Chemistry/Hund's Rule.md",
+    "Chemistry/Aufbau Principle.md",
+    "Chemistry/Orbitals.md",
+    "Chemistry/oxidisation.md",
+    "Psychology/Unit 8 - Disorder Psychology/dissociative identity disorder.md",
+    "Psychology/Unit 2 - Biological Psychology/Biopsychosocial Approach.md",
+    "Mathematics/Integral Test.md",
     "Mathematics/Polar Function.md",
-    "Mathematics/Permutations.md",
-    "Mathematics/particular solution.md",
-    "Mathematics/Secant.md",
-    "Mathematics/Sequences.md",
+    "Mathematics/Equilateral Triangle Formula.md",
+    "Psychology/Unit 8 - Disorder Psychology/agoraphobia.md",
+    "Chemistry/Bohr Model.md",
+    "Chemistry/Valence Shell.md",
+    "Review/Equilibrium - Unit 2 Review.md",
+    "Chemistry/The 7 Steps to Equilibrium.md",
+    "Mathematics/AP Calculus Review.md",
+    "Physics/Systems.md",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.18.28 PM.png",
@@ -317,13 +248,11 @@
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "Psychology/Unit 3 - Sensation Psychology/vestibular system.png",
-    "Psychology/Unit 3 - Sensation Psychology/taste buds.png",
     "Psychology/Unit 3 - Sensation Psychology",
     "Statistics",
     "Psychology/Unit 2 - Biological Psychology/Stages in a typical night's sleep.pdf",
     "Stages in a typical night's sleep.pdf",
     "Psychology/Unit 2 - Biological Psychology",
-    "Psychology/Unit 1 - Psychology Basics",
-    "Physics"
+    "Psychology/Unit 1 - Psychology Basics"
   ]
 }
