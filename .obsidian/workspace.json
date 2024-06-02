@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ae28cd4b89d8651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/dipole.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Aufbau Principle",
+                "query": "dipole",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Econ Review.md",
+                "file": "Chemistry/dipole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Econ Review.md",
+                "file": "Chemistry/dipole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Econ Review.md"
+                "file": "Chemistry/dipole.md"
               }
             }
           },
@@ -206,8 +217,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "804aaa0be9fff4b2",
+  "active": "4ae28cd4b89d8651",
   "lastOpenFiles": [
+    "Psychology/Unit 1 - Psychology Basics/Correlational Coefficient.md",
+    "Chemistry/Bond Strength.md",
+    "Chemistry/Covalent bonds.md",
+    "Review/Covalent Bonds and VESPR - Unit 6 Review.md",
+    "Chemistry/Covalent compounds.md",
+    "Chemistry/Ionic Bonds.md",
+    "Chemistry/intermolecular forces.md",
+    "Chemistry/Electronegativity.md",
     "Review/Econ Review.md",
     "Review/Market Structures.md",
     "Review/Organic Chemistry - Unit 7 Review.md",
@@ -217,7 +236,6 @@
     "Review/Rates of reactions - Unit 1 Review.md",
     "Review/Atomic Structure - Unit 3 Review.md",
     "doc03399520240509202958 (dragged).pdf",
-    "Review/Covalent Bonds and VESPR - Unit 6 Review.md",
     "Chemistry/spdf periodic table.png",
     "Chemistry/Pauli exclusion principle.md",
     "Chemistry/Hund's Rule.md",
@@ -229,13 +247,6 @@
     "Mathematics/Integral Test.md",
     "Mathematics/Polar Function.md",
     "Mathematics/Equilateral Triangle Formula.md",
-    "Psychology/Unit 8 - Disorder Psychology/agoraphobia.md",
-    "Chemistry/Bohr Model.md",
-    "Chemistry/Valence Shell.md",
-    "Review/Equilibrium - Unit 2 Review.md",
-    "Chemistry/The 7 Steps to Equilibrium.md",
-    "Mathematics/AP Calculus Review.md",
-    "Physics/Systems.md",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.18.28 PM.png",
