@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/dipole.md",
+                "file": "Economics/Cross Price Elasticity of Demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dipole",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +126,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/dipole.md",
+                "file": "Economics/Cross Price Elasticity of Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/dipole.md",
+                "file": "Economics/Cross Price Elasticity of Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/dipole.md"
+                "file": "Economics/Cross Price Elasticity of Demand.md"
               }
             }
           },
@@ -219,34 +220,35 @@
   },
   "active": "4ae28cd4b89d8651",
   "lastOpenFiles": [
+    "Review/Rates of reactions - Unit 1 Review.md",
+    "Chemistry/Heat.md",
+    "Review/Acid-Base Reactions - Unit 2 and 4 Review.md",
+    "Review/Covalent Bonds and VESPR - Unit 6 Review.md",
+    "Review/Organic Chemistry - Unit 7 Review.md",
+    "Chemistry/Structural Isomers.md",
+    "doc03626020240530134213 (dragged).pdf",
+    "Review/Electrochemistry - Unit 5 Review.md",
+    "Chemistry/Spontaneity of redox reactions.md",
+    "Chemistry/hydronium.md",
+    "Chemistry/bond order.md",
+    "Chemistry/dipole.md",
     "Psychology/Unit 1 - Psychology Basics/Correlational Coefficient.md",
     "Chemistry/Bond Strength.md",
     "Chemistry/Covalent bonds.md",
-    "Review/Covalent Bonds and VESPR - Unit 6 Review.md",
     "Chemistry/Covalent compounds.md",
     "Chemistry/Ionic Bonds.md",
     "Chemistry/intermolecular forces.md",
     "Chemistry/Electronegativity.md",
     "Review/Econ Review.md",
     "Review/Market Structures.md",
-    "Review/Organic Chemistry - Unit 7 Review.md",
     "Review/Market Failures.md",
     "Review/Important Theorems.md",
-    "Review/Acid-Base Reactions - Unit 2 and 4 Review.md",
-    "Review/Rates of reactions - Unit 1 Review.md",
     "Review/Atomic Structure - Unit 3 Review.md",
     "doc03399520240509202958 (dragged).pdf",
     "Chemistry/spdf periodic table.png",
     "Chemistry/Pauli exclusion principle.md",
     "Chemistry/Hund's Rule.md",
     "Chemistry/Aufbau Principle.md",
-    "Chemistry/Orbitals.md",
-    "Chemistry/oxidisation.md",
-    "Psychology/Unit 8 - Disorder Psychology/dissociative identity disorder.md",
-    "Psychology/Unit 2 - Biological Psychology/Biopsychosocial Approach.md",
-    "Mathematics/Integral Test.md",
-    "Mathematics/Polar Function.md",
-    "Mathematics/Equilateral Triangle Formula.md",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.18.28 PM.png",
@@ -263,7 +265,6 @@
     "Statistics",
     "Psychology/Unit 2 - Biological Psychology/Stages in a typical night's sleep.pdf",
     "Stages in a typical night's sleep.pdf",
-    "Psychology/Unit 2 - Biological Psychology",
-    "Psychology/Unit 1 - Psychology Basics"
+    "Psychology/Unit 2 - Biological Psychology"
   ]
 }

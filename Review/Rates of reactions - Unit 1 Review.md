@@ -1,6 +1,11 @@
 #review #chemistry 
 **There are two main mechanisms which affect rates of reactions. Either you can affect the efficiency of the reaction or the number of total reactions which occur in a given time**
 
+- Rates of reaction is explained by [[collision theory]]
+- chemical systems contain both kinetic and potential forms of energy
+- Heat is the total kinetic energy of a system
+- The energy of protons and neutrons in the atomic nuclei is a form of potential energy in a chemical system.
+- In a coffee cup calorimeter, a dilute sol of acid or salt can be considered to be the surrounding instead of water as specific heat capacities are insignificantly different.
 ###### Factors affecting *number* of collisions:
 * Temperature
 * Nature of reactants

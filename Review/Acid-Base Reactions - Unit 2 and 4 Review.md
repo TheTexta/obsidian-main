@@ -173,3 +173,9 @@ Since Ka is higher and concentration and volume are equal for all else, the [H+]
 
 ## Identify Buffer Solutions
 They always consist of weak acids and there conjugate bases or vice versa with weak bases.
+
+## Weak acids/bases and concentration
+The relative concentration of un-ionised particles is high and the quantity of [[hydronium]] / [[hydroxide]] is small.
+
+## What in the fuck is $K_w$?
+it is $K_a \cdot K_b$ for conjugate acid-base partners at $25^oC$. 

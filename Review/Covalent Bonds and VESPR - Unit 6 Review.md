@@ -22,3 +22,4 @@
 - An electron by itself does not disrupt the shape.
 - h-bonds require N, O or F
 - h-bonds are intermolecular not intramolecular.
+- to dissolve in water you need uneven bonding.
