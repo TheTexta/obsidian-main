@@ -1,4 +1,11 @@
-Probability is the use of mathematics to predict likelihood of events.
+Probability is the use of mathematics to predict likelihood of events. The probability of all events must add to one. We can use [[tree diagram]]s and [[venn diagram]]s to visualise and solve probabilities. 
+
+## Event types
+When we have an event, its complementary event are [[mutual exclusivity]]. There is also [[dependent events]] and [[independent events]].
+### Event
+Any outcome which can happen
+### [[Complementary Event]]
+Any outcome which can happen but not when the event happens. 
 ## Types of Probability
 * [[Subjective Probability]]
 	* Probability based on opinions/theory

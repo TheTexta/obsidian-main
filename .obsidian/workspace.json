@@ -8,96 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "917b8133df6bd11c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/oxidisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b772dcbca02b0116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review/Covalent Bonds and VESPR - Unit 6 Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "739f5752f788477e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review/Market Structures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8617806ec0abd2eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Aufbau Principle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "804aaa0be9fff4b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review/Econ Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ae28cd4b89d8651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review/Organic Chemistry - Unit 7 Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2a69d097233d13f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review/Data Management - Unit 4 Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "882aae3f27eb258e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Data Management - Final Review.md",
+                "file": "Statistics/Describing Distribution of Quantitative Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Odds.md",
+                "file": "Review/Data Management - Final Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odds.md",
+                "file": "Review/Data Management - Final Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odds.md",
+                "file": "Review/Data Management - Final Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Odds.md"
+                "file": "Review/Data Management - Final Review.md"
               }
             }
           },
@@ -255,33 +172,34 @@
   },
   "active": "ee4ad3ca68775111",
   "lastOpenFiles": [
-    "Mathematics/Probability.md",
-    "Odds.md",
-    "Review/Data Management - Unit 1 Review.md",
-    "Mathematics/nPr formula.md",
-    "Review/Rates of reactions - Unit 1 Review.md",
-    "Experimental Probability.md",
-    "Theoretical Probability.md",
-    "Subjective Probability.md",
+    "Data Management - Unit 7 Review.md",
     "Review/Data Management - Final Review.md",
+    "Data Management - Unit 6 Review.md",
+    "Psychology/Unit 1 - Psychology Basics/Z Score.md",
+    "Data Management - Unit 5 Review.md",
+    "Statistics/Describing Distribution of Quantitative Data.md",
+    "Statistics/Shape.md",
+    "Mathematics/Probability.md",
+    "Review/Rates of reactions - Unit 1 Review.md",
+    "Review/Data Management - Unit 1 Review.md",
     "Review/Data Management - Unit 4 Review.md",
-    "Chemistry/The 7 Steps to Equilibrium.md",
-    "Review/Equilibrium - Unit 2 Review.md",
+    "Mathematics/Permutations.md",
+    "Data Management - Unit 3 Review.md",
+    "Mathematics/Geometric Distribution.md",
+    "Mathematics/Hypergeometric Distribution.md",
+    "Mathematics/Binomial Distribution.md",
+    "Bernoulli trials.md",
+    "Statistics/Conditional Distribution.md",
+    "Data Management - Unit 2 Review.md",
+    "Mathematics/Combinations.md",
+    "nCr Formula.md",
     "Review/Organic Chemistry - Unit 7 Review.md",
+    "Review/Econ Review.md",
+    "Chemistry/Aufbau Principle.md",
+    "Review/Market Structures.md",
     "Review/Covalent Bonds and VESPR - Unit 6 Review.md",
-    "Review/Electrochemistry - Unit 5 Review.md",
-    "Chemistry Exam review.md",
-    "Economics/Cross Price Elasticity of Demand.md",
-    "Chemistry/Heat.md",
-    "Review/Acid-Base Reactions - Unit 2 and 4 Review.md",
-    "Chemistry/Structural Isomers.md",
+    "Pasted image 20240609130913.png",
     "doc03626020240530134213 (dragged).pdf",
-    "Chemistry/Spontaneity of redox reactions.md",
-    "Chemistry/hydronium.md",
-    "Chemistry/bond order.md",
-    "Chemistry/dipole.md",
-    "Psychology/Unit 1 - Psychology Basics/Correlational Coefficient.md",
-    "Chemistry/Bond Strength.md",
     "doc03399520240509202958 (dragged).pdf",
     "Chemistry/spdf periodic table.png",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
@@ -295,7 +213,6 @@
     "Psychology/Unit 8 - Disorder Psychology",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
-    "Psychology/Unit 3 - Sensation Psychology/vestibular system.png",
     "Psychology/Unit 3 - Sensation Psychology",
     "Statistics",
     "Psychology/Unit 2 - Biological Psychology/Stages in a typical night's sleep.pdf",

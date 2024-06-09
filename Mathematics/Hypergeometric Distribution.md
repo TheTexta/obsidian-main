@@ -1,12 +1,12 @@
 ### Probability
 $$
-P(x) = \frac{_nC_x \cdot _{n-a}C_{r-x}}{_nC_r}
+P(x) = \frac{\binom{K}{k} \cdot \binom{N-K}{n-k}}{\binom{N}{n}}
 $$
 Where:
-$a$ = # of successes available
-$x$ = # of successes being chosen
-$n$ = # of objects available
-$r$ = # of objects being chosen
+$N$ = total number of population
+$K$ = total number of success in the population
+$n$ = number of items sampled
+$k$ = number of successes
 
 ### Expected Value
 
