@@ -1,10 +1,10 @@
 Probability is the use of mathematics to predict likelihood of events.
-### Types of Probability
-* Subjective Probability
+## Types of Probability
+* [[Subjective Probability]]
 	* Probability based on opinions/theory
-* Theoretical Probability
+* [[Theoretical Probability]]
 	* Probability based on maths
-* Experimental Probability
+* [[Experimental Probability]]
 	* Probability based on results
 
 ## Formulas for Probability
@@ -16,3 +16,7 @@ $$
 ^nPr = \frac{n!}{(n-r)!}
 $$
 
+
+
+## Odds vs Fractions Probability
+$\frac{5}{9}$ is the same as $5:4$ [[Odds]]
