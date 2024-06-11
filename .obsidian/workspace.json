@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Calc Exam Review.md",
+                "file": "Mathematics/discontinuities.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Calc Exam Review.md",
+                "file": "Mathematics/discontinuities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Calc Exam Review.md",
+                "file": "Mathematics/discontinuities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Calc Exam Review.md"
+                "file": "Mathematics/discontinuities.md"
               }
             }
           },
@@ -172,8 +172,18 @@
   },
   "active": "0c5564f44709284a",
   "lastOpenFiles": [
-    "Mathematics/Derivative.md",
     "Review/Calc Exam Review.md",
+    "Mathematics/discontinuities.md",
+    "Mathematics/Volume of a washer.md",
+    "Mathematics/Volume of a disk.md",
+    "Mathematics/Area of intersecting curves.md",
+    "Mathematics/Axis Switching.md",
+    "Mathematics/l'Hopital's Rule.md",
+    "Mathematics/Tangent.md",
+    "Mathematics/Concavity.md",
+    "Mathematics/Integration.md",
+    "Mathematics/Limits.md",
+    "Mathematics/Derivative.md",
     "Mathematics/Definition of a slope derivative using limits at point a.md",
     "Mathematics/Second derivatives.md",
     "Mathematics/Implicit Differentiation.md",
@@ -182,22 +192,12 @@
     "Mathematics/asymptote.md",
     "Mathematics/indeterminate form.md",
     "Mathematics/conjugate.md",
-    "Mathematics/Limits.md",
     "Review/Data Management - Unit 4 Review.md",
     "Review/Data Management - Final Review.md",
     "Data Management - Unit 3 Review.md",
     "Data Management - Unit 6 Review.md",
     "Data Management - Unit 5 Review.md",
     "Statistics/Nominal.md",
-    "Data Management - Unit 2 Review.md",
-    "Mathematics/Permutations.md",
-    "Review/Data Management - Unit 1 Review.md",
-    "Statistics/Describing Distribution of Quantitative Data.md",
-    "Data Management - Unit 7 Review.md",
-    "Psychology/Unit 1 - Psychology Basics/Z Score.md",
-    "Statistics/Shape.md",
-    "Mathematics/Probability.md",
-    "Review/Rates of reactions - Unit 1 Review.md",
     "Pasted image 20240609130913.png",
     "doc03626020240530134213 (dragged).pdf",
     "doc03399520240509202958 (dragged).pdf",
