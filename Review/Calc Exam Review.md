@@ -7,13 +7,14 @@
 	* [[asymptote]]
 	* [[trigonometric identities]]
 	* [[Infinite Limits]]
-* Theorems and Continuity
+* Theorems and [[Continuity]]
 	* [[Mean Value Theorem]]
 	* [[Extreme value theorem]]
 	* [[Intermediate Value Theorem]]
 	* [[Mathematics/Continuity|Continuity]]
 	* [[Fundamental Theorem of Calculus]]
 	* [[discontinuities]]
+	* [[Interval]]s and there representation () vs \[]
 * [[Derivative|Derivatives]]
 	* [[Standard Definition of Derivative through limit]]
 	* [[Definition of a slope derivative using limits at point a]]
@@ -36,6 +37,9 @@
 * [[Integration]]
 	* [[Fundamental Theorem of Calculus]]
 	* [[Riemann Sum]]
+		* Midpoint Riemann Sum
+		* Left Riemann Sum
+		* Right Riemann Sum
 	* [[u substitution]]
 	* [[integration using completing the square]]
 	* [[integration using long division]]
