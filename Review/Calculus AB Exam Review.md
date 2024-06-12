@@ -1,11 +1,12 @@
 #review #calculus 
 * [[Limits]]
 	* Limits have to be real and not infinite
-	* [[conjugate]]
+	* Remember to show the $\lim$ notation when working out
+	* [[Conjugate]]
 	* [[l'Hopital's Rule]]
 	* [[indeterminate form]]
-	* [[asymptote]]
-	* [[trigonometric identities]]
+	* [[Asymptote]]
+	* [[Trigonometric Identities]]
 	* [[Infinite Limits]]
 * Theorems and [[Continuity]]
 	* [[Mean Value Theorem]]
@@ -13,7 +14,8 @@
 	* [[Intermediate Value Theorem]]
 	* [[Mathematics/Continuity|Continuity]]
 	* [[Fundamental Theorem of Calculus]]
-	* [[discontinuities]]
+	* [[Discontinuities]]
+	* [[differentiability]]
 	* [[Interval]]s and there representation () vs \[]
 * [[Derivative|Derivatives]]
 	* [[Standard Definition of Derivative through limit]]
@@ -26,6 +28,8 @@
 * Derivative Applications
 	* [[Implicit Differentiation]]
 	* Optimisation
+		* Optimisation of area of triangle
+		* Optimisation of costs
 	* [[Slope Fields]]
 	* [[Second Derivative Test]]
 	* [[Concavity]]
@@ -34,6 +38,10 @@
 	* [[Inflection Points]]
 	* [[linearisation]]
 	* [[local linearity]]
+	* [[normal]] vs [[tangent]]
+	* approximate rate of change
+		* approximate the rate of change in the area of a circle of radius 4cm if the radius increased by 0.02cm
+		* $A_\text{circle}=\pi r^2; dA=2\pi r \cdot r'; 2\pi \cdot 4 \cdot 0.02 = 0.16\pi$
 * [[Integration]]
 	* [[Fundamental Theorem of Calculus]]
 	* [[Riemann Sum]]
@@ -51,4 +59,4 @@
 	* [[Volume of a disk]]
 	* [[Volume of a washer]]
 	* [[Axis Switching]]
-	* [[average value interval]]
+	* [[Average Value Interval]]

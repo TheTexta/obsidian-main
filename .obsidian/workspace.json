@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f234ee48f99780b",
+        "id": "d5ac689760a9ebde",
         "type": "tabs",
         "children": [
           {
-            "id": "0c5564f44709284a",
+            "id": "a79ef5c2df985793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Calc Exam Review.md",
+                "file": "Review/Calculus AB Exam Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Calc Exam Review.md",
+                "file": "Review/Calculus AB Exam Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Calc Exam Review.md",
+                "file": "Review/Calculus AB Exam Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Calc Exam Review.md"
+                "file": "Review/Calculus AB Exam Review.md"
               }
             }
           },
@@ -157,12 +157,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0c5564f44709284a",
+  "active": "a79ef5c2df985793",
   "lastOpenFiles": [
-    "Mathematics/Riemann Sum.md",
-    "Review/Calc Exam Review.md",
+    "Mathematics/Average Value Interval.md",
+    "Review/Calculus AB Exam Review.md",
+    "Mathematics/Fundamental Theorem of Calculus.md",
+    "Mathematics/Mean Value Theorem.md",
+    "Mathematics/Concavity.md",
+    "Mathematics/linearisation.md",
     "Mathematics/Continuity.md",
-    "Mathematics/discontinuities.md",
+    "Mathematics/Derivative.md",
+    "Mathematics/Conjugate.md",
+    "Mathematics/Discontinuities.md",
+    "Mathematics/Trigonometric Identities.md",
+    "Mathematics/Asymptote.md",
+    "Mathematics/Critical Points.md",
+    "Mathematics/Inflection Points.md",
+    "Mathematics/Riemann Sum.md",
     "Pasted image 20240609130913.png",
     "doc03626020240530134213 (dragged).pdf",
     "doc03399520240509202958 (dragged).pdf",
@@ -173,21 +184,10 @@
     "Mathematics/Axis Switching.md",
     "Mathematics/l'Hopital's Rule.md",
     "Mathematics/Tangent.md",
-    "Mathematics/Concavity.md",
     "Mathematics/Integration.md",
     "Mathematics/Limits.md",
-    "Mathematics/Derivative.md",
     "Mathematics/Definition of a slope derivative using limits at point a.md",
     "Mathematics/Second derivatives.md",
-    "Mathematics/Implicit Differentiation.md",
-    "Mathematics/Standard Definition of Derivative through limit.md",
-    "Mathematics/trigonometric identities.md",
-    "Mathematics/asymptote.md",
-    "Mathematics/indeterminate form.md",
-    "Mathematics/conjugate.md",
-    "Review/Data Management - Final Review.md",
-    "Data Management - Unit 3 Review.md",
-    "Data Management - Unit 6 Review.md",
     "Chemistry/spdf periodic table.png",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.22.12 PM.png",
