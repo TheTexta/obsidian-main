@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "659ee3ecd8a64fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "venn diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Calculus AB Exam Review.md",
+                "file": "venn diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Calculus AB Exam Review.md",
+                "file": "venn diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Calculus AB Exam Review.md"
+                "file": "venn diagram.md"
               }
             }
           },
@@ -157,10 +170,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a79ef5c2df985793",
+  "active": "659ee3ecd8a64fad",
   "lastOpenFiles": [
-    "Mathematics/Average Value Interval.md",
+    "tree diagram.md",
+    "venn diagram.md",
+    "Relationships you need.md",
     "Review/Calculus AB Exam Review.md",
+    "Mathematics/Average Value Interval.md",
     "Mathematics/Fundamental Theorem of Calculus.md",
     "Mathematics/Mean Value Theorem.md",
     "Mathematics/Concavity.md",
@@ -185,9 +201,6 @@
     "Mathematics/l'Hopital's Rule.md",
     "Mathematics/Tangent.md",
     "Mathematics/Integration.md",
-    "Mathematics/Limits.md",
-    "Mathematics/Definition of a slope derivative using limits at point a.md",
-    "Mathematics/Second derivatives.md",
     "Chemistry/spdf periodic table.png",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.22.12 PM.png",
