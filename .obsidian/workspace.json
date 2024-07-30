@@ -23,9 +23,11 @@
             "id": "659ee3ecd8a64fad",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Chemistry/doc03626020240530134213 (dragged).pdf"
+                "file": "Interest Notes/Relationships you need.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/doc03626020240530134213 (dragged).pdf",
+                "file": "Interest Notes/Relationships you need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/doc03626020240530134213 (dragged).pdf",
+                "file": "Interest Notes/Relationships you need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/doc03626020240530134213 (dragged).pdf"
+                "file": "Interest Notes/Relationships you need.md"
               }
             }
           },
@@ -170,8 +172,8 @@
   },
   "active": "659ee3ecd8a64fad",
   "lastOpenFiles": [
-    "Pasted image 20240609130913.png",
     "Chemistry/doc03626020240530134213 (dragged).pdf",
+    "Pasted image 20240609130913.png",
     "Chemistry/doc03399520240509202958 (dragged).pdf",
     "Statistics/Bernoulli trials.md",
     "TCS Archive",
