@@ -1,3 +1,3 @@
 #statistics 
-rightward [[skew]]::When [[outliers]] on the righthand side stretch the distribution in that direction
+rightward [[skew]]::When [[Outliers]] on the righthand side stretch the distribution in that direction
 Positive Skew::Same as rightward skew

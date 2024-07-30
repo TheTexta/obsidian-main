@@ -23,11 +23,9 @@
             "id": "659ee3ecd8a64fad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "venn diagram.md",
-                "mode": "source",
-                "source": false
+                "file": "Chemistry/doc03626020240530134213 (dragged).pdf"
               }
             }
           }
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "venn diagram.md",
+                "file": "Chemistry/doc03626020240530134213 (dragged).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "venn diagram.md",
+                "file": "Chemistry/doc03626020240530134213 (dragged).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "venn diagram.md"
+                "file": "Chemistry/doc03626020240530134213 (dragged).pdf"
               }
             }
           },
@@ -172,35 +170,36 @@
   },
   "active": "659ee3ecd8a64fad",
   "lastOpenFiles": [
-    "tree diagram.md",
-    "venn diagram.md",
-    "Relationships you need.md",
+    "Pasted image 20240609130913.png",
+    "Chemistry/doc03626020240530134213 (dragged).pdf",
+    "Chemistry/doc03399520240509202958 (dragged).pdf",
+    "Statistics/Bernoulli trials.md",
+    "TCS Archive",
+    "Review/Chemistry Exam review.md",
+    "Review/Complementary Event.md",
+    "Review/Data Management - Unit 5 Review.md",
+    "Review/Data Management - Unit 7 Review.md",
+    "Review/Data Management - Unit 6 Review.md",
+    "Review/Data Management - Unit 3 Review.md",
+    "Review/Data Management - Unit 2 Review.md",
+    "Statistics/dependent events.md",
+    "Statistics/event.md",
+    "Statistics/Experimental Probability.md",
+    "Statistics/independent events.md",
+    "Statistics/mutual exclusivity.md",
+    "Statistics/nCr Formula.md",
+    "Statistics/Odds.md",
+    "Statistics/Subjective Probability.md",
+    "Statistics/Theoretical Probability.md",
+    "Statistics/tree diagram.md",
+    "Statistics/venn diagram.md",
+    "Interest Notes/Relationships you need.md",
+    "Interest Notes",
     "Review/Calculus AB Exam Review.md",
     "Mathematics/Average Value Interval.md",
     "Mathematics/Fundamental Theorem of Calculus.md",
     "Mathematics/Mean Value Theorem.md",
     "Mathematics/Concavity.md",
-    "Mathematics/linearisation.md",
-    "Mathematics/Continuity.md",
-    "Mathematics/Derivative.md",
-    "Mathematics/Conjugate.md",
-    "Mathematics/Discontinuities.md",
-    "Mathematics/Trigonometric Identities.md",
-    "Mathematics/Asymptote.md",
-    "Mathematics/Critical Points.md",
-    "Mathematics/Inflection Points.md",
-    "Mathematics/Riemann Sum.md",
-    "Pasted image 20240609130913.png",
-    "doc03626020240530134213 (dragged).pdf",
-    "doc03399520240509202958 (dragged).pdf",
-    "Review/Data Management - Unit 4 Review.md",
-    "Mathematics/Volume of a washer.md",
-    "Mathematics/Volume of a disk.md",
-    "Mathematics/Area of intersecting curves.md",
-    "Mathematics/Axis Switching.md",
-    "Mathematics/l'Hopital's Rule.md",
-    "Mathematics/Tangent.md",
-    "Mathematics/Integration.md",
     "Chemistry/spdf periodic table.png",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.22.12 PM.png",
@@ -215,8 +214,6 @@
     "Screenshot 2024-02-17 at 5.18.28 PM.png",
     "Psychology/Unit 3 - Sensation Psychology",
     "Statistics",
-    "Psychology/Unit 2 - Biological Psychology/Stages in a typical night's sleep.pdf",
-    "Stages in a typical night's sleep.pdf",
-    "Psychology/Unit 2 - Biological Psychology"
+    "Psychology/Unit 2 - Biological Psychology/Stages in a typical night's sleep.pdf"
   ]
 }

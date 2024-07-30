@@ -21,12 +21,12 @@
 		* [[Standard Deviation]]
 			* The values typically vary by 14.35 ppb from the mean of 7.31 ppb.
 * Unusual Features
-	* Values which are [[outliers]]
+	* Values which are [[Outliers]]
 	* Gaps and clusters in the dataset
 
 Always include the context of the values
 
-Non-resistant::Summary statistics which are non-resistant change or are impacted when [[outliers]] are removed in a data set.
-Resistant::Summary statistics which are resistant *do not change* or are *not impacted* when [[outliers]] are removed in a data set.
+Non-resistant::Summary statistics which are non-resistant change or are impacted when [[Outliers]] are removed in a data set.
+Resistant::Summary statistics which are resistant *do not change* or are *not impacted* when [[Outliers]] are removed in a data set.
 
 

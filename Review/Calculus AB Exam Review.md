@@ -8,7 +8,7 @@
 	* [[Asymptote]]
 	* [[Trigonometric Identities]]
 	* [[Infinite Limits]]
-* Theorems and [[Continuity]]
+* Theorems and [[Mathematics/Continuity]]
 	* [[Mean Value Theorem]]
 	* [[Extreme value theorem]]
 	* [[Intermediate Value Theorem]]

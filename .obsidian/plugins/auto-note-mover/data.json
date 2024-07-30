@@ -52,6 +52,16 @@
       "folder": "Mathematics",
       "tag": "#calculus",
       "pattern": ""
+    },
+    {
+      "folder": "Statistics",
+      "tag": "#statistics",
+      "pattern": ""
+    },
+    {
+      "folder": "Interest Notes",
+      "tag": "#interest-notes",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
