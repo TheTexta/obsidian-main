@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed44922286dfa740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest Notes/Relationships you need.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,8 +182,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "659ee3ecd8a64fad",
+  "active": "ed44922286dfa740",
   "lastOpenFiles": [
+    "Interest Notes/Thirteen (movie).md",
+    "Interest Notes/Relationships you need.md",
     "Chemistry/doc03626020240530134213 (dragged).pdf",
     "Pasted image 20240609130913.png",
     "Chemistry/doc03399520240509202958 (dragged).pdf",
@@ -195,7 +209,6 @@
     "Statistics/Theoretical Probability.md",
     "Statistics/tree diagram.md",
     "Statistics/venn diagram.md",
-    "Interest Notes/Relationships you need.md",
     "Interest Notes",
     "Review/Calculus AB Exam Review.md",
     "Mathematics/Average Value Interval.md",
