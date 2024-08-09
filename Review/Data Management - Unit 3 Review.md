@@ -1,3 +1,4 @@
+#review 
 ### [[Geometric Distribution]]
 The geometric distribution is a discrete distribution and it models the number of trials needed to achieve the first success in repeated [[Bernoulli trials]] (trials with only two outcomes, typically termed as "success" and "failure").
 

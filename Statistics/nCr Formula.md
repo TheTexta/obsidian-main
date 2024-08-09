@@ -1,4 +1,4 @@
-#data-management 
+#statistics #data-management 
 $$
 _nC_r = \frac{n!}{r!(n-r)!} = s
 $$
