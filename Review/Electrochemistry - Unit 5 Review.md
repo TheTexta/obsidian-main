@@ -1,6 +1,7 @@
 #chemistry #review 
 * [[Redox Reactions]]
 	* [[Spontaneity of redox reactions]]
+	* Redox reactions spontaneity:[[Redox Reactions]]] only occur when the [[element]] undergoing [[reduction]] is higher (has a more positive [[electrode potential]]) then the [[element]] undergoing [[oxidisation]].
 	* [[oxidisation]]
 	* [[oxidising agent]]
 	* [[reduction]]
@@ -11,6 +12,7 @@
 	* [[reduction potentials table]]
 	* [[cathode]]
 	* [[anode]]
+	* electrons flow from the anode to the cathode (negative to positive side).
 * [[oxidisation number]]
 	* Hydrogen is +1 except for metals where it is -1.
 	* The higher on the list the higher the attraction for electrons is when looking at the rhs. Ag+ is more attracted to electrons then Sn+
@@ -19,6 +21,7 @@
 	* when answering for temporary charge answer in +/- not actual numbers
 	* voltmeters measure electric potential difference (in volts)
 	* when metals are place din an aqueous solution the surface of th metal will develop a slight negative charge.
+	* All atoms in an element have oxidation number of 0.
 
 * Hydrogen in all compounds except hydrides is +1
 * Hydrogen in [[hydrides]] is -1 (first column of table)

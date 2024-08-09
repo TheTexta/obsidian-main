@@ -23,19 +23,16 @@ Important things to remember.
 * Linear approx. just means find the derivative and plug the values in for the point and create a linear function with the derivative and the x/y coords given/found. 
 * Always remember to derive the inside function of arctans and shit.
 * $f(f^-1(x)) = x$, therefor: $f'(f^{-1}(x))\cdot f'^{-1}(x)=0$. 
-## Standard Definition
+## [[Standard Definition of Derivative through limit]]
 A derivative is defined by the following standard formula which is the [[Limits|limit]] of the function as the difference between two points in the function become $\infty$ small:
 $$ \lim_{h\to0}(\frac{f(x+h)-f(x)}{h}) $$
-## Definition of a slope derivative using limits at point a
+## [[Definition of a slope derivative using limits at point a]]
 $$
  \lim_{a\to0}(\frac{f(x)-f(a)}{x-a}) 
 $$
-## Implicit Differentiation
+## [[Implicit Differentiation]]
 
-When you derive an equation with x *and y* at the same time. Just remember when you differentiate y in terms of x you derive it then multiply it by $\frac{dy}{dx}$. once you finish w all that you can rearrange the equation to find the rate of change as you change both x and y.
-
-## Second derivatives
-When you derivative the derivative. It's really not that hard just a lotta work.
+## [[Second derivatives]]
 ## Formulas for Derivatives:
 
 ## THE THREE SISTERS BROTHA - differentiation rules

@@ -54,6 +54,38 @@
             }
           },
           {
+            "id": "5d35581543198e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16ad5a0b06eb597b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "81bd81ea8b3b11d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "ef2b6488a712a011",
             "type": "leaf",
             "state": {
@@ -78,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -145,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Sampling bias.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Sampling bias.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Sampling bias.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -215,31 +247,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1c79980f7f5d542b",
+  "active": "81bd81ea8b3b11d9",
   "lastOpenFiles": [
-    "Psychology/Unit 1 - Psychology Basics/Z Score.md",
-    "Psychology/Unit 1 - Psychology Basics/Wilhelm Wundt.md",
-    "Psychology/Unit 1 - Psychology Basics/Variability.md",
-    "Psychology/Unit 1 - Psychology Basics/Theory.md",
-    "Psychology/Unit 1 - Psychology Basics/trephination.md",
-    "Psychology/Unit 1 - Psychology Basics/The Brain.md",
-    "Psychology/Unit 1 - Psychology Basics/tabular rasa.md",
-    "Psychology/Unit 1 - Psychology Basics/Surveys.md",
-    "Psychology/Unit 1 - Psychology Basics/Structuralism.md",
-    "Psychology/Unit 1 - Psychology Basics/Standard Deviation.md",
-    "Psychology/Unit 1 - Psychology Basics/Statistics in Psychology.md",
-    "Psychology/Unit 1 - Psychology Basics/Social-Cultural Psychology.md",
-    "Psychology/Unit 1 - Psychology Basics/Sigmund Freud.md",
+    "conflict-files-obsidian-git.md",
+    "venn diagram.md",
+    "tree diagram.md",
+    "nCr Formula.md",
+    "mutual exclusivity.md",
+    "independent events.md",
+    "event.md",
+    "doc03626020240530134213 (dragged).pdf",
+    "doc03399520240509202958 (dragged).pdf",
+    "dependent events.md",
+    "Theoretical Probability.md",
+    "Subjective Probability.md",
+    "Review/Rates of reactions - Unit 1 Review.md",
+    "Review/Organic Chemistry - Unit 7 Review.md",
+    "Review/Equilibrium - Unit 2 Review.md",
+    "Review/Econ Review.md",
+    "Review/Data Management - Unit 1 Review.md",
+    "Review/Data Management - Final Review.md",
+    "Review/Covalent Bonds and VESPR - Unit 6 Review.md",
+    "Review/Calculus AB Exam Review.md",
+    "Review/Atomic Structure - Unit 3 Review.md",
+    "Review/Acid-Base Reactions - Unit 2 and 4 Review.md",
+    "Pasted image 20240609130913.png",
+    "Odds.md",
+    "Mathematics/trigonometric identities.md",
+    "Mathematics/linearisation.md",
+    "Mathematics/indeterminate form.md",
+    "Mathematics/discontinuities.md",
+    "Mathematics/asymptote.md",
+    "Chemistry/spdf periodic table.png",
     "Psychology/Unit 1 - Psychology Basics/Screenshot 2023-09-27 at 11.00.16 AM.png",
-    "Psychology/Unit 1 - Psychology Basics/Roadblocks to Critical Thinking.md",
-    "Psychology/Unit 1 - Psychology Basics/Rene Descartes.md",
-    "Psychology/Unit 1 - Psychology Basics/Range.md",
-    "Psychology/Unit 1 - Psychology Basics/Psychology.md",
-    "Psychology/Unit 1 - Psychology Basics/Psychology's Scientific Attitude.md",
-    "Psychology/Unit 1 - Psychology Basics/Positive Psychology.md",
-    "Psychology/Unit 1 - Psychology Basics/Phrenology.md",
-    "Psychology/Unit 1 - Psychology Basics/Philip Zimbardo.md",
-    "Psychology/Unit 1 - Psychology Basics/Perspectives in Psychology.md",
     "Psychology/Unit 1 - Psychology Basics/Pasted image 20231003191356.png",
     "Psychology/Unit 1 - Psychology Basics/Pasted image 20231003191211.png",
     "Psychology/Unit 1 - Psychology Basics/Pasted image 20231003191245.png",
@@ -247,12 +287,6 @@
     "Psychology/Unit 1 - Psychology Basics/Pasted image 20231003183658.png",
     "Psychology/Unit 1 - Psychology Basics/Pasted image 20231003183423.png",
     "Psychology/Unit 1 - Psychology Basics/Pasted image 20231003183157.png",
-    "Psychology/Unit 1 - Psychology Basics/Pasted image 20230927113212.png",
-    "Psychology/Unit 1 - Psychology Basics/Operationalisation.md",
-    "Psychology/Unit 1 - Psychology Basics/Operational Definition.md",
-    "Psychology/Unit 1 - Psychology Basics/Operant Conditioning.md",
-    "Psychology/Unit 1 - Psychology Basics/Null Hypothesis.md",
-    "Psychology/Unit 1 - Psychology Basics/Hierarchy of needs pyramid.png",
     "Psychology/Unit 1 - Psychology Basics",
     "Psychology/Sensation - Perception",
     "Statistics",
@@ -260,7 +294,6 @@
     "Stages in a typical night's sleep.pdf",
     "Psychology/Biological Psychology",
     "Psychology/Psych 101",
-    "Physics",
-    "Psychology/Social Psychology"
+    "Physics"
   ]
 }
