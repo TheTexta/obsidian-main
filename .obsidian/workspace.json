@@ -32,19 +32,79 @@
             }
           },
           {
-            "id": "ed44922286dfa740",
+            "id": "c72f6ab1ba3a45c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interest Notes/Relationships you need.md",
+                "file": "BIOL 111.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a302847398ab7b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "augmented matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5519c13e538a5d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System of equations - Lect 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acdeb5b2c0b19c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 133.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45dcccd55aa84771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "augmented matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6fd12f3c7d85c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 133.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -111,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interest Notes/Relationships you need.md",
+                "file": "MATH 133.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interest Notes/Relationships you need.md",
+                "file": "MATH 133.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interest Notes/Relationships you need.md"
+                "file": "MATH 133.md"
               }
             }
           },
@@ -182,8 +242,28 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ed44922286dfa740",
+  "active": "a6fd12f3c7d85c87",
   "lastOpenFiles": [
+    "inconsistent.md",
+    "MATH 133.md",
+    "consistent.md",
+    "solution to a system.md",
+    "system of linear equations.md",
+    "System of equations - Lect 1.md",
+    "CHEM 110.md",
+    "BIOL 111.md",
+    "COMP 250.md",
+    "linear equation.md",
+    "hyperplane.md",
+    "Mathematics/power.md",
+    "plane.md",
+    "augmented matrix.md",
+    "Course Overview",
+    "Review/Calculus AB Exam Review.md",
+    "MATH 133 - Linear Algebra.md",
+    "Screenshot 2024-08-28 at 2.55.20 PM.png",
+    "Biology",
+    "Chemistry/Electron.md",
     "Interest Notes/Thirteen (movie).md",
     "Interest Notes/Relationships you need.md",
     "Chemistry/doc03626020240530134213 (dragged).pdf",
@@ -197,24 +277,7 @@
     "Review/Data Management - Unit 7 Review.md",
     "Review/Data Management - Unit 6 Review.md",
     "Review/Data Management - Unit 3 Review.md",
-    "Review/Data Management - Unit 2 Review.md",
-    "Statistics/dependent events.md",
-    "Statistics/event.md",
-    "Statistics/Experimental Probability.md",
-    "Statistics/independent events.md",
-    "Statistics/mutual exclusivity.md",
-    "Statistics/nCr Formula.md",
-    "Statistics/Odds.md",
-    "Statistics/Subjective Probability.md",
-    "Statistics/Theoretical Probability.md",
-    "Statistics/tree diagram.md",
-    "Statistics/venn diagram.md",
     "Interest Notes",
-    "Review/Calculus AB Exam Review.md",
-    "Mathematics/Average Value Interval.md",
-    "Mathematics/Fundamental Theorem of Calculus.md",
-    "Mathematics/Mean Value Theorem.md",
-    "Mathematics/Concavity.md",
     "Chemistry/spdf periodic table.png",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
     "Mathematics/Screenshot 2024-02-17 at 5.22.12 PM.png",
@@ -226,9 +289,6 @@
     "Psychology/Unit 5 - Cognitive Psychology",
     "Psychology/Unit 8 - Disorder Psychology",
     "Screenshot 2024-02-17 at 5.22.12 PM.png",
-    "Screenshot 2024-02-17 at 5.18.28 PM.png",
-    "Psychology/Unit 3 - Sensation Psychology",
-    "Statistics",
-    "Psychology/Unit 2 - Biological Psychology/Stages in a typical night's sleep.pdf"
+    "Psychology/Unit 3 - Sensation Psychology"
   ]
 }
