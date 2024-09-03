@@ -1,1 +1,2 @@
 #math133 
+a hyperplane refers to a flat hypersurface, a subspace whose dimension is one less than that of the ambient space. A hyperplane in $\mathbb{R}^2$ is a line, a hyperplane in $\mathbb{R}^3$ is a 2d plane (see [[Plane]]). 

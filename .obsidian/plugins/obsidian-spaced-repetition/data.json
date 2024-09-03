@@ -4,17 +4,7 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#urgent",
-      "#basic-psychology",
-      "#microeconomics",
-      "#biological-psychology",
-      "#statistics",
-      "#perception-psychology",
-      "#data-management",
-      "#clinical-psychology",
-      "#cognitive-psychology",
-      "#disorder-psychology",
-      "#social-psychology"
+      "#flashcards"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -48,7 +38,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-08-29",
+  "buryDate": "2024-09-03",
   "buryList": [],
   "historyDeck": null
 }

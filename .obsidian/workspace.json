@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a79ef5c2df985793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review/Calculus AB Exam Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "659ee3ecd8a64fad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interest Notes/Relationships you need.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c72f6ab1ba3a45c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL 111.md",
+                "file": "CHEM 110.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "augmented matrix.md",
+                "file": "Augmented Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System of equations - Lect 1.md",
+                "file": "Math 133 - Lect 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "augmented matrix.md",
+                "file": "Augmented Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 133.md",
+                "file": "CHEM 110.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH 133.md",
+                "file": "CHEM 110.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 133.md"
+                "file": "CHEM 110.md"
               }
             }
           },
@@ -242,41 +217,41 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6fd12f3c7d85c87",
+  "active": "c72f6ab1ba3a45c7",
   "lastOpenFiles": [
-    "inconsistent.md",
-    "MATH 133.md",
-    "consistent.md",
-    "solution to a system.md",
-    "system of linear equations.md",
-    "System of equations - Lect 1.md",
-    "CHEM 110.md",
-    "BIOL 111.md",
+    "Math 133 - Lect 1.md",
     "COMP 250.md",
-    "linear equation.md",
-    "hyperplane.md",
-    "Mathematics/power.md",
-    "plane.md",
-    "augmented matrix.md",
-    "Course Overview",
+    "BIOL 111.md",
+    "CHEM 110.md",
+    "Solving Augmented Matrixes.md",
+    "MATH 133.md",
+    "system of linear equations.md",
+    "Augmented Matrix.md",
+    "Elementary Row Operations.md",
+    "Elementary Operations.md",
+    "Consistent.md",
+    "Plane.md",
+    "Matrix.md",
+    "Hyperplane.md",
+    "Inconsistent.md",
+    "Linear Equation.md",
+    "Solution to a System.md",
+    "conflict-files-obsidian-git.md",
+    "Interest Notes/Relationships you need.md",
+    "2024-08-30.md",
     "Review/Calculus AB Exam Review.md",
+    "Psychology/Unit 2 - Biological Psychology/Cognitive Neuroscience.md",
+    "Mathematics/power.md",
+    "Course Overview",
     "MATH 133 - Linear Algebra.md",
     "Screenshot 2024-08-28 at 2.55.20 PM.png",
     "Biology",
     "Chemistry/Electron.md",
     "Interest Notes/Thirteen (movie).md",
-    "Interest Notes/Relationships you need.md",
     "Chemistry/doc03626020240530134213 (dragged).pdf",
     "Pasted image 20240609130913.png",
     "Chemistry/doc03399520240509202958 (dragged).pdf",
-    "Statistics/Bernoulli trials.md",
     "TCS Archive",
-    "Review/Chemistry Exam review.md",
-    "Review/Complementary Event.md",
-    "Review/Data Management - Unit 5 Review.md",
-    "Review/Data Management - Unit 7 Review.md",
-    "Review/Data Management - Unit 6 Review.md",
-    "Review/Data Management - Unit 3 Review.md",
     "Interest Notes",
     "Chemistry/spdf periodic table.png",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",

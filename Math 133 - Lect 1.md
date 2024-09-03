@@ -1,4 +1,4 @@
-#linear-algebra 
+#linear-algebra #math133 
 
 1. Linear Equations and Geometry
 
@@ -12,7 +12,7 @@ $x+2y=y$
 - the lines could be the same - meaning there an inf. many solutions
 
 Lines and Planes:
-Equations of the form, $ax + by=c$ are used in this course because you cant have vertical lines with the $y=mx+b$ form. [[plane|Planes]] are all possible solutions for a equation in 3rd dimension or higher form. 
+Equations of the form, $ax + by=c$ are used in this course because you cant have vertical lines with the $y=mx+b$ form. [[Plane|Planes]] are all possible solutions for a equation in 3rd dimension or higher form. 
 
 
 Notation:
@@ -32,7 +32,7 @@ In general a linear equation:
 $a_1x_1 + a_n x_n =b$
 where $x_n$ is a variable and $a_n$ is $e$$\mathbb{R}$.
 
-bER repesents an (n-1) dimensional "flat" object in n-dimensional space. This is called a [[hyperplane]].
+bER repesents an (n-1) dimensional "flat" object in n-dimensional space. This is called a [[Hyperplane]].
 
 
 Dot:
@@ -55,4 +55,4 @@ $x=-\frac{2}{3}$
 You can solve by adding then replacing the original equation but substituting in a new derived equations to create a single variable equation so you can find the answer. 
 
 
-Systems can be put into [[augmented matrix]]
+Systems can be put into [[Augmented Matrix]]

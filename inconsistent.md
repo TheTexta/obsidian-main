@@ -1,2 +1,2 @@
 #math133 
-A [[system of linear equations]] with no [[solution to a system|solution]] is called inconsistent
+A [[system of linear equations]] with no [[Solution to a System|solution]] is called inconsistent
