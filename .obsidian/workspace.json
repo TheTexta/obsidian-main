@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHEM 110.md",
+                "file": "Modulo.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 110.md",
+                "file": "Modulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHEM 110.md",
+                "file": "Modulo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHEM 110.md"
+                "file": "Modulo.md"
               }
             }
           },
@@ -219,14 +219,18 @@
   },
   "active": "c72f6ab1ba3a45c7",
   "lastOpenFiles": [
-    "Math 133 - Lect 1.md",
     "COMP 250.md",
-    "BIOL 111.md",
+    "Modulo.md",
+    "Mathematics/geometric series.md",
+    "Mathematics/Logarithms.md",
+    "Math 133 - Lect 1.md",
+    "Augmented Matrix.md",
+    "arithmetic series.md",
     "CHEM 110.md",
+    "BIOL 111.md",
     "Solving Augmented Matrixes.md",
     "MATH 133.md",
     "system of linear equations.md",
-    "Augmented Matrix.md",
     "Elementary Row Operations.md",
     "Elementary Operations.md",
     "Consistent.md",
@@ -241,13 +245,9 @@
     "2024-08-30.md",
     "Review/Calculus AB Exam Review.md",
     "Psychology/Unit 2 - Biological Psychology/Cognitive Neuroscience.md",
-    "Mathematics/power.md",
     "Course Overview",
-    "MATH 133 - Linear Algebra.md",
     "Screenshot 2024-08-28 at 2.55.20 PM.png",
     "Biology",
-    "Chemistry/Electron.md",
-    "Interest Notes/Thirteen (movie).md",
     "Chemistry/doc03626020240530134213 (dragged).pdf",
     "Pasted image 20240609130913.png",
     "Chemistry/doc03399520240509202958 (dragged).pdf",
