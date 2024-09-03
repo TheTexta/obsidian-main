@@ -10,6 +10,7 @@ Lecture Notes:
 Methods:
 * [[Solving Augmented Matrixes]] through [[Elementary Operations]] and [[Elementary Row Operations|row operations]]
 * Converting [[Linear Equation|linear equations]] to [[Augmented Matrix|augmented matrices]]
+* [[Notating solutions to system problems with R]]
 
 Terms:
 - [[Augmented Matrix]]
