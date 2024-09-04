@@ -1,8 +1,7 @@
 ---
-aliases:
-  - good
+aliases: []
 ---
-
+#microeconomics 
 Tangible items which can be consumed
 
 # Types of Goods

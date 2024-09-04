@@ -1,4 +1,4 @@
-TensorFlow is a popular python library for developing machine learning models
+TensorFlow is a popular python library for developing [[Machine Learning]] models
 
 ### Machine learning TensorFlow implementation
 Always import [[TensorFlow]]

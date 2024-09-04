@@ -1,5 +1,5 @@
 #biological-psychology 
-Neurotransmitters::Chemicals released by [[Neuron|neurons]] which mediate transmissions of nerve signals across the junctions between neurons. When triggered by a nerve impulse, the neurotransmitter is released from the [[terminal]], and binds and reacts with receptor molecules in the postsynaptic membrane.
+Neurotransmitters::Chemicals released by [[neuron|neurons]] which mediate transmissions of nerve signals across the junctions between neurons. When triggered by a nerve impulse, the neurotransmitter is released from the [[terminal]], and binds and reacts with receptor molecules in the postsynaptic membrane.
 <!--SR:!2023-12-21,3,250-->
 
 Chemicals which transfer signals.

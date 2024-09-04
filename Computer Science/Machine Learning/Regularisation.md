@@ -4,4 +4,4 @@
 $$
 J(\vec{w},b) = J(\vec{w},b)+\frac{\lambda}{2m}\sum_{j=1}^nw_j^2
 $$
-Where $\lambda$ represents the "regularisation parameter" which is chosen based upon how important it is to reduce overfitting is. If it is too high the model will underfit the data as all parameters essentially equal 0, creating the final model where f(x) = b without the w. 
+Where $\lambda$ represents the "regularisation parameter" which is chosen based upon how important it is to reduce [[Overfitting]] is. If it is too high the model will underfit the data as all parameters essentially equal 0, creating the final model where f(x) = b without the w. 

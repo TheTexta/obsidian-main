@@ -11,4 +11,4 @@ sensations are different to perception. our brain perceives, it does not sense.
 # [[Spinal Cord]]
 Neurons which sit along the spinal cord.
 
-The cns contains all three types of [[Neuron|neurons]]
+The cns contains all three types of [[neuron|neurons]]

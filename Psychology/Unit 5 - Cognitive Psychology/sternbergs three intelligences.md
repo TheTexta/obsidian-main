@@ -1,2 +1,2 @@
 #cognitive-psychology 
-Sternberg's Three Intelligences::Analytical, creative and practical intelligence
+Sternberg's Three Intelligences::Analytical, creative and practical [[intelligence]]. 

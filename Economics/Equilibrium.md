@@ -4,7 +4,7 @@ Equilibrium is the process of [[supply]] and [[demand]] shifting in relation to 
 When [[supply]] and [[demand]] shift, isolated or double, a new point of equilibrium is reached. Although [[Disequilibrium]] will be shortly present as the [[Market 1]] adjusts.
 
 
-Surplus::When there is excess supply to demand
+[[Surplus]]::When there is excess [[Supply]] to demand
 Shortage::When there is excess demand to supply
 
 ### Isolated Shifts

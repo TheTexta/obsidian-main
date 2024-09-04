@@ -11,8 +11,12 @@
             "id": "e6dfae20d858ee9d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Unit 2 - Biological Psychology/Carl Wernicke.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -58,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eating disorder",
+                "query": "clinical psychology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Psychology/Unit 2 - Biological Psychology/Carl Wernicke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Psychology/Unit 2 - Biological Psychology/Carl Wernicke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Psychology/Unit 2 - Biological Psychology/Carl Wernicke.md"
+              }
             }
           },
           {
@@ -176,35 +183,35 @@
   },
   "active": "e6dfae20d858ee9d",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Row Equivalence.md",
-    "Computer Science/Data Structures and Algorithms/Modulo.md",
-    "polygenic.md",
-    "Course Overview/BIOL111.md",
-    "Course Overview/CHEM110.md",
-    "Course Overview/MATH133.md",
-    "Course Overview/COMP250.md",
+    "Psychology/Unit 8 - Disorder Psychology/Clinical Psychology.md",
+    "Psychology/Unit 1 - Psychology Basics/Psychology Definition.md",
+    "Psychology/Unit 8 - Disorder Psychology/Psychological Disorder.md",
+    "Psychology/Unit 8 - Disorder Psychology/evidence based practice.md",
+    "Psychology/Unit 5 - Cognitive Psychology/sternbergs three intelligences.md",
+    "Psychology/Unit 8 - Disorder Psychology/social anxiety disorder.md",
+    "Psychology/Unit 3 - Sensation Psychology/Monocular Cue.md",
+    "Psychology/Unit 3 - Sensation Psychology/binocular cue.md",
+    "Psychology/Unit 5 - Cognitive Psychology/language.md",
+    "Psychology/Unit 1 - Psychology Basics/Perspectives in Psychology.md",
+    "Psychology/Unit 2 - Biological Psychology/Brain.md",
+    "Psychology/Unit 1 - Psychology Basics/The Brain.md",
+    "Psychology/Unit 8 - Disorder Psychology/Neurodevelopmental disorders.md",
+    "Psychology/Unit 8 - Disorder Psychology/DSM-5.md",
+    "Psychology/Unit 3 - Sensation Psychology/myopia.md",
+    "Psychology/Unit 3 - Sensation Psychology/lens.md",
+    "Psychology/Unit 8 - Disorder Psychology/systematic Desentisation.md",
+    "Psychology/Unit 8 - Disorder Psychology/exposure therapies.md",
+    "Psychology/Unit 8 - Disorder Psychology/virtual reality exposure therapy.md",
+    "Psychology/Unit 5 - Cognitive Psychology/formal concept.md",
+    "Psychology/Unit 5 - Cognitive Psychology/convergent thinking.md",
+    "Psychology/Unit 5 - Cognitive Psychology/divergent thinking.md",
+    "Psychology/Unit 8 - Disorder Psychology/chronic schizophrenia.md",
+    "Psychology/Unit 5 - Cognitive Psychology/fixed mindset.md",
+    "Psychology/Unit 8 - Disorder Psychology/panic disorder.md",
+    "Psychology/Unit 5 - Cognitive Psychology/savant syndrome.md",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
-    "Psychology/Unit 3 - Sensation Psychology/Continuity.md",
-    "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
-    "Psychology/Unit 8 - Disorder Psychology/persistent depressive disorder.md",
-    "Psychology/Unit 8 - Disorder Psychology/bulimia nervosa.md",
-    "Psychology/Unit 8 - Disorder Psychology/eating disorder.md",
-    "Psychology/Unit 8 - Disorder Psychology/rational-emotive behaviour therapy.md",
-    "Psychology/Unit 8 - Disorder Psychology/binge-eating disorder.md",
-    "Psychology/Unit 8 - Disorder Psychology/cognitive behavioural therapy.md",
-    "Psychology/Unit 5 - Cognitive Psychology/growth mindset.md",
-    "Psychology/Unit 2 - Biological Psychology/Plasticity of the Brain.md",
-    "Psychology/Unit 2 - Biological Psychology/Neuroplasticity.md",
-    "Psychology/Unit 3 - Sensation Psychology/Parallel Processing.md",
-    "Psychology/Unit 2 - Biological Psychology/Psychoactive Drugs.md",
-    "Sexual Selection.md",
     "Phylogeny of Weevils.png",
-    "Phylogeny.md",
-    "Genetic Drift.md",
-    "BIOL111 - Lecture 1.md",
-    "Alfred Wallace.md",
-    "Gene Flow.md",
     "Mathematics/Calculus/Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Mathematics/Calculus/Screenshot 2024-02-17 at 5.18.28 PM.png",
     "Mathematics/Linear Algebra/Screenshot 2024-08-28 at 2.55.20 PM.png",

@@ -12,7 +12,7 @@ feature detectors - let you see angles, edges, movement
 
 figure ground - allow for you to differentiate the background from the foreground of a dancer on a stage.
 
-place theory vs pitch theory - Place theory is in place for higher frequencies and pitch theory is in place for lower frequencies (<100hz).
+[[place theory]] vs pitch theory - [[place theory]] is in place for higher frequencies and pitch theory is in place for lower frequencies (<100hz).
 
 ear canal - eardrum - hammer - anvil - stirup - oval window - cochlea
 
@@ -45,7 +45,7 @@ parallel processing - how we are able to recognise faces without effort and conc
 
 [[precognition]] - its bullshit, perceiving future events
 
-Relative Luminance
+[[relative luminance]]
 
 Frequency theory - A theory which explains pitch as being related to how fast the basilar membrane vibrates, higher pitch = faster vibrations.
 
@@ -57,7 +57,7 @@ choice blindness
 
 McGurk Effect
 
-Gate-Control Theory
+[[gate-control theory]]
 
 Perceptual Constancy - A [top-down process](app://obsidian.md/Top-down%20Processing) where objects are perceived as unchanging regardless of viewing angle.
 

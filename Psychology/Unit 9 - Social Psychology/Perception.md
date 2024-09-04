@@ -1,5 +1,5 @@
 #social-psychology 
-What you perceive a person to be, without explaining why you have that perception. In [[Social Psychology]] perception refers to the mental processes by which we form impressions of people. This includes not just the impressions but the conclusions which are drawn from them, based on physical appearance, voice, tonality, body language (all that [[Autism|autistic]] shit). There is a [[Primacy Effect]] in perception formation, which is what gives earlier impressions greater significance in the way we perceive someone then later ones. 
+What you perceive a person to be, without explaining why you have that perception. In [[Social Psychology]] perception refers to the mental processes by which we form impressions of people. This includes not just the impressions but the conclusions which are drawn from them, based on physical appearance, voice, tonality, body language (all that [[autism spectrum disorder|autistic]] shit). There is a [[Primacy Effect]] in perception formation, which is what gives earlier impressions greater significance in the way we perceive someone then later ones. 
 
 Perception::What you perceive a person to be without explaining that perception. The mental processes by which we form impressions of people. Prone to the [[Primacy Effect]].
 <!--SR:!2023-11-13,6,250-->

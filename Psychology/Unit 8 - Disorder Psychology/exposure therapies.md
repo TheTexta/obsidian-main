@@ -1,2 +1,2 @@
 #disorder-psychology 
-Exposure Therapies::Behavoiur tehcnqiues such as systematic desntitisation and virtual reality exposure therapy, that treat anxieties by exposing people (in imaginary or actual situations) to the things they fear and avoid.
+Exposure Therapies::Behavioural techniques such as [[systematic Desentisation|systematic desensitisation]] and [[virtual reality exposure therapy]], that treat anxieties by exposing people (in imaginary or actual situations) to the things they fear and avoid.

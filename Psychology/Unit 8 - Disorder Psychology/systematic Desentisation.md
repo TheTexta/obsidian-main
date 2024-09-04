@@ -1,2 +1,2 @@
 #disorder-psychology 
-Systematic Desensitisation::A type of exposure therapy that associates a pleasant relaxed state with gradually increasing anxiety0-triggering stimuli. Commonly used to treat phobias. 
+Systematic Desensitisation::A type of [[exposure therapies|exposure therapy]] that associates a pleasant relaxed state with gradually increasing anxiety-triggering stimuli. Commonly used to treat [[phobias]]. 

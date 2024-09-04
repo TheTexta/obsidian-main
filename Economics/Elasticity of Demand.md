@@ -1,5 +1,5 @@
 #microeconomics 
-TLDR; as price increases if PED is high then [[Consumers|consumers]] react strongly and decrease the quantity which they demand of the item. If PED is low then they don't give a shit. [[PASIFIC]] factors can influence PED along with the broadness of the definition of a market, addictiveness of the good, the time period considered (longer times means more time for [[consumers]] to react), the portion of income spent on the [[Goods|good]], and the necessities versus luxuries. A *positive PED* indicates a [[Goods|giffen good]].
+TLDR; as price increases if PED is high then [[Consumers|consumers]] react strongly and decrease the quantity which they demand of the item. If PED is low then they don't give a shit. [[PASIFIC]] factors can influence PED along with the broadness of the definition of a market, addictiveness of the [[Economic Goods|good]], the time period considered (longer times means more time for [[consumers]] to react), the portion of income spent on the [[Economic Goods|good]], and the necessities versus luxuries. A *positive PED* indicates a [[Economic Goods|giffen good]].
 
 # Revenue
 PED indicates the shift in [[Revenue]] associated with a decision to increase/decrease the price of an item. elastic markets favour lower prices, inelastic favour higher, and unit have constant price and quantity.
@@ -35,5 +35,5 @@ Perfectly Elastic Demand::Consumers will only pay up to a certain price for a go
 <!--SR:!2023-11-25,3,250-->
 
 ### Perfectly Inelastic (PED = 0)
-Perfectly Inelastic Demand::Consumers will pay anything for this good, your literally the shit. Crack, cocain, lsd, meth, weed and shit are perfectly inelastic.
+Perfectly Inelastic Demand::Consumers will pay anything for this [[Economic Goods|good]], your literally the shit. Crack, cocain, lsd, meth, weed and shit are perfectly inelastic.
 <!--SR:!2023-11-25,3,250-->

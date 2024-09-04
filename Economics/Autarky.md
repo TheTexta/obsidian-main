@@ -1,2 +1,2 @@
 #microeconomics 
-Autarky::Free trade in a domestic market without government intervention
+Autarky::[[Free Trade]] in a domestic market without government intervention

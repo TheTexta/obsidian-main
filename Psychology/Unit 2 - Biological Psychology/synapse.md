@@ -1,3 +1,3 @@
 #biological-psychology 
-Synapse::The area around the end of a [[Neuron]], the [[terminal]] and the beginning of another [[Neuron]], the [[dendrite]]. Wherein the signal travels from the presynaptic neuron to the postsynaptic one. The space itself is known as the [[synaptic gap]] or [[synaptic cleft]]. For the signal to cross the gap, they must be converted to chemicals known as neurotransmitters.
+Synapse::The area around the end of a [[neuron]], the [[terminal]] and the beginning of another [[neuron]], the [[dendrite]]. Wherein the signal travels from the presynaptic neuron to the postsynaptic one. The space itself is known as the [[synaptic gap]] or [[synaptic cleft]]. For the signal to cross the gap, they must be converted to chemicals known as neurotransmitters.
 <!--SR:!2023-12-21,3,250-->

@@ -1,4 +1,4 @@
-John Broadus Watson was an American psychologist who popularised the [[Perspectives in Psychology|school of though]] in [[Psychology]] known as [[Behaviourism]]. He studied at the University of Chicago, where he would go on to get a PhD in psychology.
+John Broadus Watson was an American psychologist who popularised the [[Perspectives in Psychology|school of though]] in [[Psychology Definition]] known as [[Behaviourism]]. He studied at the University of Chicago, where he would go on to get a PhD in psychology.
 
 ## Personal Life
 His dad was an alcoholic who left him and his mother at the age of 13, something which he neither forgave nor forgot. Later in his life he got cancelled when his wife found out he was having an affair with one of his students (clearly didn't learn much from his dad), which caused him to be asked to stop his teaching at the [[John Hopkins|John Hopkins University]]. All his children attempted suicide at some point, with his later born son William sucessfuly killing himself in 1954.

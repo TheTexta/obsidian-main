@@ -1,5 +1,5 @@
 #biological-psychology
-How are signals created and passed through the [[Neuron]]. [[Neuron|Neurons]] need enough energy to cause an [[action potential]]. 
+How are signals created and passed through the [[neuron]]. [[neuron|Neurons]] need enough energy to cause an [[action potential]]. 
 
 Cells have skin called [[membrane]]. [[Membrane|Membranes]] have two layers. [[membrane|Membranes]] are semi permeable, some molecules go right through others do not.
 

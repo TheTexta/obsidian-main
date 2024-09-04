@@ -1,3 +1,4 @@
+#basic-psychology 
 ## Definition
 ### Old Def
 The study of the mind and its behaviours.
