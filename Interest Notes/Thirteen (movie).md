@@ -5,3 +5,4 @@
 - Girls will do anything to fit in
 - codependent female friendships can be pretty involved
 - this film is meant to be depressing because it shows how girls in a modern society will do anything to fit in. 
+- great example of [[non suicidal self injury]].

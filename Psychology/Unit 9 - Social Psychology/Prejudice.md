@@ -52,7 +52,7 @@ Roots of prejudice::[[Realistic Conflict theory]], [[Social Identity Theory]] an
 * Increasing contact between the target of the stereotyping and the holder of the stereotype. 
 * Reducing [[Stereotype Threat|stereotype threats]]
 * Increasing sense of belonging of racialised students
-* Providing information about targets of stereotyping
+* Providing information about targets of [[Stereotype|stereotyping]]
 * Making values and norms against stereotyping more conspicuous
 
 Overcoming Prejudice::Increase contact, reduce [[Stereotype Threat|stereotype threats]], increase belonging, education of targets, increase values against stereotyping.
