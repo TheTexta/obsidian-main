@@ -1,0 +1,3 @@
+Nodes are used to build layers in a [[Neural Networks|neural network]]. Each hidden [[Layers|layer]] is comprised of nodes which transform the input data into something more useful for the purpose of the nodes. 
+
+A node takes an input, multiplies the inputs by there [[Weights and Biases|weights, adds bias]] to it all, then feeds it into the nodes chosen [[Activation Functions|activation function]], which decides how important the result is by seeing what threshold values the node begins around. 

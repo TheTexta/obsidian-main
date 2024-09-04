@@ -3,71 +3,57 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Chemistry  ",
+      "query": "tag:#review",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Biology  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
       }
     },
     {
       "query": "path:Economics  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Machine Learning\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Learning  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 11392604
       }
     },
     {
       "query": "path:Mathematics  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:Chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     },
     {
       "query": "path:Psychology  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 6073814
       }
     },
     {
-      "query": "tag:#review  ",
+      "query": "path:\"Computer Science\"  ",
       "color": {
         "a": 1,
         "rgb": 6053078
-      }
-    },
-    {
-      "query": "tag:#math133  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "tag:#data-management  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
       }
     }
   ],
@@ -77,10 +63,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.399698893229167,
-  "repelStrength": 9.99593098958333,
-  "linkStrength": 0.533284505208333,
-  "linkDistance": 92,
-  "scale": 0.3484802397302997,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.19753788254932308,
   "close": true
 }

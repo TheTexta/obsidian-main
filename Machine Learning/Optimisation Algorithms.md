@@ -1,2 +1,0 @@
-Algorithms which are used to optimise the [[Cost or loss functions|cost function]] in a machine learning problem.
-The first algorithm optimisation algorithms was [[Gradient Descent]] but now there are other, more efficient algorithms. 

@@ -1,0 +1,1 @@
+Feedforward and backpropagation describe the flow of data in a neural network, feedforward is putting data in the neural network to predict an outcome, backpropagation is wherr

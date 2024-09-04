@@ -1,2 +1,2 @@
 #disorder-psychology 
-Bulimia Nervosa::An eating disorder in which a persons binge eating (usually of high-calories foods) is followed by inappropriate weight loss promoting behaviour, such as vomiting, laxative use, fasting, or excessive excessive.
+Bulimia Nervosa::An [[eating disorder]] in which a persons binge eating (usually of high-calories foods) is followed by inappropriate weight loss promoting [[behaviour]], such as vomiting, laxative use, fasting, or excessive excessive.

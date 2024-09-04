@@ -72,6 +72,11 @@
       "folder": "Mathematics/Linear Algebra",
       "tag": "#math133",
       "pattern": ""
+    },
+    {
+      "folder": "Computer Science/Data Structures and Algorithms",
+      "tag": "#comp250",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

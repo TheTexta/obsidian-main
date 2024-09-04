@@ -1,0 +1,1 @@
+Features are the number of parameters a model is given, examples are the number of sets of those parameters with outputs the model is given to train off. 

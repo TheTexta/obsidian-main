@@ -11,7 +11,7 @@
 	* Opiates - intense craving, 
 		* Heroin
 		* Methadone
-* Stimulants - excite neural activity and speed up bodily functions. Triggers the sympathetic nervous system. 
+* Stimulants - excite neural activity and speed up bodily functions. Triggers the [[sympathetic nervous system]]. 
 	* Cocaine - Blocks the re-uptake of dopamine. 
 	* Caffeine - Headaches, when cutting
 	* Nicotine - 

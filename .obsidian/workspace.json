@@ -11,36 +11,8 @@
             "id": "e6dfae20d858ee9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Row Equivalence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fef08c95f8fea0a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Overview/CHEM 110.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5fb235a0bc4295d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Calculus/Derivative.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -61,14 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Overview/BIOL 111.md",
+                "file": "Course Overview/BIOL111.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eating disorder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Calculus/Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Calculus/Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Calculus/Derivative.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,51 +173,51 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c5fb235a0bc4295d",
+  "active": "e6dfae20d858ee9d",
   "lastOpenFiles": [
-    "Mathematics/Calculus/Discontinuities.md",
-    "Mathematics/Calculus/Continuity.md",
-    "Mathematics/Calculus/Conjugate.md",
-    "Mathematics/Calculus/Functions.md",
-    "Mathematics/Calculus/Extreme value theorem.md",
-    "Mathematics/Calculus/Factorial.md",
-    "Mathematics/Calculus/divergence test.md",
-    "Mathematics/Calculus/Direct Comparison Test.md",
-    "Mathematics/Calculus/Derivative.md",
-    "Mathematics/Calculus/alternating series test.md",
-    "Mathematics/Calculus/Absolute Function.md",
-    "Mathematics/Calculus/arc length.md",
-    "Mathematics/Calculus/AP Calculus Review.md",
-    "Mathematics/Calculus/AP Calc Test Tips.md",
-    "Mathematics/Statistics/Binomial Distribution.md",
-    "Mathematics/Calculus/Brackets and Intervals.md",
-    "Mathematics/Calculus/Calculus.md",
-    "linear function.md",
-    "Machine Learning/Activation Functions.md",
-    "functions.md",
-    "Mathematics/Calculus/Polar Function.md",
-    "Mathematics/Statistics/Probability.md",
-    "Mathematics/Calculus/ratio series test.md",
-    "Mathematics/Calculus/Reciprocal Function.md",
-    "Mathematics/Calculus/Real Limits.md",
-    "Mathematics/Calculus/Related rates.md",
+    "Mathematics/Linear Algebra/Row Equivalence.md",
+    "Computer Science/Data Structures and Algorithms/Modulo.md",
+    "polygenic.md",
+    "Course Overview/BIOL111.md",
+    "Course Overview/CHEM110.md",
+    "Course Overview/MATH133.md",
+    "Course Overview/COMP250.md",
+    "Computer Science/Data Structures and Algorithms",
+    "Computer Science",
+    "Psychology/Unit 3 - Sensation Psychology/Continuity.md",
+    "Psychology/Unit 8 - Disorder Psychology/major depressive disorder.md",
+    "Psychology/Unit 8 - Disorder Psychology/persistent depressive disorder.md",
+    "Psychology/Unit 8 - Disorder Psychology/bulimia nervosa.md",
+    "Psychology/Unit 8 - Disorder Psychology/eating disorder.md",
+    "Psychology/Unit 8 - Disorder Psychology/rational-emotive behaviour therapy.md",
+    "Psychology/Unit 8 - Disorder Psychology/binge-eating disorder.md",
+    "Psychology/Unit 8 - Disorder Psychology/cognitive behavioural therapy.md",
+    "Psychology/Unit 5 - Cognitive Psychology/growth mindset.md",
+    "Psychology/Unit 2 - Biological Psychology/Plasticity of the Brain.md",
+    "Psychology/Unit 2 - Biological Psychology/Neuroplasticity.md",
+    "Psychology/Unit 3 - Sensation Psychology/Parallel Processing.md",
+    "Psychology/Unit 2 - Biological Psychology/Psychoactive Drugs.md",
+    "Sexual Selection.md",
+    "Phylogeny of Weevils.png",
+    "Phylogeny.md",
+    "Genetic Drift.md",
+    "BIOL111 - Lecture 1.md",
+    "Alfred Wallace.md",
+    "Gene Flow.md",
     "Mathematics/Calculus/Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Mathematics/Calculus/Screenshot 2024-02-17 at 5.18.28 PM.png",
     "Mathematics/Linear Algebra/Screenshot 2024-08-28 at 2.55.20 PM.png",
     "Mathematics/Linear Algebra",
     "Mathematics/Statistics",
     "Mathematics/Calculus",
-    "Phylogeny of Weevils.png",
     "Course Overview",
     "Biology",
     "Chemistry/doc03626020240530134213 (dragged).pdf",
     "Pasted image 20240609130913.png",
     "Chemistry/doc03399520240509202958 (dragged).pdf",
     "TCS Archive",
-    "Interest Notes",
     "Chemistry/spdf periodic table.png",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
-    "Review",
     "Mathematics/Calculus/inflection point example.png",
     "Psychology/Unit 5 - Cognitive Psychology/Screenshot 2024-02-06 at 12.34.29 PM.png",
     "Psychology/Unit 5 - Cognitive Psychology/Shiffrin Atkinson Model.png"

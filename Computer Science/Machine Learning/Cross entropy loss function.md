@@ -1,0 +1,1 @@
+The cross entropy loss function is a [[Cost or loss functions|loss function]] used in a [[Neural Networks|neural network]] to grade a [[Multi-Class Classification]] model. 
