@@ -9,7 +9,7 @@ The binomial distribution is a discrete distribution that describes the number o
 If you flip a fair coin 10 times, the probability of getting exactly 6 heads is given by the binomial distribution formula: $P(X=6)=(​\binom{10}{6})\cdot(0.5)^6\cdot(0.5)^4 \text{ where } \binom{10}{6}$ is the binomial coefficient for choosing 6 successes out of 10 trials.
 
 ### [[Hypergeometric Distribution]]
-The hypergeometric distribution models the number of successes in a sample of size $n$ drawn without replacement from a finite population of size $N$ containing exactly $K$ successes. This distribution differs from the [[binomial distribution]] in that the trials are not [[independent events|independent]] (due to the lack of replacement).
+The hypergeometric distribution models the number of successes in a sample of size $n$ drawn without replacement from a finite population of size $N$ containing exactly $K$ successes. This distribution differs from the [[Binomial Distribution]] in that the trials are not [[independent events|independent]] (due to the lack of replacement).
 
 Imagine a lot of 100 light bulbs, where 20 are defective. If you randomly choose 10 bulbs, the probability that exactly 5 are defective is modelled by the hypergeometric distribution.
 

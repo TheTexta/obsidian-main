@@ -1,1 +1,0 @@
-The IROC or [[Derivative]] of a function at a given point. the interval used to find the iroc of a interval can be a centred [[interval]], following interval and 

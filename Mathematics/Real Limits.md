@@ -1,1 +1,0 @@
-For a [[Limits|limit]] to exist the LHS and RHS of the [[Limits|limit]] must exist and tend towards the same number. A limit can exist without the point of the limit being explicitly defined so long as the above rules are satisfied. A limits existence can be proved by calculating the RHS and LHS and confirming that they match/exist.

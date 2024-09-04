@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/alternating series test.md",
+                "file": "Mathematics/Linear Algebra/Row Equivalence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fef08c95f8fea0a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Overview/CHEM 110.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5fb235a0bc4295d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Calculus/Derivative.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL 111.md",
+                "file": "Course Overview/BIOL 111.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/alternating series test.md",
+                "file": "Mathematics/Calculus/Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/alternating series test.md",
+                "file": "Mathematics/Calculus/Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/alternating series test.md"
+                "file": "Mathematics/Calculus/Derivative.md"
               }
             }
           },
@@ -181,40 +206,42 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e6dfae20d858ee9d",
+  "active": "c5fb235a0bc4295d",
   "lastOpenFiles": [
-    "Mathematics/Statistics/Voluntary Sampling.md",
-    "Mathematics/Statistics/Sampling bias.md",
-    "Mathematics/Statistics/Bar Chart.md",
-    "Mathematics/Statistics/Categorical Variables.md",
-    "Mathematics/Statistics/Cluster Sampling.md",
+    "Mathematics/Calculus/Discontinuities.md",
+    "Mathematics/Calculus/Continuity.md",
+    "Mathematics/Calculus/Conjugate.md",
+    "Mathematics/Calculus/Functions.md",
+    "Mathematics/Calculus/Extreme value theorem.md",
+    "Mathematics/Calculus/Factorial.md",
+    "Mathematics/Calculus/divergence test.md",
+    "Mathematics/Calculus/Direct Comparison Test.md",
+    "Mathematics/Calculus/Derivative.md",
+    "Mathematics/Calculus/alternating series test.md",
+    "Mathematics/Calculus/Absolute Function.md",
+    "Mathematics/Calculus/arc length.md",
+    "Mathematics/Calculus/AP Calculus Review.md",
+    "Mathematics/Calculus/AP Calc Test Tips.md",
+    "Mathematics/Statistics/Binomial Distribution.md",
+    "Mathematics/Calculus/Brackets and Intervals.md",
+    "Mathematics/Calculus/Calculus.md",
+    "linear function.md",
+    "Machine Learning/Activation Functions.md",
+    "functions.md",
+    "Mathematics/Calculus/Polar Function.md",
+    "Mathematics/Statistics/Probability.md",
+    "Mathematics/Calculus/ratio series test.md",
+    "Mathematics/Calculus/Reciprocal Function.md",
+    "Mathematics/Calculus/Real Limits.md",
+    "Mathematics/Calculus/Related rates.md",
+    "Mathematics/Calculus/Screenshot 2024-02-17 at 5.22.12 PM.png",
+    "Mathematics/Calculus/Screenshot 2024-02-17 at 5.18.28 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-08-28 at 2.55.20 PM.png",
     "Mathematics/Linear Algebra",
     "Mathematics/Statistics",
     "Mathematics/Calculus",
-    "Mathematics/Statistics/Conditional Distribution.md",
-    "Mathematics/Statistics/Categorical Data.md",
-    "Mathematics/Statistics/Bimodal.md",
-    "Mathematics/Statistics/Bernoulli trials.md",
-    "Mathematics/Statistics/Discrete Data.md",
-    "Review/Calculus AB Exam Review.md",
-    "Review/Acid-Base Reactions - Unit 2 and 4 Review.md",
-    "Psychology/Unit 1 - Psychology Basics/Behaviour.md",
-    "MATH 133.md",
-    "Math 133 - Lecture 2.md",
-    "CHEM 110.md",
-    "free variables.md",
-    "leading variables.md",
-    "COMP 250.md",
-    "Phylogeny.md",
-    "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
-    "Wavelength.md",
-    "Row Echelon Form.md",
-    "Math 133 - Lecture 1.md",
-    "Notating solutions to system problems with R.md",
-    "system of linear equations.md",
     "Phylogeny of Weevils.png",
     "Course Overview",
-    "Screenshot 2024-08-28 at 2.55.20 PM.png",
     "Biology",
     "Chemistry/doc03626020240530134213 (dragged).pdf",
     "Pasted image 20240609130913.png",
@@ -223,10 +250,8 @@
     "Interest Notes",
     "Chemistry/spdf periodic table.png",
     "Economics/Screenshot 2024-04-11 at 12.05.21 AM.png",
-    "Mathematics/Screenshot 2024-02-17 at 5.22.12 PM.png",
-    "Mathematics/Screenshot 2024-02-17 at 5.18.28 PM.png",
     "Review",
-    "Mathematics/inflection point example.png",
+    "Mathematics/Calculus/inflection point example.png",
     "Psychology/Unit 5 - Cognitive Psychology/Screenshot 2024-02-06 at 12.34.29 PM.png",
     "Psychology/Unit 5 - Cognitive Psychology/Shiffrin Atkinson Model.png"
   ]

@@ -1,1 +1,0 @@
-If F(x) is [[Mathematics/Continuity|continuous]] over $[a,b]$ and [[Derivative|differentiable]] over $(a,b)$, *notice the change in interval types*, then the [[Secant|average rate of change]] between a and b will equal the [[Tangent|instantaneous rate of change]] of the function at some point $c$.

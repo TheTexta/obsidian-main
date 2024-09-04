@@ -8,15 +8,15 @@
 	* [[Asymptote]]
 	* [[Trigonometric Identities]]
 	* [[Infinite Limits]]
-* Theorems and [[Mathematics/Continuity]]
+* Theorems and [[Mathematics/Calculus/Continuity]]
 	* [[Mean Value Theorem]]
 	* [[Extreme value theorem]]
 	* [[Intermediate Value Theorem]]
-	* [[Mathematics/Continuity|Continuity]]
+	* [[Mathematics/Calculus/Continuity|Continuity]]
 	* [[Fundamental Theorem of Calculus]]
 	* [[Discontinuities]]
 	* [[differentiability]]
-	* [[Interval]]s and there representation () vs \[]
+	* [[interval]]s and there representation () vs \[]
 * [[Derivative|Derivatives]]
 	* [[Standard Definition of Derivative through limit]]
 	* [[Definition of a slope derivative using limits at point a]]
@@ -38,7 +38,7 @@
 	* [[Inflection Points]]
 	* [[linearisation]]
 	* [[local linearity]]
-	* [[normal]] vs [[tangent]]
+	* [[normal]] vs [[Tangent]]
 	* approximate rate of change
 		* approximate the rate of change in the area of a circle of radius 4cm if the radius increased by 0.02cm
 		* $A_\text{circle}=\pi r^2; dA=2\pi r \cdot r'; 2\pi \cdot 4 \cdot 0.02 = 0.16\pi$

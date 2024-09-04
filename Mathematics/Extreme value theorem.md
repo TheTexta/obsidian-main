@@ -1,1 +1,0 @@
-If f is continuous over a,b then a max and min value exist within those intervals.

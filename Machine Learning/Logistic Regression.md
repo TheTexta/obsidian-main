@@ -9,7 +9,7 @@ $$\displaylines{ m=\text{number of training examples}
 
 Updating each parameter w and b for the algorithm with the [[Derivative]] of the [[Cost or loss functions]] multiplied by the [[Alpha value]] allows for the parameters to gradually find there local minimum within a given problem. 
 
-The [[derivative]] of the [[Cost or loss functions]] for logistic regression of the b value is:
+The [[Derivative]] of the [[Cost or loss functions]] for logistic regression of the b value is:
 $$\frac{dJ(w,b)}{d(b)} = \frac{1}{m}\sum_{i=1}^{m}f(x^i)-y^i$$
-The [[derivative]] of the [[Cost or loss functions]] for logistic regression of the w parameters is:
+The [[Derivative]] of the [[Cost or loss functions]] for logistic regression of the w parameters is:
 $$\frac{dJ(w,b)}{d(w)} = \frac{1}{m}\sum_{i=1}^{m}(f(x^i)-y^i)x_{j}^i$$
