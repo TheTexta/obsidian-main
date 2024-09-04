@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Row Echelon Form.md",
+                "file": "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Row Echelon Form.md",
+                "file": "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Row Echelon Form.md",
+                "file": "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Row Echelon Form.md"
+                "file": "Psychology/Unit 3 - Sensation Psychology/wavelength.md"
               }
             }
           },
@@ -185,6 +185,9 @@
   "active": "24ddb083463cb0da",
   "lastOpenFiles": [
     "Math 133 - Lecture 2.md",
+    "Wavelength.md",
+    "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
+    "Row Echelon Form.md",
     "MATH 133.md",
     "Math 133 - Lecture 1.md",
     "Notating solutions to system problems with R.md",
@@ -207,10 +210,7 @@
     "Genetic Drift.md",
     "Psychology/Unit 2 - Biological Psychology/Mutation.md",
     "polygenic.md",
-    "Psychology/Unit 2 - Biological Psychology/Genotype.md",
     "Phylogeny of Weevils.png",
-    "Row Echelon Form.md",
-    "Inconsistent.md",
     "Course Overview",
     "Screenshot 2024-08-28 at 2.55.20 PM.png",
     "Biology",

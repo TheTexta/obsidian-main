@@ -11,4 +11,4 @@ A [[matrix]] is said to be in [[Row Echelon Form]] when if:
 3. Every leading one must be to the right of a leading one above it
 
 If a [[matrix]] also satisfies the following it is said to be in [[reduced row echelon form]]
-1. Every entry above and below a leading 1 is 0
+1. Every entry above and below a leading 1 is 0. The only entry in its column which is nonzero. 
