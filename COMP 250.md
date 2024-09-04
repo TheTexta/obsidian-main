@@ -1,7 +1,7 @@
 #course-overview #comp250
 
 - Math Prerequisite
-	- [[arithmetic series|Arithmetic]] and [[geometric series|goemetric]] series
+	- [[Arithmetic Series|Arithmetic]] and [[geometric series|goemetric]] series
 	- [[Logarithms|log]] laws
 	- [[exponential function]]
 	- Take MATH240 (Discrete Structures) and MATH 235 (Algebra)

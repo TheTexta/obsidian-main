@@ -5,7 +5,9 @@
 
 ## Unit 1:
 Lecture Notes:
-* [[Math 133 - Lect 1]]
+* [[Math 133 - Lecture 1]]
+* [[Math 133 - Lecture 2]]
+* 
 
 Methods:
 * [[Solving Augmented Matrixes]] through [[Elementary Operations]] and [[Elementary Row Operations|row operations]]
@@ -14,13 +16,17 @@ Methods:
 
 Terms:
 - [[Augmented Matrix]]
-- [[system of linear equations]]
+- [[Row Equivalence]]
+- [[System of linear equations]]
 - [[Plane]]
 - [[Hyperplane]]
 - [[Linear Equation]]
-- [[power]]
+- [[Power]]
 - [[Solution to a System]]
 - [[Consistent]]
 - [[Inconsistent]]
 - [[Elementary Operations]]
 - [[Elementary Row Operations]]
+- [[Matrix]]
+- [[Row Echelon Form]]
+- [[reduced row echelon form]]

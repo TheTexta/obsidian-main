@@ -1,3 +1,2 @@
-#biological-psychology 
-Natural Selection::Survival of the fittest cuh
-<!--SR:!2023-12-21,3,250-->
+#biol111 #biological-psychology 
+Natural Selection::Survival of the fittest cuh. [[Charles Darwin]] and [[Alfred Wallace]]. All organisms have potential for exponential growth - yet most populations remain relatively stable in the number of individuals which implies high mortality in nature. Traits vary among individuals, traits influence survival and traits are heritable. 

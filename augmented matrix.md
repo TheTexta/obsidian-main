@@ -9,4 +9,4 @@ $$\begin{pmatrix}
 2 & 4 & |8\\  
 -1 & 1 & |3  
 \end{pmatrix}$$
-where the left hand side is a coefficient matrix combined with a right constant matrix.
+where the left hand side is a coefficient [[matrix]] combined with a right hand side constant [[matrix]].

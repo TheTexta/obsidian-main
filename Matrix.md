@@ -1,2 +1,2 @@
 #math133 
-A collection of organised numbers in a grid like structure?
+A rectangular array of numbers of size $m\cdot n$ with $m$ rows and $n$ columns. 

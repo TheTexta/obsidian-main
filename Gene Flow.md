@@ -1,0 +1,1 @@
+Movements of genes among pooulations. Often opposes effects of divergent natural selection.

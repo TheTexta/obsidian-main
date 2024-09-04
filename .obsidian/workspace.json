@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c72f6ab1ba3a45c7",
+            "id": "e6dfae20d858ee9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inconsistent.md",
+                "file": "Phylogeny.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24ddb083463cb0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Row Echelon Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8049656984230903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL 111.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inconsistent.md",
+                "file": "Row Echelon Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inconsistent.md",
+                "file": "Row Echelon Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inconsistent.md"
+                "file": "Row Echelon Form.md"
               }
             }
           },
@@ -157,34 +182,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c72f6ab1ba3a45c7",
+  "active": "24ddb083463cb0da",
   "lastOpenFiles": [
-    "Augmented Matrix.md",
-    "Solving Augmented Matrixes.md",
-    "Inconsistent.md",
+    "Math 133 - Lecture 2.md",
     "MATH 133.md",
+    "Math 133 - Lecture 1.md",
     "Notating solutions to system problems with R.md",
-    "row echelon form.md",
-    "reduced row echelon form.md",
     "system of linear equations.md",
     "Linear Equation.md",
-    "arithmetic series.md",
-    "COMP 250.md",
-    "Modulo.md",
-    "Math 133 - Lect 1.md",
-    "Mathematics/geometric series.md",
-    "Mathematics/Logarithms.md",
-    "CHEM 110.md",
-    "BIOL 111.md",
     "Elementary Row Operations.md",
-    "Elementary Operations.md",
-    "Consistent.md",
-    "Plane.md",
+    "BIOL 111.md",
+    "Row Equivalence.md",
+    "Arithmetic Series.md",
+    "Phylogeny.md",
+    "Augmented Matrix.md",
     "Matrix.md",
-    "Hyperplane.md",
-    "Solution to a System.md",
-    "conflict-files-obsidian-git.md",
-    "Interest Notes/Relationships you need.md",
+    "Psychology/Unit 2 - Biological Psychology/Allele.md",
+    "BIOL111 - Lecture 1.md",
+    "Gene Flow.md",
+    "Sexual Selection.md",
+    "Psychology/Unit 2 - Biological Psychology/natural selection.md",
+    "Alfred Wallace.md",
+    "Psychology/Unit 2 - Biological Psychology/Charles Darwin.md",
+    "Genetic Drift.md",
+    "Psychology/Unit 2 - Biological Psychology/Mutation.md",
+    "polygenic.md",
+    "Psychology/Unit 2 - Biological Psychology/Genotype.md",
+    "Phylogeny of Weevils.png",
+    "Row Echelon Form.md",
+    "Inconsistent.md",
     "Course Overview",
     "Screenshot 2024-08-28 at 2.55.20 PM.png",
     "Biology",
@@ -203,7 +229,6 @@
     "Psychology/Unit 5 - Cognitive Psychology/Shiffrin Atkinson Model.png",
     "Psychology/Unit 5 - Cognitive Psychology",
     "Psychology/Unit 8 - Disorder Psychology",
-    "Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Psychology/Unit 3 - Sensation Psychology"
   ]
 }

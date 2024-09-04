@@ -1,3 +1,4 @@
+#comp250 
 Sum found through formula:
 $$
 S_n = \frac{n}{2}\cdot (2a + (n-1)d)

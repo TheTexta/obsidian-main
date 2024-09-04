@@ -1,5 +1,5 @@
 #math133 
-Through [[Elementary Operations]] and [[Elementary Row Operations]] we can solve [[Augmented Matrix|augmented matrices]] by operating on them to reach a [[row echelon form]] like below, where the astrarix represents an arbitrary number.
+Through [[Elementary Operations]] and [[Elementary Row Operations]] we can solve [[Augmented Matrix|augmented matrices]] by operating on them to reach a [[Row Echelon Form]] like below, where the astrarix represents an arbitrary number.
 $$\begin{pmatrix}  
 1 & 0 & 0& |*\\  
 0 & 1 & 0&|*\\
