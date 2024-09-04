@@ -49,18 +49,23 @@
       "pattern": ""
     },
     {
-      "folder": "Mathematics",
+      "folder": "Mathematics/Calculus",
       "tag": "#calculus",
-      "pattern": ""
-    },
-    {
-      "folder": "Statistics",
-      "tag": "#statistics",
       "pattern": ""
     },
     {
       "folder": "Interest Notes",
       "tag": "#interest-notes",
+      "pattern": ""
+    },
+    {
+      "folder": "Mathematics/Statistics",
+      "tag": "#statistics",
+      "pattern": ""
+    },
+    {
+      "folder": "Mathematics/Linear Algebra",
+      "tag": "#math133",
       "pattern": ""
     }
   ],

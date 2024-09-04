@@ -30,3 +30,7 @@ Terms:
 - [[Matrix]]
 - [[Row Echelon Form]]
 - [[reduced row echelon form]]
+- [[free variables]]
+- [[leading variables]]
+- [[parametric functions]]
+- 

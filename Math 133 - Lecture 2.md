@@ -10,7 +10,7 @@
 		$x=5-2t$
 		$y=t$
 		$z=2$
-- Non leading variables are called free variables. We rename the free variables and rewrite the equation in terms of these variables to create parameters. 
+- Non leading variables are called [[free variables]]. We rename the free variables and rewrite the equation in terms of these variables to create parameters. 
 
 $$
 \begin{pmatrix}  
@@ -19,9 +19,16 @@ $$
 0 & 0 & 0 & 1 & 1 &|-2\\
 \end{pmatrix}
 $$
-Column 3 and 5 contain free variables the rest contain leading variables.
+Column 3 and 5 contain [[free variables]] the rest contain [[leading variables]].
 
 $x_1=3-2x_3+2x_5$
 $x_2=y-3x_3+x_5$
 $x_4=-2-x_5$
 rename $x_3=s$ and $x_5=t$
+
+Writing now in [[parametric functions|parametric form]]:
+$x_1=3-2s+2t$
+$x_2=y-3s+t$
+$x_3=s$
+$x_4=-2-t$
+$x_5=t$

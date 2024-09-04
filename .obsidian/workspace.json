@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phylogeny.md",
+                "file": "Mathematics/alternating series test.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
+                "file": "Mathematics/alternating series test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
+                "file": "Mathematics/alternating series test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Unit 3 - Sensation Psychology/wavelength.md"
+                "file": "Mathematics/alternating series test.md"
               }
             }
           },
@@ -182,34 +181,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "24ddb083463cb0da",
+  "active": "e6dfae20d858ee9d",
   "lastOpenFiles": [
-    "Math 133 - Lecture 2.md",
-    "Wavelength.md",
-    "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
-    "Row Echelon Form.md",
+    "Mathematics/Statistics/Voluntary Sampling.md",
+    "Mathematics/Statistics/Sampling bias.md",
+    "Mathematics/Statistics/Bar Chart.md",
+    "Mathematics/Statistics/Categorical Variables.md",
+    "Mathematics/Statistics/Cluster Sampling.md",
+    "Mathematics/Linear Algebra",
+    "Mathematics/Statistics",
+    "Mathematics/Calculus",
+    "Mathematics/Statistics/Conditional Distribution.md",
+    "Mathematics/Statistics/Categorical Data.md",
+    "Mathematics/Statistics/Bimodal.md",
+    "Mathematics/Statistics/Bernoulli trials.md",
+    "Mathematics/Statistics/Discrete Data.md",
+    "Review/Calculus AB Exam Review.md",
+    "Review/Acid-Base Reactions - Unit 2 and 4 Review.md",
+    "Psychology/Unit 1 - Psychology Basics/Behaviour.md",
     "MATH 133.md",
+    "Math 133 - Lecture 2.md",
+    "CHEM 110.md",
+    "free variables.md",
+    "leading variables.md",
+    "COMP 250.md",
+    "Phylogeny.md",
+    "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
+    "Wavelength.md",
+    "Row Echelon Form.md",
     "Math 133 - Lecture 1.md",
     "Notating solutions to system problems with R.md",
     "system of linear equations.md",
-    "Linear Equation.md",
-    "Elementary Row Operations.md",
-    "BIOL 111.md",
-    "Row Equivalence.md",
-    "Arithmetic Series.md",
-    "Phylogeny.md",
-    "Augmented Matrix.md",
-    "Matrix.md",
-    "Psychology/Unit 2 - Biological Psychology/Allele.md",
-    "BIOL111 - Lecture 1.md",
-    "Gene Flow.md",
-    "Sexual Selection.md",
-    "Psychology/Unit 2 - Biological Psychology/natural selection.md",
-    "Alfred Wallace.md",
-    "Psychology/Unit 2 - Biological Psychology/Charles Darwin.md",
-    "Genetic Drift.md",
-    "Psychology/Unit 2 - Biological Psychology/Mutation.md",
-    "polygenic.md",
     "Phylogeny of Weevils.png",
     "Course Overview",
     "Screenshot 2024-08-28 at 2.55.20 PM.png",
@@ -226,9 +228,6 @@
     "Review",
     "Mathematics/inflection point example.png",
     "Psychology/Unit 5 - Cognitive Psychology/Screenshot 2024-02-06 at 12.34.29 PM.png",
-    "Psychology/Unit 5 - Cognitive Psychology/Shiffrin Atkinson Model.png",
-    "Psychology/Unit 5 - Cognitive Psychology",
-    "Psychology/Unit 8 - Disorder Psychology",
-    "Psychology/Unit 3 - Sensation Psychology"
+    "Psychology/Unit 5 - Cognitive Psychology/Shiffrin Atkinson Model.png"
   ]
 }

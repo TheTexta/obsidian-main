@@ -48,6 +48,27 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "tag:#review  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#math133  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "tag:#data-management  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +81,6 @@
   "repelStrength": 9.99593098958333,
   "linkStrength": 0.533284505208333,
   "linkDistance": 92,
-  "scale": 0.10118119788540474,
+  "scale": 0.2099249618924918,
   "close": true
 }

@@ -8,6 +8,10 @@
 - Wash hands for 15 minutes
 - Remove gloves to take a photo
 
+## Lecture Notes
+- [[CHEM 110 Lecture 2]]
+
+
 ## Lab Instructions
 - Read the lab manual.
 - Complete the pre-lab quiz on myCourses, you must get at least 70% (5 trials are allowed)
