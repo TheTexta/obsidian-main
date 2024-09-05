@@ -11,8 +11,12 @@
             "id": "e6dfae20d858ee9d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Genetic Drift.md",
+                "file": "Course Overview/CHEM110.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cognition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -93,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Course Overview/CHEM110.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Course Overview/CHEM110.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Course Overview/CHEM110.md"
+              }
             }
           },
           {
@@ -161,34 +171,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e6dfae20d858ee9d",
+  "active": "8049656984230903",
   "lastOpenFiles": [
+    "Biology/Genetic Drift.md",
+    "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
+    "Psychology/Unit 2 - Biological Psychology/Refractory Period.md",
+    "Psychology/Unit 8 - Disorder Psychology/agoraphobia.md",
+    "Psychology/Unit 5 - Cognitive Psychology/Memory.md",
+    "Course Overview/MATH133.md",
+    "Psychology/Unit 2 - Biological Psychology/Phineas Cage.md",
+    "Psychology/Unit 9 - Social Psychology/Perception (socially).md",
+    "Psychology/Unit 3 - Sensation Psychology/perception.md",
+    "Mathematics/Statistics/marginal distribution.md",
+    "Economics/Subsidies.md",
+    "Psychology/Unit 8 - Disorder Psychology/syndrome.md",
+    "Psychology/Unit 2 - Biological Psychology/Chromosome Disorders.md",
+    "Psychology/Unit 5 - Cognitive Psychology/relearning.md",
+    "Psychology/Unit 8 - Disorder Psychology/posttraumatic growth.md",
+    "Psychology/Unit 8 - Disorder Psychology/dysfunction.md",
+    "Psychology/Unit 3 - Sensation Psychology/sensory interaction.md",
+    "Psychology/Unit 3 - Sensation Psychology/kinesthesia.md",
+    "Psychology/Unit 3 - Sensation Psychology/proprioception.md",
     "Psychology/Unit 5 - Cognitive Psychology/sensory memory.md",
+    "Psychology/Unit 5 - Cognitive Psychology/savant syndrome.md",
     "Psychology/Unit 5 - Cognitive Psychology/iconic memory.md",
     "Psychology/Unit 8 - Disorder Psychology/rational-emotive behaviour therapy.md",
     "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md",
     "Psychology/Unit 3 - Sensation Psychology/perceptual adaptation.md",
     "Psychology/Unit 5 - Cognitive Psychology/reconsolidation.md",
-    "Psychology/Unit 5 - Cognitive Psychology/testing effect.md",
-    "Psychology/Unit 3 - Sensation Psychology/psychophysics.md",
-    "Psychology/Unit 3 - Sensation Psychology/Unit 3 Review Psych.md",
-    "Psychology/Unit 9 - Social Psychology/Social Cognition.md",
-    "Psychology/Unit 9 - Social Psychology/Social Psychology.md",
-    "Psychology/Unit 3 - Sensation Psychology/precognition.md",
-    "Psychology/Unit 3 - Sensation Psychology/embedded cognition.md",
-    "Computer Science/Machine Learning/Deep Learning.md",
-    "Psychology/Unit 5 - Cognitive Psychology/cognition.md",
-    "Psychology/Unit 8 - Disorder Psychology/acute schizophrenia.md",
-    "Psychology/Unit 2 - Biological Psychology/Consciousness.md",
-    "Psychology/Unit 5 - Cognitive Psychology/lewis terman.md",
-    "Course Overview/BIOL111.md",
-    "Biology/Allele.md",
-    "Biology/Genotype.md",
-    "Phylogeny.md",
-    "Gene Flow.md",
-    "Biology/Sexual Selection.md",
-    "Biology/Secondary sexual changes.md",
-    "Biology/natural selection.md",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
     "Phylogeny of Weevils.png",

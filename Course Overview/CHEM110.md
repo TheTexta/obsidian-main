@@ -8,8 +8,13 @@
 - Wash hands for 15 minutes
 - Remove gloves to take a photo
 
-## Lecture Notes
+## Unit 1
+#### Lecture Notes
 - [[CHEM 110 Lecture 2]]
+#### Terms
+- [[wavelength]]
+- [[Significant Figures]]
+- 
 
 
 ## Lab Instructions

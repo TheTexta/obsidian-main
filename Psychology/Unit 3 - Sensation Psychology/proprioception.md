@@ -1,3 +1,3 @@
 #perception-psychology 
-Proprioception::Our sense of body position
+Proprioception::Our [[sensation|sense]] of body position. Different to [[kinesthesia]].
 <!--SR:!2024-02-05,3,250-->

@@ -1,5 +1,5 @@
 #social-psychology #urgent
-Attribution::[[Perception|Perceiving]] the causes of [[Behaviour]].
+Attribution::[[Perception (socially)|Perceiving]] the causes of [[Behaviour]].
 <!--SR:!2023-11-10,3,210-->
 #### Dispositional vs Situational Attribution
 Dispositional says that the way someone behaves is due to there genetics just who they are meant to be. Situational says that the [[Behaviour]] is due to the environment. Both are prone to forms of [[Bias]].
