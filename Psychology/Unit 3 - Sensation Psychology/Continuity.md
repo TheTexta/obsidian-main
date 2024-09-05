@@ -1,2 +1,0 @@
-#perception-psychology 
-Assume the continuity of shapes when parts are unseen and assuming the continuity of a pattern.

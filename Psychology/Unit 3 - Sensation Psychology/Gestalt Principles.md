@@ -3,5 +3,5 @@
 - [[Figure-Ground]]
 - [[Closure]]
 - [[Proximity]]
-- [[Psychology/Unit 3 - Sensation Psychology/Continuity|Continuity]]
+- [[Law of continuity|Law of continuity]]
 - [[Similarity]]
