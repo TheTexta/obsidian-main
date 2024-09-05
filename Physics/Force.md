@@ -1,4 +1,7 @@
+#physics 
 ### Newtons Laws
+$f=ma$
+[[force]] equals [[mass]] times [[acceleration]]
 ### Contact Forces - Forces which require the objects to be touching
 * [[Tension]] - A pulling force exerted by a string, chain or similar
 * [[Normal Force]] - The force solids exert on one another which keeps them from falling through one another.
