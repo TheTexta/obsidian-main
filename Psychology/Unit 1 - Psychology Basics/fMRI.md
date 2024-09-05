@@ -1,1 +1,0 @@
-A video of the brain processes and how different areas of the brain light up and activate associated with individual processes. This technology allowed for the development of the field of [[Cognitive Neuroscience]].

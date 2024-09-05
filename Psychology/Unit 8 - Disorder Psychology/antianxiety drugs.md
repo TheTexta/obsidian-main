@@ -1,2 +1,2 @@
 #disorder-psychology 
-Anti-anxiety Drugs::Drugs used to control anxiety and agitation. 
+Anti-anxiety Drugs::[[Psychoactive Drugs|Drugs]] used to control [[anxiety]] and agitation. 

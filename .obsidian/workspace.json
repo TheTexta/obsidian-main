@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Overview/MATH133.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/depression.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
+                "file": "Psychology/Unit 2 - Biological Psychology/Neuroimaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "depression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Overview/MATH133.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/depression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Overview/MATH133.md",
+                "file": "Psychology/Unit 8 - Disorder Psychology/depression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Overview/MATH133.md"
+                "file": "Psychology/Unit 8 - Disorder Psychology/depression.md"
               }
             }
           },
@@ -183,32 +183,32 @@
   },
   "active": "e6dfae20d858ee9d",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/free variables.md",
-    "Course Overview/MATH133.md",
-    "Mathematics/Linear Algebra/Solution to a System.md",
-    "Psychology/Unit 5 - Cognitive Psychology/basal ganglia.md",
-    "Psychology/Unit 5 - Cognitive Psychology/cross-sectional study.md",
-    "Psychology/Unit 2 - Biological Psychology/Substance Use Disorders.md",
-    "Psychology/Unit 5 - Cognitive Psychology/achievement test.md",
-    "Psychology/Unit 9 - Social Psychology/Prejudice.md",
-    "Psychology/Unit 1 - Psychology Basics/Behaviourism.md",
-    "Psychology/Unit 1 - Psychology Basics/John B. Watson.md",
-    "Psychology/Unit 8 - Disorder Psychology/non suicidal self injury.md",
-    "Interest Notes/Thirteen (movie).md",
-    "Psychology/Unit 8 - Disorder Psychology/when do disorders strike.md",
-    "Psychology/Unit 8 - Disorder Psychology/obsessive thoughts.md",
-    "Psychology/Unit 3 - Sensation Psychology/Gestalt Principles.md",
-    "Psychology/Unit 3 - Sensation Psychology/phantom limb sensations.md",
-    "Psychology/Unit 5 - Cognitive Psychology/constructive processing.md",
-    "Psychology/Unit 5 - Cognitive Psychology/Gardners multiple intelligences.md",
-    "Psychology/Unit 2 - Biological Psychology/Carl Wernicke.md",
-    "Psychology/Unit 8 - Disorder Psychology/Clinical Psychology.md",
-    "Psychology/Unit 1 - Psychology Basics/Psychology Definition.md",
-    "Psychology/Unit 8 - Disorder Psychology/Psychological Disorder.md",
-    "Psychology/Unit 8 - Disorder Psychology/evidence based practice.md",
-    "Psychology/Unit 5 - Cognitive Psychology/sternbergs three intelligences.md",
-    "Psychology/Unit 8 - Disorder Psychology/social anxiety disorder.md",
-    "Psychology/Unit 3 - Sensation Psychology/Monocular Cue.md",
+    "Psychology/Unit 2 - Biological Psychology/insomnia.md",
+    "Psychology/Unit 8 - Disorder Psychology/depression.md",
+    "Psychology/Unit 2 - Biological Psychology/narcolepsy.md",
+    "sleeping disorders.md",
+    "Psychology/Unit 2 - Biological Psychology/Sleep Disorders.md",
+    "Psychology/Unit 2 - Biological Psychology/Agonist.md",
+    "Psychology/Unit 2 - Biological Psychology/Reuptake.md",
+    "Psychology/Unit 2 - Biological Psychology/Agonist 1.md",
+    "Psychology/Unit 2 - Biological Psychology/Neurotransmitters.md",
+    "Psychology/Unit 5 - Cognitive Psychology/Method of Loci.md",
+    "Psychology/Unit 3 - Sensation Psychology/Bottom-up Processing.md",
+    "Psychology/Unit 3 - Sensation Psychology/Top-down Processing.md",
+    "Psychology/Unit 8 - Disorder Psychology/personality disorders.md",
+    "Psychology/Unit 8 - Disorder Psychology/ego-dystonic.md",
+    "Psychology/Unit 8 - Disorder Psychology/ego-syntonic.md",
+    "Psychology/Unit 5 - Cognitive Psychology/natural concept.md",
+    "Psychology/Unit 8 - Disorder Psychology/behaviour therapy.md",
+    "Psychology/Unit 8 - Disorder Psychology/cognitive behavioural therapy.md",
+    "Psychology/Unit 8 - Disorder Psychology/cognitive therapy.md",
+    "Psychology/Unit 8 - Disorder Psychology/psychodynamic therapy.md",
+    "Psychology/Unit 8 - Disorder Psychology/fugue state.md",
+    "Psychology/Unit 2 - Biological Psychology/Reflex.md",
+    "Psychology/Unit 3 - Sensation Psychology/cochlea.md",
+    "Psychology/Unit 3 - Sensation Psychology/Cochlear Implant.md",
+    "Psychology/Unit 8 - Disorder Psychology/token economy.md",
+    "Psychology/Unit 8 - Disorder Psychology/conversion disorder.md",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
     "Phylogeny of Weevils.png",

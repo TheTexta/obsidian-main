@@ -1,1 +1,0 @@
-Used to identify structures, magnetic resonance imaging. The same as a CAT scan but uses magnets and radioactive waves. 
