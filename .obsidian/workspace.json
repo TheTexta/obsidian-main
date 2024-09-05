@@ -23,12 +23,8 @@
             "id": "8049656984230903",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Overview/CHEM110.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Overview/CHEM110.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Overview/CHEM110.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Course Overview/CHEM110.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,6 +165,11 @@
   },
   "active": "8049656984230903",
   "lastOpenFiles": [
+    "Biology/Phylogeny of Weevils.png",
+    "Psychology/Unit 8 - Disorder Psychology/sleeping disorders.md",
+    "Biology/Phylogeny.md",
+    "Biology/Alfred Wallace.md",
+    "Course Overview/CHEM110.md",
     "Biology/Genetic Drift.md",
     "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
     "Psychology/Unit 2 - Biological Psychology/Refractory Period.md",
@@ -194,14 +191,8 @@
     "Psychology/Unit 3 - Sensation Psychology/proprioception.md",
     "Psychology/Unit 5 - Cognitive Psychology/sensory memory.md",
     "Psychology/Unit 5 - Cognitive Psychology/savant syndrome.md",
-    "Psychology/Unit 5 - Cognitive Psychology/iconic memory.md",
-    "Psychology/Unit 8 - Disorder Psychology/rational-emotive behaviour therapy.md",
-    "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md",
-    "Psychology/Unit 3 - Sensation Psychology/perceptual adaptation.md",
-    "Psychology/Unit 5 - Cognitive Psychology/reconsolidation.md",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
-    "Phylogeny of Weevils.png",
     "Mathematics/Calculus/Screenshot 2024-02-17 at 5.22.12 PM.png",
     "Mathematics/Calculus/Screenshot 2024-02-17 at 5.18.28 PM.png",
     "Mathematics/Linear Algebra/Screenshot 2024-08-28 at 2.55.20 PM.png",
