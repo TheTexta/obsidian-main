@@ -1,4 +1,4 @@
-#[[Microeconomics]] #review
+#microeconomics #review
 [[Market]] Failure::Occurs when the [[Production]] or consumption of a [[Economic Goods]] or service causes additional positive or [[Negative Externalities]] (spill-over effects) on a third party not involved in the economic activity. The [[Market]] forces of [[Demand]] and [[Supply]] fail to allocate resources efficiently. As a result, [[Community Surplus]] is not maximised.
 ## Externalities
 [[Marginal Social Benefit]] (MSB)
@@ -52,8 +52,6 @@ excludable::a person cant benefit without paying
 [[Gini Coefficient]]
 
 ## Government Intervention to Correct Externalities
-Taxes
-
 [[Progressive Taxes]]
 [[Proportional Taxes]]
 [[Regressive Taxes]]

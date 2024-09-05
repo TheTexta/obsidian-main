@@ -1,1 +1,0 @@
-Cognitive Neural Prosthetics.
