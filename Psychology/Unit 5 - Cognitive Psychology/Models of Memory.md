@@ -1,4 +1,5 @@
 #cognitive-psychology 
+There are three models of [[memory]].
 # Information Processing Model
 Focuses on how information is processed in stages
 Assumes the processing of information from memory storage is similar to the way a computer processes memory in a series of three stages.
