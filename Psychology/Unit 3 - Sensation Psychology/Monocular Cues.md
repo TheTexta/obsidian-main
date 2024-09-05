@@ -1,1 +1,0 @@
-Light and shadows, tells your eyes where an aobject is. Occulsoin is often shown in combination to light and shadow.

@@ -1,11 +1,11 @@
 #cognitive-psychology 
-Working Memory::Newer understanding of [[Short-Term Memory]] that adds conscious, active processing of incoming auditory and visual information, and of information retrieved from [[long-term memory]].
+Working Memory::Newer understanding of [[Short-Term Memory]] that adds conscious, [[effortful processing|active processing]] of incoming auditory and visual information, and of information retrieved from [[long-term memory]].
 <!--SR:!2024-04-11,2,210-->
 
 
 Baddeley Hitch - Working memory
 
-Working memory is thought to consist of interrelated systems.
+Working [[memory]] is thought to consist of interrelated systems.
 1. Central executive
 		Controls and coordinates the other two systems; it acts as the interpreter of the other two systems. 
 1. Visual Spatial Sketchpad

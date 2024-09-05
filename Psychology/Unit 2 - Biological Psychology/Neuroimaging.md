@@ -9,3 +9,4 @@ Brain stimulation yields important information about brain function and thoughts
 [[Magnetic Resonance Imaging]]
 [[Magnetoencephalography]]
 [[repetitive transcranial magnetic stimulation]]
+[[Positron Emission Tomography]]
