@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Overview/BIOL111.md",
+                "file": "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cognition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Overview/BIOL111.md",
+                "file": "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Overview/BIOL111.md",
+                "file": "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Overview/BIOL111.md"
+                "file": "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md"
               }
             }
           },
@@ -172,8 +171,22 @@
   },
   "active": "e6dfae20d858ee9d",
   "lastOpenFiles": [
-    "Biology/Allele.md",
+    "Psychology/Unit 3 - Sensation Psychology/perceptual adaptation.md",
+    "Psychology/Unit 5 - Cognitive Psychology/reconsolidation.md",
+    "Psychology/Unit 5 - Cognitive Psychology/testing effect.md",
+    "Psychology/Unit 3 - Sensation Psychology/psychophysics.md",
+    "Psychology/Unit 3 - Sensation Psychology/Unit 3 Review Psych.md",
+    "Psychology/Unit 9 - Social Psychology/Social Cognition.md",
+    "Psychology/Unit 9 - Social Psychology/Social Psychology.md",
+    "Psychology/Unit 3 - Sensation Psychology/precognition.md",
+    "Psychology/Unit 3 - Sensation Psychology/embedded cognition.md",
+    "Computer Science/Machine Learning/Deep Learning.md",
+    "Psychology/Unit 5 - Cognitive Psychology/cognition.md",
+    "Psychology/Unit 8 - Disorder Psychology/acute schizophrenia.md",
+    "Psychology/Unit 2 - Biological Psychology/Consciousness.md",
+    "Psychology/Unit 5 - Cognitive Psychology/lewis terman.md",
     "Course Overview/BIOL111.md",
+    "Biology/Allele.md",
     "Biology/Genotype.md",
     "Phylogeny.md",
     "Gene Flow.md",
@@ -184,20 +197,6 @@
     "Alfred Wallace.md",
     "Biology/BIOL111 - Lecture 2.md",
     "Course Overview/CHEM110.md",
-    "Course Overview/COMP250.md",
-    "Course Overview/MATH133.md",
-    "Mathematics/Linear Algebra/Elementary Operations.md",
-    "Biology/Genetic Drift.md",
-    "Psychology/Unit 5 - Cognitive Psychology/polygenetic.md",
-    "polygenic.md",
-    "Psychology/Unit 2 - Biological Psychology/Neuroimaging.md",
-    "Psychology/Unit 5 - Cognitive Psychology/Retrieval Cues.md",
-    "Psychology/Unit 3 - Sensation Psychology/olfaction.md",
-    "Psychology/Unit 5 - Cognitive Psychology/flashbulb memory.md",
-    "Psychology/Unit 9 - Social Psychology/Heuristics.md",
-    "Psychology/Unit 5 - Cognitive Psychology/representative heuristics.md",
-    "Psychology/Unit 8 - Disorder Psychology/specific learning disorders.md",
-    "Psychology/Unit 5 - Cognitive Psychology/Elizabeth Loftus.md",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
     "Phylogeny of Weevils.png",

@@ -6,7 +6,7 @@
 
 ## Unit 1
 Lecture Notes:
-- [[BIOL111 - Lecture 2]]
+- [[BIOL111 - Lecture 2]]****
 
 #### Terms
 - [[Genetic Drift]]
