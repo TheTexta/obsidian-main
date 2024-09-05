@@ -11,12 +11,8 @@
             "id": "e6dfae20d858ee9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,6 +163,10 @@
   },
   "active": "e6dfae20d858ee9d",
   "lastOpenFiles": [
+    "Psychology/Unit 5 - Cognitive Psychology/sensory memory.md",
+    "Psychology/Unit 5 - Cognitive Psychology/iconic memory.md",
+    "Psychology/Unit 8 - Disorder Psychology/rational-emotive behaviour therapy.md",
+    "Psychology/Unit 3 - Sensation Psychology/Sensory Adaptation.md",
     "Psychology/Unit 3 - Sensation Psychology/perceptual adaptation.md",
     "Psychology/Unit 5 - Cognitive Psychology/reconsolidation.md",
     "Psychology/Unit 5 - Cognitive Psychology/testing effect.md",
@@ -193,10 +189,6 @@
     "Biology/Sexual Selection.md",
     "Biology/Secondary sexual changes.md",
     "Biology/natural selection.md",
-    "Biology/Mutation.md",
-    "Alfred Wallace.md",
-    "Biology/BIOL111 - Lecture 2.md",
-    "Course Overview/CHEM110.md",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
     "Phylogeny of Weevils.png",

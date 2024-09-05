@@ -1,2 +1,2 @@
 #disorder-psychology 
-Rational-emotive behaviour therapy::A confrontational cognitive therapy, developed by Albert Ellis, that vigorously challenges people's illogical, self-defeating attitudes and assumptions. 
+Rational-emotive behaviour therapy::A confrontational [[cognitive therapy]], developed by [[Albert Ellis]], that vigorously challenges people's illogical, self-defeating [[Attitude|attitudes]] and assumptions. 
