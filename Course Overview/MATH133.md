@@ -33,4 +33,5 @@ Terms:
 - [[free variables]]
 - [[leading variables]]
 - [[parametric functions]]
+- [[reduced row echelon form]]
 - 

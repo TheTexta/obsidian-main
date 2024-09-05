@@ -9,7 +9,7 @@ Evolutionary biodiversity varies though *time* and *space*.
 What generates diversity?
 - [[Mutation]] - Most mutations decrease fitness and are considered deleterious. The average mutation reduces fitness by 2%. The beneficial mutations are likely to be of small effect. 
 - [[Genetic Drift]]
-- [[Natural Selection]]
+- [[natural selection]]
 - [[Sexual Selection]]
 - [[Gene Flow]]
 
@@ -18,7 +18,7 @@ Two ways of studying evolutionary change - mendelian and quantitative
 
 Mendelian:
 
-Populations are considered pools of [[Genotype|genotypes]] and [[Allele|alleles]]. Frequency of [[allele]] is determined by counting one type and dividing by total [[Allele|alleles]].
+Populations are considered pools of [[Genotype|genotypes]] and [[Allele|alleles]]. Frequency of [[Allele]] is determined by counting one type and dividing by total [[Allele|alleles]].
 
 Quantitative:
 Most traits are not so discrete so instead they have quantitative ([[polygenetic]]) variation. A reason traits are not one or the other but there is a spread in between is explained through a quantitative approach to understanding genetic variation. 

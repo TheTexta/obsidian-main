@@ -1,6 +1,6 @@
 #course-overview #biol111
 ## Course Overview
-- Term Slides for memorising
+- Term Slides for memorising (yay!)
 - Before lecture videos most lectures
 
 
@@ -17,4 +17,6 @@ Lecture Notes:
 - [[Phylogeny]]
 - [[Genotype]]
 - [[Allele]]
+- [[Gene]]
 - Quantative vs Mandalitive Chnage
+- [[Secondary sexual changes]]

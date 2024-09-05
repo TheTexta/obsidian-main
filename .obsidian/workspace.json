@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Overview/MATH133.md",
+                "file": "Course Overview/BIOL111.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genetic Drift.md",
+                "file": "Biology/Genetic Drift.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "selective ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genetic Drift.md",
+                "file": "Course Overview/BIOL111.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genetic Drift.md",
+                "file": "Course Overview/BIOL111.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genetic Drift.md"
+                "file": "Course Overview/BIOL111.md"
               }
             }
           },
@@ -171,14 +170,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8049656984230903",
+  "active": "e6dfae20d858ee9d",
   "lastOpenFiles": [
-    "Phylogeny.md",
+    "Biology/Allele.md",
     "Course Overview/BIOL111.md",
-    "BIOL111 - Lecture 2.md",
+    "Biology/Genotype.md",
+    "Phylogeny.md",
+    "Gene Flow.md",
+    "Biology/Sexual Selection.md",
+    "Biology/Secondary sexual changes.md",
+    "Biology/natural selection.md",
+    "Biology/Mutation.md",
+    "Alfred Wallace.md",
+    "Biology/BIOL111 - Lecture 2.md",
+    "Course Overview/CHEM110.md",
+    "Course Overview/COMP250.md",
+    "Course Overview/MATH133.md",
+    "Mathematics/Linear Algebra/Elementary Operations.md",
+    "Biology/Genetic Drift.md",
     "Psychology/Unit 5 - Cognitive Psychology/polygenetic.md",
     "polygenic.md",
-    "Course Overview/MATH133.md",
     "Psychology/Unit 2 - Biological Psychology/Neuroimaging.md",
     "Psychology/Unit 5 - Cognitive Psychology/Retrieval Cues.md",
     "Psychology/Unit 3 - Sensation Psychology/olfaction.md",
@@ -187,18 +198,6 @@
     "Psychology/Unit 5 - Cognitive Psychology/representative heuristics.md",
     "Psychology/Unit 8 - Disorder Psychology/specific learning disorders.md",
     "Psychology/Unit 5 - Cognitive Psychology/Elizabeth Loftus.md",
-    "Physics/Specific Gravity.md",
-    "Psychology/Unit 8 - Disorder Psychology/psychotic disorders.md",
-    "Psychology/Unit 8 - Disorder Psychology/delusion.md",
-    "Psychology/Unit 5 - Cognitive Psychology/basal ganglia.md",
-    "Psychology/Unit 8 - Disorder Psychology/Stress Vulnerability Model.md",
-    "Psychology/Unit 5 - Cognitive Psychology/positive transfer.md",
-    "Psychology/Unit 5 - Cognitive Psychology/eidetic memory.md",
-    "Psychology/Unit 2 - Biological Psychology/Phrenology.md",
-    "Psychology/Unit 5 - Cognitive Psychology/emotional intelligence.md",
-    "Psychology/Unit 2 - Biological Psychology/Addiction.md",
-    "Psychology/Unit 8 - Disorder Psychology/posttraumatic stress disorder.md",
-    "Psychology/Unit 8 - Disorder Psychology/antidepressant drugs.md",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
     "Phylogeny of Weevils.png",
