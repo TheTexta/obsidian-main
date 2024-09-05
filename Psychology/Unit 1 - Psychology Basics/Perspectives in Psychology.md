@@ -1,3 +1,4 @@
+#basic-psychology 
 There are many different perspective in psychology one can adopt to explain, predict and influence human [[Behaviour]]. 
 
 ### Historical Approaches

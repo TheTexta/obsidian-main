@@ -13,13 +13,13 @@
 - BP-BP least repulsion LP-LP Most
 - intermolecular - across bonds
 - intramolecular - within bonds
-- bond order = $\frac{\text{number of bonds}}{\text{number of possible configuratinos}}$
-- bond order only counts those which are changing.
-- pi bonds are formed by side to side overlap of p orbitals
+- [[bond order]] = $\frac{\text{number of bonds}}{\text{number of possible configuratinos}}$
+- [[bond order]] only counts those which are changing.
+- pi bonds are formed by side to side overlap of p [[Orbitals]]
 - sigma bonds are formed by end to end overlap of s otbiyals.
 - resonance means that a given molecule has multiple configurations available.
 - practice question 27. the geometry of the ICL- molecule is best described as *linear* since it is trignola bipyrimdal linear
-- An electron by itself does not disrupt the shape.
+- An [[Electron]] by itself does not disrupt the shape.
 - h-bonds require N, O or F
 - h-bonds are intermolecular not intramolecular.
 - to dissolve in water you need uneven bonding.

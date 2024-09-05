@@ -9,4 +9,6 @@
 - Java used throughout course
 - Weekly recommended exercises
 - A course which you should work on a little bit every day
-- 
+
+Lectures:
+- [[COMP250 Lecture 2]]

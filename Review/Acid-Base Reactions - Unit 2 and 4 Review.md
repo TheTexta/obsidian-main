@@ -18,7 +18,7 @@ Measured in mol/L it is the ratio of [[solute]] to [[solvent]] in a solution. It
 Strength is the extent to which [[ionisation]] and [[dissociation]] occur in [[acid]] / [[base]] solutions. It can be measured using the [[K value]]. [[percent ionisation]] is used to measure strength as well. *Why acids are strong or weak is beyond the scope of the course.*
 
 ## In Equilibrium or Complete?
-Some [[reactions]] are one way and complete others fall into [[equilibrium]]. *[[Strong acids]]/[[Strong Bases|bases]]* always fully ionise and are one way $\ce{->}$ while [[weak acids]]/[[weak bases|bases]] are two way $\ce{<=>}$. 
+Some [[reactions]] are one way and complete others fall into [[Equilibrium - Unit 2 Review|equilibrium]]. *[[Strong acids]]/[[Strong Bases|bases]]* always fully ionise and are one way $\ce{->}$ while [[weak acids]]/[[weak bases|bases]] are two way $\ce{<=>}$. 
 
 ## Conjugate Acid-Base Pairs
 [[Acid-Base Reactions - Unit 2 and 4 Review]] are competitions for protons $H^+$. [[Conjugate Base]] is the molecule left after a [[hydroxide|H+]] is removed from an [[acid]] and vice versa for [[Conjugate Acids]].
@@ -34,7 +34,7 @@ $p = \frac{[H^+]_{eq}}{[HA]_{initial}}\cdot 100\%$
 For weak base ionisation reactions:
 $p = \frac{[OH^-]_{eq}}{[B]_{initial}}\cdot 100\%$
 #### Percent Ionisation and Concentration
-$K_a$ provide a better way of comparing the strengths of weak acids. percent ionisation can also be used in this way but only if solutions of equal initial concentration are compared. As the graph below shows, as concentration *increases*, the [[equilibrium]] will shift so [[percent ionisation]] *increases*. $K_a$ on the other hand is constant which is why its preferred by chemists. When water is added to the system it acts as a stress and [[Equilibrium Shifts|shifts equilibrium]] rightward, increasing ionisation. **Dilution decreases pH of acids and decreases pOH of bases**
+$K_a$ provide a better way of comparing the strengths of weak acids. percent ionisation can also be used in this way but only if solutions of equal initial concentration are compared. As the graph below shows, as concentration *increases*, the [[Equilibrium - Unit 2 Review|equilibrium]] will shift so [[percent ionisation]] *increases*. $K_a$ on the other hand is constant which is why its preferred by chemists. When water is added to the system it acts as a stress and [[Equilibrium Shifts|shifts equilibrium]] rightward, increasing ionisation. **Dilution decreases pH of acids and decreases pOH of bases**
 ![[percent ionisation and concentration.png]]
 
 ## Buffers
@@ -128,7 +128,7 @@ Since at eq the WA + SB reaction is basic, the ph depends on the concentration o
 ###### Summary Guide - General form of [[weak acids|Weak Acid]] [[Strong Bases|Strong Base]] titrations:
 $\ce{HA + SB -> basic salt + water}$
 
-Keep in mind the [[weak acids|weak acid]] [[equilibrium]] is happening at the same time (you don't need to write this):
+Keep in mind the [[weak acids|weak acid]] [[Equilibrium - Unit 2 Review|equilibrium]] is happening at the same time (you don't need to write this):
 $HA -> H^+ + A^-$
 
 Basic Salt [[dissociation]]:

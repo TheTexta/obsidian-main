@@ -1,0 +1,15 @@
+#comp250 
+- [[UpperCamelCase]] used for [[class]] names by convention
+- [[lowerCamelCase]] used for [[variable|variables]] and [[method]] names by convention
+- [[java]]
+- [[class|Classes]] contain [[method|methods]] which contain [[statement|statements]]
+- [[package|Packages]] contain [[class|classes]].
+- Projects contain [[package|packages]] - suggested to use a different package for each assignment but one project for the whole class.
+- [[for loops]]
+- [[void methods]]
+- [[value methods]]
+- code written outside of the accessible area (eg in the main class) is known as *dead code* and will generate a compile time error "unreachable statement."
+- having more then one method with the same name leads to [[overloading]]
+- ![[Screenshot 2024-09-05 at 5.08.56 AM.png]]
+- ![[Screenshot 2024-09-05 at 5.11.14 AM.png]]
+- 
