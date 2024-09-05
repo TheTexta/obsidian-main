@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/depression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24ddb083463cb0da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Unit 2 - Biological Psychology/Neuroimaging.md",
+                "file": "Course Overview/MATH133.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Overview/BIOL111.md",
+                "file": "Genetic Drift.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "depression",
+                "query": "selective ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/depression.md",
+                "file": "Genetic Drift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/depression.md",
+                "file": "Genetic Drift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Unit 8 - Disorder Psychology/depression.md"
+                "file": "Genetic Drift.md"
               }
             }
           },
@@ -181,34 +171,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e6dfae20d858ee9d",
+  "active": "8049656984230903",
   "lastOpenFiles": [
-    "Psychology/Unit 2 - Biological Psychology/insomnia.md",
-    "Psychology/Unit 8 - Disorder Psychology/depression.md",
-    "Psychology/Unit 2 - Biological Psychology/narcolepsy.md",
-    "sleeping disorders.md",
-    "Psychology/Unit 2 - Biological Psychology/Sleep Disorders.md",
-    "Psychology/Unit 2 - Biological Psychology/Agonist.md",
-    "Psychology/Unit 2 - Biological Psychology/Reuptake.md",
-    "Psychology/Unit 2 - Biological Psychology/Agonist 1.md",
-    "Psychology/Unit 2 - Biological Psychology/Neurotransmitters.md",
-    "Psychology/Unit 5 - Cognitive Psychology/Method of Loci.md",
-    "Psychology/Unit 3 - Sensation Psychology/Bottom-up Processing.md",
-    "Psychology/Unit 3 - Sensation Psychology/Top-down Processing.md",
-    "Psychology/Unit 8 - Disorder Psychology/personality disorders.md",
-    "Psychology/Unit 8 - Disorder Psychology/ego-dystonic.md",
-    "Psychology/Unit 8 - Disorder Psychology/ego-syntonic.md",
-    "Psychology/Unit 5 - Cognitive Psychology/natural concept.md",
-    "Psychology/Unit 8 - Disorder Psychology/behaviour therapy.md",
-    "Psychology/Unit 8 - Disorder Psychology/cognitive behavioural therapy.md",
-    "Psychology/Unit 8 - Disorder Psychology/cognitive therapy.md",
-    "Psychology/Unit 8 - Disorder Psychology/psychodynamic therapy.md",
-    "Psychology/Unit 8 - Disorder Psychology/fugue state.md",
-    "Psychology/Unit 2 - Biological Psychology/Reflex.md",
-    "Psychology/Unit 3 - Sensation Psychology/cochlea.md",
-    "Psychology/Unit 3 - Sensation Psychology/Cochlear Implant.md",
-    "Psychology/Unit 8 - Disorder Psychology/token economy.md",
-    "Psychology/Unit 8 - Disorder Psychology/conversion disorder.md",
+    "Phylogeny.md",
+    "Course Overview/BIOL111.md",
+    "BIOL111 - Lecture 2.md",
+    "Psychology/Unit 5 - Cognitive Psychology/polygenetic.md",
+    "polygenic.md",
+    "Course Overview/MATH133.md",
+    "Psychology/Unit 2 - Biological Psychology/Neuroimaging.md",
+    "Psychology/Unit 5 - Cognitive Psychology/Retrieval Cues.md",
+    "Psychology/Unit 3 - Sensation Psychology/olfaction.md",
+    "Psychology/Unit 5 - Cognitive Psychology/flashbulb memory.md",
+    "Psychology/Unit 9 - Social Psychology/Heuristics.md",
+    "Psychology/Unit 5 - Cognitive Psychology/representative heuristics.md",
+    "Psychology/Unit 8 - Disorder Psychology/specific learning disorders.md",
+    "Psychology/Unit 5 - Cognitive Psychology/Elizabeth Loftus.md",
+    "Physics/Specific Gravity.md",
+    "Psychology/Unit 8 - Disorder Psychology/psychotic disorders.md",
+    "Psychology/Unit 8 - Disorder Psychology/delusion.md",
+    "Psychology/Unit 5 - Cognitive Psychology/basal ganglia.md",
+    "Psychology/Unit 8 - Disorder Psychology/Stress Vulnerability Model.md",
+    "Psychology/Unit 5 - Cognitive Psychology/positive transfer.md",
+    "Psychology/Unit 5 - Cognitive Psychology/eidetic memory.md",
+    "Psychology/Unit 2 - Biological Psychology/Phrenology.md",
+    "Psychology/Unit 5 - Cognitive Psychology/emotional intelligence.md",
+    "Psychology/Unit 2 - Biological Psychology/Addiction.md",
+    "Psychology/Unit 8 - Disorder Psychology/posttraumatic stress disorder.md",
+    "Psychology/Unit 8 - Disorder Psychology/antidepressant drugs.md",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
     "Phylogeny of Weevils.png",

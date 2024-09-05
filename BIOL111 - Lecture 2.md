@@ -21,4 +21,4 @@ Mendelian:
 Populations are considered pools of [[Genotype|genotypes]] and [[Allele|alleles]]. Frequency of [[allele]] is determined by counting one type and dividing by total [[Allele|alleles]].
 
 Quantitative:
-Most traits are not so discrete so instead they have quantitative ([[polygenic]]) variation. A reason traits are not one or the other but there is a spread in between is explained through a quantitative approach to understanding genetic variation. 
+Most traits are not so discrete so instead they have quantitative ([[polygenetic]]) variation. A reason traits are not one or the other but there is a spread in between is explained through a quantitative approach to understanding genetic variation. 

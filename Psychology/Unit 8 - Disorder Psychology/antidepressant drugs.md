@@ -1,2 +1,2 @@
 #disorder-psychology 
-Antidepressant Drugs::Drugs used to treat depression, anxiety disorders, obsessive compulsive disorder and posttraumatic stress disorder. (Most widely used are selective serotonin reuptake inhibitors)
+Antidepressant Drugs::[[Psychoactive Drugs|Drugs]] used to treat [[depression]], [[anxiety disorders]], [[obsessive-compulsive disorder|obsessive compulsive disorder]] and [[posttraumatic stress disorder]]. (Most widely used are [[selective serotonin reuptake inhibitors]])
