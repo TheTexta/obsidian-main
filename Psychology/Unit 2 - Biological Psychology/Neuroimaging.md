@@ -1,5 +1,5 @@
 #biological-psychology 
-Brain stimulation yields important information about brain function and thoughts and behaviour. Neuroimaging is just about looking into the [[brain]] without changing anything in it. 
+Brain stimulation yields important information about brain function and thoughts and [[behaviour]]. Neuroimaging is just about looking into the [[brain]] without changing anything in it. 
 
 #### Techniques
 [[Magnetic Resonance Imaging]]
@@ -11,3 +11,6 @@ Brain stimulation yields important information about brain function and thoughts
 [[repetitive transcranial magnetic stimulation]]
 [[Positron Emission Tomography]]
 [[Electroencephalogram]]
+[[Computed Tomography]]
+[[Brain Stimulation]]
+[[Deep Brain Stimulation]]

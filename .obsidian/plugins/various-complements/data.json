@@ -11,7 +11,7 @@
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
   "minNumberOfWordsTriggeredPhrase": 1,
-  "complementAutomatically": true,
+  "complementAutomatically": false,
   "delayMilliSeconds": 0,
   "disableSuggestionsDuringImeOn": false,
   "disableSuggestionsInMathBlock": false,
@@ -80,7 +80,7 @@
   "caretLocationSymbolAfterComplement": "",
   "displayedTextSuffix": " => ...",
   "enableInternalLinkComplement": true,
-  "suggestInternalLinkWithAlias": true,
+  "suggestInternalLinkWithAlias": false,
   "excludeInternalLinkPathPrefixPatterns": "",
   "updateInternalLinksOnSave": true,
   "insertAliasTransformedFromDisplayedInternalLink": {

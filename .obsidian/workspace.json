@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ac689760a9ebde",
+        "id": "ac6fbe32790540a2",
         "type": "tabs",
         "children": [
           {
-            "id": "e6dfae20d858ee9d",
+            "id": "1b4008fec286d894",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
+                "file": "Computer Science/Data Structures and Algorithms/character arithmetic.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8049656984230903",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Data Structures and Algorithms/character arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Data Structures and Algorithms/character arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Data Structures and Algorithms/character arithmetic.md"
+              }
             }
           },
           {
@@ -163,37 +158,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8049656984230903",
+  "active": "1b4008fec286d894",
   "lastOpenFiles": [
-    "Review/Acid-Base Reactions - Unit 2 and 4 Review.md",
-    "Economics/Equilibrium.md",
-    "Chemistry/Limiting Reactions.md",
-    "Review/Atomic Structure - Unit 3 Review.md",
-    "Review/Covalent Bonds and VESPR - Unit 6 Review.md",
+    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 3.md",
+    "Computer Science/Data Structures and Algorithms/character arithmetic.md",
+    "Computer Science/Data Structures and Algorithms/unicode.md",
+    "Computer Science/Data Structures and Algorithms/ascii.md",
+    "Computer Science/Data Structures and Algorithms/escape sequences.md",
+    "Computer Science/Data Structures and Algorithms/char.md",
+    "java primitive data type.md",
     "Computer Science/Data Structures and Algorithms/COMP250 Lecture 2.md",
-    "Computer Science/Data Structures and Algorithms/lowerCamelCase.md",
-    "Computer Science/Data Structures and Algorithms/java.md",
-    "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
-    "Screenshot 2024-09-05 at 5.15.00 AM.png",
-    "Screenshot 2024-09-05 at 5.11.14 AM.png",
+    "Computer Science/Data Structures and Algorithms/variable scope.md",
+    "Computer Science/Data Structures and Algorithms/Class.md",
+    "Computer Science/Data Structures and Algorithms/Code Block.md",
     "Computer Science/Data Structures and Algorithms/variable.md",
-    "Psychology/Unit 5 - Cognitive Psychology/language.md",
-    "Screenshot 2024-09-05 at 5.08.56 AM.png",
-    "Computer Science/Data Structures and Algorithms/variable types in java.md",
+    "Computer Science/Data Structures and Algorithms/modulo.md",
     "Computer Science/Data Structures and Algorithms/value methods.md",
-    "Computer Science/Data Structures and Algorithms/void methods.md",
-    "Computer Science/Data Structures and Algorithms/for loops.md",
-    "Mathematics/Statistics/Variables.md",
-    "Computer Science/Data Structures and Algorithms/class.md",
-    "Computer Science/Data Structures and Algorithms/method.md",
-    "Computer Science/Data Structures and Algorithms/statement.md",
-    "Computer Science/Data Structures and Algorithms/UpperCamelCase.md",
     "Course Overview/COMP250.md",
-    "Course Overview/CHEM110.md",
-    "Psychology/Unit 2 - Biological Psychology/Visual Cortex.md",
-    "Physics/Displacement.md",
-    "Psychology/Unit 1 - Psychology Basics/Perspectives in Psychology.md",
-    "Psychology/Unit 2 - Biological Psychology/History of Biological Psychology.md",
+    "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.15.00 AM.png",
+    "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.11.14 AM.png",
+    "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.08.56 AM.png",
+    "Biology/Eotrophication.md",
+    "Review/Acid-Base Reactions Review.md",
+    "Biology/Lab 1.md",
+    "Review/Atomic Structure Review.md",
+    "Review/Calculus AB Exam Review.md",
+    "Review/Covalent Bonds and VESPR Review.md",
+    "Chemistry/intermolecular.md",
+    "Chemistry/intramolecular.md",
+    "Review/Data Management - Bias and sampling Review.md",
+    "Review/Data Management - Probability Review.md",
+    "Review/Market Structures.md",
     "Biology/Phylogeny of Weevils.png",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",

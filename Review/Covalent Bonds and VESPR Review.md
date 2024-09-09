@@ -1,6 +1,6 @@
 #review #chemistry 
 - H is attached to O in oxy-acids
-- Always add "odd" electrons to the central atom
+- Always add "odd" [[Electron|electrons]] to the central atom
 - H is stable with 2e-
 - Be is stable with 4e-
 - B is stable with 6 e-
@@ -11,15 +11,15 @@
 - When talking about the jumber of lone electrons on the central atom they are refering to the total not the excess (when compared to 8)
 - look at question 14.
 - BP-BP least repulsion LP-LP Most
-- intermolecular - across bonds
-- intramolecular - within bonds
+- [[intermolecular]]
+- [[intramolecular]]
 - [[bond order]] = $\frac{\text{number of bonds}}{\text{number of possible configuratinos}}$
 - [[bond order]] only counts those which are changing.
 - pi bonds are formed by side to side overlap of p [[Orbitals]]
-- sigma bonds are formed by end to end overlap of s otbiyals.
+- sigma bonds are formed by end to end overlap of s [[Orbitals|orbitals]].
 - resonance means that a given molecule has multiple configurations available.
 - practice question 27. the geometry of the ICL- molecule is best described as *linear* since it is trignola bipyrimdal linear
-- An [[Electron]] by itself does not disrupt the shape.
+- An [[electron]] by itself does not disrupt the shape.
 - h-bonds require N, O or F
 - h-bonds are intermolecular not intramolecular.
 - to dissolve in water you need uneven bonding.

@@ -5,10 +5,12 @@
 	- [[Logarithms|log]] laws and [[Logarithmic Function]]
 	- [[exponential function]]
 	- Take [[MATH240]] (Discrete Structures) and [[MATH235]] (Algebra)
-	- [[Modulo]] operations
+	- [[modulo]] operations
 - Java used throughout course
 - Weekly recommended exercises
 - A course which you should work on a little bit every day
 
 Lectures:
 - [[COMP250 Lecture 2]]
+- [[COMP250 Lecture 3]]
+- 

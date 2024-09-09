@@ -1,2 +1,2 @@
 #disorder-psychology 
-Deviance::Behaviours outside of cultural norms, ones of the three d's. Cultural norms in any society dictate how people are expected to think, feel and behave. However cultural norms in any society are always changing.
+Deviance::[[Behaviour|Behaviours]] outside of cultural norms, ones of the three d's. [[Culture|Cultural]] norms in any society dictate how people are expected to think, feel and behave. However cultural norms in any society are always changing.

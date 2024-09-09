@@ -1,2 +1,2 @@
 #comp250 
-Value methods contain the type they return in there declaration.
+Value [[method|methods]] contain the type they return in there declaration.
