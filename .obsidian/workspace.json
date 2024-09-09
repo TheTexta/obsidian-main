@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/character arithmetic.md",
+                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/character arithmetic.md",
+                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/character arithmetic.md",
+                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/character arithmetic.md"
+                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 3.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "1b4008fec286d894",
   "lastOpenFiles": [
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 3.md",
     "Computer Science/Data Structures and Algorithms/character arithmetic.md",
+    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 3.md",
     "Computer Science/Data Structures and Algorithms/unicode.md",
     "Computer Science/Data Structures and Algorithms/ascii.md",
     "Computer Science/Data Structures and Algorithms/escape sequences.md",
