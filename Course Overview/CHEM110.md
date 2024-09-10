@@ -10,11 +10,15 @@
 
 ## Unit 1
 #### Lecture Notes
-- [[CHEM 110 Lecture 2]]
+- [[CHEM 110 Week 1]]
 #### Terms
 - [[wavelength]]
 - [[Significant Figures]]
 - [[electromagnetic radiation]] - [[light]] are the same thing.
+- [[c]] - always used in chem110
+- [[hertz]]
+- [[wave]]
+- [[energy]]
 
 
 ## Lab Instructions

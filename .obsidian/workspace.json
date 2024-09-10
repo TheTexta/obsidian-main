@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hertz.md",
+                "file": "Photoelectric Effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hertz.md",
+                "file": "Photoelectric Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hertz.md",
+                "file": "Photoelectric Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hertz.md"
+                "file": "Photoelectric Effect.md"
               }
             }
           },
@@ -161,12 +161,24 @@
   "active": "56748e99979fa988",
   "lastOpenFiles": [
     "Psychology/Unit 3 - Sensation Psychology/frequency.md",
-    "hertz.md",
-    "wave.md",
-    "biological taxonomy.png",
-    "electromagnetic radiation.md",
-    "CHEM 110 Lecture 2.md",
+    "Photoelectric Effect.md",
+    "Screenshot 2024-09-10 at 5.16.43 PM.png",
+    "Screenshot 2024-09-10 at 5.15.48 PM.png",
+    "CHEM 110 Week 1.md",
+    "planck's constant.md",
+    "Screenshot 2024-09-10 at 5.01.57 PM.png",
+    "Blackbody radiation.md",
+    "diffraction.md",
     "Course Overview/CHEM110.md",
+    "properties of waves vs particles.png",
+    "c.md",
+    "light.md",
+    "electromagnetic radiation.md",
+    "wave.md",
+    "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
+    "Psychology/Unit 3 - Sensation Psychology/amplitude.md",
+    "hertz.md",
+    "biological taxonomy.png",
     "Course Overview/BIOL111.md",
     "Biology/BIOL111 - Lecture 3.md",
     "Biology/BIOL111 - Lecture 2.md",
@@ -178,18 +190,9 @@
     "Review/Market Failures.md",
     "Biology/natural selection.md",
     "TagsRoutes/reports/TagReport_#biological-psychology.md",
-    "TagsRoutes/logs/logMessage.md",
-    "Psychology/Unit 1 - Psychology Basics/Descriptive Research.md",
-    "Psychology/Unit 1 - Psychology Basics/Case studies.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
-    "Biology/Phylogeny.md",
-    "Computer Science/Data Structures and Algorithms/method.md",
-    "Computer Science/Data Structures and Algorithms/lowerCamelCase.md",
-    "Computer Science/Data Structures and Algorithms/java.md",
-    "Computer Science/Data Structures and Algorithms/java primitive data type.md",
-    "Computer Science/Data Structures and Algorithms/arrays.md",
     "Screenshot 2024-09-09 at 6.28.25 PM.png",
     "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.15.00 AM.png",
     "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.11.14 AM.png",
@@ -197,14 +200,10 @@
     "Biology/Phylogeny of Weevils.png",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
-    "Mathematics/Calculus/Screenshot 2024-02-17 at 5.22.12 PM.png",
-    "Mathematics/Calculus/Screenshot 2024-02-17 at 5.18.28 PM.png",
-    "Mathematics/Linear Algebra/Screenshot 2024-08-28 at 2.55.20 PM.png",
     "Mathematics/Linear Algebra",
     "Mathematics/Statistics",
     "Mathematics/Calculus",
     "Course Overview",
-    "Biology",
-    "Pasted image 20240609130913.png"
+    "Biology"
   ]
 }
