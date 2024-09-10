@@ -37,3 +37,6 @@ where
 
 #### [[Photoelectric Effect]]
 
+Light and matter are much more similar then we thought.
+
+#### [[Atomic Spectra]]

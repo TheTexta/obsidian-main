@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photoelectric Effect.md",
+                "file": "Rydberg's equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photoelectric Effect.md",
+                "file": "Rydberg's equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photoelectric Effect.md",
+                "file": "Rydberg's equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photoelectric Effect.md"
+                "file": "Rydberg's equation.md"
               }
             }
           },
@@ -160,11 +160,20 @@
   },
   "active": "56748e99979fa988",
   "lastOpenFiles": [
-    "Psychology/Unit 3 - Sensation Psychology/frequency.md",
+    "Atomic Spectra.md",
+    "Rydberg's equation.md",
+    "wave number.md",
+    "Rydberg constant.md",
+    "Balmer's equation.md",
+    "Screenshot 2024-09-10 at 5.45.18 PM.png",
+    "CHEM 110 Week 1.md",
     "Photoelectric Effect.md",
+    "Screenshot 2024-09-10 at 5.33.42 PM.png",
+    "Screenshot 2024-09-10 at 5.22.57 PM.png",
+    "Chemistry/Electron.md",
+    "Psychology/Unit 3 - Sensation Psychology/frequency.md",
     "Screenshot 2024-09-10 at 5.16.43 PM.png",
     "Screenshot 2024-09-10 at 5.15.48 PM.png",
-    "CHEM 110 Week 1.md",
     "planck's constant.md",
     "Screenshot 2024-09-10 at 5.01.57 PM.png",
     "Blackbody radiation.md",
@@ -185,19 +194,11 @@
     "Biology/phenotypic plasticity.md",
     "Biology/morphology.md",
     "Psychology/Unit 2 - Biological Psychology/phenotype.md",
-    "Biology/Range shifts.md",
-    "Biology/speciation.md",
-    "Review/Market Failures.md",
-    "Biology/natural selection.md",
-    "TagsRoutes/reports/TagReport_#biological-psychology.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
     "Screenshot 2024-09-09 at 6.28.25 PM.png",
     "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.15.00 AM.png",
-    "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.11.14 AM.png",
-    "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.08.56 AM.png",
-    "Biology/Phylogeny of Weevils.png",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
     "Mathematics/Linear Algebra",
