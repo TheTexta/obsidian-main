@@ -14,7 +14,7 @@
 #### Terms
 - [[wavelength]]
 - [[Significant Figures]]
-- 
+- [[electromagnetic radiation]] - [[light]] are the same thing.
 
 
 ## Lab Instructions

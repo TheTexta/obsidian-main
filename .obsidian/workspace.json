@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/phenotypic plasticity.md",
+                "file": "hertz.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/phenotypic plasticity.md",
+                "file": "hertz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/phenotypic plasticity.md",
+                "file": "hertz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/phenotypic plasticity.md"
+                "file": "hertz.md"
               }
             }
           },
@@ -160,9 +160,18 @@
   },
   "active": "56748e99979fa988",
   "lastOpenFiles": [
-    "Biology/morphology.md",
-    "Biology/phenotypic plasticity.md",
+    "Psychology/Unit 3 - Sensation Psychology/frequency.md",
+    "hertz.md",
+    "wave.md",
+    "biological taxonomy.png",
+    "electromagnetic radiation.md",
+    "CHEM 110 Lecture 2.md",
+    "Course Overview/CHEM110.md",
+    "Course Overview/BIOL111.md",
     "Biology/BIOL111 - Lecture 3.md",
+    "Biology/BIOL111 - Lecture 2.md",
+    "Biology/phenotypic plasticity.md",
+    "Biology/morphology.md",
     "Psychology/Unit 2 - Biological Psychology/phenotype.md",
     "Biology/Range shifts.md",
     "Biology/speciation.md",
@@ -176,21 +185,12 @@
     "TagsRoutes/logs",
     "TagsRoutes",
     "Biology/Phylogeny.md",
-    "Course Overview/BIOL111.md",
     "Computer Science/Data Structures and Algorithms/method.md",
     "Computer Science/Data Structures and Algorithms/lowerCamelCase.md",
     "Computer Science/Data Structures and Algorithms/java.md",
     "Computer Science/Data Structures and Algorithms/java primitive data type.md",
     "Computer Science/Data Structures and Algorithms/arrays.md",
-    "long.md",
-    "Biology/taxa.md",
-    "biological taxonomy.png",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 3.md",
-    "Computer Science/Data Structures and Algorithms/string.md",
-    "Computer Science/Data Structures and Algorithms/character arithmetic.md",
-    "Computer Science/Data Structures and Algorithms/typecasting.md",
     "Screenshot 2024-09-09 at 6.28.25 PM.png",
-    "Computer Science/Data Structures and Algorithms/unicode.md",
     "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.15.00 AM.png",
     "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.11.14 AM.png",
     "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.08.56 AM.png",

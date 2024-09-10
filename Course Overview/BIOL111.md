@@ -6,7 +6,8 @@
 
 ## Unit 1
 Lecture Notes:
-- [[BIOL111 - Lecture 2]]****
+- [[BIOL111 - Lecture 2]]
+- [[BIOL111 - Lecture 3]]
 
 #### Terms
 - [[Genetic Drift]]
@@ -20,3 +21,7 @@ Lecture Notes:
 - [[Gene]]
 - Quantative vs Mandalitive Chnage
 - [[Secondary sexual changes]]
+- [[taxa]]
+- [[speciation]]
+- [[range shifts]]
+- [[phenotypic plasticity]]
