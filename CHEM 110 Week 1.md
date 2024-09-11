@@ -34,6 +34,7 @@ where
 - $E$ is the [[energy]] of radiation
 - $n$ is the quantisation factor ($n=1,2,...$)
 - $h$ is [[planck's constant]] ($6.6206876\cdot 10^{-34}$ J/s)
+- $v$ is [[frequency]]
 
 #### [[Photoelectric Effect]]
 

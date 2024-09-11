@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rydberg's equation.md",
+                "file": "Computer Science/Data Structures and Algorithms/method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2478c366bda04f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photoelectric Effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rydberg's equation.md",
+                "file": "Computer Science/Data Structures and Algorithms/method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rydberg's equation.md",
+                "file": "Computer Science/Data Structures and Algorithms/method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rydberg's equation.md"
+                "file": "Computer Science/Data Structures and Algorithms/method.md"
               }
             }
           },
@@ -160,51 +172,51 @@
   },
   "active": "56748e99979fa988",
   "lastOpenFiles": [
+    "Computer Science/Data Structures and Algorithms/Class.md",
+    "Computer Science/Data Structures and Algorithms/package.md",
+    "Computer Science/Data Structures and Algorithms/method.md",
+    "Computer Science/Data Structures and Algorithms/null.md",
+    "Photoelectric Effect.md",
+    "Computer Science/Data Structures and Algorithms/Reference Type.md",
+    "Computer Science/Data Structures and Algorithms/mutability.md",
+    "Screenshot 2024-09-10 at 9.04.38 PM.png",
+    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 4.md",
+    "Course Overview/COMP250.md",
+    "Course Overview/CHEM110.md",
     "Atomic Spectra.md",
     "Rydberg's equation.md",
-    "wave number.md",
     "Rydberg constant.md",
+    "planck's constant.md",
+    "planck's equation.md",
+    "CHEM 110 Week 1.md",
+    "Chem110 Data Sheet Fall 2024.pdf",
+    "c.md",
+    "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
+    "wave number.md",
     "Balmer's equation.md",
     "Screenshot 2024-09-10 at 5.45.18 PM.png",
-    "CHEM 110 Week 1.md",
-    "Photoelectric Effect.md",
     "Screenshot 2024-09-10 at 5.33.42 PM.png",
     "Screenshot 2024-09-10 at 5.22.57 PM.png",
     "Chemistry/Electron.md",
     "Psychology/Unit 3 - Sensation Psychology/frequency.md",
     "Screenshot 2024-09-10 at 5.16.43 PM.png",
     "Screenshot 2024-09-10 at 5.15.48 PM.png",
-    "planck's constant.md",
     "Screenshot 2024-09-10 at 5.01.57 PM.png",
     "Blackbody radiation.md",
     "diffraction.md",
-    "Course Overview/CHEM110.md",
     "properties of waves vs particles.png",
-    "c.md",
     "light.md",
     "electromagnetic radiation.md",
-    "wave.md",
-    "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
-    "Psychology/Unit 3 - Sensation Psychology/amplitude.md",
-    "hertz.md",
     "biological taxonomy.png",
-    "Course Overview/BIOL111.md",
-    "Biology/BIOL111 - Lecture 3.md",
-    "Biology/BIOL111 - Lecture 2.md",
-    "Biology/phenotypic plasticity.md",
-    "Biology/morphology.md",
-    "Psychology/Unit 2 - Biological Psychology/phenotype.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
     "Screenshot 2024-09-09 at 6.28.25 PM.png",
-    "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-05 at 5.15.00 AM.png",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
     "Mathematics/Linear Algebra",
     "Mathematics/Statistics",
     "Mathematics/Calculus",
-    "Course Overview",
-    "Biology"
+    "Course Overview"
   ]
 }

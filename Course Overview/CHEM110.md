@@ -1,4 +1,4 @@
-#course-overview #chem110
+ #course-overview #chem110
 
 - Watch the weekly concept videos and do the practice problems.
 - Get a LAB COAT and googles
@@ -20,7 +20,8 @@
 - [[wave]]
 - [[energy]]
 
-
+## Data Sheet
+![[Chem110 Data Sheet Fall 2024.pdf]]
 ## Lab Instructions
 - Read the lab manual.
 - Complete the pre-lab quiz on myCourses, you must get at least 70% (5 trials are allowed)
