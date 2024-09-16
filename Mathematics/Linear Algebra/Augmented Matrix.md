@@ -1,4 +1,4 @@
-#linear-algebra 
+#math133 #linear-algebra 
 a way of visualising a [[system of linear equations]] in [[Matrix]] form with coefficients and constants combined. augmented matrixes need to be [[Solving Augmented Matrixes|solved]]
 
 eg. the [[Linear Equation|linear equations]]

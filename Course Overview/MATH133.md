@@ -7,31 +7,21 @@
 Lecture Notes:
 * [[Math 133 - Lecture 1]]
 * [[Math 133 - Lecture 2]]
-* 
+* [[Math 133 - Lecture 3]]
+* [[Math 133 - Lecture 4]]
 
 Methods:
 * [[Solving Augmented Matrixes]] through [[Elementary Operations]] and [[Elementary Row Operations|row operations]]
 * Converting [[Linear Equation|linear equations]] to [[Augmented Matrix|augmented matrices]]
 * [[Notating solutions to system problems with R]]
+* When you substitute in questions you need to sub in all possible solutions since there can be multiple solutions to any matrix its not worth trying to simplify ![[Screenshot 2024-09-11 at 11.54.26 PM.png]]
+* if a column has all zeros the system has infinitely many solutions
+* [[Gauss Jordan Elimination]]
+* [[Scalar multiplication]]
+* [[Matrix Addition]]
+* [[Linear combination of matrices]]
+* 
 
-Terms:
-- [[Augmented Matrix]]
-- [[Row Equivalence]]
-- [[system of linear equations]]
-- [[Plane]]
-- [[Hyperplane]]
-- [[Linear Equation]]
-- [[power]]
-- [[Solution to a System]]
-- [[Consistent]]
-- [[Inconsistent]]
-- [[Elementary Operations]]
-- [[Elementary Row Operations]]
-- [[Matrix]]
-- [[Row Echelon Form]]
-- [[reduced row echelon form]]
-- [[free variables]]
-- [[leading variables]]
-- [[parametric functions]]
-- [[reduced row echelon form]]
-- 
+Theorems
+* [[number of solutions of a linear system]]
+* [[homogenous system theorem]]

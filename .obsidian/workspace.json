@@ -8,30 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56748e99979fa988",
+            "id": "2c591d256158a7d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/method.md",
+                "file": "Course Overview/MATH133.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2478c366bda04f3b",
+            "id": "a23a0186e247ef3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photoelectric Effect.md",
+                "file": "Mathematics/Linear Algebra/Math 133 - Lecture 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dffe30cc1e252164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/equal matrixes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/method.md",
+                "file": "Mathematics/Linear Algebra/Math 133 - Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/method.md",
+                "file": "Mathematics/Linear Algebra/Math 133 - Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/method.md"
+                "file": "Mathematics/Linear Algebra/Math 133 - Lecture 4.md"
               }
             }
           },
@@ -170,53 +183,53 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "56748e99979fa988",
+  "active": "a23a0186e247ef3e",
   "lastOpenFiles": [
-    "Computer Science/Data Structures and Algorithms/Class.md",
-    "Computer Science/Data Structures and Algorithms/package.md",
-    "Computer Science/Data Structures and Algorithms/method.md",
-    "Computer Science/Data Structures and Algorithms/null.md",
-    "Photoelectric Effect.md",
-    "Computer Science/Data Structures and Algorithms/Reference Type.md",
-    "Computer Science/Data Structures and Algorithms/mutability.md",
-    "Screenshot 2024-09-10 at 9.04.38 PM.png",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 4.md",
-    "Course Overview/COMP250.md",
-    "Course Overview/CHEM110.md",
-    "Atomic Spectra.md",
-    "Rydberg's equation.md",
-    "Rydberg constant.md",
-    "planck's constant.md",
-    "planck's equation.md",
-    "CHEM 110 Week 1.md",
-    "Chem110 Data Sheet Fall 2024.pdf",
-    "c.md",
-    "Psychology/Unit 3 - Sensation Psychology/wavelength.md",
-    "wave number.md",
-    "Balmer's equation.md",
-    "Screenshot 2024-09-10 at 5.45.18 PM.png",
-    "Screenshot 2024-09-10 at 5.33.42 PM.png",
-    "Screenshot 2024-09-10 at 5.22.57 PM.png",
-    "Chemistry/Electron.md",
-    "Psychology/Unit 3 - Sensation Psychology/frequency.md",
-    "Screenshot 2024-09-10 at 5.16.43 PM.png",
-    "Screenshot 2024-09-10 at 5.15.48 PM.png",
-    "Screenshot 2024-09-10 at 5.01.57 PM.png",
-    "Blackbody radiation.md",
-    "diffraction.md",
+    "Mathematics/Linear Algebra/Linear combination of matrices.md",
+    "Course Overview/MATH133.md",
+    "Mathematics/Linear Algebra/equal matrixes.md",
+    "Mathematics/Linear Algebra/Math 133 - Lecture 4.md",
+    "Mathematics/Linear Algebra/Zero Matrix.md",
+    "Mathematics/Linear Algebra/row vector.md",
+    "Mathematics/Linear Algebra/Matrix Addition.md",
+    "Mathematics/Linear Algebra/Scalar multiplication.md",
+    "Chemistry/CHEM110/CHEM110 Week 2.md",
+    "Mathematics/Linear Algebra/Math 133 - Lecture 3.md",
+    "Mathematics/Linear Algebra/scalar.md",
+    "Mathematics/Linear Algebra/column vector.md",
+    "Mathematics/Linear Algebra/Matrix.md",
+    "Mathematics/Linear Algebra/Augmented Matrix.md",
+    "Mathematics/Linear Algebra/IJEntry.md",
+    "Mathematics/Linear Algebra/Math 133 - Lecture 1.md",
+    "Mathematics/Linear Algebra/Math 133 - Lecture 2.md",
+    "Mathematics/Linear Algebra/Matrix rank.md",
+    "Mathematics/Linear Algebra/homogenous system theorem.md",
+    "Mathematics/Linear Algebra/homogeneous system.md",
     "properties of waves vs particles.png",
-    "light.md",
-    "electromagnetic radiation.md",
-    "biological taxonomy.png",
+    "Screenshot 2024-09-11 at 11.54.26 PM.png",
+    "Screenshot 2024-09-12 at 7.03.49 PM.png",
+    "Screenshot 2024-09-12 at 12.18.20 AM.png",
+    "Screenshot 2024-09-09 at 6.28.25 PM.png",
+    "Screenshot 2024-09-10 at 5.01.57 PM.png",
+    "Screenshot 2024-09-10 at 5.16.43 PM.png",
+    "Screenshot 2024-09-10 at 5.22.57 PM.png",
+    "Screenshot 2024-09-10 at 5.33.42 PM.png",
+    "Chemistry/CHEM110/Atomic Spectra.md",
+    "Chemistry/CHEM110/Balmer's equation.md",
+    "Chemistry/CHEM110/Blackbody radiation.md",
+    "Chemistry/CHEM110/c.md",
+    "Chemistry/CHEM110/CHEM 110 Week 1.md",
+    "Chemistry/CHEM110/diffraction.md",
+    "Mathematics/Linear Algebra/row echelon form guide.png",
+    "Chemistry/CHEM110",
+    "Chem110 Data Sheet Fall 2024.pdf",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
-    "Screenshot 2024-09-09 at 6.28.25 PM.png",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
     "Mathematics/Linear Algebra",
     "Mathematics/Statistics",
-    "Mathematics/Calculus",
-    "Course Overview"
+    "Mathematics/Calculus"
   ]
 }

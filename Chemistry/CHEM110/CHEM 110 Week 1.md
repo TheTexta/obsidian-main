@@ -1,6 +1,4 @@
 #chem110 
-
-
 ### Electromagnetic radiation and Light
 [[electromagnetic radiation]] and [[light]] are the same thing
 

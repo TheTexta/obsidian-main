@@ -1,0 +1,75 @@
+#biol111 
+Fungi
+- single cell fungi - yeast
+- there are humungous multi celluar fungi
+- humungous fungus $9km^2$
+- majority of fungus underground
+- disease
+	- athletes foot
+	- yeast infections
+	- jock itch
+	- ring worm
+- critical to ecosystem functioning
+- wide range of human uses
+- humans and fungi
+	- edible mushrooms
+	- breakdown of sugars -> alcohol and co2
+		- alchohols
+		- bread
+		- soy sauce
+		- cheese
+	- mycotoxins
+		- psychedelics
+	- bioethanol
+	- fungal diseases for humans
+	- penycilin
+	- 
+
+Features of fungi
+- structure: single called or made of filament. no complex transport systems, cell walls which contain chitin
+	- yeasts - single cells (cell wall)
+	- bacteria - prokaryotes (no membrane bound nucleus)
+	- mycelia
+		- mycelium - made of hypae (long thin filaments)
+		- hyphae separated by cross walls called "septa"
+		- septa have large pores that allow passage of nutrients, even nuclei
+		- hypae - 100x thinner then the thinnest plant root
+			- can pack together to form mushrooms
+		- 
+- nutrition: absorb food indrectly from surroundings
+	- thin hypae - big absorbers
+	- need for moisture
+	- plants photosynthesize, animals eat things, fungi secrete digestive enzumes externally
+		- saprophytes (dead stuff)
+		- symbionts
+	- novel methods of absorbing nutrients
+	- key in C, N, P cycles
+	- main decomposers of cellulose and lignin (most abundant molecules on earth)
+	- ecology
+		- most famous symbiosis
+			- lichen
+				- fungi + algae or cyanobacteria
+				- 20000 species
+				- 6% of Earths surface
+				- mutualism
+			- mycorrihizae
+				- 80% of angiosperms partner with fungi to get nutrient from soil
+				- lack of patterns of this fungi can limit plant species distributions
+- reproduction: sexual asexual
+	- Asexual
+		- fragmentation
+		- during haploid phase
+		- vegetative spores (conidia)
+		- produced on conidiophores
+	- sexual
+		- very different from sex in animals
+		- one species can have  many mating types
+		- individiduals of compatible types fuse thheir mycelia to initiate sexual cycle (anasomosis/plasmogamy)
+		- produces a dikaryotic mycelium
+		- basidia - specialised end cells of mushroom gills
+		- nuclei fuse -> meiosis -> spores
+- dispersal: spores
+	- unlike hyphae, spores tolerate dry conditions
+	- im;ortant for disperal
+	- small size facitliiates airborne dispersal
+	- 

@@ -1,4 +1,4 @@
- #course-overview #chem110
+ #course-overview 
 
 - Watch the weekly concept videos and do the practice problems.
 - Get a LAB COAT and googles
@@ -11,6 +11,7 @@
 ## Unit 1
 #### Lecture Notes
 - [[CHEM 110 Week 1]]
+- [[CHEM110 Week 2]]
 #### Terms
 - [[wavelength]]
 - [[Significant Figures]]
@@ -19,6 +20,7 @@
 - [[hertz]]
 - [[wave]]
 - [[energy]]
+- 
 
 ## Data Sheet
 ![[Chem110 Data Sheet Fall 2024.pdf]]
