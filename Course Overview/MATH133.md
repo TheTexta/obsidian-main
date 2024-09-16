@@ -20,6 +20,9 @@ Methods:
 * [[Scalar multiplication]]
 * [[Matrix Addition]]
 * [[Linear combination of matrices]]
+* [[matrix-vector multiplication]]
+* [[Matrix Tranposition]]
+* [[Parametric solutions in vector form]]
 * 
 
 Theorems
