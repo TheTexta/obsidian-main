@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92d7abfe8bcc131f",
+        "id": "8acc271b739caa15",
         "type": "tabs",
         "children": [
           {
-            "id": "2c591d256158a7d5",
+            "id": "efb8deccfc0d802b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Overview/MATH133.md",
+                "file": "Computer Science/Data Structures and Algorithms/toString method.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Overview/MATH133.md",
+                "file": "Computer Science/Data Structures and Algorithms/toString method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Overview/MATH133.md",
+                "file": "Computer Science/Data Structures and Algorithms/toString method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Overview/MATH133.md"
+                "file": "Computer Science/Data Structures and Algorithms/toString method.md"
               }
             }
           },
@@ -158,49 +158,49 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "2c591d256158a7d5",
+  "active": "efb8deccfc0d802b",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Math 133 - Lecture 4.md",
+    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md",
+    "Computer Science/Data Structures and Algorithms/toString method.md",
+    "Course Overview/COMP250.md",
+    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 5.md",
+    "Chemistry/CHEM110/CHEM110 Week 2.md",
+    "Screenshot 2024-09-16 at 9.19.24 PM.png",
+    "Chemistry/CHEM110/Bohr Model.md",
+    "Course Overview/CHEM110.md",
+    "Computer Science/Data Structures and Algorithms/encapsulation.md",
+    "Computer Science/Data Structures and Algorithms/overloading.md",
+    "Computer Science/Data Structures and Algorithms/static.md",
+    "Computer Science/Data Structures and Algorithms/getters and setters.md",
+    "Computer Science/Data Structures and Algorithms/constructor.md",
+    "Chemistry/CHEM110/properties of waves vs particles.png",
+    "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-10 at 9.04.38 PM.png",
+    "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-09 at 6.28.25 PM.png",
+    "Biology/biological taxonomy.png",
+    "Chemistry/CHEM110/Screenshot 2024-09-12 at 7.03.49 PM.png",
+    "Chemistry/CHEM110/Screenshot 2024-09-10 at 5.22.57 PM.png",
+    "Chemistry/CHEM110/Screenshot 2024-09-10 at 5.33.42 PM.png",
+    "Chemistry/CHEM110/Screenshot 2024-09-10 at 5.45.18 PM.png",
+    "Chemistry/base.md",
+    "Chemistry/Avogadro's number.md",
+    "Chemistry/autoionization.md",
+    "Chemistry/Aufbau Principle.md",
+    "Chemistry/Acid-base Titration.md",
+    "Chemistry/Acid.md",
+    "Chemistry/CHEM110/Screenshot 2024-09-10 at 5.16.43 PM.png",
     "Course Overview/MATH133.md",
+    "Mathematics/Linear Algebra/symmetric matrix.md",
+    "Mathematics/Linear Algebra/Math 133 - Lecture 4.md",
     "Mathematics/Linear Algebra/matrix-vector multiplication.md",
-    "Screenshot 2024-09-16 at 4.35.49 PM.png",
     "Mathematics/Linear Algebra/Matrix Tranposition.md",
-    "symmetric matrix.md",
     "Mathematics/Linear Algebra/Linear combination of matrices.md",
     "Mathematics/Linear Algebra/Parametric solutions in vector form.md",
     "Mathematics/Linear Algebra/equal matrixes.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
-    "Mathematics/Linear Algebra/Zero Matrix.md",
-    "Mathematics/Linear Algebra/row vector.md",
-    "Mathematics/Linear Algebra/Matrix Addition.md",
-    "Mathematics/Linear Algebra/Scalar multiplication.md",
-    "Chemistry/CHEM110/CHEM110 Week 2.md",
-    "Mathematics/Linear Algebra/Math 133 - Lecture 3.md",
-    "Mathematics/Linear Algebra/scalar.md",
-    "Mathematics/Linear Algebra/column vector.md",
-    "Mathematics/Linear Algebra/Matrix.md",
-    "Mathematics/Linear Algebra/Augmented Matrix.md",
-    "Mathematics/Linear Algebra/IJEntry.md",
-    "Mathematics/Linear Algebra/Math 133 - Lecture 1.md",
-    "Mathematics/Linear Algebra/Math 133 - Lecture 2.md",
-    "Mathematics/Linear Algebra/Matrix rank.md",
-    "Mathematics/Linear Algebra/homogenous system theorem.md",
-    "Mathematics/Linear Algebra/homogeneous system.md",
-    "properties of waves vs particles.png",
-    "Screenshot 2024-09-11 at 11.54.26 PM.png",
-    "Screenshot 2024-09-12 at 7.03.49 PM.png",
-    "Screenshot 2024-09-12 at 12.18.20 AM.png",
-    "Screenshot 2024-09-09 at 6.28.25 PM.png",
-    "Screenshot 2024-09-10 at 5.01.57 PM.png",
-    "Screenshot 2024-09-10 at 5.16.43 PM.png",
-    "Screenshot 2024-09-10 at 5.22.57 PM.png",
-    "Screenshot 2024-09-10 at 5.33.42 PM.png",
-    "Chemistry/CHEM110/Atomic Spectra.md",
-    "Chemistry/CHEM110/Balmer's equation.md",
     "Chemistry/CHEM110",
-    "Chem110 Data Sheet Fall 2024.pdf",
+    "Chemistry/CHEM110/Chem110 Data Sheet Fall 2024.pdf",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
     "Mathematics/Linear Algebra",

@@ -23,7 +23,6 @@ Methods:
 * [[matrix-vector multiplication]]
 * [[Matrix Tranposition]]
 * [[Parametric solutions in vector form]]
-* 
 
 Theorems
 * [[number of solutions of a linear system]]
