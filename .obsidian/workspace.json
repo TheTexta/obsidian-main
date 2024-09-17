@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/toString method.md",
+                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/toString method.md",
+                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/toString method.md",
+                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/toString method.md"
+                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md"
               }
             }
           },
@@ -160,7 +160,9 @@
   },
   "active": "efb8deccfc0d802b",
   "lastOpenFiles": [
+    "Computer Science/Data Structures and Algorithms/immutable types.md",
     "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md",
+    "Computer Science/Data Structures and Algorithms/mutable types.md",
     "Computer Science/Data Structures and Algorithms/toString method.md",
     "Course Overview/COMP250.md",
     "Computer Science/Data Structures and Algorithms/COMP250 Lecture 5.md",
@@ -194,8 +196,6 @@
     "Mathematics/Linear Algebra/matrix-vector multiplication.md",
     "Mathematics/Linear Algebra/Matrix Tranposition.md",
     "Mathematics/Linear Algebra/Linear combination of matrices.md",
-    "Mathematics/Linear Algebra/Parametric solutions in vector form.md",
-    "Mathematics/Linear Algebra/equal matrixes.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
