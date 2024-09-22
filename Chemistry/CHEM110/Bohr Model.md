@@ -16,6 +16,7 @@ $\Delta E=E_\text{final}-E_\text{initial}$
 - The energy of each orbit is quantized (depends on n)
 - The energy difference between two orbits for an atom is always a discrete value and results in a discrete spectral lines.
 - Because of these equations, mathematically the gap between $n=1$ and $n=2$ is larger than any other possible gap (4-5, 2-3, etc). 
+- n=\infty if there are zero electrons present.
 ### Explanation of Bohr's model
 - Stationary states - H atom has only certain allowed energy levels where the [[Electron|electrons]] can reside. Higher energy levels are associated with a further orbit from the nucleus.
 - [[Electron|Electrons]] can move within the orbit without changing the atoms energy

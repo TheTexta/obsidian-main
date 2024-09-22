@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "8acc271b739caa15",
+        "id": "fd9a08f4b8df0ef2",
         "type": "tabs",
         "children": [
           {
-            "id": "efb8deccfc0d802b",
+            "id": "7046afff62f25a19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md",
+                "file": "Mathematics/Linear Algebra/matrix linear transformations.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "480aa994236e7461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/matrix multiplication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f747ab41898a7022",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md",
+                "file": "Mathematics/Linear Algebra/matrix multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md",
+                "file": "Mathematics/Linear Algebra/matrix multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md"
+                "file": "Mathematics/Linear Algebra/matrix multiplication.md"
               }
             }
           },
@@ -158,44 +179,44 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "efb8deccfc0d802b",
+  "active": "480aa994236e7461",
   "lastOpenFiles": [
-    "Computer Science/Data Structures and Algorithms/immutable types.md",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 6.md",
-    "Computer Science/Data Structures and Algorithms/mutable types.md",
-    "Computer Science/Data Structures and Algorithms/toString method.md",
-    "Course Overview/COMP250.md",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 5.md",
-    "Chemistry/CHEM110/CHEM110 Week 2.md",
-    "Screenshot 2024-09-16 at 9.19.24 PM.png",
-    "Chemistry/CHEM110/Bohr Model.md",
-    "Course Overview/CHEM110.md",
-    "Computer Science/Data Structures and Algorithms/encapsulation.md",
-    "Computer Science/Data Structures and Algorithms/overloading.md",
-    "Computer Science/Data Structures and Algorithms/static.md",
-    "Computer Science/Data Structures and Algorithms/getters and setters.md",
-    "Computer Science/Data Structures and Algorithms/constructor.md",
-    "Chemistry/CHEM110/properties of waves vs particles.png",
-    "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-10 at 9.04.38 PM.png",
-    "Computer Science/Data Structures and Algorithms/Screenshot 2024-09-09 at 6.28.25 PM.png",
-    "Biology/biological taxonomy.png",
-    "Chemistry/CHEM110/Screenshot 2024-09-12 at 7.03.49 PM.png",
-    "Chemistry/CHEM110/Screenshot 2024-09-10 at 5.22.57 PM.png",
-    "Chemistry/CHEM110/Screenshot 2024-09-10 at 5.33.42 PM.png",
-    "Chemistry/CHEM110/Screenshot 2024-09-10 at 5.45.18 PM.png",
-    "Chemistry/base.md",
-    "Chemistry/Avogadro's number.md",
-    "Chemistry/autoionization.md",
-    "Chemistry/Aufbau Principle.md",
-    "Chemistry/Acid-base Titration.md",
-    "Chemistry/Acid.md",
-    "Chemistry/CHEM110/Screenshot 2024-09-10 at 5.16.43 PM.png",
+    "Screenshot 2024-09-22 at 3.44.28 AM.png",
+    "Mathematics/Linear Algebra/Math 133 - Lecture 6.md",
+    "Mathematics/Linear Algebra/matrix multiplication.md",
+    "Mathematics/Linear Algebra/matrix linear transformations.md",
+    "Mathematics/Linear Algebra/identity matrix.md",
     "Course Overview/MATH133.md",
-    "Mathematics/Linear Algebra/symmetric matrix.md",
-    "Mathematics/Linear Algebra/Math 133 - Lecture 4.md",
-    "Mathematics/Linear Algebra/matrix-vector multiplication.md",
+    "Mathematics/Linear Algebra/Math 133 - Lecture 5.md",
+    "Mathematics/Linear Algebra/Theorem 8 - General Solution Theorem for linear systems.md",
+    "Mathematics/Linear Algebra/theorem 7 - homogenous system scaling solutions theorem.md",
     "Mathematics/Linear Algebra/Matrix Tranposition.md",
+    "Mathematics/Linear Algebra/homogenous system theorem.md",
     "Mathematics/Linear Algebra/Linear combination of matrices.md",
+    "Mathematics/Linear Algebra/linear combination of vectors for a known vector.md",
+    "Screenshot 2024-09-21 at 5.32.18 PM.png",
+    "Screenshot 2024-09-21 at 5.32.10 PM.png",
+    "Screenshot 2024-09-21 at 5.30.29 PM.png",
+    "Mathematics/Linear Algebra/Matrix rank.md",
+    "Chemistry/CHEM110/Screenshot 2024-09-20 at 12.55.46 PM.png",
+    "Chemistry/CHEM110/Screenshot 2024-09-20 at 1.34.22 PM.png",
+    "Chemistry/CHEM110/Screenshot 2024-09-20 at 1.22.48 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-09-17 at 8.16.17 PM.png",
+    "Chemistry/CHEM110/Screenshot 2024-09-16 at 9.19.24 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-09-17 at 8.15.51 PM.png",
+    "Mathematics/Linear Algebra/dot product.md",
+    "Mathematics/Linear Algebra/matrix product of two matrices.png",
+    "Mathematics/Linear Algebra/Matrix Addition.md",
+    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 7.md",
+    "Course Overview/CHEM110.md",
+    "Chemistry/CHEM110/CHEM110 Week 2.md",
+    "Chemistry/CHEM110/Bohr Model.md",
+    "Chemistry/CHEM110/Rydberg's equation.md",
+    "Chemistry/CHEM110/Rydberg constant.md",
+    "Chemistry/CHEM110/photon.md",
+    "Chemistry/CHEM110/quantum numbers.md",
+    "Chemistry/CHEM110/de broglie equation.md",
+    "Chemistry/CHEM110/Heisenberg's uncertainty principle.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",

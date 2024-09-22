@@ -7,6 +7,10 @@
 - Wash eyes for 20 minutes
 - Wash hands for 15 minutes
 - Remove gloves to take a photo
+- Standard units
+	- kg
+	- meters
+	- seconds
 
 ## Unit 1
 #### Lecture Notes

@@ -16,4 +16,4 @@ Lectures:
 - [[COMP250 Lecture 4]]
 - [[COMP250 Lecture 5]]
 - [[COMP250 Lecture 6]]
-- 
+- [[COMP250 Lecture 7]]

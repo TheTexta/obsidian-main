@@ -17,5 +17,5 @@ eg:
 3s 3p 4s 3d
 4p 4d 4f
 - [[Hund's Rule]]::Every [[Orbitals|orbital]] singly occupied before double occupied
-- [[Pauli exclusion principle]]::No two [[Electron|electrons]] in an [[orbitals|orbital]] can have the same spin
+- [[Pauli exclusion principle]]::No two [[Electron|electrons]] in an [[Orbitals|orbital]] can have the same spin
 ![[spdf periodic table.png]]

@@ -9,6 +9,9 @@ Lecture Notes:
 * [[Math 133 - Lecture 2]]
 * [[Math 133 - Lecture 3]]
 * [[Math 133 - Lecture 4]]
+* [[Math 133 - Lecture 5]]
+* [[Math 133 - Lecture 6]]
+* 
 
 Methods:
 * [[Solving Augmented Matrixes]] through [[Elementary Operations]] and [[Elementary Row Operations|row operations]]
@@ -23,7 +26,12 @@ Methods:
 * [[matrix-vector multiplication]]
 * [[Matrix Tranposition]]
 * [[Parametric solutions in vector form]]
+* [[isolating a matrix column with standard basis vectors]]
+* [[linear combination of vectors for a known vector]]
 
 Theorems
 * [[number of solutions of a linear system]]
 * [[homogenous system theorem]]
+* [[theorem 7 - homogenous system scaling solutions theorem]]
+* [[Theorem 8 - General Solution Theorem for linear systems]]
+* 

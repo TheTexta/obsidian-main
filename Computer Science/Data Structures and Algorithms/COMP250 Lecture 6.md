@@ -10,4 +10,13 @@
 	- [[mutable types]]
 		- more flexible to work with
 		- easier to make errors
-		- 
+		- updatable data types should be mutable
+- Taking an array input and storing its reference directly in a private field is bad. If assigning reference types to private variables you should initialise it with propper checks. Same idea applies to setter and getter methods - do not return reference types by themselves for private classes. create temp variables and return those temp variables to protect for this. 
+	- shallow copy vs deep copy
+		- shallow copy is only the first layer copied of a 2d array
+		- deep copy is both layers of a 2d array
+- [[final]] variables
+- [[UML Diagrams]]
+- can you change the method equals()?
+- [[inheritance]]
+- The [[Object class]] is the [[superclass]] of all classes - made by java.
