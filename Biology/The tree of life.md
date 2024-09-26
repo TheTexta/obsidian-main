@@ -12,8 +12,10 @@
 	- [[ribosome|Ribosomes]] are universally conserved across all living things
 - The discovery of Archaea gave way to the [[three-domain system]]
 	- Woese continues to add branches to the tree.
-	- [[Halophilic bacteria]] and [[thermoacidophiles]] turn out to be [[Archaea]]
-	- Distinctness of [[Archaea]] also supported by weird [[phospholipids]]
+	- [[Halophilic bacteria]] and [[thermoacidophiles]] turn out to be [[Archaea]] (not [[bacteria]])
+	- Distinctness of [[Archaea]] also supported by weird [[phospholipids]] of a particular chemical structure.
+- As more data was added to the tree a new model began to challenge the [[three-domain system]] hypothesis
+	- 
 
 ##### Understanding tree diagrams
 The [[prokaryote|prokaryotes]] are not [[monophyly|monophyletic]] so they are not included on the tree. When a group has a name *in game* but don't share a real common ancestor they are called [[paraphyletic]]. When a group has two independent origins it is [[polyphyletic]]

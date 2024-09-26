@@ -1,3 +1,3 @@
 #biol111 
-A single strand of nucliotides
+A single strand of [[nucliotides]]
 

@@ -11,11 +11,9 @@
             "id": "480aa994236e7461",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Biology/ribosome.md",
-                "mode": "source",
-                "source": false
+                "file": "Mathematics/Linear Algebra/Screenshot 2024-09-21 at 5.32.18 PM.png"
               }
             }
           },
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/ribosome.md",
+                "file": "Mathematics/Linear Algebra/Screenshot 2024-09-21 at 5.32.18 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/ribosome.md",
+                "file": "Mathematics/Linear Algebra/Screenshot 2024-09-21 at 5.32.18 PM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/ribosome.md"
+                "file": "Mathematics/Linear Algebra/Screenshot 2024-09-21 at 5.32.18 PM.png"
               }
             }
           },
@@ -178,20 +176,29 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "480aa994236e7461",
+  "active": "1b31c21586683c68",
   "lastOpenFiles": [
+    "Biology/tree of life interpretation example.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-09-21 at 5.32.18 PM.png",
+    "Biology/winogradsky column.png",
+    "Biology/Screenshot 2024-09-24 at 2.09.44 AM.png",
+    "Biology/Screenshot 2024-09-24 at 2.17.00 AM.png",
+    "Biology/Screenshot 2024-09-24 at 2.18.07 AM.png",
+    "Biology/Screenshot 2024-09-25 at 3.52.35 AM.png",
+    "Biology/Screenshot 2024-09-25 at 10.10.15 PM.png",
+    "Biology/Screenshot 2024-09-25 at 10.13.54 PM.png",
+    "Biology/Screenshot 2024-09-26 at 2.26.56 AM.png",
+    "Biology/Screenshot 2024-09-26 at 5.07.25 PM.png",
     "Biology/The tree of life.md",
+    "Biology/phospholipids.md",
     "Biology/ribosome.md",
+    "Biology/rRNA.md",
+    "Biology/RNA.md",
     "Biology/three-domain system.md",
     "Biology/Carl Woese.md",
-    "Screenshot 2024-09-26 at 5.12.08 PM.png",
-    "Screenshot 2024-09-26 at 5.07.25 PM.png",
-    "tree of life interpretation example.png",
-    "Screenshot 2024-09-26 at 5.58.40 AM.png",
     "Biology/polyphyletic.md",
     "Biology/paraphyletic.md",
     "Biology/monophyly.md",
-    "Biology/paraphyly polyphyly and monophyly example.png",
     "Biology/Molecular phylogenetics.md",
     "Biology/molecular clock.md",
     "Biology/protein.md",
@@ -200,22 +207,13 @@
     "Biology/Metabolism.md",
     "Biology/autotroph.md",
     "Biology/heterotroph.md",
-    "winogradsky column.png",
-    "Screenshot 2024-09-26 at 2.26.56 AM.png",
     "Biology/Oxygenic Photosynthesis.md",
     "Biology/Photosynthesis.md",
     "Biology/The electron transport chain.md",
     "Biology/ATP synthase.md",
-    "Screenshot 2024-09-26 at 12.56.26 AM.png",
-    "Screenshot 2024-09-26 at 12.48.01 AM.png",
-    "Screenshot 2024-09-26 at 12.00.43 AM.png",
     "Chemistry/Redox Reactions.md",
     "Biology/BIOL111 - Lecture 7 - Microbes 3.md",
     "Course Overview/BIOL111.md",
-    "Biology/BIOL111 - Lecture 6 - Microbes 2.md",
-    "Biology/Translation.md",
-    "Biology/ribozyme.md",
-    "Biology/RNA.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
