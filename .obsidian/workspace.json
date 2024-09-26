@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Molecular phylogenetics.md",
+                "file": "Biology/The tree of life.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Molecular phylogenetics.md",
+                "file": "Biology/The tree of life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Molecular phylogenetics.md",
+                "file": "Biology/The tree of life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Molecular phylogenetics.md"
+                "file": "Biology/The tree of life.md"
               }
             }
           },
@@ -180,10 +180,17 @@
   },
   "active": "480aa994236e7461",
   "lastOpenFiles": [
-    "Biology/molecular clock.md",
-    "Biology/Molecular phylogenetics.md",
-    "Biology/protein.md",
+    "tree of life interpretation example.png",
+    "Biology/three-domain tree of life.md",
+    "Screenshot 2024-09-26 at 5.58.40 AM.png",
+    "Biology/polyphyletic.md",
+    "Biology/paraphyletic.md",
+    "Biology/monophyly.md",
+    "Biology/paraphyly polyphyly and monophyly example.png",
     "Biology/The tree of life.md",
+    "Biology/Molecular phylogenetics.md",
+    "Biology/molecular clock.md",
+    "Biology/protein.md",
     "Biology/Microbes.md",
     "Biology/Spontaneous Generation.md",
     "Biology/Metabolism.md",
@@ -207,15 +214,8 @@
     "Biology/ribozyme.md",
     "Screenshot 2024-09-25 at 10.13.54 PM.png",
     "Screenshot 2024-09-25 at 10.10.15 PM.png",
-    "RNA first world theory diagram.png",
     "Biology/RNA.md",
-    "Screenshot 2024-09-25 at 3.52.35 AM.png",
     "Biology/Panspermia.md",
-    "Biology/BIOL111 - Lecture 5 - Microbes 1.md",
-    "Biology/BIOL111 - Lecture 4.md",
-    "Course Overview/MATH133.md",
-    "Mathematics/Linear Algebra/Matrix rank.md",
-    "Mathematics/Linear Algebra/Theorem 8 - General Solution Theorem for linear systems.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
