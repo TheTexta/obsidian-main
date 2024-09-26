@@ -11,4 +11,4 @@ $p$ represents the probability of success on a single trial
 $q$ represents the probability of failure on a single trial
 
 
-binomial distribution is basically just the probability of an event occuring *at least* x times in a given amount and looking at tha
+binomial distribution is basically just the probability of an event occuring *at least* x times in a given amount and looking at that as a whole.

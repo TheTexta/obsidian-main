@@ -9,6 +9,9 @@ Lecture Notes:
 - [[BIOL111 - Lecture 2]]
 - [[BIOL111 - Lecture 3]]
 - [[BIOL111 - Lecture 4]]
+- [[BIOL111 - Lecture 5 - Microbes 1]]
+- [[BIOL111 - Lecture 6 - Microbes 2]]
+- [[BIOL111 - Lecture 7 - Microbes 3]]
 - 
 
 #### Terms
