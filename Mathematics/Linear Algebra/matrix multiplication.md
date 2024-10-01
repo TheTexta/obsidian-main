@@ -39,6 +39,7 @@ Let A,B,C matrices of appropriate sizes
    $(B+C)A=BC+CA$
 4. For any scalar $k\in\mathbb{R}$
 	1. $k(AB) = (kA)B = A(kB)$
+5. $AB=CB$ is not the same as $A=C$ you *cannot* cancel the $B$
 
 ##### Examples
 $A,B$, $n\times n$ matrices

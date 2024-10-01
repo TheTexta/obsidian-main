@@ -11,16 +11,16 @@
 	- [[Carl Woese]] 1970s choose the [[rRNA|ribosomal RNA]] to develop the tree of life. 
 	- [[ribosome|Ribosomes]] are universally conserved across all living things
 - The discovery of Archaea gave way to the [[three-domain system]]
-	- Woese continues to add branches to the tree.
-	- [[Halophilic bacteria]] and [[thermoacidophiles]] turn out to be [[Archaea]] (not [[bacteria]])
-	- Distinctness of [[Archaea]] also supported by weird [[phospholipids]] of a particular chemical structure.
+	- [[Carl Woese|Woese]] continues to add branches to the tree.
+	- [[Halophilic bacteria]] and [[thermoacidophiles]] turn out to be [[archaea]] (not [[bacteria]])
+	- Distinctness of [[archaea]] also supported by weird [[phospholipids]] of a particular chemical structure.
 - As more data was added to the tree a new model began to challenge the [[three-domain system]] hypothesis - the [[Eocyte hypothesis]]
-	- The [[Eocyte hypothesis]] described [[Eukaryota]] as a offspring of [[Archaea]] rather then sharing a common ancestor with it.
+	- The [[Eocyte hypothesis]] described [[eukaryotes]] as a offspring of [[archaea]] rather then sharing a common ancestor with it.
 	- This hypothesis gained increasingly more support into the 2010s with DNA sequencing of deep-sea hydrothermal vents in the Arctic Sea known as "Loki's castle." 
 		- Lokiarchaeota
 		- Thorachaeota
 		- Odinarchaeta
-	- This evidence added further evidence that [[Eukarya]] emerged from within [[Archaea]]
+	- This evidence added further evidence that [[Eukarya]] emerged from within [[archaea]]
 	- These were culture isolated sequences. It took 12 years to enrich the culture to a point where the a sample was properly grown. 
 		- Lokiachaea prometheoachaeum syntrophicum was a co culture with another achaean and bacteria which partly explains why it was so hard to cultivate. It doesn't have organelle structure but very complex [[morphology]]
 		- These structure were [[syntrophy|syntrophic]] meaning they cross fed.
@@ -35,4 +35,4 @@
 
 ##### Problems with the tree
 - If a tree is based on ~100 [[gene|genes]], it may not represent the evolutionary history of the other ~2000 genes in a typical [[prokaryote|prokaryotic]] [[genome]]
-- Horizontal processes (such as [[endosymbiotic theory|endosymbiosis]]) are not easily represented by a vertical tree. Cross branch interactions not properly depicted on a tree diagram. 
+- Horizontal processes (such as [[endosymbiotic theory|endosymbiosis]] a form of [[horizontal gene transfer|HGT]]) are not easily represented by a vertical tree. Cross branch interactions not properly depicted on a tree diagram. 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/commutative.md",
+                "file": "Biology/eukaryotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/commutative.md",
+                "file": "Biology/eukaryotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/commutative.md",
+                "file": "Biology/eukaryotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear Algebra/commutative.md"
+                "file": "Biology/eukaryotes.md"
               }
             }
           },
@@ -159,11 +160,24 @@
   },
   "active": "f747ab41898a7022",
   "lastOpenFiles": [
+    "Biology/eukaryotes.md",
+    "Biology/three-domain system.md",
+    "Biology/The tree of life.md",
+    "Biology/endosymbiotic theory.md",
+    "Biology/archaea.md",
+    "Mathematics/Linear Algebra/Matrix Inverses.md",
+    "Mathematics/Linear Algebra/block multiplication.md",
+    "Mathematics/Linear Algebra/Screenshot 2024-09-29 at 4.05.06 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-09-29 at 4.25.55 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-09-30 at 10.22.42 PM.png",
+    "Biology/Screenshot 2024-09-28 at 7.18.45 PM.png",
+    "Mathematics/Linear Algebra/Proposition 9.md",
+    "Mathematics/Linear Algebra/Math 133 - Lecture 6.md",
     "Mathematics/Linear Algebra/matrix multiplication.md",
+    "Mathematics/Linear Algebra/sum.md",
     "Mathematics/Linear Algebra/commutative.md",
     "Mathematics/Linear Algebra/associative rule.md",
     "Mathematics/Linear Algebra/dot product.md",
-    "Mathematics/Linear Algebra/Math 133 - Lecture 6.md",
     "Mathematics/Linear Algebra/matrix linear transformations.md",
     "Course Overview/MATH133.md",
     "Mathematics/Linear Algebra/Math 133 - Lecture 7.md",
@@ -176,25 +190,12 @@
     "Chemistry/CHEM110/paramagnetism.md",
     "Chemistry/CHEM110/species.md",
     "Chemistry/CHEM110/CHEM110 Week 3.md",
-    "Chemistry/CHEM110/periodic trends.md",
-    "Chemistry/CHEM110/valence electrons.md",
-    "Chemistry/CHEM110/isoelectronic.md",
-    "Chemistry/CHEM110/metalloids.md",
-    "Chemistry/CHEM110/non-metals.md",
-    "Chemistry/CHEM110/metals.md",
-    "Chemistry/CHEM110/Electronegativity.md",
-    "Chemistry/CHEM110/Electron Affinity.md",
-    "electrons.md",
-    "Screenshot 2024-09-29 at 4.25.55 PM.png",
-    "Screenshot 2024-09-29 at 4.05.06 PM.png",
-    "Screenshot 2024-09-28 at 7.18.45 PM.png",
     "Biology/endosymbiosis evidence.png",
     "Biology/tree of life interpretation example.png",
     "Mathematics/Linear Algebra/Screenshot 2024-09-21 at 5.32.18 PM.png",
     "Biology/winogradsky column.png",
     "Biology/Screenshot 2024-09-24 at 2.09.44 AM.png",
     "Biology/Screenshot 2024-09-24 at 2.17.00 AM.png",
-    "Biology/Screenshot 2024-09-24 at 2.18.07 AM.png",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
