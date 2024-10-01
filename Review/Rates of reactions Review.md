@@ -28,7 +28,7 @@ As the number of bonds in a reactant increases, so too does the time taken to di
 ##### Strength of Acid
 [[Strong Acids]] which are always fully ionised in there solutions react faster then partially ionised [[weak acids]] in a sol. 
 ##### Reactivity of a Metal
-[[metallic compounds|Metals]] with low [[electronegativity]] react quicker then higher as they have less inclination to stay together, making them more likely to give up an [[Electron]].
+[[metals|Metals]] with low [[Electronegativity]] react quicker then higher as they have less inclination to stay together, making them more likely to give up an [[Electron]].
 ### Surface Area of Solid Reactants
 The average surface area of solid reactants affects the frequency at which collisions take place. Powdered solids are more efficient at reacting then there whole counterparts due to higher surface area of contact between the two reactants
 ### Concentration of reactants

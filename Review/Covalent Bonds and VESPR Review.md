@@ -19,7 +19,7 @@
 - sigma bonds are formed by end to end overlap of s [[Orbitals|orbitals]].
 - resonance means that a given molecule has multiple configurations available.
 - practice question 27. the geometry of the ICL- molecule is best described as *linear* since it is trignola bipyrimdal linear
-- An [[electron]] by itself does not disrupt the shape.
+- An [[Electron]] by itself does not disrupt the shape.
 - h-bonds require N, O or F
 - h-bonds are intermolecular not intramolecular.
 - to dissolve in water you need uneven bonding.

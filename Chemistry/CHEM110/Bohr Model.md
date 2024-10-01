@@ -21,7 +21,7 @@ $\Delta E=E_\text{final}-E_\text{initial}$
 - Stationary states - H atom has only certain allowed energy levels where the [[Electron|electrons]] can reside. Higher energy levels are associated with a further orbit from the nucleus.
 - [[Electron|Electrons]] can move within the orbit without changing the atoms energy
 - The atom changes to another stationary state (the electron moves to another orbit) only by absorbing or emitting a photon. 
-- The different states the [[electron]] can reside in within the atom are quantas
+- The different states the [[Electron]] can reside in within the atom are quantas
 - energy (wavelength/frequency) of photon (light) corresponds to the energy difference between the two stated. so a electronic transition of the electron to a higher state occurs with a corresponding energy photon being absorbed. a [[photon]] must have energy equivalent to the difference between those two states. electrons release energy lowering there state in the form of a photon.
 - $E_\text{photon}=hv=h\frac{c}{\lambda}=\Delta E=E_f-E_i$
 - electronic transition - electron going from one stationary state to another

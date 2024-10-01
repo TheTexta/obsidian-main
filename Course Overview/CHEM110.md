@@ -16,6 +16,7 @@
 #### Lecture Notes
 - [[CHEM 110 Week 1]]
 - [[CHEM110 Week 2]]
+- [[CHEM110 Week 3]]
 #### Terms
 - [[wavelength]]
 - [[Significant Figures]]

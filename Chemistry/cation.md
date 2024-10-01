@@ -1,1 +1,1 @@
-A positively charged [[Ion]]. An [[Ion]] with less negatively charged [[Electron|electrons]] then the neutral elemental form.
+A positively charged [[ion]]. An [[ion]] with less negatively charged [[Electron|electrons]] then the neutral elemental form.

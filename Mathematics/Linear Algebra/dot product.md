@@ -28,3 +28,8 @@ So if $A=\pmatrix{\vec{w}_1\\...\\\vec{w}_m}, \vec{w}_i=\text{row }i\text{ of }A
 
 ##### Example
 $A=\pmatrix{2&0&4\\1&-1&2\\3&1&0}\pmatrix{1\\2\\3}=\pmatrix{2+0+12\\1-2+6\\3+2+0}=\pmatrix{14\\5\\5}$ 
+
+### Dot Product Rule
+The $(i,j)$ - entry of $AB$ is
+
+$(AB)_{ij}=(row i of A)\cdot (column j of B)$

@@ -1,4 +1,5 @@
-#chemistry 
+#chemistry #chem110 
+
 Aufbau Principle::Energy level in the atom always fill from lowest to highest energy.
 
 This is the order:

@@ -1,1 +1,1 @@
-A negatively charged [[Ion]]. Meaning an ion with more electrons than neutral. 
+A negatively charged [[ion]]. Meaning an ion with more electrons than neutral. 

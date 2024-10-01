@@ -28,7 +28,7 @@
 * Oxygen is -2 except in peroxides
 * Oxygen is -1 in peroxides
 * [[oxidisation]] number method
-	* write the number of [[electron|electrons]] transferred per *atom* then per *molecule*
+	* write the number of [[Electron|electrons]] transferred per *atom* then per *molecule*
 	* determine the lcm to balance the *reactants* with the correct coefficients
 	* balance atoms 
 	* When there is an acid (excess positive ions) you need to balance the O atoms by adding h2o molecules and than balance the H atoms by adding H+ (only to the side requiring)

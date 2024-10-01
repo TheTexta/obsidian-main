@@ -91,7 +91,7 @@ On an abstract level: cells contain information that dictate their metabolism. m
 		- some plasmids encode conjugation that results in plasmid transfer from a donor to a recipient via a pilus![[Screenshot 2024-09-22 at 11.02.50 PM.png]]
 		- plasmids encode functions beneficial but not essential to the host [[bacteria]]. but in some cases they are [[parasites]].
 	- DNA Unzips like a zipper![[Screenshot 2024-09-22 at 11.04.42 PM.png]]
-		- replication results in two copies of the [[chromosome]]
+		- replication results in two copies of the [[Chromosome]]
 		- replication proceeds with occasional errors
 			- The error rate of replication in bacteria is low about 10^-10 per base pair per replication. which leads to 10^-3 mutations per genome per replication. 
 		- chromosome repelication and cell division are linked
