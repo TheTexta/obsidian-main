@@ -6,7 +6,7 @@ Watson and Crick, 1953: "it has not escaped our notice that the specific pairing
 - Pauling and Zuckerkandl, 1964
 	- [[molecular clock]] - meaning 
 	- based on [[haemoglobin]] [[protein]] sequences
-- [[Bacteria]] are notoriously hard to classify
+- [[bacteria]] are notoriously hard to classify
 	- Linnaeus 1774: "chaos"
 	- Haeckel 1866: *Monera* at the base of the tree, giving rise to more complex forms
 	- Chatton 1937: [[prokaryote|Prokaryotes]] (smaller simpler cells) vs. [[eukaryotes|eukaryotes]] (bigger complexer)

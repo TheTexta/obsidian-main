@@ -13,10 +13,10 @@
 
 ##### The invisible world and its consequences
 ![[Screenshot 2024-09-22 at 9.46.10 PM.png]]
-Louis Pasteur in the 1870s showed how sterile flasks develop microbes if exposed to the air (see left).
+[[Louis Pasteur]] in the 1870s showed how sterile flasks develop microbes if exposed to the air (see left).
 
 ![[Screenshot 2024-09-22 at 9.48.43 PM.png]]
-Koch's postulates showed how an isolated microorganism causing disease would introduce disease if introduced to a clean body. Showing a causal relationship between a microbe and a disease. 
+[[Koch's postulates]] showed how an isolated microorganism causing disease would introduce disease if introduced to a clean body. Showing a causal relationship between a microbe and a disease. 
 
 ##### Social lives of [[bacteria]]: [[symbiosis]] (living together)
 - *vibrio fischeri* bacteria colonize the bobtailed squid and provide a useful "camouflage" function - an example of a [[symbiosis]] relationship
@@ -28,7 +28,7 @@ Koch's postulates showed how an isolated microorganism causing disease would int
 	- About 1:1 balance between bacterial and human cells in our body
 	- About 100:1 by genes (a lot more variation genetically)
 
-##### [[Bacteria]] have been evolving for billions of years
+##### [[bacteria]] have been evolving for billions of years
 ![[stromatolites examples.png]]
 - [[Stromatolites]] fossils exist today dating back to 3500 million years old
 - [[Stromatolites]] are living today
@@ -36,13 +36,13 @@ Koch's postulates showed how an isolated microorganism causing disease would int
 ##### The rise of [[cyanobacteria]]
 ![[banded iron formations from cyanobacteria.png]]
 - [[cyanobacteria]] is responsible for creating banded iron formations of alternating layers of flint and iron oxide. the formed when the oxygen content of the atmosphere was high enough to oxidise ferrous to ferric iron. This was the consequence of the evolution of oxygenic photosynthesis, at the latest 2500 Mya.
-##### [[Bacteria]] as models of evolution
+##### [[bacteria]] as models of evolution
 [[Richard Lenski]] transfered ecoli from one flask to the next every day, allowing the bacteria to grow since 1998. now we are at 85000 generations.
 - around 25000 - mutators evolved
 - for context there have been about 8000 generations of modern humans from Africa to today.
 - The study shows the infinite adaptation has a fitness plateau (not a complete plateau)
  ![[Screenshot 2024-09-22 at 10.23.19 PM.png]]
-##### [[Bacteria]] as models of very rapid evolution
+##### [[bacteria]] as models of very rapid evolution
 - Evolution resistance against evolution-proof [[antimicrobial peptides]]
 	- it has been claimed that cationic antimicrobial peptides exploit fundamental features of the bacterial cell so that resistance is much less likely to evolve than in the case of conventional antibiotics
 	- In this selection experiment by Perron, Zasloff and Bell (2005) 22/24 lineages of *Escherichia coli* and *Pseudomonas fluorescens* independently evolved heritable mechanism of resistance to [[pexiganan]] when propagated in medium supplemented with this [[antimicrobial peptides|antimicrobial peptide]] for 600-700 generations.

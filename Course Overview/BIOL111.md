@@ -6,6 +6,7 @@
 
 ## Unit 1
 Lecture Notes:
+- [[BIOL111 - Lecture 1]]
 - [[BIOL111 - Lecture 2]]
 - [[BIOL111 - Lecture 3]]
 - [[BIOL111 - Lecture 4]]

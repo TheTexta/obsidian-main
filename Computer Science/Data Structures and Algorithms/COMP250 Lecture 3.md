@@ -10,7 +10,7 @@
 - you can use character arithmetic to check if a char is lower/upper case by checking if the int associated is between certain other associated ints. 
 - [[typecasting]]
 - double are rounded down to ints when [[typecasting]]
-- strings are not a [[java primitive data type]].
+- strings are not a [[primitive type]].
 - [[string|strings]] are a collection of [[char|chars]].
 - strings documentation
 - string methods are not static meaning a string object is required to use the method. 

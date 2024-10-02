@@ -1,0 +1,11 @@
+#comp250 
+- [[arrays]]
+- [[ArrayList]]
+- [[list]] - a structure which contains elements where the order of the elements matters
+- [[series]]
+	- [[geometric series]]
+	- [[arithmetic series]]
+- [[Wrapper classes]]
+	- [[autoboxing]]
+	- [[unboxing]]
+- [[foreach loop]]

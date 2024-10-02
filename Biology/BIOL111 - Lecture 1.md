@@ -1,0 +1,15 @@
+#biol111 
+- Science
+	- A way of knowing
+	- System of generating reliable knowledge about things that can be measured, that enables us to make predictions
+	- Super power
+		- falsifiable
+		- repeatable
+		- offers a way to see past anecdotes and stories to patterns
+		- growth – conclusions are adjusted as new evidence is available
+- [[Ecology]]
+	- The study of natural communities
+- [[Biogeography]]
+	- patterns in the distributions of organisms & communities
+- [[evolution]]
+	- via [[natural selection]]

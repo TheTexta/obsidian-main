@@ -1,2 +1,2 @@
 #biol111 
-Alfred Wallace::
+Alfred Wallace::Believed that species changed over time so they could fit into new environments.

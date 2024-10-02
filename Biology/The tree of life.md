@@ -20,7 +20,7 @@
 		- Lokiarchaeota
 		- Thorachaeota
 		- Odinarchaeta
-	- This evidence added further evidence that [[Eukarya]] emerged from within [[archaea]]
+	- This evidence added further evidence that [[eukaryotes]] emerged from within [[archaea]]
 	- These were culture isolated sequences. It took 12 years to enrich the culture to a point where the a sample was properly grown. 
 		- Lokiachaea prometheoachaeum syntrophicum was a co culture with another achaean and bacteria which partly explains why it was so hard to cultivate. It doesn't have organelle structure but very complex [[morphology]]
 		- These structure were [[syntrophy|syntrophic]] meaning they cross fed.
