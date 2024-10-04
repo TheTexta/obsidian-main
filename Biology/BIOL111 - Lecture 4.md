@@ -1,8 +1,8 @@
 #biol111 
 Fungi
-- single cell fungi - yeast
+- [[yeast]]
 - there are humungous multi celluar fungi
-- humungous fungus $9km^2$
+	- [[humungous fungus]] $9km^2$
 - majority of fungus underground
 - disease
 	- athletes foot

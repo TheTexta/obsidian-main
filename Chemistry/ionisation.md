@@ -1,2 +1,2 @@
-when a molecules [[covalent bonds]] are broken and the compound splits apart forming charged ions. 
+when a molecules [[Covalent bonds]] are broken and the compound splits apart forming charged ions. 
 

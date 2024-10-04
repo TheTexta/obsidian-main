@@ -1,2 +1,2 @@
 #biol111 
-a process by which the [[evolution]] of two organisms is linked through mutually imposed selective pressures
+coevolution::a process by which the [[evolution]] of two organisms is linked through mutually imposed selective pressures. Like with [[phage|phages]] and [[bacteria]] - [[bacteria]] always evolving new cell wall protection mechanisms and the [[phage]] always evolving new mechanisms of entry. 

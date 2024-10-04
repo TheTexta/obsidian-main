@@ -12,9 +12,11 @@ Lecture Notes:
 * [[Math 133 - Lecture 5]]
 * [[Math 133 - Lecture 6]]
 * [[Math 133 - Lecture 7]]
+* [[Math 133 - Lecture 8]]
+* [[Math 133 - Lecture 9]]
 
 Methods:
-* [[Solving Augmented Matrixes]] through [[Elementary Operations]] and [[Elementary Row Operations|row operations]]
+* [[Solving Augmented Matrixes]] through [[Elementary Operations]] and [[Elementary Row Operation|row operations]]
 * Converting [[Linear Equation|linear equations]] to [[Augmented Matrix|augmented matrices]]
 * [[Notating solutions to system problems with R]]
 * When you substitute in questions you need to sub in all possible solutions since there can be multiple solutions to any matrix its not worth trying to simplify ![[Screenshot 2024-09-11 at 11.54.26 PM.png]]

@@ -2,11 +2,11 @@
 
 1. Linear Equations and Geometry
 
-ex. [[system of linear equations]]:
+ex. [[linear systems]]:
 $2x-y=3$
 $x+2y=y$
 ![[Screenshot 2024-08-28 at 2.55.20 PM.png]]
-[[system of linear equations]] of 2 equations 2 variable two lines (eg a system of linear equations) could have:
+[[linear systems]] of 2 equations 2 variable two lines (eg a system of linear equations) could have:
 - point of intersection - one solution
 - the lines could be parallel - no solution
 - the lines could be the same - meaning there an inf. many solutions

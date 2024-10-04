@@ -1,6 +1,6 @@
-- Solving augmented matrixes through [[Elementary Row Operations]]
+- Solving augmented matrixes through [[Elementary Row Operation]]
 - Learning about [[Row Echelon Form]] and [[reduced row echelon form]].
-- If a [[Matrix]] row has all zero coefficients and a nonzero constant the [[system of linear equations|system]] is inconsistent. 
+- If a [[Matrix]] row has all zero coefficients and a nonzero constant the [[linear systems|system]] is inconsistent. 
 - A system can be consistent and have infinitely many solutions
 - Verifying systems
 - Parametric form for solutions. 

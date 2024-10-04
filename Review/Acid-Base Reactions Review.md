@@ -5,7 +5,7 @@ An [[Acid-Base Reactions Review|acid-base reaction]] occurs when an [[acid]] [[c
 The [[Bronsted-Lowry]] theory states that [[acid|acids]] are hydrogen donors and [[base|bases]] are hydrogen ion acceptors.
 
 ## Ionisation vs Dissociation in water
-[[ionisation]] is different from [[dissociation]] but in the context of the course here they are the same. [[ionisation]] is when a molecules [[covalent bonds]] are broken and the [[compound]] splits apart forming charged [[ion|ions]]. [[dissociation]] is when a compounds [[ionic bonds]] are broken and it splits apart into the [[ion|ions]] it already consists of. 
+[[ionisation]] is different from [[dissociation]] but in the context of the course here they are the same. [[ionisation]] is when a molecules [[Covalent bonds]] are broken and the [[compound]] splits apart forming charged [[ion|ions]]. [[dissociation]] is when a compounds [[Ionic Bonds]] are broken and it splits apart into the [[ion|ions]] it already consists of. 
 
 When acids dissolve they donate hydrogen ions and bases dissolve to accept hydroxide. [[Strong acids]] completely ionise in water, [[weak acids|weak]] do not. [[Strong Bases]] almost completely ionise in water, [[weak bases]] do not.
 

@@ -3,4 +3,4 @@ The way to describe chemicals through real life ratios of elements in the molecu
 ### Example
 The empirical formula for benzene is $CH$ 
 
-The improved version of the empirical formula is the [[Molecular formula]].
+The improved version of the empirical formula is the [[molecular formula]].

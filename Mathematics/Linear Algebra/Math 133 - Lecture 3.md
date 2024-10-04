@@ -1,5 +1,5 @@
 #math133 
-If you do enough [[Elementary Row Operations|ERO]] you will end up with the same [[Row Echelon Form|REF]]. every matrix is row equivalent to a unique matrix in [[reduced row echelon form|RREF]].
+If you do enough [[Elementary Row Operation|ERO]] you will end up with the same [[Row Echelon Form|REF]]. every matrix is row equivalent to a unique matrix in [[reduced row echelon form|RREF]].
 
 Row Reduction algorithm
 - [[Gauss Jordan Elimination]] (Gaussian elimination)

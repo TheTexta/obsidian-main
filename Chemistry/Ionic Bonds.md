@@ -1,1 +1,0 @@
-Bonds which form because of differences in charges of atoms. Unlike [[Covalent bonds]] they do not share charges but instead exchange charges to create an overall neutral element. Ionic bonds occur when the difference in [[Electronegativity]] between the combining elements is greater then 1.7.

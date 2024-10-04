@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Biology/Armillaria ostoyae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c08e164ebf6acc5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/elementary matrices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8df1a756b5ad06a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Structures and Algorithms/Insertion Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8f3d99e3bcf8a5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "255b3642cadc1651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Biology/natural selection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -38,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "effective nuclear charge",
+                "query": "bond energy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +110,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,48 +198,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "tags-routes:Open tags routes": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f747ab41898a7022",
+  "active": "255b3642cadc1651",
   "lastOpenFiles": [
-    "Biology/Alfred Wallace.md",
+    "Review/Biol111 Midterm Revoew.md",
     "Biology/natural selection.md",
-    "Biology/BIOL111 - Lecture 1.md",
-    "Biology/Biogeography.md",
-    "Biology/Ecology.md",
-    "Course Overview/BIOL111.md",
-    "Biology/BIOL111 - Lecture 2.md",
-    "Biology/Chromosome.md",
-    "Biology/Genotype.md",
-    "Biology/The tree of life.md",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 7.md",
-    "Course Overview/COMP250.md",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 8.md",
-    "Computer Science/Data Structures and Algorithms/foreach loop.md",
-    "Computer Science/Data Structures and Algorithms/typecasting.md",
-    "Computer Science/Data Structures and Algorithms/Wrapper classes.md",
-    "Computer Science/Data Structures and Algorithms/immutable types.md",
-    "Computer Science/Data Structures and Algorithms/autoboxing.md",
-    "Computer Science/Data Structures and Algorithms/unboxing.md",
-    "Computer Science/Data Structures and Algorithms/Reference Type.md",
-    "Computer Science/Data Structures and Algorithms/primitive type.md",
-    "Computer Science/Data Structures and Algorithms/ArrayList.md",
-    "Computer Science/Data Structures and Algorithms/list.md",
-    "Computer Science/Data Structures and Algorithms/arrays.md",
-    "Biology/bacteria.md",
-    "Biology/RNA.md",
-    "Mathematics/Linear Algebra/Screenshot 2024-09-29 at 4.05.06 PM.png",
-    "Mathematics/Linear Algebra/Screenshot 2024-09-29 at 4.25.55 PM.png",
-    "Mathematics/Linear Algebra/Screenshot 2024-09-30 at 10.22.42 PM.png",
-    "Biology/Screenshot 2024-09-28 at 7.18.45 PM.png",
-    "Biology/endosymbiosis evidence.png",
-    "Biology/tree of life interpretation example.png",
-    "Mathematics/Linear Algebra/Screenshot 2024-09-21 at 5.32.18 PM.png",
-    "Biology/winogradsky column.png",
-    "Biology/Screenshot 2024-09-24 at 2.09.44 AM.png",
-    "Biology/Screenshot 2024-09-24 at 2.17.00 AM.png",
+    "Computer Science/Data Structures and Algorithms/Insertion Sort.md",
+    "Mathematics/Linear Algebra/elementary matrices.md",
+    "Biology/Armillaria ostoyae.md",
+    "Biology/paraphyletic.md",
+    "Biology/Mechanisms of Evolution.md",
+    "Chemistry/CHEM110/bond energy.md",
+    "Chemistry/CHEM110/Lattice energy.md",
+    "Chemistry/CHEM110/periodic trends.md",
+    "Chemistry/CHEM110/Octet Rule.md",
+    "Chemistry/CHEM110/lewis structure.md",
+    "Chemistry/CHEM110/Electronegativity.md",
+    "Chemistry/CHEM110/molecular formula.md",
+    "Chemistry/CHEM110/condensed formula.md",
+    "Screenshot 2024-10-04 at 3.25.46 PM.png",
+    "Chemistry/CHEM110/polar covalent bonds.md",
+    "Chemistry/CHEM110/Bond Length.md",
+    "Chemistry/bond order.md",
+    "Chemistry/CHEM110/Chem110 Week 4.md",
+    "Chemistry/CHEM110/Enthalpy Change.md",
+    "Chemistry/CHEM110/Ionic Bonds.md",
+    "Chemistry/CHEM110/Covalent bonds.md",
+    "Screenshot 2024-10-04 at 2.44.31 PM.png",
+    "Screenshot 2024-10-04 at 2.34.40 PM.png",
+    "Lattice energy.png",
+    "Chemistry/CHEM110/Lewis Theory.md",
+    "Chemistry/CHEM110/metallic bonds.md",
+    "ionic bonding example.png",
+    "Chemistry/CHEM110/metals.md",
+    "Chemistry/CHEM110/lewis symbols.md",
+    "Screenshot 2024-10-04 at 4.57.09 AM.png",
+    "Screenshot 2024-10-03 at 10.53.27 PM.png",
+    "linked list vs array list.png",
+    "BIOL111 Fungi 2024 lecture slides - Fall 2024 - BIOL-111-001 - Principles_Organismal Biology.pdf",
+    "Fungi prelecture diagram Fall 2024.pdf",
+    "Biology/biological taxonomy.png",
+    "Biology/banded iron formations from cyanobacteria.png",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
@@ -203,8 +248,6 @@
     "Chemistry/CHEM110/Chem110 Data Sheet Fall 2024.pdf",
     "Computer Science/Data Structures and Algorithms",
     "Computer Science",
-    "Mathematics/Linear Algebra",
-    "Mathematics/Statistics",
-    "Mathematics/Calculus"
+    "Mathematics/Linear Algebra"
   ]
 }

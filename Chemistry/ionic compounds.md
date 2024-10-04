@@ -1,4 +1,4 @@
-Compounds which are [[Ionic Bonds|ionically bonded]] are ionic compounds.  Ionic compounds are composed of [[ion|ions]], whose difference in charges cancel each other out. Typically, ionic compounds are formed when a non metal and a metal form [[ionic bonds]].
+Compounds which are [[Ionic Bonds|ionically bonded]] are ionic compounds.  Ionic compounds are composed of [[ion|ions]], whose difference in charges cancel each other out. Typically, ionic compounds are formed when a non metal and a metal form [[Ionic Bonds]].
 ## Binary Ionic Compound Naming
 Ionic compounds use so many rules when naming them I don't know who the fuck thought this shit was a good idea. fuck chemistry shit is for retards.
 
