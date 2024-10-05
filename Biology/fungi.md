@@ -14,7 +14,7 @@
 - humans and fungi
 	- edible mushrooms
 	- breakdown of sugars -> alcohol and co2
-		- alchohols
+		- [[alcohol|alcohols]]
 		- bread
 		- soy sauce
 		- cheese
@@ -45,31 +45,31 @@
 	- novel methods of absorbing nutrients
 	- key in C, N, P cycles
 	- main decomposers of::cellulose and lignin (most abundant molecules on earth)
-	- ecology
-		- most famous symbiosis
-			- lichen
-				- fungi + algae or cyanobacteria
-				- 20000 species
-				- 6% of Earths surface
-				- mutualism
-			- mycorrihizae
-				- 80% of angiosperms partner with fungi to get nutrient from soil
-				- lack of patterns of this fungi can limit plant species distributions
-- reproduction: sexual asexual
-	- Asexual
-		- fragmentation
-		- during haploid phase
-		- vegetative spores (conidia)
-		- produced on conidiophores
-	- sexual
-		- very different from sex in animals
-		- one species can have  many mating types
-		- individiduals of compatible types fuse thheir mycelia to initiate sexual cycle (anasomosis/plasmogamy)
-		- produces a dikaryotic mycelium
-		- basidia - specialised end cells of mushroom gills
-		- nuclei fuse -> meiosis -> spores
-- dispersal: spores
-	- unlike hyphae, spores tolerate dry conditions
-	- im;ortant for disperal
-	- small size facitliiates airborne dispersal
-	- 
+
+### [[ecology]]
+- most famous symbiosis
+	- lichen
+		- fungi + algae or cyanobacteria
+		- 20000 species
+		- 6% of Earths surface
+		- mutualism
+	- mycorrihizae
+		- 80% of angiosperms partner with fungi to get nutrient from soil
+		- lack of patterns of this fungi can limit plant species distributions
+### Reproduction
+- reproduction of fungi is both::sexual and asexual
+- Asexual
+	- fragmentation
+	- during haploid phase
+	- vegetative spores ([[conidia]])
+	- produced on [[conidiophores]]
+- sexual - different from sex in animals (no fucking shit bro its a fucking mushroom)
+	- one species can have::many mating types
+	- individuals of compatible types fuse their::[[mycelium|mycelia]] to initiate sexual cycle (anasomosis/plasmogamy)
+	- produces a [[dikaryotic]] [[mycelium]]
+	- [[basidia]] - specialised end cells of mushroom gills
+	- process of sexual reproduction::nuclei fuse -> [[meiosis]] -> spores
+- Dispersal: spores
+	- unlike [[hyphae|hyphae]], spores tolerate dry conditions
+	- important for dispersal
+	- small size facilitates airborne dispersal

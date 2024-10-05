@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/fungi.md",
+                "file": "Biology/Fungi.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/fungi.md",
+                "file": "Biology/Fungi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/fungi.md",
+                "file": "Biology/Fungi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/fungi.md"
+                "file": "Biology/Fungi.md"
               }
             }
           },
@@ -171,15 +171,17 @@
   },
   "active": "c08e164ebf6acc5f",
   "lastOpenFiles": [
+    "Biology/dikaryotic.md",
+    "Biology/Fungi.md",
+    "Review/Biol111 Midterm Revoew.md",
+    "Biology/Ecology.md",
     "Biology/saprophytes.md",
-    "Biology/fungi.md",
     "Biology/mycelium.md",
     "Biology/mycelium.png",
     "Biology/chitin.md",
     "Biology/prokaryote.md",
     "Biology/humungous fungus.md",
     "Biology/yeast.md",
-    "Review/Biol111 Midterm Revoew.md",
     "Untitled.md",
     "Biology/BIOL111 - Lecture 4 - Fungi.md",
     "Course Overview/BIOL111.md",
@@ -196,8 +198,6 @@
     "Chemistry/CHEM110/Octet Rule.md",
     "Chemistry/CHEM110/lewis structure.md",
     "Chemistry/CHEM110/Electronegativity.md",
-    "Chemistry/CHEM110/molecular formula.md",
-    "Chemistry/CHEM110/condensed formula.md",
     "Screenshot 2024-10-04 at 3.25.46 PM.png",
     "Screenshot 2024-10-04 at 2.44.31 PM.png",
     "Screenshot 2024-10-04 at 2.34.40 PM.png",
