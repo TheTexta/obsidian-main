@@ -1,5 +1,10 @@
 #review #biol111 
+### Plan
+- Summary page for every lecture
+- Watch older lectures after creating the page and add more notes
+- 
 
+### Overview
 - [[Mechanisms of Evolution]]
 	- mutation
 	- genetic drift

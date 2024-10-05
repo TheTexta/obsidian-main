@@ -1,16 +1,16 @@
 #biol111 
-Fungi
+### Types of Fungi
 - [[yeast]]
 - there are humungous multi celluar fungi
 	- [[humungous fungus]] $9km^2$
-- majority of fungus underground
 - disease
 	- athletes foot
 	- yeast infections
 	- jock itch
 	- ring worm
+
+### Importance of Fungi
 - critical to ecosystem functioning
-- wide range of human uses
 - humans and fungi
 	- edible mushrooms
 	- breakdown of sugars -> alcohol and co2
@@ -21,23 +21,22 @@ Fungi
 	- mycotoxins
 		- psychedelics
 	- bioethanol
-	- fungal diseases for humans
-	- penycilin
-	- 
+	- penicillin
 
-Features of fungi
-- structure: single called or made of filament. no complex transport systems, cell walls which contain chitin
-	- yeasts - single cells (cell wall)
-	- bacteria - prokaryotes (no membrane bound nucleus)
-	- mycelia
-		- mycelium - made of hypae (long thin filaments)
-		- hyphae separated by cross walls called "septa"
+### Features of fungi
+- majority of fungus underground
+- structure: single called or made of filament. no complex transport systems, cell walls which contain [[chitin]]
+	- [[yeast|yeasts]]
+		- Single cells
+	- [[bacteria]] - [[prokaryote|prokaryotes]] (no membrane bound nucleus)?
+	- [[mycelium|mycelia]] - made of [[hyphae]] (long thin filaments)
+	- [[hyphae]] 
+		- separated by cross walls called "septa"
 		- septa have large pores that allow passage of nutrients, even nuclei
-		- hypae - 100x thinner then the thinnest plant root
-			- can pack together to form mushrooms
-		- 
-- nutrition: absorb food indrectly from surroundings
-	- thin hypae - big absorbers
+		- 100x thinner then the thinnest plant root
+		- can pack together to form mushrooms
+- nutrition: absorb food indirectly from surroundings
+	- thin [[hyphae]] - big absorbers
 	- need for moisture
 	- plants photosynthesize, animals eat things, fungi secrete digestive enzumes externally
 		- saprophytes (dead stuff)

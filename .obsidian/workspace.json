@@ -8,63 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f747ab41898a7022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Armillaria ostoyae.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c08e164ebf6acc5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/elementary matrices.md",
+                "file": "Biology/fungi.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8df1a756b5ad06a3",
+            "id": "deef5b1c753fc1da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/Insertion Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8f3d99e3bcf8a5b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "255b3642cadc1651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/natural selection.md",
+                "file": "Review/Biol111 Midterm Revoew.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -130,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/natural selection.md",
+                "file": "Biology/fungi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/natural selection.md",
+                "file": "Biology/fungi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/natural selection.md"
+                "file": "Biology/fungi.md"
               }
             }
           },
@@ -201,13 +169,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "255b3642cadc1651",
+  "active": "c08e164ebf6acc5f",
   "lastOpenFiles": [
+    "Biology/mycelium.md",
+    "Biology/mycelium.png",
+    "Biology/fungi.md",
+    "Biology/chitin.md",
+    "Biology/prokaryote.md",
+    "Biology/humungous fungus.md",
+    "Biology/yeast.md",
     "Review/Biol111 Midterm Revoew.md",
-    "Biology/natural selection.md",
-    "Computer Science/Data Structures and Algorithms/Insertion Sort.md",
+    "Untitled.md",
+    "Biology/BIOL111 - Lecture 4 - Fungi.md",
+    "Course Overview/BIOL111.md",
+    "Biology/Microbes.md",
     "Mathematics/Linear Algebra/elementary matrices.md",
     "Biology/Armillaria ostoyae.md",
+    "Computer Science/Data Structures and Algorithms/Insertion Sort.md",
+    "Biology/natural selection.md",
     "Biology/paraphyletic.md",
     "Biology/Mechanisms of Evolution.md",
     "Chemistry/CHEM110/bond energy.md",
@@ -219,28 +198,16 @@
     "Chemistry/CHEM110/molecular formula.md",
     "Chemistry/CHEM110/condensed formula.md",
     "Screenshot 2024-10-04 at 3.25.46 PM.png",
-    "Chemistry/CHEM110/polar covalent bonds.md",
-    "Chemistry/CHEM110/Bond Length.md",
-    "Chemistry/bond order.md",
-    "Chemistry/CHEM110/Chem110 Week 4.md",
-    "Chemistry/CHEM110/Enthalpy Change.md",
-    "Chemistry/CHEM110/Ionic Bonds.md",
-    "Chemistry/CHEM110/Covalent bonds.md",
     "Screenshot 2024-10-04 at 2.44.31 PM.png",
     "Screenshot 2024-10-04 at 2.34.40 PM.png",
     "Lattice energy.png",
-    "Chemistry/CHEM110/Lewis Theory.md",
-    "Chemistry/CHEM110/metallic bonds.md",
     "ionic bonding example.png",
-    "Chemistry/CHEM110/metals.md",
-    "Chemistry/CHEM110/lewis symbols.md",
     "Screenshot 2024-10-04 at 4.57.09 AM.png",
     "Screenshot 2024-10-03 at 10.53.27 PM.png",
     "linked list vs array list.png",
     "BIOL111 Fungi 2024 lecture slides - Fall 2024 - BIOL-111-001 - Principles_Organismal Biology.pdf",
     "Fungi prelecture diagram Fall 2024.pdf",
     "Biology/biological taxonomy.png",
-    "Biology/banded iron formations from cyanobacteria.png",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
