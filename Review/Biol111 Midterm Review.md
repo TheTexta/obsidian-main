@@ -6,15 +6,15 @@
 
 ### Overview
 - [[Mechanisms of Evolution]]
-	- mutation
-	- genetic drift
+	- [[mutation]]
+	- [[genetic drift]]
 	- [[natural selection]]
 		- conditions for natural selection
 			- variation in traits
 			- traits are heritable
 			- differential survival/reproduction
-	- sexual selection
-	- gene flow
+	- [[sexual selection]]
+	- [[gene flow]]
 - Phylogenies
 	- [[monophyly]]
 	- [[paraphyletic]]

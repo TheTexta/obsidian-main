@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Biol111 Midterm Review.md",
+                "file": "Biology/BIOL111 - Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22453273a183173a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/Theorem 11 - inverse of a 2x2 matrix with determinate.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bond energy",
+                "query": "2 \\times 2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,33 +182,34 @@
   },
   "active": "c08e164ebf6acc5f",
   "lastOpenFiles": [
-    "Review/Biol111 Midterm Review.md",
+    "Biology/symbionts.md",
     "Biology/Fungi.md",
+    "Biology/hyphae.md",
+    "Biology/mycelium.md",
+    "Biology/septa.md",
+    "septa cross walls in hyphae.png",
+    "Biology/eukaryotes.md",
+    "Biology/bacteria.md",
+    "Mathematics/Linear Algebra/Theorem 11 - inverse of a 2x2 matrix with determinate.md",
+    "Mathematics/Linear Algebra/Math 133 - Lecture 8.md",
+    "Mathematics/Linear Algebra/Theorem 12 - Linear systems and inverses.md",
+    "Mathematics/Linear Algebra/Invertibles.md",
+    "Mathematics/Calculus/indeterminate form.md",
+    "Biology/BIOL111 - Lecture 1.md",
+    "Biology/BIOL111 - Lecture 2.md",
+    "Biology/Phylogeny.md",
+    "Biology/extant.md",
+    "Biology/extinct.md",
+    "Biology/phenotype.md",
+    "Biology/Range shifts.md",
+    "Biology/Genotype.md",
+    "Biology/monophyly.md",
+    "Review/Biol111 Midterm Review.md",
     "Biology/dikaryotic.md",
     "Biology/Ecology.md",
     "Biology/saprophytes.md",
-    "Biology/mycelium.md",
     "Biology/mycelium.png",
     "Biology/chitin.md",
-    "Biology/prokaryote.md",
-    "Biology/humungous fungus.md",
-    "Biology/yeast.md",
-    "Untitled.md",
-    "Biology/BIOL111 - Lecture 4 - Fungi.md",
-    "Course Overview/BIOL111.md",
-    "Biology/Microbes.md",
-    "Mathematics/Linear Algebra/elementary matrices.md",
-    "Biology/Armillaria ostoyae.md",
-    "Computer Science/Data Structures and Algorithms/Insertion Sort.md",
-    "Biology/natural selection.md",
-    "Biology/paraphyletic.md",
-    "Biology/Mechanisms of Evolution.md",
-    "Chemistry/CHEM110/bond energy.md",
-    "Chemistry/CHEM110/Lattice energy.md",
-    "Chemistry/CHEM110/periodic trends.md",
-    "Chemistry/CHEM110/Octet Rule.md",
-    "Chemistry/CHEM110/lewis structure.md",
-    "Chemistry/CHEM110/Electronegativity.md",
     "Screenshot 2024-10-04 at 3.25.46 PM.png",
     "Screenshot 2024-10-04 at 2.44.31 PM.png",
     "Screenshot 2024-10-04 at 2.34.40 PM.png",
@@ -208,7 +220,6 @@
     "linked list vs array list.png",
     "BIOL111 Fungi 2024 lecture slides - Fall 2024 - BIOL-111-001 - Principles_Organismal Biology.pdf",
     "Fungi prelecture diagram Fall 2024.pdf",
-    "Biology/biological taxonomy.png",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",

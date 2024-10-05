@@ -1,4 +1,9 @@
 #biol111 
+### Phylogeny
+- phylogeny::Fungi are one of 3 major lineages of large terrestrial [[eukaryotes]]
+- few fossils hard to study [[evolution]]
+- first fungi 800-1000 mya
+- colonised land 500 mya (before [[plants]])
 ### Types of Fungi
 - [[yeast]]
 - there are humungous multi celluar fungi
@@ -25,22 +30,25 @@
 
 ### Features of fungi
 - majority of fungus underground
-- structure::single called or made of filament. no complex transport systems, cell walls which contain [[chitin]]
+- key feature::Ability to extract nutrients
+- structure::single called or made of filament. no complex transport systems, *cell walls* (like [[plants]]) which contain [[chitin]] (like [[animals]])
 	- [[yeast|yeasts]]
 		- Single cells
-	- [[bacteria]] - [[prokaryote|prokaryotes]] (no membrane bound nucleus)?
-	- [[mycelium|mycelia]] - made of [[hyphae]] (long thin filaments)
+		- to tell the difference between a [[yeast]] and a [[bacteria]]::[[bacteria]] are [[prokaryote|prokaryotes]] and do not have a membrane bound nucleus i.e. visible nucleus
+		- fungi are [[eukaryotes]] so the nucleus is found::in a membrane
+	- [[mycelium|mycelia]] - made of [[hyphae]] (long thin filaments) - refers to the [[hyphae]] found underground
 	- [[hyphae]] 
 		- separated by cross walls called [[septa]]
 		- 100x thinner then the thinnest plant root
 		- can pack together to form mushrooms
 		- big nutrient absorbers
 	- [[septa]] - separates hyphae with cross walls and have large pores that allow passage of nutrients, even nuclei
+	- fungi is 99% water and the structure comes from turbopressure - water pushing outwards to give it shape and form.
 - nutrition::absorb food indirectly from surroundings through secreted digestive enzymes which eat externally
 	- thin [[hyphae]] - big absorbers
-	- need for moisture
+	- need for moisture makes them often [[symbiotic]]
 	- plants photosynthesize, animals eat things, fungi secrete digestive enzymes externally
-		- [[saprophytes]]: eats dead stuff
+		- [[saprophytes]] - eats dead stuff
 		- [[symbionts]]
 	- novel methods of absorbing nutrients
 	- key in C, N, P cycles
@@ -57,13 +65,13 @@
 		- 80% of angiosperms partner with fungi to get nutrient from soil
 		- lack of patterns of this fungi can limit plant species distributions
 ### Reproduction
-- reproduction of fungi is both::sexual and asexual
+- reproduction of fungi is both::sexual and asexual and incredibly diverse modes of reproduction
 - Asexual
 	- fragmentation
 	- during haploid phase
 	- vegetative spores ([[conidia]])
 	- produced on [[conidiophores]]
-- sexual - different from sex in animals (no fucking shit bro its a fucking mushroom)
+- Sexual - different from sex in animals (no fucking shit bro its a fucking mushroom)
 	- one species can have::many mating types
 	- individuals of compatible types fuse their::[[mycelium|mycelia]] to initiate sexual cycle (anasomosis/plasmogamy)
 	- produces a [[dikaryotic]] [[mycelium]]
