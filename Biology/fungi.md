@@ -25,17 +25,17 @@
 
 ### Features of fungi
 - majority of fungus underground
-- structure: single called or made of filament. no complex transport systems, cell walls which contain [[chitin]]
+- structure::single called or made of filament. no complex transport systems, cell walls which contain [[chitin]]
 	- [[yeast|yeasts]]
 		- Single cells
 	- [[bacteria]] - [[prokaryote|prokaryotes]] (no membrane bound nucleus)?
 	- [[mycelium|mycelia]] - made of [[hyphae]] (long thin filaments)
 	- [[hyphae]] 
-		- separated by cross walls called "septa"
-		- septa have large pores that allow passage of nutrients, even nuclei
+		- separated by cross walls called [[septa]]
 		- 100x thinner then the thinnest plant root
 		- can pack together to form mushrooms
-- nutrition: absorb food indirectly from surroundings
+	- [[septa]] - separates hyphae with cross walls and have large pores that allow passage of nutrients, even nuclei
+- nutrition::absorb food indirectly from surroundings
 	- thin [[hyphae]] - big absorbers
 	- need for moisture
 	- plants photosynthesize, animals eat things, fungi secrete digestive enzumes externally
