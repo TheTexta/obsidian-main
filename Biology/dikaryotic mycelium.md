@@ -1,0 +1,2 @@
+#biol111 
+diakaryotic mycelium::A fused mycelia without fused nuclei. This stage of the sexual reproduction cycle can last decades. This stage is not seen in any other plants or animals. Until they are prompted to reproduce sexually.

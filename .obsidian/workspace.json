@@ -42,6 +42,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4a576a95305e36b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/Biol111 Midterm Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -182,8 +194,16 @@
   },
   "active": "c08e164ebf6acc5f",
   "lastOpenFiles": [
-    "Biology/symbionts.md",
+    "Biology/cordyceps.md",
     "Biology/Fungi.md",
+    "Biology/basidia.md",
+    "Biology/dikaryotic mycelium.md",
+    "Biology/BIOL111 - Lecture 1.md",
+    "Review/Biol111 Midterm Review.md",
+    "Biology/Mycorrhizae.md",
+    "Biology/angiosperms.md",
+    "Biology/lichen.md",
+    "Biology/symbionts.md",
     "Biology/hyphae.md",
     "Biology/mycelium.md",
     "Biology/septa.md",
@@ -195,21 +215,13 @@
     "Mathematics/Linear Algebra/Theorem 12 - Linear systems and inverses.md",
     "Mathematics/Linear Algebra/Invertibles.md",
     "Mathematics/Calculus/indeterminate form.md",
-    "Biology/BIOL111 - Lecture 1.md",
     "Biology/BIOL111 - Lecture 2.md",
     "Biology/Phylogeny.md",
     "Biology/extant.md",
     "Biology/extinct.md",
     "Biology/phenotype.md",
     "Biology/Range shifts.md",
-    "Biology/Genotype.md",
-    "Biology/monophyly.md",
-    "Review/Biol111 Midterm Review.md",
-    "Biology/dikaryotic.md",
-    "Biology/Ecology.md",
-    "Biology/saprophytes.md",
     "Biology/mycelium.png",
-    "Biology/chitin.md",
     "Screenshot 2024-10-04 at 3.25.46 PM.png",
     "Screenshot 2024-10-04 at 2.44.31 PM.png",
     "Screenshot 2024-10-04 at 2.34.40 PM.png",

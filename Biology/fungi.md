@@ -18,7 +18,7 @@
 - critical to ecosystem functioning
 - humans and fungi
 	- edible mushrooms
-	- breakdown of sugars -> alcohol and co2
+	- facilitate the breakdown breakdown of sugars -> alcohol and co2
 		- [[alcohol|alcohols]]
 		- bread
 		- soy sauce
@@ -50,34 +50,27 @@
 	- plants photosynthesize, animals eat things, fungi secrete digestive enzymes externally
 		- [[saprophytes]] - eats dead stuff
 		- [[symbionts]]
-	- novel methods of absorbing nutrients
-	- key in C, N, P cycles
-	- main decomposers of::cellulose and lignin (most abundant molecules on earth)
+	- novel methods of absorbing nutrients::drove fungi diversification and makes them key in $C$, $N$, $P$ cycles
+	- main decomposers of::cellulose and lignin (no other organism can do this and they are the most abundant molecules on earth)
 
-### [[ecology]]
-- most famous symbiosis
-	- lichen
-		- fungi + algae or cyanobacteria
-		- 20000 species
-		- 6% of Earths surface
-		- mutualism
-	- mycorrihizae
-		- 80% of angiosperms partner with fungi to get nutrient from soil
-		- lack of patterns of this fungi can limit plant species distributions
+### [[Ecology]]
+- most famous [[symbiosis|symbiosis]]
+	- [[lichen]]
+		- mutualism - idea that they could be only dependent but later shown the algae could be by itself but not the fungi.
+	- [[Mycorrhizae]]
 ### Reproduction
 - reproduction of fungi is both::sexual and asexual and incredibly diverse modes of reproduction
 - Asexual
-	- fragmentation
-	- during haploid phase
-	- vegetative spores ([[conidia]])
-	- produced on [[conidiophores]]
+	- fragmentation::taking a clump of [[mycelium]] soil and breaking into two clumps produces 2 mycelia.
+	- during haploid phase::[[conidiophores]] produce vegetative spores ([[conidia]])
 - Sexual - different from sex in animals (no fucking shit bro its a fucking mushroom)
 	- one species can have::many mating types
 	- individuals of compatible types fuse their::[[mycelium|mycelia]] to initiate sexual cycle (anasomosis/plasmogamy)
-	- produces a [[dikaryotic]] [[mycelium]]
-	- [[basidia]] - specialised end cells of mushroom gills
+	- produces a [[dikaryotic mycelium]]
+	- [[basidia]] - specialised end cells of mushroom gills involved in sexual reproduction. where the nuclei fuse to produce a diploid cell which allows for the process of meiosis - going back to haploid cells. these haploid cells become spores.
 	- process of sexual reproduction::nuclei fuse -> [[meiosis]] -> spores
-- Dispersal: spores
+- Dispersal::unlike hyphae, spores tolerate dry conditions and their small size facilitates airborne dispersal
 	- unlike [[hyphae|hyphae]], spores tolerate dry conditions
 	- important for dispersal
 	- small size facilitates airborne dispersal
+	- [[cordyceps]] species::create zombies through there spores which allow for the spores to get 
