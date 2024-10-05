@@ -34,16 +34,17 @@
 		- separated by cross walls called [[septa]]
 		- 100x thinner then the thinnest plant root
 		- can pack together to form mushrooms
+		- big nutrient absorbers
 	- [[septa]] - separates hyphae with cross walls and have large pores that allow passage of nutrients, even nuclei
-- nutrition::absorb food indirectly from surroundings
+- nutrition::absorb food indirectly from surroundings through secreted digestive enzymes which eat externally
 	- thin [[hyphae]] - big absorbers
 	- need for moisture
-	- plants photosynthesize, animals eat things, fungi secrete digestive enzumes externally
-		- saprophytes (dead stuff)
-		- symbionts
+	- plants photosynthesize, animals eat things, fungi secrete digestive enzymes externally
+		- [[saprophytes]]: eats dead stuff
+		- [[symbionts]]
 	- novel methods of absorbing nutrients
 	- key in C, N, P cycles
-	- main decomposers of cellulose and lignin (most abundant molecules on earth)
+	- main decomposers of::cellulose and lignin (most abundant molecules on earth)
 	- ecology
 		- most famous symbiosis
 			- lichen
