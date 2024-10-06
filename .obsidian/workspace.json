@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/BIOL111 - Lecture 1.md",
+                "file": "Biology/taxonomy.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2 \\times 2",
+                "query": "domain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Fungi.md",
+                "file": "Biology/taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Fungi.md",
+                "file": "Biology/taxonomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Fungi.md"
+                "file": "Biology/taxonomy.md"
               }
             }
           },
@@ -192,35 +193,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c08e164ebf6acc5f",
+  "active": "deef5b1c753fc1da",
   "lastOpenFiles": [
-    "Biology/cordyceps.md",
+    "Biology/archaea.md",
+    "Biology/taxonomy.md",
+    "Biology/paraphyletic.md",
+    "Biology/taxa.md",
+    "Biology/domain.md",
+    "Biology/endosymbiotic theory.md",
+    "Biology/winogradsky column.png",
+    "Biology/Genotype.md",
+    "Biology/phenotype.md",
+    "Biology/Microbes.md",
+    "Biology/Mycorrhizae.md",
+    "Biology/phage genetic transduction.md",
+    "Biology/Allele.md",
+    "Course Overview/BIOL111.md",
+    "Biology/Spontaneous Generation.md",
+    "Biology/RNA.md",
+    "Biology/BIOL111 - Lecture 1.md",
+    "Biology/Biogeography.md",
+    "Biology/speciation.md",
+    "Biology/Ecology.md",
     "Biology/Fungi.md",
+    "Biology/cordyceps.md",
     "Biology/basidia.md",
     "Biology/dikaryotic mycelium.md",
-    "Biology/BIOL111 - Lecture 1.md",
     "Review/Biol111 Midterm Review.md",
-    "Biology/Mycorrhizae.md",
     "Biology/angiosperms.md",
     "Biology/lichen.md",
-    "Biology/symbionts.md",
-    "Biology/hyphae.md",
-    "Biology/mycelium.md",
-    "Biology/septa.md",
     "septa cross walls in hyphae.png",
-    "Biology/eukaryotes.md",
-    "Biology/bacteria.md",
-    "Mathematics/Linear Algebra/Theorem 11 - inverse of a 2x2 matrix with determinate.md",
-    "Mathematics/Linear Algebra/Math 133 - Lecture 8.md",
-    "Mathematics/Linear Algebra/Theorem 12 - Linear systems and inverses.md",
-    "Mathematics/Linear Algebra/Invertibles.md",
-    "Mathematics/Calculus/indeterminate form.md",
-    "Biology/BIOL111 - Lecture 2.md",
-    "Biology/Phylogeny.md",
-    "Biology/extant.md",
-    "Biology/extinct.md",
-    "Biology/phenotype.md",
-    "Biology/Range shifts.md",
     "Biology/mycelium.png",
     "Screenshot 2024-10-04 at 3.25.46 PM.png",
     "Screenshot 2024-10-04 at 2.44.31 PM.png",
@@ -229,7 +231,6 @@
     "ionic bonding example.png",
     "Screenshot 2024-10-04 at 4.57.09 AM.png",
     "Screenshot 2024-10-03 at 10.53.27 PM.png",
-    "linked list vs array list.png",
     "BIOL111 Fungi 2024 lecture slides - Fall 2024 - BIOL-111-001 - Principles_Organismal Biology.pdf",
     "Fungi prelecture diagram Fall 2024.pdf",
     "TagsRoutes/reports",

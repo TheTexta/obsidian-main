@@ -7,9 +7,12 @@
 		- repeatable
 		- offers a way to see past anecdotes and stories to patterns
 		- growth – conclusions are adjusted as new evidence is available
+	- personal experience affects implementation of response measures - climate change example. 
 - [[Ecology]]
-	- The study of natural communities
+	- The study of natural communities - how they interact all that bullshit. 
 - [[Biogeography]]
 	- patterns in the distributions of organisms & communities
+	- the Wallace line::due to plate techtonics
+	- by observing spacial patterns you can understand a lot about 
 - [[evolution]]
-	- via [[natural selection]]
+	- via [[natural selection]] is how you go from one species to another. 
