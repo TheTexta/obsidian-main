@@ -5,3 +5,6 @@ The elementary [[matrix]] does an [[Elementary Row Operation|elementary row oper
 
 ### Def
 A $n\times n$ matrix $E$ 
+
+##### Prop
+If $A-> I$ by [[Elementary Row Operation|ERO]] then A can be written as a product of elementary matrices.

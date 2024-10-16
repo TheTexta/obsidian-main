@@ -17,7 +17,6 @@ class SNode {
 	Shape element;
 	SNode next;
 }
-
 SNode myNode = new SNode();
 myNode.element = new Shape("Triangle");
 ```

@@ -53,7 +53,8 @@ DNA Sequencing has plummeted in cost faster then [[Moore's law]] predicts
 ### Definition
 ##### What is a microbe?
 - Scale: half of the organisms less then 10um are microbes![[Screenshot 2024-09-22 at 10.35.13 PM.png]]
-- Advantages of being small - microbes grow faster then bigger cells since small cells can absorb more nutrients per unit volume. (surface area grows non-linearly with volume)
+- Advantages of being small::microbes grow faster then bigger cells since small cells can absorb more nutrients per unit volume. (surface area grows non-linearly with volume)
+- What is the length of the smallest object that a normally sighted person is able to see?::30 microns
 ##### Levels of biological organisation
 
 | unit                             | mechanism                        | process                                                                                                     |

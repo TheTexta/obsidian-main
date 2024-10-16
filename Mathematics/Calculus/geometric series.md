@@ -5,7 +5,7 @@ $S= c\cdot \frac{1}{3} + c\cdot \frac{1}{3^2} + c\cdot \frac{1}{3^3} + (...)$
 
 
 Sum of a geometric series:
-$$S_n​=\frac{a0​×(1−r^n)}{1-r}​$$
+$$S_n​=\frac{a_0​×(1−r^n)}{1-r}​$$
 Ratio r found through formula:
 $$
 a_n=a_0 \cdot r^n

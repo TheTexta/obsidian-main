@@ -1,4 +1,5 @@
 #comp250 
+an ADT is more abstract than a data structure.
 ##### Classes
 abstract classes are classes you cannot create instances of and are used as templates for other classes. abstract classes can contain abstract *and* none abstract [[method|methods]]. (italics in UML indicates abstract type).
 ##### Methods

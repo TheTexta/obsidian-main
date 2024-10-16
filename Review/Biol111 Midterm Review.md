@@ -25,4 +25,15 @@
 	- how do they fit into the tree of life
 	- how do they reproduce
 	- how do they make / find energy
+- Origins of Life (be able to describe these)
+	- Genetics First
+	- Metabolism first
+- Microbes (be able to describe these)
+	- Membranes (importance)
+	- Chloroplast (origin and evolution)
+	- endosymbiotic theory of origin for chlorplasts and mitrocondria
+- Fungi
+	- Methods of nutrition
+	- diet (sacrophytes and symbiants)
+	- 
 ![[Fungi prelecture diagram Fall 2024.pdf]]![[BIOL111 Fungi 2024 lecture slides - Fall 2024 - BIOL-111-001 - Principles_Organismal Biology.pdf]]

@@ -20,3 +20,6 @@ Lectures:
 - [[COMP250 Lecture 8]]
 - [[COMP250 Lecture 9]]
 - [[COMP250 Lecture 10]]
+- Midterm
+- [[COMP250 Lecture 11]]
+- [[COMP250 Lecture 12]]

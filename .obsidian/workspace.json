@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Fungi.md",
+                "file": "Computer Science/Machine Learning/Nodes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/taxonomy.md",
+                "file": "Biology/monophyly.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Biol111 Midterm Review.md",
+                "file": "Biology/linaeus classification system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb24001e7d27693c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Metabolism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5caf2c564dff303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/brown algae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98370e2bc42b3d89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/prokaryote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "471f338b0b5c16d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Structures and Algorithms/Selection Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d9e9dd7ff32a3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Structures and Algorithms/interfaces.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -75,10 +135,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "domain",
+                "query": "trigona",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -102,11 +162,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 302.5
   },
   "right": {
     "id": "d8940c650c9a5d51",
@@ -122,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/taxonomy.md",
+                "file": "Computer Science/Data Structures and Algorithms/interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/taxonomy.md",
+                "file": "Computer Science/Data Structures and Algorithms/interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/taxonomy.md"
+                "file": "Computer Science/Data Structures and Algorithms/interfaces.md"
               }
             }
           },
@@ -193,44 +254,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "deef5b1c753fc1da",
+  "active": "9d9e9dd7ff32a3d2",
   "lastOpenFiles": [
-    "Biology/archaea.md",
-    "Biology/taxonomy.md",
-    "Biology/paraphyletic.md",
-    "Biology/taxa.md",
-    "Biology/domain.md",
-    "Biology/endosymbiotic theory.md",
-    "Biology/winogradsky column.png",
-    "Biology/Genotype.md",
-    "Biology/phenotype.md",
-    "Biology/Microbes.md",
-    "Biology/Mycorrhizae.md",
-    "Biology/phage genetic transduction.md",
-    "Biology/Allele.md",
-    "Course Overview/BIOL111.md",
-    "Biology/Spontaneous Generation.md",
-    "Biology/RNA.md",
-    "Biology/BIOL111 - Lecture 1.md",
-    "Biology/Biogeography.md",
-    "Biology/speciation.md",
-    "Biology/Ecology.md",
-    "Biology/Fungi.md",
-    "Biology/cordyceps.md",
-    "Biology/basidia.md",
-    "Biology/dikaryotic mycelium.md",
-    "Review/Biol111 Midterm Review.md",
-    "Biology/angiosperms.md",
-    "Biology/lichen.md",
-    "septa cross walls in hyphae.png",
-    "Biology/mycelium.png",
-    "Screenshot 2024-10-04 at 3.25.46 PM.png",
-    "Screenshot 2024-10-04 at 2.44.31 PM.png",
-    "Screenshot 2024-10-04 at 2.34.40 PM.png",
-    "Lattice energy.png",
-    "ionic bonding example.png",
-    "Screenshot 2024-10-04 at 4.57.09 AM.png",
-    "Screenshot 2024-10-03 at 10.53.27 PM.png",
+    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 12.md",
+    "Computer Science/Data Structures and Algorithms/interfaces.md",
+    "Course Overview/COMP250.md",
+    "Computer Science/Data Structures and Algorithms/Linked list.md",
+    "Computer Science/Data Structures and Algorithms/queues.md",
+    "Computer Science/Data Structures and Algorithms/circular array.md",
+    "Computer Science/Data Structures and Algorithms/stacks.md",
+    "Computer Science/Data Structures and Algorithms/Stack overflow.md",
+    "Screenshot 2024-10-15 at 8.26.02 PM.png",
+    "Screenshot 2024-10-15 at 5.12.43 PM.png",
+    "Computer Science/Data Structures and Algorithms/abstract.md",
+    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 11.md",
+    "Computer Science/Machine Learning/Nodes.md",
+    "determinants.md",
+    "Screenshot 2024-10-15 at 1.48.08 PM.png",
+    "Screenshot 2024-10-15 at 1.35.39 PM.png",
+    "Mathematics/Linear Algebra/theorem 19 - how one ERO changes determinant.md",
+    "Screenshot 2024-10-15 at 1.32.19 PM.png",
+    "Screenshot 2024-10-15 at 12.58.42 PM.png",
+    "Screenshot 2024-10-15 at 12.41.37 PM.png",
+    "determinant proof observation.png",
+    "Mathematics/Linear Algebra/Markov Chain Example.md",
+    "Mathematics/Linear Algebra/Theorem 18 - invertible matrix theorem.md",
+    "Screenshot 2024-10-15 at 10.49.36 AM.png",
+    "Mathematics/Linear Algebra/implies.md",
+    "Mathematics/Linear Algebra/Math 133 - Lecture 9.md",
+    "Mathematics/Linear Algebra/elementary matrices.md",
+    "Course Overview/MATH133.md",
+    "Mathematics/Linear Algebra/Invertibles.md",
+    "Review/Covalent Bonds and VESPR Review.md",
+    "Chemistry/pH.md",
+    "Chemistry/Significant Figures.md",
+    "Computer Science/Data Structures and Algorithms/variable.md",
+    "Computer Science/Data Structures and Algorithms/arrays.md",
+    "Computer Science/Data Structures and Algorithms/COMP250 Midterm Crib Sheet.md",
+    "IMG_3624.png",
     "BIOL111 Fungi 2024 lecture slides - Fall 2024 - BIOL-111-001 - Principles_Organismal Biology.pdf",
     "Fungi prelecture diagram Fall 2024.pdf",
     "TagsRoutes/reports",

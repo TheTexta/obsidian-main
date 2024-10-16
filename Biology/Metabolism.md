@@ -1,4 +1,6 @@
 #biol111 
+
+Why is its cell membrane crucial for metabolism::Selective Permeability, Energy Production (ATP), compartmentalisation.
 ###### Metabolism is basically redox reactions:
 - electrons flowing from reduced forms of a chemical to an oxidised form. energy is released in these reactions. 
 - All of bacterial metabolism is based on pairing electron acceptors with electron donors
