@@ -14,6 +14,7 @@ Lecture Notes:
 * [[Math 133 - Lecture 7]]
 * [[Math 133 - Lecture 8]]
 * [[Math 133 - Lecture 9]]
+* [[Math 133 - Lecture 10]]
 
 Methods:
 * [[Solving Augmented Matrixes]] through [[Elementary Operations]] and [[Elementary Row Operation|row operations]]

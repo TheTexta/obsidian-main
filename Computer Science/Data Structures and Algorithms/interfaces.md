@@ -4,6 +4,10 @@ by default:
 - methods public and abstract
 - fields public static and final
 
+- interfaces cannot implement methods unlike [[abstract]] classes.
+- interfaces describe behaviours
+- 
+
 ### Declaration
 ```java
 public interface MyInterface { // implicitly absract

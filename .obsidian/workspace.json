@@ -8,115 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c08e164ebf6acc5f",
+            "id": "bd2b678d6fce99b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine Learning/Nodes.md",
+                "file": "Chemistry/CHEM110/Bohr Model.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Bohr Model"
             }
           },
           {
-            "id": "deef5b1c753fc1da",
+            "id": "402a27b570144199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/monophyly.md",
+                "file": "Mathematics/Linear Algebra/Consistent.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "22453273a183173a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Theorem 11 - inverse of a 2x2 matrix with determinate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4a576a95305e36b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/linaeus classification system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb24001e7d27693c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Metabolism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5caf2c564dff303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/brown algae.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98370e2bc42b3d89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/prokaryote.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "471f338b0b5c16d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data Structures and Algorithms/Selection Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d9e9dd7ff32a3d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data Structures and Algorithms/interfaces.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Consistent"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,13 +54,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trigona",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -149,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -159,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -183,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/interfaces.md",
+                "file": "Computer Science/Machine Learning/Nodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nodes"
             }
           },
           {
@@ -200,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/interfaces.md",
+                "file": "Computer Science/Machine Learning/Nodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nodes"
             }
           },
           {
@@ -214,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -223,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Structures and Algorithms/interfaces.md"
-              }
+                "file": "Computer Science/Machine Learning/Nodes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nodes"
             }
           },
           {
@@ -232,10 +165,63 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fed3537ee8126b4d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fb031b3430f1d2cc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2683983b164a4cdd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "42de0ffc45f37054",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a58b95748ea7dc8d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -254,44 +240,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9d9e9dd7ff32a3d2",
+  "active": "bd2b678d6fce99b7",
   "lastOpenFiles": [
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 12.md",
-    "Computer Science/Data Structures and Algorithms/interfaces.md",
-    "Course Overview/COMP250.md",
-    "Computer Science/Data Structures and Algorithms/Linked list.md",
-    "Computer Science/Data Structures and Algorithms/queues.md",
-    "Computer Science/Data Structures and Algorithms/circular array.md",
-    "Computer Science/Data Structures and Algorithms/stacks.md",
-    "Computer Science/Data Structures and Algorithms/Stack overflow.md",
-    "Screenshot 2024-10-15 at 8.26.02 PM.png",
-    "Screenshot 2024-10-15 at 5.12.43 PM.png",
-    "Computer Science/Data Structures and Algorithms/abstract.md",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 11.md",
-    "Computer Science/Machine Learning/Nodes.md",
-    "determinants.md",
-    "Screenshot 2024-10-15 at 1.48.08 PM.png",
-    "Screenshot 2024-10-15 at 1.35.39 PM.png",
-    "Mathematics/Linear Algebra/theorem 19 - how one ERO changes determinant.md",
-    "Screenshot 2024-10-15 at 1.32.19 PM.png",
-    "Screenshot 2024-10-15 at 12.58.42 PM.png",
-    "Screenshot 2024-10-15 at 12.41.37 PM.png",
-    "determinant proof observation.png",
-    "Mathematics/Linear Algebra/Markov Chain Example.md",
-    "Mathematics/Linear Algebra/Theorem 18 - invertible matrix theorem.md",
-    "Screenshot 2024-10-15 at 10.49.36 AM.png",
-    "Mathematics/Linear Algebra/implies.md",
-    "Mathematics/Linear Algebra/Math 133 - Lecture 9.md",
-    "Mathematics/Linear Algebra/elementary matrices.md",
-    "Course Overview/MATH133.md",
-    "Mathematics/Linear Algebra/Invertibles.md",
-    "Review/Covalent Bonds and VESPR Review.md",
-    "Chemistry/pH.md",
-    "Chemistry/Significant Figures.md",
-    "Computer Science/Data Structures and Algorithms/variable.md",
-    "Computer Science/Data Structures and Algorithms/arrays.md",
-    "Computer Science/Data Structures and Algorithms/COMP250 Midterm Crib Sheet.md",
+    "Chemistry/CHEM110/Blackbody radiation.md",
+    "Chemistry/CHEM110/Balmer's equation.md",
+    "Chemistry/CHEM110/Aufbau Principle.md",
+    "Chemistry/CHEM110/Atomic Spectra.md",
+    "Chemistry/CHEM110/atomic size.md",
+    "Chemistry/CHEM110/Atomic nodes.md",
+    "Chemistry/CHEM110/angular momentum quantum number.md",
+    "Chemistry/CHEM110/angular atomic nodes.md",
+    "Chemistry/CHEM110/bond order.md",
+    "Chemistry/CHEM110/Molecular Orbital Theory.md",
+    "Mathematics/Linear Algebra/Consistent.md",
+    "Chemistry/CHEM110/CHEM110 Week 7.md",
+    "Course Overview/CHEM110.md",
+    "Chemistry/CHEM110/CHEM110 Week 6.md",
+    "Chemistry/CHEM110/Hybridisation.md",
+    "Chemistry/CHEM110/Valence Bond Theory.md",
+    "Screenshot 2024-11-04 at 4.04.20 PM.png",
+    "Screenshot 2024-11-04 at 3.51.17 PM.png",
+    "Chemistry/CHEM110/subshells.md",
+    "Screenshot 2024-11-04 at 3.45.05 PM.png",
+    "Chemistry/CHEM110/Electronegativity.md",
+    "Chemistry/CHEM110/CHEM110 Week 5.md",
+    "Chemistry/CHEM110/Molecular geometry.md",
+    "Chemistry/CHEM110/VSEPR.md",
+    "Screenshot 2024-11-04 at 3.21.08 PM.png",
+    "Chemistry/CHEM110/intermolecular forces.md",
+    "Chemistry/CHEM110/Resonance.md",
+    "Chemistry/CHEM110/Formal Charge.md",
+    "Screenshot 2024-11-04 at 2.41.09 PM.png",
+    "Chemistry/CHEM110/Chem110 Week 4.md",
+    "Chemistry/CHEM110/Lattice energy.md",
     "IMG_3624.png",
+    "Screenshot 2024-10-21 at 6.51.58 PM.png",
+    "Screenshot 2024-10-21 at 4.39.50 PM.png",
+    "Mathematics/Linear Algebra/matrix product of two matrices.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-09-11 at 11.54.26 PM.png",
     "BIOL111 Fungi 2024 lecture slides - Fall 2024 - BIOL-111-001 - Principles_Organismal Biology.pdf",
     "Fungi prelecture diagram Fall 2024.pdf",
     "TagsRoutes/reports",

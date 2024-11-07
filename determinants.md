@@ -40,4 +40,7 @@ $=1\cdot |\matrix{a_2-a_1&a_2^2-a_1^2\\a_3-a_1&a_3^2-a_1^2}|$
 ![[Screenshot 2024-10-15 at 1.48.08 PM.png]]
 factor out
 $=(a_2-a_1)(a_3-a_1)\cdot |\matrix{1&a_2-a_1\\1&a_3-a_1}|$
-$$
+
+##### Prop
+- let $A$ $n\times n$ [[matrix]]
+	- If $A$ has a row or column of all $0$, [[determinants|det]](A) = 0. (co)

@@ -4,7 +4,7 @@
 - [[list]] - a structure which contains elements where the order of the elements matters
 - [[series]]
 	- [[geometric series]]
-	- [[arithmetic series]]
+	- [[Arithmetic Series]]
 - [[Wrapper classes]]
 	- [[autoboxing]]
 	- [[unboxing]]

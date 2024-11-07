@@ -1,3 +1,6 @@
+#chem110 
+
+# Grade 12
 Intermolecular forces are the forces between bonded molecules in a substance/solution. All attractive forces between neutral molecules are known as [[van der Waals forces]]. Which are the three forces, LDS, dipole dipole and hydrogen forces, which each uniquely keep molecules together. 
 
 There are four types/categories intermolecular forces, in order of weakest to strongest they are, London dispersion forces, dipole-dipole forces, hydrogen forces and finally ion-dipole forces. Ion dipole forces are not [[van der Waals forces]] because they require non neutrally charged molecules ([[ion|ions]]).

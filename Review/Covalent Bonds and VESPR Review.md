@@ -1,9 +1,9 @@
 #review #chemistry 
-- H is attached to O in oxy-acids
+- $H$ is attached to $O$ in oxy-acids
 - Always add "odd" [[Electron|electrons]] to the central atom
-- H is stable with 2e-
-- Be is stable with 4e-
-- B is stable with 6 e-
+- $H$ is stable with $2e^-$
+- $Be$ is stable with $4e^-$
+- $B$ is stable with $6e^-$
 - Generally anything n3 and greater will expand (commonly P, S, As, Br and Se) which usually bond with highly electronegative atoms (F, Cl, O).
 - t-shaped bonds are 90 degrees
 - You must check a molecule has polar bonds before you declare its polarity.

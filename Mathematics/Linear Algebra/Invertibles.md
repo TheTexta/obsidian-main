@@ -47,7 +47,7 @@ Let A B C be m x n matrices
 
 
 ### Properties of Inverses
-1. $I^{-1}=I$ - pf $II=I$.
+1. $I^{-1}=I$ - of $II=I$.
 2. If A invertible A^{-1} also invertible. $(A^{-1})^{-1}=A$
 $$A^{-1}A=I$$
 3. *very important*. If A, B both n\times n invertible then AB is invertible and
@@ -58,7 +58,7 @@ $$=A(BB^{-1})A^{-1}$$
 $$=AIA^{-1}$$
 $$=AA^{-1}$$
 $$=I$$
-4. If A_1, A_2, ..., A_k all n\times n invertible then A_1,A_2,...,A_k is invertible and
+4. If $A_1, A_2, ..., A_k$ all $n\times n$ invertible then $A_1,A_2,...,A_k$ is invertible and
 $$\pmatrix{A_1&A_2&...&A_k}^{-1}=A_k^{-1},A_k^{-1},...,A_2^{-1}$$
 5. If $A$ invertible, $m\geq 1$ (int) then 
 $$A^m \text{ is invertible and } (A^m)^{-1}=(A^{-1})^m$$
@@ -72,7 +72,7 @@ $$(cA)^{-1}=\frac{1}{c}A^{-1}$$
 proof: since $c\neq 0$, $\frac{1}{c}$ exists so $\frac{1}{c}A^{-1}$ exists then
 $$(cA)(\frac{1}{c}A^{-1})=(c\cdot \frac{1}{c})(AA^{-1})$$
 $$=I$$
-7. If A invertible A^T also invertible and 
+7. If $A$ invertible $A^T$ also invertible and 
 $$(A^T)^{-1}=(A^{-1})^T$$
 Proof: verify
 $$A^T\cdot (A^{-1})^T=(A^{-1}A)^T$$

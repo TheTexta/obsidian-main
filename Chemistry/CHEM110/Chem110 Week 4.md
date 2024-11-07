@@ -1,6 +1,8 @@
 #chem110 
 - [[Lewis Theory]]
 - [[Enthalpy Change]]
-- [[Bond Order]]
+- [[lattice energy]]
+- [[Electronegativity]]
+- [[bond order]]
 - [[Bond Length]]
 - [[bond energy]]

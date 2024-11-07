@@ -2,4 +2,4 @@
 - [[queues]]
 - [[circular array]]
 - [[interfaces]]
-- 
+- [[generics]]
