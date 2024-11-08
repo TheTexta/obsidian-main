@@ -6,7 +6,12 @@ by default:
 
 - interfaces cannot implement methods unlike [[abstract]] classes.
 - interfaces describe behaviours
-- 
+- [[abstract|abstract classes]] do not have to implement their respective interface methods.
+
+Types of Interfaces:
+- [[Comparable]]
+- [[Iterable]]
+- [[Iterator]]
 
 ### Declaration
 ```java
