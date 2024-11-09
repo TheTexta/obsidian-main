@@ -22,15 +22,40 @@ public class MyIterator<E> implements Iterator <E> {
 	}
 }
 ```
+
+##### Example 2 Implementation with [[Linked list|SLinkedList]]
+```java
+public class SLinkedList<E extends Comparable<E>> implements Iterable<E>{
+	private SNode<E> head;	
+	private int size;
+	public Iterator<E> iterator(){
+		return new SLinkedListIterator();
+	}
+	private class SLinkedListIterator implements Iterator<E>{
+		private SNode<E> cur;
+		public SLinkedListIterator (){
+			cur = head;
+		}
+		
+		public boolean hasNext() {
+			return cur!=null;
+		}
+		public E next (){
+			if (cur==null){
+				throw new NoSuchElementException();
+			}
+			
+			E returnElement = cur.element;
+			cur=cur.next;
+			return returnElement;
+		}
+	}
+	// rest of SLinkedList implementation
+}
+```
 ### Code
 ```java
 public interface Iterable<T>{
 	public Iterator<T> iterator();
 }
 ```
-
-#comp250 
-### Overview
-[[for each loops]] can only be used when the collection is [[Iterable 1]]. 
-
-### Implementation
