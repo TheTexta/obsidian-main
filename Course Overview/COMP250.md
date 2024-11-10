@@ -20,9 +20,10 @@ Lectures:
 - [[COMP250 Lecture 8]]
 - [[COMP250 Lecture 9]]
 - [[COMP250 Lecture 10]]
-- Midterm
+- [[COMP250 Midterm Crib Sheet|Midterm]]
 - [[COMP250 Lecture 11]]
 - [[COMP250 Lecture 12]]
 - [[COMP250 Lecture 13]]
 - [[COMP250 Lecture 14]]
-- 
+- [[COMP250 Lecture 15]]
+- [[COMP250 Lecture 17]]

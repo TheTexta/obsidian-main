@@ -23,7 +23,7 @@ public class MyIterator<E> implements Iterator <E> {
 }
 ```
 
-##### Example 2 Implementation with [[Linked list|SLinkedList]]
+##### Example implementation with [[Linked list|SLinkedList]]
 ```java
 public class SLinkedList<E extends Comparable<E>> implements Iterable<E>{
 	private SNode<E> head;	
@@ -36,7 +36,6 @@ public class SLinkedList<E extends Comparable<E>> implements Iterable<E>{
 		public SLinkedListIterator (){
 			cur = head;
 		}
-		
 		public boolean hasNext() {
 			return cur!=null;
 		}
