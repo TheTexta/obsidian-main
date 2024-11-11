@@ -1,6 +1,8 @@
 #comp250 
 Partition a list into sublists recursively until sublists sorted which are then merged back together
 
+$O(n\cdot \log {n})$
+
 ```java
 mergeSort(list){
 	if (list.size()<=1)

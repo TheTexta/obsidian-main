@@ -60,3 +60,4 @@ tower(n, start, finish, other) { // e.g. tower(5,A,B,C)
 
 ##### [[Binary Search]]
 ##### [[Merge Sort]]
+##### [[Quick Sort]]
