@@ -1,8 +1,8 @@
 #math133 
 
 ### Computing Determinants
-def: for A $n\times n$ [[matrix]] define determinants $det(A)$ or $|A|$ as follows. Denote $A=[a_{ij}]$ and $A_{ij}^~ = (n-1)$ $\times$ $(n-1)$ obtained by removing row $i$, column $j$ of A. then,
-1. If n=1, det ([a])=a
+def: for A $n\times n$ [[matrix]] define determinants $det(A)$ or $|A|$ as follows. Denote $A=[a_{ij}]$ and $A_{ij}^~ = (n-1)$ $\times$ $(n-1)$ obtained by removing row $i$, column $j$ of $A$. then,
+1. If $n=1$, det ([a])=a
 2. If $n\geq 2$, let $i$ be any of 1,2,...,n. 
 	define $C_{ij}=(-1)^{i+j}det(A_{ij}^(~))$ called (i,j) cofactor. 
 	then $det(A)=\sum_{j=1}^n a_{ij}c_{ij}(A)$
@@ -57,5 +57,9 @@ $A$ invertible $\iff$ $det(A) \neq 0$
 
 ##### [[Theorem 24 - Splitting determinants]] 
 Let $A,B$ $n\times n$ then,
-$det(AB)=det(A)+det(B)$
+$\det(AB)=\det(A)\cdot \det(B)$
 
+##### [[Corollary 25]]
+let $A$ $n\times n$.
+1. If $A$ invertible, $det (A^{-1})=\frac{1}{det(A)}$
+2. $det(A^m)=det(A)^m$
