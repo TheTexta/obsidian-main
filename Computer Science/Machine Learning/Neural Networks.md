@@ -1,4 +1,4 @@
-Neural network are interlinked [[Nodes]] of algorithms aimed to mirror the structure of [[neuron|neuron's]] in the brain. A neural network comprises of multiple [[Layers]] which each take data in from each other in the form of [[Vector]]s. Neural networks are the backbone of more advanced [[Machine Learning]] algorithms present in the [[Deep Learning]] subfield.
+Neural network are interlinked [[Nodes]] of algorithms aimed to mirror the structure of [[neuron|neuron's]] in the brain. A neural network comprises of multiple [[Layers]] which each take data in from each other in the form of [[vector]]s. Neural networks are the backbone of more advanced [[Machine Learning]] algorithms present in the [[Deep Learning]] subfield.
 
 ### Example of a Neural Network:
 * Speech interpretation

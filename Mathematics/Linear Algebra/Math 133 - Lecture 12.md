@@ -1,4 +1,3 @@
 #math133 
-- [[determinants]]
 - [[Adjugates]]
-- 
+- [[Vector Geometry]]

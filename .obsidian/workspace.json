@@ -1,41 +1,70 @@
 {
   "main": {
-    "id": "3a4cb9537c459a05",
+    "id": "b519ac2588e5dd8b",
     "type": "split",
     "children": [
       {
-        "id": "e84c1c2204f0ca07",
+        "id": "c4b986e1d00567d0",
         "type": "tabs",
         "children": [
           {
-            "id": "6ad707b9ea069da7",
+            "id": "39202a4aecf732b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/determinants.md",
+                "file": "Mathematics/Linear Algebra/Vector Geometry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "determinants"
+              "title": "Vector Geometry"
+            }
+          },
+          {
+            "id": "4543a552af03846f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/cross product.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cross product"
+            }
+          },
+          {
+            "id": "5f2a3a50283bc216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Structures and Algorithms/rooted trees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rooted trees"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0f28a2a533e09c20",
+    "id": "34ea979b8d52dce0",
     "type": "split",
     "children": [
       {
-        "id": "7c684ad0aa2d42c6",
+        "id": "cb4088b01ea9d2cc",
         "type": "tabs",
         "children": [
           {
-            "id": "5dc7c80540ca5982",
+            "id": "0e25e2f28b5ca0b6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +76,7 @@
             }
           },
           {
-            "id": "4a6dda6ac2f4b88f",
+            "id": "852074fb0f0d5683",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +93,7 @@
             }
           },
           {
-            "id": "d0fd8bfdd205341b",
+            "id": "57e9c020e373dfc6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,19 +109,20 @@
     "width": 300
   },
   "right": {
-    "id": "32934d51d10b8002",
+    "id": "698f2b8e62fc13a5",
     "type": "split",
     "children": [
       {
-        "id": "8ed0cdc90c49091d",
+        "id": "3f2e70b49e11f829",
         "type": "tabs",
         "children": [
           {
-            "id": "7d1e18685a3c13f3",
+            "id": "2a9e56a47edabf5f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics/Linear Algebra/cross product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +132,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for cross product"
             }
           },
           {
-            "id": "acd352d2e6a1b1ed",
+            "id": "3c58812f459cd552",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematics/Linear Algebra/cross product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from cross product"
             }
           },
           {
-            "id": "110a76dabc87595b",
+            "id": "0dc41560ce0b57a9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,17 +163,29 @@
             }
           },
           {
-            "id": "a1bd783992bf334c",
+            "id": "7dc25a630acf5dcb",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Mathematics/Linear Algebra/cross product.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of cross product"
             }
           },
           {
-            "id": "5853a0f06da085df",
+            "id": "e9c3140977f69ebe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "524efd2e603bd319",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -152,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -161,52 +204,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obisidian-note-linker:Note Linker": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "6ad707b9ea069da7",
+  "active": "5f2a3a50283bc216",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Corollary 25.md",
-    "Mathematics/Linear Algebra/determinants.md",
-    "Mathematics/Linear Algebra/Theorem 24 - Splitting determinants.md",
-    "Mathematics/Linear Algebra/Math 133 - Lecture 11.md",
-    "Mathematics/Linear Algebra/Theorem 23 - Determinants and Invertibles.md",
-    "Screenshot 2024-11-11 at 4.44.21 PM.png",
-    "Screenshot 2024-11-11 at 4.37.39 PM.png",
-    "Screenshot 2024-11-11 at 4.34.10 PM.png",
-    "Mathematics/Linear Algebra/Triangular Matrix.md",
-    "Screenshot 2024-11-11 at 4.08.50 PM.png",
-    "Course Overview/MATH133.md",
-    "Computer Science/Data Structures and Algorithms/Merge sort vs Quick sort.md",
-    "Computer Science/Data Structures and Algorithms/Recurrences.md",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 18.md",
-    "Computer Science/Data Structures and Algorithms/Quick Sort.md",
-    "Course Overview/COMP250.md",
-    "Screenshot 2024-11-10 at 7.13.11 PM.png",
-    "Computer Science/Data Structures and Algorithms/Recursion.md",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 17.md",
+    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 19.md",
+    "Computer Science/Data Structures and Algorithms/linear vs non linear data structures.md",
+    "Screenshot 2024-11-17 at 1.40.53 PM.png",
+    "Computer Science/Data Structures and Algorithms/rooted trees.md",
     "Computer Science/Data Structures and Algorithms/Merge Sort.md",
-    "Computer Science/Data Structures and Algorithms/Comparable.md",
-    "Computer Science/Data Structures and Algorithms/Binary Search.md",
-    "Computer Science/Data Structures and Algorithms/Induction.md",
-    "Computer Science/Data Structures and Algorithms/Iterator.md",
-    "Screenshot 2024-11-09 at 5.27.14 PM.png",
-    "Untitled.md",
-    "Computer Science/Data Structures and Algorithms/Factorial number algorithm.md",
-    "Computer Science/Data Structures and Algorithms/generics.md",
-    "Computer Science/Data Structures and Algorithms/recursive algorithms.md",
-    "Screenshot 2024-11-09 at 4.55.56 PM.png",
-    "Screenshot 2024-11-09 at 4.41.19 PM.png",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 15.md",
-    "Computer Science/Data Structures and Algorithms/Iterable.md",
-    "Computer Science/Data Structures and Algorithms/COMP250 Midterm Crib Sheet.md",
-    "Computer Science/Data Structures and Algorithms/Explaning the implementation of iterables and iterators.png"
+    "Course Overview/COMP250.md",
+    "Mathematics/Linear Algebra/cross product.md",
+    "Screenshot 2024-11-15 at 6.11.26 PM.png",
+    "Screenshot 2024-11-15 at 6.09.01 PM.png",
+    "Screenshot 2024-11-15 at 5.33.48 PM.png",
+    "Screenshot 2024-11-15 at 4.42.14 PM.png",
+    "Review/Organic Chemistry Review.md",
+    "Screenshot 2024-11-15 at 7.50.31 AM.png",
+    "Mathematics/Linear Algebra/Vector Geometry.md",
+    "Mathematics/Linear Algebra/Math 13 - Lecture 13.md",
+    "Mathematics/Linear Algebra/planes.md",
+    "Screenshot 2024-11-15 at 7.37.14 AM.png",
+    "Screenshot 2024-11-15 at 6.44.13 AM.png",
+    "Screenshot 2024-11-15 at 6.44.04 AM.png",
+    "Course Overview/MATH133.md",
+    "Mathematics/Linear Algebra/projections.md",
+    "Screenshot 2024-11-15 at 6.33.14 AM.png",
+    "Mathematics/Linear Algebra/parallel, skew and intersecting lines.md",
+    "Mathematics/Linear Algebra/lines.md",
+    "Mathematics/Linear Algebra/Unit Vector.md"
   ]
 }

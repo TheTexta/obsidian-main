@@ -35,3 +35,15 @@ merge(list1,list2){
 	return list
 }
 ```
+
+### Complexity/runtime
+$T(1)=a$
+$T(n)=b+c\cdot n + 2\cdot T(\frac{n}{2})$
+$T(n)=cn + 2 \left( c\frac{n}{2} + 2T\left(\frac{n}{4}\right) \right) = cn + cn + 4T\left(\frac{n}{4}\right)$
+$T(n)=k\cdot cn+2^k\cdot T(\frac{n}{2^k})$
+k such that n/2^k =1
+$k=log_2(n)$
+$T(n)=log_2(n)\cdot cn + 2^{log_2(n)}\cdot T(1)$
+$T(n)=cnlog_2(n)+bn$
+which is $\Theta(n\log n)$
+

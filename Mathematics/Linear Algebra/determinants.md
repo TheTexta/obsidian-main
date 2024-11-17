@@ -63,3 +63,20 @@ $\det(AB)=\det(A)\cdot \det(B)$
 let $A$ $n\times n$.
 1. If $A$ invertible, $det (A^{-1})=\frac{1}{det(A)}$
 2. $det(A^m)=det(A)^m$
+
+
+##### Prove similar matrices have the same determinant
+def: two $n\times n$ matrices $A$, $B$ are similar if there exists $n\times n$ invertible $C$ such that $C^{-1}AC=B$
+prob: prove similar matrices have same determinant
+$det(B)=det(C^{-1}AC)$
+$=det(C^{-1})det(AC)$
+$=det(C^{-1})\cdot det(A) \cdot det(C)$
+$=det(A)\cdot det(C^{-1})\cdot det(C)$
+$=det(A)\cdot \frac{1}{det(C)} \cdot det(C)$
+$=det(A)$
+
+##### Prop. 26
+let $A$ $n\times n$ then
+$det(A^T)=det(A)$
+
+
