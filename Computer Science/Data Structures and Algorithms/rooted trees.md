@@ -63,6 +63,7 @@ class Tree<T>{
 ```
 
 ### Tree Traversal
+#### Recursive
 ##### Depth First
 preorder - visit the root first then child
 ```java
@@ -77,4 +78,31 @@ depthFirst (root){
 postorder - visit the child than the root
 - height is computed with postorder
 - number of bytes in a tree
-- 
+#### Non-Recursive
+##### Stack based
+```java
+treeTraversalUsingStack (root){
+	initialise empty stack s
+	s.push(root)
+	while s is not empty{
+		cur=s.pop()
+		visit cur
+		for each child of cur
+			s.push(child)
+	}
+}
+```
+Still depth first but "right to left" instead of "left to right"
+##### Queue based
+```java
+treeTraversalUsingQueue (root){
+	initialise emty queue q
+	q.enqueue (root)
+	while w is not empty {
+		cure = q.dequeue()
+		visit cur
+		for each dhild of cur q.enqueue(child)
+	}
+}
+```
+This is a breadth first traversal

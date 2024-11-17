@@ -29,4 +29,4 @@ Lectures:
 - [[COMP250 Lecture 17]]
 - [[COMP250 Lecture 18]]
 - [[COMP250 Lecture 19]]
-- 
+- [[COMP250 Lecture 20]]
