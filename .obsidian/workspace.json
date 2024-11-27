@@ -195,10 +195,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "0e25e2f28b5ca0b6",
+  "active": "d6d28cd0a2d54e13",
   "lastOpenFiles": [
-    "Computer Science/Data Structures and Algorithms/interfaces.md",
+    "Mathematics/Linear Algebra/column space.md",
     "Mathematics/Linear Algebra/Linear Independence.md",
+    "Mathematics/Linear Algebra/Row space.md",
+    "Computer Science/Data Structures and Algorithms/interfaces.md",
     "Screenshot 2024-11-27 at 8.14.42 AM.png",
     "Mathematics/Linear Algebra/Span.md",
     "Screenshot 2024-11-26 at 6.08.05 PM.png",
@@ -230,7 +232,6 @@
     "Computer Science/Data Structures and Algorithms/Iterator.md",
     "Course Overview/COMP250.md",
     "Computer Science/Data Structures and Algorithms/COMP250 Lecture 19.md",
-    "Computer Science/Data Structures and Algorithms/COMP250 Lecture 18.md",
     "Screenshot 2024-11-17 at 3.43.22 PM.png"
   ]
 }
