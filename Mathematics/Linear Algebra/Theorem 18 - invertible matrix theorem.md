@@ -37,3 +37,12 @@ Logic:
 - we say the statements are equivalent if any one can be proved from any other one. 1 =>2, 2=>3, 3=>1, etc.
 - must be either all true or all false.
 - ![[Screenshot 2024-10-15 at 10.49.36 AM.png]]
+
+### New shit using [[Linear Independence]]
+let A n\times n. for a matrix to be invertible:
+10. The columns of $A$ are linearly independent
+11. The columns of $A$ span $R^n$
+12. The rows of $A$ are lin independent
+13. The rows of $A$ span $R^n$
+
+Can use this to show that if a matrix is [[Invertibles|invertible]], by find a nonzero [[determinants|det]], the [[vector|vectors]] are also independent and [[span]] on the $\mathbb{R}$ of the matrix. 

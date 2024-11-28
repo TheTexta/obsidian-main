@@ -44,4 +44,22 @@ independence and span and matrices
 let Am\times n matrix
 - write $A=[u_1,...,u_n] u_i\in R^m$. The [[column space]] of $A$ is $col(A)=span\{u_1,...u_n\}$ is the span of columns $A$. (Subspace of $R^m$)
 - [[Row space]] of A is row(A)= same thing as col but for rows.
-- 
+
+$row(A)=col(A^T)$
+
+### Theorem on linearly independent vectors combined as columns in a matrix and trivial solutions
+
+$$\textbf{Theorem:}$$
+
+$$\text{Let } \vec{u}_1, \dots, \vec{u}_n \in \mathbb{R}^m, \quad A = [\vec{u}_1, \vec{u}_2, \dots, \vec{u}_n]. \text{ Then:}$$
+
+$$
+    \text{Col}(A) = \mathbb{R}^m \iff A\vec{x} = \vec{b} \text{ has a solution for every } \vec{b} \in \mathbb{R}^m.$$
+    
+    $$\vec{u}_1, \vec{u}_2, \dots, \vec{u}_n \text{ are linearly independent } \iff 
+    \text{ the homogeneous system } A\vec{x} = \vec{0} \text{ has only the trivial solution.}
+
+$$
+**If vectors are linearly independent then a homogenous system of the vectors combined as columns has only a trivial solution**
+
+### [[Theorem 18 - invertible matrix theorem|Invertible matrix theorem]] (part 2)
