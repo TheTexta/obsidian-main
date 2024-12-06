@@ -134,6 +134,62 @@
             }
           },
           {
+            "id": "b00aa3c319c1e837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/Eigenvalues and eigenvectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eigenvalues and eigenvectors"
+            }
+          },
+          {
+            "id": "dc2709e12248f280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/Eigenvector bases (diagonlisation).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eigenvector bases (diagonlisation)"
+            }
+          },
+          {
+            "id": "adb33650a777d7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/Algebraic multiplicity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algebraic multiplicity"
+            }
+          },
+          {
+            "id": "113155eb715e4d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/Similar matrices and change of bases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Similar matrices and change of bases"
+            }
+          },
+          {
             "id": "569c542f625aa54c",
             "type": "leaf",
             "state": {
@@ -148,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -298,12 +354,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b5eb49e9e7d0436b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -322,42 +388,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "ba6b07ff03004b6f",
+  "active": "113155eb715e4d36",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/image.md",
-    "Mathematics/Linear Algebra/Surjective and injective.md",
-    "Screenshot 2024-11-29 at 12.31.17 PM.png",
-    "Kernal and Image.md",
-    "Mathematics/Linear Algebra/Determinant of a linear transformation.md",
-    "Mathematics/Linear Algebra/projections.md",
-    "Screenshot 2024-11-29 at 11.58.04 AM.png",
-    "Screenshot 2024-11-29 at 11.57.06 AM.png",
-    "Mathematics/Linear Algebra/Reflections.md",
-    "Mathematics/Linear Algebra/Rotations.md",
-    "Mathematics/Linear Algebra/standard matrix.md",
-    "Screenshot 2024-11-28 at 1.34.43 PM.png",
-    "Screenshot 2024-11-28 at 1.33.29 PM.png",
-    "Mathematics/Linear Algebra/Linear Transformations.md",
-    "Screenshot 2024-11-28 at 1.21.36 PM.png",
-    "Screenshot 2024-11-28 at 1.05.07 PM.png",
-    "Mathematics/Linear Algebra/nullspace.md",
-    "Mathematics/Linear Algebra/Matrix rank.md",
-    "Screenshot 2024-11-28 at 12.18.23 PM.png",
-    "Mathematics/Linear Algebra/bases and dimension.md",
-    "Screenshot 2024-11-27 at 11.46.16 AM.png",
-    "Screenshot 2024-11-27 at 11.43.54 AM.png",
-    "Mathematics/Linear Algebra/Theorem 18 - invertible matrix theorem.md",
-    "Mathematics/Linear Algebra/Linear Independence.md",
-    "Mathematics/Linear Algebra/column space.md",
-    "Mathematics/Linear Algebra/Row space.md",
-    "Computer Science/Data Structures and Algorithms/interfaces.md",
-    "Mathematics/Linear Algebra/Span.md",
-    "Mathematics/Linear Algebra/Subspace.md",
-    "Mathematics/Linear Algebra/homogeneous system.md",
-    "Mathematics/Linear Algebra/Scalar Tripple Product.md",
-    "Mathematics/Linear Algebra/cross product.md",
-    "Computer Science/Data Structures and Algorithms/Merge Sort.md",
-    "Computer Science/Data Structures and Algorithms/Recursion.md",
-    "Computer Science/Data Structures and Algorithms/rooted trees.md"
-  ]
-}
+    "Mathematics/Linear Algebra/Algebraic multiplicity.md",
+    "Mathematics/Linear Algebra/Similar matrices and change of bases.md",
+    "Screenshot 2024-12-05 at 5.33.57 PM.png",
+    "Screenshot 2024-12-05 at 5.32.58 PM.png",
+    "Screenshot 2024-12-05 a

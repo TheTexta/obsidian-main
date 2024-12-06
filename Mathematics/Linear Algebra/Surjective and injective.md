@@ -23,3 +23,21 @@ Need $[T]$.
 
 RREF of T gives us the rank which gives us the nullspace etc blah blah blah. 
 rank T=3 neq 4 not sub. nullity =1 not 0 not inj. 
+
+### Prop
+Let T:R^n-R^m be lienar.
+1. If $n>m$, T is not injective
+2. If $n<m$ is not surjective
+
+The proof is in the fact that $rank+nullity = n$. 
+
+
+Function $f:R^n->R^m$ is called
+- *bijective* if f is injective and surjective
+- *invertible* if exists function $f^-1:R^m ->R^n$ such that $(f\cdot f^{0-1})(w)=w$, for all $w\in \mathbb{R}^m$ and $(f^{-1}\cdot f)(v)=v$
+
+Fact: $f$ invertible $\iff$ $f$ bijective
+
+Prop: Let T:R^n->R^n then
+1. T invertible $\iff$ standard matrix $[T]$ is invertible.
+2. If T invertible, [T^{-1}]=[T]^{-1}
