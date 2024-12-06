@@ -25,3 +25,8 @@ Let A,B be similar matrices. Then
 2. $C_A(\lambda)=C_B(\lambda)$, some char. poly.
 3. Same eigenvalues with same algebraic and geometric multiplicities
 
+
+### How to change bases
+Let B={vectors v to v_n} be bases of R^n. Each u\in R^n can be uniquely expressed as u=coefficients times vectors v.
+
+Define the [[B-coordinate vector]] of u as $[u]_B=\pmatrix{c_1\\c_2\\...\\c_n}$
