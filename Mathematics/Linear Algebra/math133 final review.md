@@ -120,6 +120,7 @@ $$\pmatrix{0.7&0.05&0.05\\0.1&0.75&0.05\\0.2&0.2&0.9}=T$$
 Where in general, if $\vec{P}_n=$pop in year $n$, if multiply $T\vec{p}_n=\vec{P}_{n+1}$. Also if $T$ inv, $T^{-1}$ will do backwards year prop. Where P is of form $\pmatrix{A\\B\\C}$.
 ##### Invertible's
 A matrix which has an inverse matrix whose product results in the identity matrix is "invertible." $$\text{A matrix is invertible} \iff det(A)\neq0$$
+If a matrix is invertible a **unique solution exists.**
 ##### Cofactor Matrix
 $$A=\begin{pmatrix} -1 & -2 & 2 \\ 2 & 1 & 1 \\ 3 & 4 & 5 \end{pmatrix} \text{cofactor of A is }$$$$ C= \text{matrix of minors} \rightarrow \begin{pmatrix} \begin{vmatrix} 1 & 1 \\ 4 & 5 \end{vmatrix} & \begin{vmatrix} 2 & 1 \\ 3 & 5 \end{vmatrix} & \begin{vmatrix} 2 & 1 \\ 3 & 4 \end{vmatrix} \\ \begin{vmatrix} -2 & 2 \\ 4 & 5 \end{vmatrix} & \begin{vmatrix} -1 & 2 \\ 3 & 5 \end{vmatrix} & \begin{vmatrix} -1 & -2 \\ 3 & 4 \end{vmatrix} \\ \begin{vmatrix} -2 & 2 \\ 1 & 1 \end{vmatrix} & \begin{vmatrix} -1 & 2 \\ 2 & 1 \end{vmatrix} & \begin{vmatrix} -1 & -2 \\ 2 & 1 \end{vmatrix} \end{pmatrix} = \begin{pmatrix} 1 & 7 & 5 \\ -18 & -11 & 2 \\ -4 & -5 & 3 \end{pmatrix}$$
 $$\quad \text{checkerboard pattern} \rightarrow \pmatrix{1&-7&5\\18&-11&-2\\-4&5&3}$$
@@ -141,3 +142,73 @@ therefor
 $$a_0=2, a_1=-\frac{1}{2},a_2=\frac{1}{2}$$
 forming the polynomial
 $$f(x)=2-\frac{1}{2}x+\frac{1}{2}x^2$$
+###### [[vandermonde matrix]]
+This shit:
+$$\begin{pmatrix} 1 & x_0 & x_0^2 & \dots & x_0^n \\ 1 & x_1 & x_1^2 & \dots & x_1^n \\ \vdots & \vdots & \vdots & \ddots & \vdots \\ 1 & x_n & x_n^2 & \dots & x_n^n \\ \end{pmatrix}$$
+##### Vectors
+###### [[point]]
+$p=(a_1,a_2,\dots,a_n)$ is a [[point]] in $\mathbb{R}^n$
+
+###### [[vector]]
+$\vec{p}=\pmatrix{a_1\\a_2\\ \vdots\\a_n}$ [[vector]] in $\mathbb{R}^n$
+
+think of a vector as an arrow and a point as a point lmfao
+
+###### Length of a vector
+The length of a $\vec{p}$ is $||\vec{p}||=\sqrt{a_1^2+a_2^2+\dots+a_n^2}=$ distance from point p to origin
+
+###### parallel vectors
+let $\vec{u},\vec{v}$ vectors. if $\vec{u}=c\vec{v}$ ($c\neq 0$) we say $\vec{u}$,$\vec{v}$ are parallel
+- c>0 same direction
+- c<0 opposite directions
+###### Vector addition (parallelogram law)
+If two vectors placed so they have the same initial point, and then complete the vectors into a parallelogram, then the sum of the vectors is the directed diagonal that starts at the same point as the vectors.
+![[Screenshot 2024-11-13 at 10.13.49 AM.png]]
+###### [[Unit Vector]]
+If $||\vec{u}||=1$, $\vec{u}$ called unit vector
+
+**Converting to a unit vector**
+if $\vec{u}\neq 0$, $u$ not unit vector then $\vec{v}=\frac{1}{||u||}\cdot\vec{u}$
+$\vec{v}$ is a unit vector
+
+##### [[lines]]
+let $p_0$ be a [[point]] and $\vec{d}$ a [[vector]].
+The line that passes through $p_0$ in the direction $\vec{d}$ is is all points p such that $\vec{p_0}+t\vec{d}$
+![[Screenshot 2024-11-13 at 10.24.41 AM.png]]
+###### [[parallel, skew and intersecting lines]]
+$l_1(t)=p_1+td_1, l_2(t)=p_2+td_2$
+1. parallel if $d_1=cd_2$ for some $c\neq 0$
+2. Intersecting if $l_1(t_1)=l_2(t_2)$
+3. skew lines otherwise
+
+##### Dot Product
+If $\vec{u}$ and $\vec{v} \in R^n$ the dot product is
+$$\vec{u}^T\cdot\vec{v}$$
+1. $\vec{u}\cdot \vec{u}=||\vec{u}||^2$
+2. $\vec{u}\vec{v}=\vec{v}\vec{u}$
+3. $u\cdot0=0$
+4. for all $c\in \mathbb{R}$, $(c \vec{u}) \cdot \vec{v} = c (\vec{u} \cdot \vec{v}) = \vec{u} \cdot (c \vec{v})$
+5. $\vec{u} \cdot (\vec{v} + \vec{w}) = \vec{u} \cdot \vec{v} + \vec{u} \cdot \vec{w}$
+
+##### Angles
+if $\vec{u}$ and $\vec{v}$ are nonzero vectors they form two angles (always taking the smaller of the two)
+$\text{Let } \vec{u}, \vec{v} \in \mathbb{R}^n, \text{ both non-zero. Then,}$
+$$\vec{u} \cdot \vec{v} = \|\vec{u}\| \|\vec{v}\| \cos \theta$$
+$$\cos \theta = \frac{\vec{u} \cdot \vec{v}}{\|\vec{u}\| \|\vec{v}\|}$$
+- the sign of the dot product of u and v can be inferred from the angle being greater or less than pi / 2.
+###### Orthogonal Vectors (vectors at right angles to one another)
+when angle is $\pi/2$ or one of the vectors is zero the dot product of two vectors is zero. because $\cos \theta = \frac{\vec{u} \cdot \vec{v}}{\|\vec{u}\| \|\vec{v}\|}$ simplifies to $0=\vec{u}\cdot \vec{v}$.
+##### Projections
+A projection is a scaled vector by the endpoint of another
+![[Screenshot 2024-11-13 at 5.33.54 PM.png]]
+The w vector is the projection of v onto u. The w vector is of the same direction of u but with an endpoint closest to v.
+$\vec{w} = \text{proj}_{\vec{u}} \vec{v} = \left( \frac{\vec{u} \cdot \vec{v}}{\|\vec{u}\|^2} \right) \vec{u}$
+
+##### Hyperplanes
+a hyperplane refers to a flat hypersurface, a subspace whose dimension is one less than that of the ambient space. A hyperplane in $\mathbb{R}^2$ is a line, a hyperplane in $\mathbb{R}^3$ is a 2d plane (see [[Plane]]). Can be expressed as a span. Is a kind of subspace but not always a full subspace (not necessary to contain a zero vector)
+###### planes
+A plane is geometrically a flat 2 dimensional space extending infinitely in in a three dimensional space. It can be described with a [[Linear Equation]] of three variables ($x$,$y$,$z$). A plane is just a [[Hyperplane]] in three dimensions specifically ($\mathbb{R}^3$).
+
+Represented in the form:
+$$ax+by+cz=d$$
+Where $a$,$b$ and $c$ are coefficients determining the orientation of the plane and $d$ is the constant term which determines the planes position relative to the origin. 
