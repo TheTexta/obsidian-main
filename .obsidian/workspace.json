@@ -4,263 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "c4b986e1d00567d0",
+        "id": "27531b1fe1d73366",
         "type": "tabs",
         "children": [
           {
-            "id": "d6d28cd0a2d54e13",
+            "id": "55a567a9af59e516",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Matrix rank.md",
+                "file": "Mathematics/Linear Algebra/math133 final review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix rank"
+              "title": "math133 final review"
             }
           },
           {
-            "id": "85130976e215440b",
+            "id": "375923aee95dc7a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/nullspace.md",
+                "file": "Mathematics/Linear Algebra/Polynomial Interpolation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nullspace"
+              "title": "Polynomial Interpolation"
             }
           },
           {
-            "id": "b80a6cfda5e0b362",
+            "id": "6bc74b1b0d246495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Linear Transformations.md",
+                "file": "Mathematics/Linear Algebra/Adjugates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Transformations"
-            }
-          },
-          {
-            "id": "afa0b24332e32d9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/standard matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "standard matrix"
-            }
-          },
-          {
-            "id": "c61b5cdd9a0ee668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Rotations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rotations"
-            }
-          },
-          {
-            "id": "08368e4f7a507b82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Reflections.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reflections"
-            }
-          },
-          {
-            "id": "a1d9fef1e909de28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Determinant of a linear transformation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Determinant of a linear transformation"
-            }
-          },
-          {
-            "id": "0db3c2ccb63d55ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kernal and Image.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kernal and Image"
-            }
-          },
-          {
-            "id": "ba6b07ff03004b6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Surjective and injective.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Surjective and injective"
-            }
-          },
-          {
-            "id": "b00aa3c319c1e837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Eigenvalues and eigenvectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eigenvalues and eigenvectors"
-            }
-          },
-          {
-            "id": "dc2709e12248f280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Eigenvector bases (diagonlisation).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eigenvector bases (diagonlisation)"
-            }
-          },
-          {
-            "id": "adb33650a777d7bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Algebraic multiplicity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Algebraic multiplicity"
-            }
-          },
-          {
-            "id": "113155eb715e4d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Similar matrices and change of bases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Similar matrices and change of bases"
-            }
-          },
-          {
-            "id": "0a9c28a36efcdc67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/B-coordinate vector.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B-coordinate vector"
-            }
-          },
-          {
-            "id": "006f4f2def5de219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Change of Coordinates matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Change of Coordinates matrix"
-            }
-          },
-          {
-            "id": "a0bec9eb308c60d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data Structures and Algorithms/Hash Maps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hash Maps"
-            }
-          },
-          {
-            "id": "10aa39c96d39bd63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data Structures and Algorithms/Maps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maps"
-            }
-          },
-          {
-            "id": "569c542f625aa54c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/image.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "image"
+              "title": "Adjugates"
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,7 +68,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -464,10 +253,24 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "ba97373c1ff9bcb7",
+  "active": "55a567a9af59e516",
   "lastOpenFiles": [
-    "Screenshot 2024-12-06 at 3.55.13 PM.png",
+    "Mathematics/Linear Algebra/Polynomial Interpolation.md",
+    "Mathematics/Linear Algebra/math133 final review.md",
+    "Mathematics/Linear Algebra/Adjugates.md",
+    "Mathematics/Linear Algebra/Corollary 25.md",
+    "Mathematics/Linear Algebra/Theorem 24 - Splitting determinants.md",
+    "Mathematics/Linear Algebra/Theorem 23 - Determinants and Invertibles.md",
+    "Mathematics/Linear Algebra/Markov Chain Example.md",
+    "Mathematics/Linear Algebra/determinants.md",
+    "Mathematics/Linear Algebra/block multiplication.md",
+    "Mathematics/Linear Algebra/associative rule.md",
+    "Mathematics/Calculus/Inverse.md",
+    "Untitled.md",
+    "Mathematics/Linear Algebra/Math133 midterm review.md",
+    "Mathematics/Linear Algebra/Math133 - personal notes to help make sense of it all.md",
     "Computer Science/Data Structures and Algorithms/Graphs.md",
+    "Screenshot 2024-12-06 at 3.55.13 PM.png",
     "Screenshot 2024-12-05 at 11.25.31 PM.png",
     "Screenshot 2024-12-05 at 11.22.21 PM.png",
     "Screenshot 2024-12-05 at 11.21.40 PM.png",
@@ -484,23 +287,9 @@
     "Mathematics/Linear Algebra/Algebraic multiplicity.md",
     "Screenshot 2024-12-05 at 5.33.57 PM.png",
     "Screenshot 2024-12-05 at 5.32.58 PM.png",
-    "Screenshot 2024-12-05 at 5.29.49 PM.png",
     "Mathematics/Linear Algebra/Eigenvector bases (diagonlisation).md",
     "Mathematics/Linear Algebra/Characteristic Polynomials.md",
     "Mathematics/Linear Algebra/Eigenvalues and eigenvectors.md",
-    "Mathematics/Linear Algebra/Surjective and injective.md",
-    "Mathematics/Linear Algebra/image.md",
-    "Kernal and Image.md",
-    "Mathematics/Linear Algebra/Determinant of a linear transformation.md",
-    "Mathematics/Linear Algebra/projections.md",
-    "Mathematics/Linear Algebra/Reflections.md",
-    "Mathematics/Linear Algebra/Rotations.md",
-    "Mathematics/Linear Algebra/standard matrix.md",
-    "Mathematics/Linear Algebra/Linear Transformations.md",
-    "Mathematics/Linear Algebra/nullspace.md",
-    "Mathematics/Linear Algebra/Matrix rank.md",
-    "Mathematics/Linear Algebra/bases and dimension.md",
-    "Mathematics/Linear Algebra/Theorem 18 - invertible matrix theorem.md",
-    "Mathematics/Linear Algebra/Linear Independence.md"
+    "Mathematics/Linear Algebra/Surjective and injective.md"
   ]
 }

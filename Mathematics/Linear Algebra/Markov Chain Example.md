@@ -5,7 +5,7 @@ A population migration model. Regions ABC exist. Each year:
 - from C, 5% to A, 5% to B, 90% stay
 
 Define transition matrix:
-A - b - c from
+A - b - c form
 $\pmatrix{0.7&0.05&0.05\\0.1&0.75&0.05\\0.2&0.2&0.9}=T$
 
 if population in 2020 is $\vec{P}_0=\pmatrix{300\\200\\100}$ then multiply matrix be vector for next year.
