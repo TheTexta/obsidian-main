@@ -218,6 +218,34 @@
             }
           },
           {
+            "id": "a0bec9eb308c60d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Structures and Algorithms/Hash Maps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hash Maps"
+            }
+          },
+          {
+            "id": "10aa39c96d39bd63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Structures and Algorithms/Maps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maps"
+            }
+          },
+          {
             "id": "569c542f625aa54c",
             "type": "leaf",
             "state": {
@@ -232,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -392,12 +420,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ef0c89c1813ba1f3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ba97373c1ff9bcb7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -416,11 +464,20 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "006f4f2def5de219",
+  "active": "ba97373c1ff9bcb7",
   "lastOpenFiles": [
+    "Screenshot 2024-12-06 at 3.55.13 PM.png",
+    "Computer Science/Data Structures and Algorithms/Graphs.md",
+    "Screenshot 2024-12-05 at 11.25.31 PM.png",
+    "Screenshot 2024-12-05 at 11.22.21 PM.png",
+    "Screenshot 2024-12-05 at 11.21.40 PM.png",
+    "Computer Science/Data Structures and Algorithms/Hash Maps.md",
+    "Screenshot 2024-12-05 at 10.52.57 PM.png",
+    "Computer Science/Data Structures and Algorithms/Maps.md",
+    "Screenshot 2024-12-05 at 10.30.58 PM.png",
+    "Mathematics/Linear Algebra/Change of Coordinates matrix.md",
     "Screenshot 2024-12-05 at 10.05.59 PM.png",
     "Mathematics/Linear Algebra/B-coordinate vector.md",
-    "Mathematics/Linear Algebra/Change of Coordinates matrix.md",
     "Screenshot 2024-12-05 at 9.26.27 PM.png",
     "Mathematics/Linear Algebra/Similar matrices and change of bases.md",
     "Mathematics/Linear Algebra/Trace.md",
@@ -428,13 +485,7 @@
     "Screenshot 2024-12-05 at 5.33.57 PM.png",
     "Screenshot 2024-12-05 at 5.32.58 PM.png",
     "Screenshot 2024-12-05 at 5.29.49 PM.png",
-    "Screenshot 2024-12-05 at 5.24.19 PM.png",
-    "Screenshot 2024-12-05 at 4.50.56 PM.png",
-    "Screenshot 2024-12-05 at 4.36.15 PM.png",
     "Mathematics/Linear Algebra/Eigenvector bases (diagonlisation).md",
-    "Screenshot 2024-12-05 at 4.30.30 PM.png",
-    "Screenshot 2024-12-05 at 4.24.39 PM.png",
-    "Screenshot 2024-12-05 at 4.20.33 PM.png",
     "Mathematics/Linear Algebra/Characteristic Polynomials.md",
     "Mathematics/Linear Algebra/Eigenvalues and eigenvectors.md",
     "Mathematics/Linear Algebra/Surjective and injective.md",
@@ -450,9 +501,6 @@
     "Mathematics/Linear Algebra/Matrix rank.md",
     "Mathematics/Linear Algebra/bases and dimension.md",
     "Mathematics/Linear Algebra/Theorem 18 - invertible matrix theorem.md",
-    "Mathematics/Linear Algebra/Linear Independence.md",
-    "Mathematics/Linear Algebra/column space.md",
-    "Mathematics/Linear Algebra/Row space.md",
-    "Computer Science/Data Structures and Algorithms/interfaces.md"
+    "Mathematics/Linear Algebra/Linear Independence.md"
   ]
 }
