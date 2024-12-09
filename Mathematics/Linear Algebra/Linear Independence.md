@@ -3,12 +3,12 @@ In R^2 with only e_1 and e_2 each vector has unique representaiton in form ae_1 
 
 Suppose U=span{vectors u_1 to u_m} and v\in U and v
 
-Let X={u_1,u_2,...,u_m} vectors in \mathbb{R}^n. X called linearly independent if the only solution to the following
+Let $X=\{u_1,u_2,...,u_m\}$ vectors in \mathbb{R}^n. X called linearly independent if the only solution to the following
 $$\vec{0}=c_1u_1+...+c_mu_m$$
 is the trivial solution c=0 for all.
 
 X is called linearly dependent if not linearly independent. That is, there exists cs where some are not zero such that you can get the zero vector from them anyway.
-$$\vec{0}=c_1u_1+...+c_mu_m$$
+$$\vec{0}\neq c_1u_1+...+c_mu_m$$
 Note: empty set is considered linearly independent. 
 
 If $X=\{u_1,...,u_m\}$ linearly independent, then every $v\in$ span X can be expressed uniquely in the form

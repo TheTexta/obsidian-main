@@ -212,3 +212,109 @@ A plane is geometrically a flat 2 dimensional space extending infinitely in in a
 Represented in the form:
 $$ax+by+cz=d$$
 Where $a$,$b$ and $c$ are coefficients determining the orientation of the plane and $d$ is the constant term which determines the planes position relative to the origin. 
+###### Normals Vectors and Planes
+every equation $ax+by+cz=d$ is a plane with normal vector $n=\pmatrix{a\\b\\c}$
+##### Cross Product
+![[Screenshot 2024-11-15 at 7.50.31 AM.png]]
+The cross product, w, is $u\times v\in\mathbb{R}^3 =\pmatrix{a_2b_3-a_3b_q\\-(a_1b_3-a_3b_1)\\a_1b_2-a_2b_1}$. uv cross vector is your thumb using the right hand rule. 
+1. $v\times u = -(u\times v)$
+2. $c(u\times v)=(cu)\times v=u\times (cu)$
+3. $u\times(v+w)=u\times v + u\times w$
+	$(v+w)\times u = v\times u + w \times u$
+4. $u\times u = \vec{0}$
+##### Scalar Tripple Product (parallelpiped (sideways box))
+1. $V=w\cdot (u\times v) = det (\matrix{w&u&v})$
+2. If $A$ $3\times 3$ matrix, |det(A)| is the volume of the parallelpiped formed by its columns
+##### Subspace
+Let $U\subseteq \mathbb{R}^n$. then $U$ is called a subspace of $R^n$ if the following hold:
+1. $\vec{0}\in U$
+2. If $u,v \in U$, then $u+v \in U$ (closure under addition)
+3. If $u \in U$ and $c\in R$, then $cu\in U$. (closure under scalar multiplication)
+If all 3 hold. write $U\subseteq R^n$
+A subspace can be defined with infinitely many vectors while a span is more specific.
+##### Span
+Same as a subspace but vectors are explicitly defined. A specific way to construct a subspace given a set of vectors. 
+##### Linear Independence
+Let $X=\{u_1,u_2,...,u_m\}$ vectors in \mathbb{R}^n. X called linearly independent if the only solution to the following
+$$\vec{0}=c_1u_1+...+c_mu_m$$
+*note: empty set is considered linearly independent*
+To show independence solve the given vectors as a linear system. If the solution is trivial (only one solution) the solution is independent. Elsewise it is dependent. 
+1. $v$ is dependent $\iff v=0$
+2. set of zero vectors dependent
+
+###### Linear Independence and Invertible matrices
+10. The columns of $A$ are linearly independent
+11. The columns of $A$ span $R^n$
+12. The rows of $A$ are lin independent
+13. The rows of $A$ span $R^n$
+
+##### Column Space
+The span of a matrices columns
+##### Row Space
+The span of a matrices rows or the transpose of the column space
+##### Bases
+Let U be a subspace of $R^n$. $u_1,...,u_m \in U$. We call these vectors a **basis** of $U$ if
+1. $span\{u_1,...,u_m\}$=$U$ (enough vectors to create U)
+2. Vectors are linear independent (no excess vectors)
+A basis is s simplified span/subspace containing only linearly independent vectors
+
+To build a basis take vectors and continuously add (checking for independence) to the span until they form the span. 
+###### Standard Basis
+$\{e_1, \dots, e_n\}$ is the standard basis of $\mathbb{R}^n$.
+
+##### Dimensions
+The dimension of subspace U is the number of vectors in the basis of that subspace. The subspace containing just $\vec{0}$ has a dim of 0.
+1. If a U has dim=m the m vectors building a set $X$: $X$ is independent $\iff span(X)=U$
+2. let u,v,w be mutually orthogonal. show they form basis R^3. Since dim(R^3)=3 so long as three vectors mutually independent (can check with det of matrix) then the vectors form basis.
+
+##### nullspace
+The vectors which substitute x to satisfy the equation Ax=0 for a given matrix. The nullspace is a subspace. A set of all vectors which build the solution Ax=0.
+###### nullity
+dimension of null(A) is called the nullity of A.
+###### rank nullity theorem
+ n=rank(A)+nullity(A) since r+(n-r)=n
+
+##### Linear Transformations
+A function T:R^n->R^m is a linear transformation (function and transformation are the same just transformation is the word used in linear algebra) if
+1. $T(u+v)=T(u)+T(v)$ for all u,v\inR^n- property puts restrictions on what the transformations can do
+2. $T(cu)=cT(u)$ for all $u\in R^n$,$c\in R$
+3. $T(\vec{0}_n)=\vec{0}_m$ - really quick way to check if a lin trans is valid.
+
+##### Standard Matrix
+Let $T:\mathbb{R}^n->\mathbb{R}^m$ be linear transformation. The standard matrix of $T$ is the $m\times n$ $[T]=[T(e_1)...T(e_n)]$ ie. matrix whose columns are values of T on standard bases.
+
+##### Rotations
+$$[R_\theta]=\pmatrix{cos\theta&-sin\theta\\sin\theta&cos\theta}$$
+##### Surjective and Injective
+$T:\mathbb{R}^n->\mathbb{R}^m$ a function
+1. $T$ called onto (or surjective) if $im([T])=\mathbb{R}^m$
+2. $T$ called one-to-one (or injective) if for all $u\neq v$. in $\mathbb{R}^n$ we have $T(u)\neq T(v)$ (no two inputs go to the same output). Equivalently if $T(u)=T(v)$ then $u=v$.
+Theorems:
+1. $T$ surjective $\iff$ $rank (T)=m$
+2. $T$ injective $\iff$ $nullity(T)=0$ ($Ker(T)=\{\vec{0}\}$)
+###### bijective
+$T$ bijective (surjective and injective) $\iff$ $T$ invertible
+
+##### Diagonal Matrix
+A $m\times n$ matrix of form where $\lambda_i$ is any value is called a diagonal matrix.
+$$\mathbf{D}^m = 
+\begin{pmatrix}
+\lambda_1^m & 0 & \cdots & 0 \\
+0 & \lambda_2^m & \cdots & 0 \\
+\vdots & \vdots & \ddots & \vdots \\
+0 & 0 & \cdots & \lambda_n^m
+\end{pmatrix}, m\geq 1
+$$
+
+##### Eigenvalues and eigenvectors
+A $n\times n$ matrix if $v$ is a nonzero vector in $\mathbb{R}^n$ and
+$$Av=\lambda v$$
+then $v$ called an eigenvector of $A$ with eigenvalue $\lambda$. An eigenvector is a vector only scaled by a given transformation, and an eigenvalue is the scalar for that vector. 
+###### Finding eigenvectors and eigenvalues
+
+
+##### Characteristic Polynomials
+The characteristic polynomial of a n\times n matrix is 
+$$C_A(\lambda)=det(A-\lambda I)$$
+###### Characteristic polynomials and eigenvalues
+$\lambda$ is a eigenvalue of $A$ $\iff$ $\lambda$ is root of the characteristic polynomial.

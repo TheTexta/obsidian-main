@@ -51,7 +51,7 @@ ie. need non-trivial solution to linear system
 $$(A-\lambda I)\vec{x}-\vec{0}$$
 Need coeff. matrix ($A-\lambda I$) to be non-invertible ie need
 $$det(A-\lambda I)=0$$
-The characteristic polynomial of a n\times n matrix is 
+The characteristic polynomial of a $n\times n$ matrix is 
 $$C_A(\lambda)=det(A-\lambda I)$$
 
 Prop

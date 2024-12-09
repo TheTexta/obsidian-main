@@ -38,6 +38,6 @@ Function $f:R^n->R^m$ is called
 
 Fact: $f$ invertible $\iff$ $f$ bijective
 
-Prop: Let T:R^n->R^n then
+Prop: Let $T:R^n->R^n$ then
 1. T invertible $\iff$ standard matrix $[T]$ is invertible.
 2. If T invertible, [T^{-1}]=[T]^{-1}

@@ -33,7 +33,7 @@ let $u, v \in \mathbb{R}^3$, both nonzero. $u$ and $v$ are parallel $\iff u\time
 ![[Screenshot 2024-11-15 at 6.09.01 PM.png]]
 Area of a parallelogram formed by two vectors is $||u\times v||$
 
-#### Cross product of i,j,k
+#### Cross product of $i,j,k$
 ![[Screenshot 2024-11-15 at 6.11.26 PM.png]]
 ### Properties of cross products
 let $u,v,w\in \mathbb{R}^3$, $c\in \mathbb{R}$

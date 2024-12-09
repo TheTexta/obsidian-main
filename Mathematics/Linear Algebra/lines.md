@@ -6,10 +6,10 @@ The line that passes through $p_0$ in the direction $\vec{d}$ is is all points p
 also written as a function of $t$, $l(t)=\vec{p_0} + t\vec{d}$
 
 or parametric form as for ex
-x=x_0+t_a
-y=y_0+t_b
-z=z_0+t_c
-(p_0=0)
+$x=x_0+t_a$
+$y=y_0+t_b$
+$z=z_0+t_c$
+$(p_0=0)$
 
 Ex. find equ of a line through two points, $p=(1,1,2)$ and $q=(3,0,4)$
 Direction $\vec{d}=\vec{q}-\vec{p}=\pmatrix{2\\-1\\2}$
