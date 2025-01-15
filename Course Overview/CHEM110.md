@@ -21,6 +21,11 @@
 - [[CHEM110 Week 5]]
 - [[CHEM110 Week 6]]
 - [[CHEM110 Week 7]]
+- [[CHEM110 Week 8]]
+- [[CHEM110 Week 9]]
+- [[CHEM110 Week 10]]
+- [[CHEM110 Week 11]]
+- 
 #### Terms
 - [[wavelength]]
 - [[Significant Figures]]

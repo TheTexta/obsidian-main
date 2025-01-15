@@ -10,7 +10,7 @@ $T(e_3)=e_3$
 T is diagonalisable since {$e_1,e_2,e_3$} is a basis $R^3$ compared eigenvectors of T.
 TLDR if there are enough eigenvectors to make up a basis of a matrix then the matrix is diagonalisable.
 
-if dterminant is greater then zero than the matrix is linearly independent. 
+if determinant is greater then zero than the matrix is linearly independent. 
 
 ##### Diagonalisation in matrix terms
 A $n\times n$ matrix, assume there is bases v-v_n of R^n where Av_i=\lambda_iv_i, ie. v_i eigenvoectors with eigenvalue \lambda_i.

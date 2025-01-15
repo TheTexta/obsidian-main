@@ -318,3 +318,16 @@ The characteristic polynomial of a n\times n matrix is
 $$C_A(\lambda)=det(A-\lambda I)$$
 ###### Characteristic polynomials and eigenvalues
 $\lambda$ is a eigenvalue of $A$ $\iff$ $\lambda$ is root of the characteristic polynomial.
+
+##### Diagonalisation
+$A$ $n\times n$ matrix called diagonalisable if there is a basis $v$ of $R^n$ where all $v_i$ are eigenvectors of A. 
+A diagonalisable $\iff$ alg mult. of $\lambda$ $=$ geo. mult. of $\lambda$ for all $\lambda$ entries. 
+
+##### algebraic multiplicity
+algebraic multiplicity $=$ $\#$ of times $x-\lambda$ appears as factor in characteristic polynomial ($C_A(x)$)
+
+##### geometric multiplicity
+geometric multiplicity of $\lambda = dim(E_\lambda)$  - The eigenspace dimension for all eigenvectors of $A$.
+
+##### Trace
+The trace of $A$ $n\times n$ matrix is the sum of entrees on diagonal.

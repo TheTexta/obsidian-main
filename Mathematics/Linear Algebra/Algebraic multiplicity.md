@@ -5,7 +5,7 @@ Let $\lambda$ be eigenvalue of $A$.
 
 Theorem
 let $\lambda$ be eigenvalue of $A$. Then
-1$\leq$ (geo mult of $\lambda$)\leq (alg mult of $\lambda$)
+1$\leq$ (geo mult of $\lambda$)$\leq$ (alg mult of $\lambda$)
 Hence cant have more lin ind. eigenvector for lambda then the alg mult.
 
 Example
@@ -18,8 +18,8 @@ If any eigenvalue has geo mult $\lambda <$ (alg. mult $\lambda$) then A is not d
 
 
 Theorem
-A n\times n matrix then
-1. siagonalizable \iff C_A(x)= factors and for each lambda i the goem mult of it = alg mult of it. 
+A $n\times n$ matrix then
+1. Diagonalizable $\iff$ C_A(x)= factors and for each lambda i the goem mult of it = alg mult of it. 
 2. If A diagonizalbe we can take a bases of each eigenspace, combine these into one set and it will be a basis of R^n
 Example:
 ![[Screenshot 2024-12-05 at 5.29.49 PM.png]]

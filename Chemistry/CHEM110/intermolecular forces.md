@@ -1,5 +1,26 @@
 #chem110 
+inter vs intra - inter is between intra is across - see [[intramolecular]]. intermolecular forces are weaker than intramolecular forces.
 
+higher intermolecular forces = higher bp
+
+Intermolecular forces depend on polarity of molecular and [[polarisability]].
+
+1. [[ion-dipole force]]
+2. [[dipole dipole force]]
+3. [[hydrogen bonds]]
+4. [[london dispersion forces]]
+
+A nearby electric field can *induce* a distortion in the electron cloud for polar and non-polar molecules. The distortion enhances a dipole moment for a polar molecule and induces a dipole moment for a non polar molecule. 
+
+![[Screenshot 2024-12-15 at 8.03.27 PM.png]]
+
+##### Comparing intermolecular forces between molecules
+1. Determine which intermolecular forces are present
+2. 1. H-bonding › dipole-dipole > dispersion forces (All molecules have dispersion forces)
+2. ﻿﻿﻿If comparing two non-polar molecules, compare polarizability (size) and shape (surface area).
+3. ﻿﻿﻿Compare properties
+
+High intermolecular forces - High boiling point/high surface tension/high viscosity
 # Grade 12
 Intermolecular forces are the forces between bonded molecules in a substance/solution. All attractive forces between neutral molecules are known as [[van der Waals forces]]. Which are the three forces, LDS, dipole dipole and hydrogen forces, which each uniquely keep molecules together. 
 
