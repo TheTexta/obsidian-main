@@ -5,3 +5,6 @@
 
 - [[bit]], [[byte|bytes]] and [[word|words]]
 - [[bases]]
+- [[base conversion]]
+- [[binary]]
+- 
