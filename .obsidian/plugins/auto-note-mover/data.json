@@ -87,6 +87,21 @@
       "folder": "Computer Science/Data Structures and Algorithms",
       "tag": "#comp250",
       "pattern": ""
+    },
+    {
+      "folder": "Computer Science/Computer Systems",
+      "tag": "#comp273",
+      "pattern": ""
+    },
+    {
+      "folder": "Computer Science/Software Systems",
+      "tag": "#comp206",
+      "pattern": ""
+    },
+    {
+      "folder": "Philosophy/Moral Issues",
+      "tag": "#phil237",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

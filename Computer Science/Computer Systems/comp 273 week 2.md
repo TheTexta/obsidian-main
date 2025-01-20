@@ -6,3 +6,9 @@
 	- $1.0_2\times 2^{-1}$=0.5
 	- $1.1^2\times 2^3=1.5*8=12$
 - [[floating point standards]]
+- [[truth table]]
+- [[boolean operations]]
+- [[boolean functions]]
+- [[boolean algebra]]
+- [[logic gates]]
+- combinatorial cirtcuits

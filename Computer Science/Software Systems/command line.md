@@ -7,3 +7,5 @@
 - > redirect output to location specified/file
 - >> deriect output appending file as path
 - | direct the ouput of command to input command 2 (command1 | command2)
+- ? any single character
+- [abc] any character within bracket - [a-zA-Z]

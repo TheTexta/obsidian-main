@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "floating point standards.md",
+                "file": "Computer Science/Software Systems/command line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "floating point standards"
+              "title": "command line"
             }
           },
           {
@@ -91,7 +91,8 @@
               "title": "welfarism"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -335,12 +336,23 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "ae6c49c49a75c36b",
+  "active": "0e25e2f28b5ca0b6",
   "lastOpenFiles": [
+    "Philosophy/Moral Issues",
+    "Philosophy",
+    "welfarism.md",
+    "Computer Science/Software Systems/command line.md",
+    "comp206 week 2.md",
+    "Computer Science/Computer Systems/logic gates.md",
+    "Computer Science/Computer Systems/comp 273 week 2.md",
+    "Computer Science/Computer Systems/truth table.md",
+    "Computer Science/Computer Systems/boolean algebra.md",
+    "Computer Science/Computer Systems/boolean functions.md",
+    "Computer Science/Computer Systems/boolean operations.md",
+    "floating point standards.md",
+    "Computer Science/Computer Systems",
     "Screenshot 2025-01-15 at 12.21.19 PM.png",
     "Screenshot 2025-01-15 at 12.08.08 PM.png",
-    "comp 273 week 2.md",
-    "floating point standards.md",
     "base conversion.md",
     "bases.md",
     "COMP273 outline.md",
@@ -358,21 +370,12 @@
     "Computer Science/Software Systems/COMP206 Software Systems Outline.md",
     "effective altruism.md",
     "TIN Framework.md",
-    "welfarism.md",
     "non-consequentialism.md",
-    "consequentialism.md",
-    "bit.md",
-    "nibble.md",
-    "byte.md",
-    "word.md",
     "Screenshot 2025-01-14 at 12.43.34 PM.png",
-    "comp206 week 2.md",
-    "command line.md",
     "Screenshot 2025-01-13 at 1.59.18 PM.png",
     "Screenshot 2025-01-13 at 1.58.39 PM.png",
     "Screenshot 2025-01-13 at 1.44.34 PM.png",
     "Screenshot 2025-01-13 at 1.29.50 PM.png",
-    "Computer Science/Software Systems",
-    "Chemistry/spdf periodic table.png"
+    "Computer Science/Software Systems"
   ]
 }
