@@ -12,7 +12,7 @@ Intermolecular forces depend on polarity of molecular and [[polarisability]].
 
 A nearby electric field can *induce* a distortion in the electron cloud for polar and non-polar molecules. The distortion enhances a dipole moment for a polar molecule and induces a dipole moment for a non polar molecule. 
 
-![[Screenshot 2024-12-15 at 8.03.27 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-15 at 8.03.27 PM.png)
 
 ##### Comparing intermolecular forces between molecules
 1. Determine which intermolecular forces are present

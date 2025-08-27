@@ -1,6 +1,6 @@
 #chem110 
 shows the structure of bonds
-![[Screenshot 2024-10-04 at 3.25.46 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-10-04 at 3.25.46 PM.png)
 
 ### Determining Lewis Structures
 1. determine total number of valence electrons

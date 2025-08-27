@@ -9,11 +9,11 @@ def: for A $n\times n$ [[matrix]] define determinants $det(A)$ or $|A|$ as follo
 			 $=a_{ij}c_{ij}(A)+a_{in}c_{in}(A)$
 			 Called cofactor expansion
 
-![[determinant proof observation.png]]
+![](../assets/determinant proof observation.png)
 ###### Example 1
-![[Screenshot 2024-10-15 at 12.41.37 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-10-15 at 12.41.37 PM.png)
 ###### Example 2
-![[Screenshot 2024-10-15 at 12.58.42 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-10-15 at 12.58.42 PM.png)
 ##### Pro 18 - Property of computing a determinant
 determinant does not depend on which row i is used and for each $j=1,2,...,n$  $det(A)=\sum_{i=1}^nA_{ij}c_{ij}(A)$
 
@@ -30,7 +30,7 @@ let $V=\pmatrix{1&a_1&a_1^2\\1&a_2&a_2^2\\1&a_3&a_3^2}$
 find the det
 $=|\matrix{1&a_1&a_1^2\\0&a_2-a_1&a_2^2-a_1^2\\0&a_3-a_1&a_3^2-a_1^2}|$
 $=1\cdot |\matrix{a_2-a_1&a_2^2-a_1^2\\a_3-a_1&a_3^2-a_1^2}|$
-![[Screenshot 2024-10-15 at 1.48.08 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-10-15 at 1.48.08 PM.png)
 factor out
 $=(a_2-a_1)(a_3-a_1)\cdot |\matrix{1&a_2-a_1\\1&a_3-a_1}|$
 
@@ -40,7 +40,7 @@ let $A$ $n\times n$ matrix
 1. If $A$ has a row / column of all zeros the $det(A)$ must be zero
 2. If $A$ has two identical rows / columns the $det(A)$ must be zero
 3. $det(cA)$ $=$ $c^n$ $\cdot$ det$(A)$ - each operation mult determinant by $c$.
-4. If matrix block triangular form where each $B_i$ is a square block $det(A) = det(B_1)\cdot ... \cdot det(B_k)$![[Screenshot 2024-11-11 at 4.08.50 PM.png]]
+4. If matrix block triangular form where each $B_i$ is a square block $det(A) = det(B_1)\cdot ... \cdot det(B_k)$![](../../assets/screenshots/Screenshot 2024-11-11 at 4.08.50 PM.png)
 
 ##### Determinants and [[Elementary Matrices]]
 Let $E$ be an [[elementary matrices|elementary matrix]]. Then

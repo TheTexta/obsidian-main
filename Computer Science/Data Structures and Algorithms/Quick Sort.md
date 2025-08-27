@@ -7,7 +7,7 @@ Idea:
 - Sort the left and right of the list separately and [[Recursion|recursively]]
 - Keep on going with the recursion until sorted
 
-![[Screenshot 2024-11-10 at 7.13.11 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-10 at 7.13.11 PM.png)
 
 ### Implementation
 - A method that swaps two elements

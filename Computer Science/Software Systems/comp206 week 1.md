@@ -6,7 +6,7 @@
 		- manual memory management
 		- little runtime overhead and running in low resources environments
 		- not going to assume portable software (linux constant)
-- ![[Screenshot 2025-01-13 at 1.29.50 PM.png]]
+- ![](../../assets/screenshots/Screenshot 2025-01-13 at 1.29.50 PM.png)
 - [[operating system]]
 - the road to modern os
 	- single system for multiple machines (initially)

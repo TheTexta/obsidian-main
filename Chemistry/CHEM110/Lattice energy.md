@@ -7,4 +7,4 @@ $r$ is the distance between them
 1. Charge of the ions - (higher charge higher breakage energy)
 2. Size - larger size lesser energy (closer bonds harder to break)
 
-![[Screenshot 2024-10-04 at 2.34.40 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-10-04 at 2.34.40 PM.png)

@@ -1,7 +1,7 @@
 #math133 
 given u,v,w \in \mathbb{R}^3, form parallelpiped (box).
 
-![[Screenshot 2024-11-26 at 1.21.39 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-26 at 1.21.39 PM.png)
 
 Vol = (area of base) x h
 $h=||proj_{u\times v}(w)||=\frac{w\cdot(u\times v)}{||u\times v||}$

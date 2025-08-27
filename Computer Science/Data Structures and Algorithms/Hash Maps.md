@@ -7,7 +7,7 @@
 Map keys to integer values (hash codes) then compress them to a small range. Two strings with the same hashcode may/not be the same. If they are not the same then they are definitely not the same.
 
 Due to compression, we use linked lists at the end to store all colliding values. 
-![[Screenshot 2024-12-05 at 10.52.57 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-05 at 10.52.57 PM.png)
 
 The load factor is \frac{number of pairs}{number of buckets}
 TYpically keep the load factor below 1. In the Java hashmap class the maximum load factor is 0.75.

@@ -12,7 +12,7 @@ take the smaller element of the two children and swap continuously.
 
 
 ##### Heap array implementation
-![[Screenshot 2024-11-25 at 12.56.51 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-25 at 12.56.51 PM.png)
 parent = child/2
 left = 2\*parent
 right = 2\*parent +1

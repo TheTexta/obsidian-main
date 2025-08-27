@@ -32,7 +32,7 @@ L - Turn left 90 degrees
 
 by saving the operations sequentially we can undo draw states.  knowing where the brackets are as starting and ending points.
 
-![[Screenshot 2024-10-15 at 5.12.43 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-10-15 at 5.12.43 PM.png)
 
 ### Example: "Call Stack"
 ```java
@@ -48,5 +48,5 @@ class Demo {
 	}
 }
 ```
-![[Screenshot 2024-10-15 at 8.26.02 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-10-15 at 8.26.02 PM.png)
 [[Stack overflow]] is when a method is pushed onto the stack infinitely - causing an overflow as the variable holding the stack becomes full. Stack underflow is when a stack is empty and we attempt a pop.

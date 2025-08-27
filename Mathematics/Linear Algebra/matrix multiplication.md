@@ -4,7 +4,7 @@
 Given $S:R^n->R^m$, $T:R^m->R^p$ transformations, define the *composition* $T\cdot S:R^n->R^p$ by, for each $v\in R^n$,
 
 $(T\cdot S)(\vec{v})=T(S(\vec{v}))$
-![[Screenshot 2024-09-22 at 3.44.28 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-09-22 at 3.44.28 AM.png)
 
 ##### Example
 A=((1,2)(0,-3)), B=((2,1),(1,-1))

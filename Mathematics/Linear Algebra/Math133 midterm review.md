@@ -93,7 +93,7 @@ A matrix is consistent if it has *at least one* solution. It is inconsistent oth
 ##### Homogeneous system
 All constants are zero.
 ### TODO
-- Linear Dependance problem: ![[Screenshot 2024-10-21 at 4.39.50 PM.png]]
+- Linear Dependance problem: ![](../../assets/screenshots/Screenshot 2024-10-21 at 4.39.50 PM.png)
 - Understand how to find inverses of matrices other than those which are $2 \times 2$.
-- ![[Screenshot 2024-10-21 at 6.51.58 PM.png]]
+- ![](../../assets/screenshots/Screenshot 2024-10-21 at 6.51.58 PM.png)
 

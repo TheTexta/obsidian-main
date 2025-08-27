@@ -44,7 +44,7 @@ as the basis of the span of V, where the dimension comes to be 3.
 SOL 2:
 via a column space
 B=\[vectors v\]
-![[Screenshot 2024-11-28 at 12.18.23 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-28 at 12.18.23 PM.png)
 can conclude v_1,v_2,v_5 form basis of col B =V 
 
 ##### Corollary

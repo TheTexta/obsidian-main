@@ -1,7 +1,7 @@
 #math133 
 let $p_0$ be a [[point]] and $\vec{d}$ a [[vector]].
 The line that passes through $p_0$ in the direction $\vec{d}$ is is all points p such that $\vec{p_0}+t\vec{d}$
-![[Screenshot 2024-11-13 at 10.24.41 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 10.24.41 AM.png)
 
 also written as a function of $t$, $l(t)=\vec{p_0} + t\vec{d}$
 

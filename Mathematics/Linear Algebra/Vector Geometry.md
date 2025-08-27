@@ -23,7 +23,7 @@ $||c\vec{u}||=|c|\cdot ||\vec{u}||$
 vector from points p to q - v is found with the following operation
 $\vec{v}=\vec{q}-\vec{p}$ - (p to q vector) - remember that a vector from origin isnt the negative version of itself.
 
-![[Screenshot 2024-11-13 at 10.13.49 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 10.13.49 AM.png)
 ##### [[Unit Vector]]
 If $||\vec{u}||=1$, $\vec{u}$ called unit vector
 if $\vec{u}\neq 0$, $u$ not unit vector then $\vec{v}=\frac{1}{||u||}\cdot\vec{u}$
@@ -32,7 +32,7 @@ $\vec{v}$ is a unit vector
 ##### [[lines]]
 let $p_0$ be a [[point]] and $\vec{d}$ a [[vector]].
 The line that passes through $p_0$ in the direction $\vec{d}$ is is all points p such that $\vec{p_0}+t\vec{d}$
-![[Screenshot 2024-11-13 at 10.24.41 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 10.24.41 AM.png)
 
 ##### [[parallel, skew and intersecting lines]]
 $l_1(t)=p_1+td_1, l_2(t)=p_2+td_2$
@@ -64,7 +64,7 @@ when angle is $\pi/2$ or one of the vectors is zero the dot product of two vecto
 
 
 ##### [[projections]]
-![[Screenshot 2024-11-13 at 5.33.54 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 5.33.54 PM.png)
 The w vector is the projection of v onto u. The w vector is of the same direction of u but with an endpoint closest to v.
 $\vec{w} = \text{proj}_{\vec{u}} \vec{v} = \left( \frac{\vec{u} \cdot \vec{v}}{\|\vec{u}\|^2} \right) \vec{u}$
 

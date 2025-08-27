@@ -23,7 +23,7 @@ Methods:
 * [[Solving Augmented Matrixes]] through [[Elementary Operations]] and [[Elementary Row Operation|row operations]]
 * Converting [[Linear Equation|linear equations]] to [[Augmented Matrix|augmented matrices]]
 * [[Notating solutions to system problems with R]]
-* When you substitute in questions you need to sub in all possible solutions since there can be multiple solutions to any matrix its not worth trying to simplify ![[Screenshot 2024-09-11 at 11.54.26 PM.png]]
+* When you substitute in questions you need to sub in all possible solutions since there can be multiple solutions to any matrix its not worth trying to simplify ![](../assets/screenshots/Screenshot 2024-09-11 at 11.54.26 PM.png)
 * if a column has all zeros the system has infinitely many solutions
 * [[Gauss Jordan Elimination]]
 * [[Scalar multiplication]]

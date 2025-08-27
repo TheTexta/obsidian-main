@@ -21,7 +21,7 @@ AP=A\[v_1,v_2,...,v_n\]
 
 A=PDP^-1
 Transforming A into a diagonalisable matrix. 
-![[Screenshot 2024-12-05 at 4.20.33 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-05 at 4.20.33 PM.png)
 If v vectors is a basis of R^n where Av=\lambda v, then A=PDP^-1 with P=vectors and D=\pmatirx{lambeda ...} along each row in 
 
 Ex.
@@ -29,9 +29,9 @@ For A=\pmatrix{4&-1&6\\2&1&6\\2&-1&8} find P,D where A=PDP^-1.
 Find C_A(T)=-(x-2)^2(x-9) from so eigenvalues are 2,9
 
 For eigenvalue 2: Solve (A-2I)\vec{x}=\vec{0}
-![[Screenshot 2024-12-05 at 4.24.39 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-05 at 4.24.39 PM.png)
 
 $E_2=span{\pmatrix{1\\2\\0},\pmatrix{-3\\0\\1}}$
 For eigenvalue=9
-![[Screenshot 2024-12-05 at 4.30.30 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-05 at 4.30.30 PM.png)
 

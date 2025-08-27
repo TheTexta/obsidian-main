@@ -5,4 +5,4 @@ II. If ERO was $R_i->R_i+cR_i$ - det(B)=det(A) (useful because you can reduce by
 III. If ERO was $R_i ->R_j$ - det(B) = -det(A)
 
 ### Examples
-![[Screenshot 2024-10-15 at 1.32.19 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-10-15 at 1.32.19 PM.png)

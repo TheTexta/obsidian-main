@@ -3,7 +3,7 @@
 - 
 - 
 ##### find()
-![[Screenshot 2024-11-17 at 3.43.22 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-17 at 3.43.22 PM.png)
 ```java
 find(root, key){
 	//returns a node

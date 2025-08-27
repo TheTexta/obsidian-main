@@ -1,5 +1,5 @@
 #math133 
-![[Screenshot 2024-11-27 at 10.44.37 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-27 at 10.44.37 AM.png)
 
 This plane is a 2d space. 
 
@@ -17,7 +17,7 @@ Example
 if v_1,...,v_m are independent, and v_m+1 is not in span {v,...,v} then v indpenendent. Basically you have a span of given vectors and the next given vector cannot be built from that span then all the vectors including the next one are independent.
 
 ##### Building a basis 2
-![[Screenshot 2024-11-27 at 11.08.53 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-27 at 11.08.53 AM.png)
 Take vectors and continuously add (checking for independence) to the span until they form the span. 
 
 ### Theorems relating to bases
@@ -55,13 +55,13 @@ Let U be a subspace of R^n, m = dim(U) and let X = {m vectors of v} (|X|=m=dim U
 
 Problem
 Let $u,v,w \in R^3$ all non zero mutually orthogonal. u\cdot v=0, u\cdot w=0, v\codt w=0. Show they are basis of R^3
-![[Screenshot 2024-11-27 at 11.43.54 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-27 at 11.43.54 AM.png)
 
 Sol:
 dim R^3=3. and 3 vectors (correct number for basis). we can show independent or span, other property from them 3. 
 suppose
 au+bv+cw=0
-![[Screenshot 2024-11-27 at 11.46.16 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-27 at 11.46.16 AM.png)
 
 #### Theorem 4
 Let $U,W$ subspace of $R^n$ with $U\leq W$. 

@@ -31,10 +31,10 @@ $T(3\pmatrix{1\\2})\neq 3T(\pmatrix{1\\2})$
 If A m\times n, T_A:R^n->R^m defined by 
 $T_A(x)=Ax$
 is linear since
-![[Screenshot 2024-11-28 at 1.05.07 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-28 at 1.05.07 PM.png)
 
 3.
 Let R:R^2->R^2 be rotation counter-clockwise by \Theta about 0,0. It is linear tranform
 
 4.
-![[Screenshot 2024-11-28 at 1.21.36 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-28 at 1.21.36 PM.png)

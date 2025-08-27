@@ -163,7 +163,7 @@ let $\vec{u},\vec{v}$ vectors. if $\vec{u}=c\vec{v}$ ($c\neq 0$) we say $\vec{u}
 - c<0 opposite directions
 ###### Vector addition (parallelogram law)
 If two vectors placed so they have the same initial point, and then complete the vectors into a parallelogram, then the sum of the vectors is the directed diagonal that starts at the same point as the vectors.
-![[Screenshot 2024-11-13 at 10.13.49 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 10.13.49 AM.png)
 ###### [[Unit Vector]]
 If $||\vec{u}||=1$, $\vec{u}$ called unit vector
 
@@ -174,7 +174,7 @@ $\vec{v}$ is a unit vector
 ##### [[lines]]
 let $p_0$ be a [[point]] and $\vec{d}$ a [[vector]].
 The line that passes through $p_0$ in the direction $\vec{d}$ is is all points p such that $\vec{p_0}+t\vec{d}$
-![[Screenshot 2024-11-13 at 10.24.41 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 10.24.41 AM.png)
 ###### [[parallel, skew and intersecting lines]]
 $l_1(t)=p_1+td_1, l_2(t)=p_2+td_2$
 1. parallel if $d_1=cd_2$ for some $c\neq 0$
@@ -200,7 +200,7 @@ $$\cos \theta = \frac{\vec{u} \cdot \vec{v}}{\|\vec{u}\| \|\vec{v}\|}$$
 when angle is $\pi/2$ or one of the vectors is zero the dot product of two vectors is zero. because $\cos \theta = \frac{\vec{u} \cdot \vec{v}}{\|\vec{u}\| \|\vec{v}\|}$ simplifies to $0=\vec{u}\cdot \vec{v}$.
 ##### Projections
 A projection is a scaled vector by the endpoint of another
-![[Screenshot 2024-11-13 at 5.33.54 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 5.33.54 PM.png)
 The w vector is the projection of v onto u. The w vector is of the same direction of u but with an endpoint closest to v.
 $\vec{w} = \text{proj}_{\vec{u}} \vec{v} = \left( \frac{\vec{u} \cdot \vec{v}}{\|\vec{u}\|^2} \right) \vec{u}$
 
@@ -215,7 +215,7 @@ Where $a$,$b$ and $c$ are coefficients determining the orientation of the plane 
 ###### Normals Vectors and Planes
 every equation $ax+by+cz=d$ is a plane with normal vector $n=\pmatrix{a\\b\\c}$
 ##### Cross Product
-![[Screenshot 2024-11-15 at 7.50.31 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-15 at 7.50.31 AM.png)
 The cross product, w, is $u\times v\in\mathbb{R}^3 =\pmatrix{a_2b_3-a_3b_q\\-(a_1b_3-a_3b_1)\\a_1b_2-a_2b_1}$. uv cross vector is your thumb using the right hand rule. 
 1. $v\times u = -(u\times v)$
 2. $c(u\times v)=(cu)\times v=u\times (cu)$
