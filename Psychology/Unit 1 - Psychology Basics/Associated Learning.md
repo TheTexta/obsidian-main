@@ -1,0 +1,1 @@
+Seeing A and B together repeatedly makes you associate the two together.

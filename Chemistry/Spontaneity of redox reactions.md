@@ -1,0 +1,2 @@
+#chemistry 
+Redox reactions spontaneity:[[Redox Reactions]]] only occur when the [[element]] undergoing [[reduction]] is higher (has a more positive [[electrode potential]]) then the [[element]] undergoing [[oxidisation]].

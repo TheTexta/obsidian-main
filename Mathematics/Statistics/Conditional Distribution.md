@@ -1,0 +1,2 @@
+#statistics 
+Distribution of correct given a certain factor is met, always measured in percentage, unlike [[marginal distribution]]. Kinda like measuring the sub distribution of a [[marginal distribution]]. Looking at the distribution when a certain variable is true. 

@@ -1,0 +1,1 @@
+A function is said to become infinite (positively/negatively) if the value of $x\to c$ is made arbitrarily large. eg. $\lim_{x\to c}f(x)=\pm\infty$. This is because for a [[Limits|limit]] to exist it must be a real finite number. **If a limit is $\infty$ no matter what it does not exist.** 

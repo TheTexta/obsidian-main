@@ -1,0 +1,1 @@
+1956 - The Magical Number 7 Plus or Minus 2: Some Limits on Our Capacity for Processing Information.” Milner argued that [[short-term memory]] could only hold about seven pieces of information, called chunks.

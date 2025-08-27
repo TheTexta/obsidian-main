@@ -1,0 +1,2 @@
+#biol111 
+basidia::specialised end cells of mushroom gills involved in sexual reproduction. where the nuclei fuse to produce a diploid cell which allows for the process of [[meiosis]] - going back to haploid cells. these haploid cells become spores.

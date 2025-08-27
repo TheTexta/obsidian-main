@@ -1,0 +1,1 @@
+The process of a [[Neurotransmitters|neurotransmitter]] reacting to send a signal through the [[neuron]], the [[action potential]].

@@ -1,0 +1,1 @@
+Not likely to occur when there are weak or absent [[Property Rights]]

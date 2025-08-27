@@ -1,0 +1,1 @@
+Another term for [[Market 1]], referring to the space which buyers meet physically or virtually to exchange [[Economic Goods]] and services.

@@ -1,0 +1,2 @@
+#disorder-psychology 
+Antisocial Personality Disorder::A [[personality disorders|personality disorder]] in which a person (usually a man) exhibits a lack of conscience for wrongdoing, even toward friends and family members; may be aggressive and ruthless or a clever con artist.

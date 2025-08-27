@@ -1,0 +1,2 @@
+#disorder-psychology 
+Medical Model::The [[concept]] that diseases, in this case [[Psychological Disorder|psychological disorders]], have physical causes that can be diagnosed, treated and in most cases, cured, often through treatment in a hospital.

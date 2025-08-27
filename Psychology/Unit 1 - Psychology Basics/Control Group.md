@@ -1,0 +1,1 @@
+The group where nothing happens, used to measure baseline variables in a study.

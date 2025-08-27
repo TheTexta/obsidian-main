@@ -1,0 +1,25 @@
+#review #chemistry 
+- $H$ is attached to $O$ in oxy-acids
+- Always add "odd" [[Electron|electrons]] to the central atom
+- $H$ is stable with $2e^-$
+- $Be$ is stable with $4e^-$
+- $B$ is stable with $6e^-$
+- Generally anything n3 and greater will expand (commonly P, S, As, Br and Se) which usually bond with highly electronegative atoms (F, Cl, O).
+- t-shaped bonds are 90 degrees
+- You must check a molecule has polar bonds before you declare its polarity.
+- trigonal pyrimidal has bond angles of <109.5
+- When talking about the jumber of lone electrons on the central atom they are refering to the total not the excess (when compared to 8)
+- look at question 14.
+- BP-BP least repulsion LP-LP Most
+- [[intermolecular]]
+- [[intramolecular]]
+- [[bond order]] = $\frac{\text{number of bonds}}{\text{number of possible configuratinos}}$
+- [[bond order]] only counts those which are changing.
+- pi bonds are formed by side to side overlap of p [[Orbitals]]
+- sigma bonds are formed by end to end overlap of s [[Orbitals|orbitals]].
+- resonance means that a given molecule has multiple configurations available.
+- practice question 27. the geometry of the ICL- molecule is best described as *linear* since it is trignola bipyrimdal linear
+- An [[Electron]] by itself does not disrupt the shape.
+- h-bonds require N, O or F
+- h-bonds are intermolecular not intramolecular.
+- to dissolve in water you need uneven bonding.

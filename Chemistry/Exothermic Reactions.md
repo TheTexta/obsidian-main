@@ -1,0 +1,2 @@
+[[Reactions]] which release [[Kinetic Energy]] and have a negative [[Enthalpy Change]]. These kind of reactions are associated with bond forming, which lowers the overall kinetic energy of a system as less government occurs after the conjoinment.
+![[exothermic reaction energy graph.svg]]

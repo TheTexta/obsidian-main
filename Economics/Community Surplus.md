@@ -1,0 +1,2 @@
+#microeconomics 
+Community Surplus::The sum of [[Consumer Surplus|consumer]] and [[Producer Surplus]], representing the total benefit to society from the production and consumption of goods and services.

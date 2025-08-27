@@ -1,0 +1,2 @@
+## AB + C $\rightarrow$ AC + B
+Single displacement [[reactions]] occur when a compound is mixed with an [[element]] which is more reactive then the one in the compound. You can determine if a single displacement [[Reactions|reaction]] will occur based upon the activity series which ranks the reactivity of various elements. if the single [[element]] is more reactive then one of the components of the [[Compound]] then the displacement reaction will occur. 

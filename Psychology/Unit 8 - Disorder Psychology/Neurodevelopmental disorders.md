@@ -1,0 +1,2 @@
+#disorder-psychology 
+Neurodevelopmental Disorders::These are [[central nervous system]] abnormalities (usually in the [[brain]]) that start in childhood and alter thinking and behaviour (such as intellectual limitations or another psychological disorder)

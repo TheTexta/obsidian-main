@@ -1,0 +1,1 @@
+Acronym for remembering the structures present in the [[Limbic System]].

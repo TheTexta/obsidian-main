@@ -1,0 +1,1 @@
+Meaning that ones consumption of a resource doesn't affect another's consumption of that resource. Resources like air would be an example of a non rival and non [[Scarcity|scarce]] resource.

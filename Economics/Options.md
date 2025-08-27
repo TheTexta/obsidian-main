@@ -1,0 +1,1 @@
+Options are contracts which give buyers the opportunity to buy/sell an asset at an agreed upon price and date. They are based upon the underlying price of a security such as a stock. All options have an expiration date where they cash out?

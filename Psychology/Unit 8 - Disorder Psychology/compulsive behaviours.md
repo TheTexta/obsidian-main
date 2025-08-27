@@ -1,0 +1,2 @@
+#disorder-psychology 
+Compulsive Behaviours::Actions that are engaged in repeatedly and consistently, despite the fact that they are experienced as aversive or troubling . they are often responses to obsessive thoughts. 

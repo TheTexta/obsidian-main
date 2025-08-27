@@ -1,0 +1,3 @@
+#biological-psychology 
+HPA Axis::[[hypothalamus]] - [[pituitary gland|pituitary]] - [[adrenal gland|adrenal]] axis. Stressful events trigger the [[hypothalamus]] to instruct the [[pituitary gland]] to release a [[hormones|hormone]] which triggers the [[adrenal gland]] to flood the body with [[cortisol]], a stress [[hormones|hormone]] which increases blood sugar. High levels of [[cortisol]] cause the [[hypothalamus]] to shut off the stress response.
+<!--SR:!2023-12-20,2,230-->

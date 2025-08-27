@@ -1,0 +1,2 @@
+#calculus 
+All about transforming [[Functions]] to find there rate of change and areas, [[Derivative|Derivation]]s and [[Integration]] are the two processes by which one transforms a [[Functions|function]] to either find its [[slope]] or area at a given point / set of values.

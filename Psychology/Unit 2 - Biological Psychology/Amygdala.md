@@ -1,0 +1,3 @@
+#biological-psychology 
+Amygdala::There's two of these almond sized structures in front of the [[hippocampus]], the fight/flight/freeze response. Organises response patterns to emotional stimuli, especially surprise, fear, anger, sadness and disgust. part of the [[HPA axis]]. The [[Prefrontal Cortex]] can override the [[Amygdala]], without the full development of the [[Prefrontal Cortex]], the [[amygdala hijack]] is an emotional response which can occur. Damaged [[Amygdala|amygdalas]] results in no fear response.
+<!--SR:!2023-12-21,3,250-->

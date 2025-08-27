@@ -1,0 +1,1 @@
+A statement which is true if the observed differences in the samples are due to chance. When the [[Hypothesis]] is wrong the [[Null Hypothesis]] is true.

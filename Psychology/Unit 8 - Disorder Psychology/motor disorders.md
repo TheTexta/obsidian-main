@@ -1,0 +1,2 @@
+#disorder-psychology 
+Motor Disorders::Motor [[Psychological Disorder|disorders]] impair people's ability to communicate, interact with others, or perform necessary tasks. These disorders include: developmental coordination disorder, stereotypic movement disorder and Tourette's disorder.

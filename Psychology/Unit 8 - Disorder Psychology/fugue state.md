@@ -1,0 +1,2 @@
+#disorder-psychology 
+Fugue State::Also known as dissociative state, fugue state is a psychological state in which a person loses awareness of their identity or other important autobiographical information. related to [[dissociative identity disorder]] and [[dissociative amnesia]].

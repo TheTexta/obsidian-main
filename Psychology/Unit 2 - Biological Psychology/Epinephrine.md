@@ -1,0 +1,1 @@
+Epinephrine helps forms memories, and releases in response to highly emotional situations

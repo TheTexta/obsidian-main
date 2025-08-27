@@ -1,0 +1,2 @@
+#statistics 
+Dummy Variable::Also known as an indicator variable, a dummy variable is one which takes on a value of 1 or 0 to indicate the absence or presence of some categorical effect which is expected to shift the outcomes. 

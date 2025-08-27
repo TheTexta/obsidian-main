@@ -1,0 +1,2 @@
+#disorder-psychology 
+Panic Disorder::An [[anxiety disorders|anxiety disorder]] marked by unpredictable, minutes-long episodes of intense dread in which a person may experience terror and accompanying chest pain, choking or other frightening sensations; often followed by worry over a possible next attack. 

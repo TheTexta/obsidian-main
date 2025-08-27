@@ -1,0 +1,1 @@
+International Trade:: sets [[supply]] point at a constant price, if below [[equilibrium]] importation will occur and [[Deadweight Loss]] will be created.

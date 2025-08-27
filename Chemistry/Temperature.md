@@ -1,0 +1,1 @@
+A measurement of the average level of [[Kinetic Energy]] in a particle/substance. Objects can have high energy with little ability to transfer heat known as "low [[Heat]]" because it has a low amount of total kinetic energy but the energy it has it very high.

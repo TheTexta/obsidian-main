@@ -1,0 +1,1 @@
+When changes in a [[Economic Goods]] price do not change the [[demand]] / [[supply]] for that [[Economic Goods|good]].

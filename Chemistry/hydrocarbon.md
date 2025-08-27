@@ -1,0 +1,1 @@
+Hydrocarbon is the name given to any organic matter containing some arrangement of hydrogen and carbon. 

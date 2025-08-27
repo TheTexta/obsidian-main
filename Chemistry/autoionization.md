@@ -1,0 +1,1 @@
+The [[autoionization]] of water into its constituent ions has a very low K value, denoted as $K_W$. $K_W = 1 \cdot 10^{-14}$

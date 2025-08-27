@@ -1,0 +1,1 @@
+Active recall is the process of actively attempting to remember a topic or material. 

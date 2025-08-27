@@ -1,0 +1,2 @@
+#biol111 
+Mycorrhizae::A species of [[fungi]]. this the the [[fungi]] in the soil which partner with [[angiosperms]] to help the [[angiosperms]] get nutrients from the soil. A lack of mycorrhizae partner can limit the [[plants|plant]] species distributions, likewise the introduction of a partner mycorrhizal can enable invasion.

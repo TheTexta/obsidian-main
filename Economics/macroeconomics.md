@@ -1,0 +1,1 @@
+The study of economics and countries outputs as a whole. As opposed to [[Microeconomics]].

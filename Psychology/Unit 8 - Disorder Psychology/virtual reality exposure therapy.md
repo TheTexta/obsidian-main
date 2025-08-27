@@ -1,0 +1,2 @@
+#disorder-psychology 
+Virtual Reality Exposure Therapy::A counterconditioning technique that treats anxiety though creative electronic simulations in which people can safely face their greatest fears, such as airplane flying, spiders, or public speaking. 

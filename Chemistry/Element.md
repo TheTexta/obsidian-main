@@ -1,0 +1,1 @@
+Every element has a [[Atomic Mass]], [[Atomic number]], [[Electronegativity]] and [[Valence Charge]]. Elements are arranged in the [[periodic table]] in order of # of [[Proton|protons]], further divided into groups based on the numbers of electrons in there outer [[Valence Shell]].
