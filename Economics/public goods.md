@@ -1,2 +1,0 @@
-#microeconomics 
-Public Goods::Non-exclusion, cannot exclude people from the benefits and non-rivalry, where one persons consumption of a good doesn't impact another's usefulness gained from the good. They suffer from the [[Free Riders]] problem

@@ -1,2 +1,0 @@
-#chem110 
-An ideal body that absorbs all radiation falling on it. A perfect absorber or emitter. To stay in thermal [[equilibrium]] it must emit radiation at the same rate it absorbs it so a black body can also radiate. Therefor stars can be used as blackbody approximations. Everything at any [[temperature]] emits radiation with the same shape curve it is just shifted to shorter [[wave|waves]] gets as things get warmer (visible if hot). 

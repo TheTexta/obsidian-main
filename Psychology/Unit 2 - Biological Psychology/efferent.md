@@ -1,1 +1,0 @@
-Takes information and puts it into action / context. 

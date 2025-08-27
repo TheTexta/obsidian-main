@@ -1,2 +1,0 @@
-#biological-psychology 
-Tolerance::The diminishing effect with regular use of the same dose of a drug, requiring larger doses before experiencing the drugs effect. Users develop tolerance as their brain chemistry adapts to the offset, known as [[neuroadaptation]]. Some people don't need to drink a lot physiologically to get a lot of the effects of [[alcohol]].

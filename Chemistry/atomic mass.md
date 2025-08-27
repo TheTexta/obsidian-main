@@ -1,1 +1,0 @@
-Atomic mass is the "weight" of an element. It is the number of [[Proton|protons]] + number of [[Electron|electrons]] in an [[element]]. The [[Average Atomic Mass]] is different to the true atomic mass, as it is the average of the atomic masses of the element found in nature which include all [[Isotope|isotopes]] of that [[element]].  

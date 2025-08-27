@@ -1,1 +1,0 @@
-An isotope is an element with $\pm$ neutrons then the form of that element with an equal number of neutrons to protons. 

@@ -1,2 +1,0 @@
-#calculus 
-When you [[Derivative|derive]] an equation with x *and y* at the same time. Just remember when you [[Derivative|differentiate]] y in terms of x you derive it then multiply it by $\frac{dy}{dx}$. once you finish w all that you can rearrange the equation to find the rate of change as you change both x and y.

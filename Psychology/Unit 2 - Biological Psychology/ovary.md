@@ -1,1 +1,0 @@
-produces estrogen and progesterone

@@ -1,1 +1,0 @@
-The [[instantaneous rate of change|IROC]] or [[Derivative]] of a [[Functions]] at a given point. The [[interval]] used to find the [[instantaneous rate of change|iroc]] of a [[interval]] can be a centred [[interval]], following interval and trailing interval.

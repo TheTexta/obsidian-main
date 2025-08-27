@@ -1,1 +1,0 @@
-A compound is a chemically bonded group of differing [[Element|elements]]. There are three types of compounds, [[Ionic Compounds]], [[Covalent compounds]] and [[metals]]. 

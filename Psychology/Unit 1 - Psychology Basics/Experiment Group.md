@@ -1,1 +1,0 @@
-The group that is manipulated to test correlation/causation between [[independent variable]] and [[dependent variable]]. 

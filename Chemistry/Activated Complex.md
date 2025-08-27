@@ -1,1 +1,0 @@
-The unstable intermediate species briefly present at the peak [[potential energy]] levels in the [[Transition State]] of [[Endothermic Reactions|endo]] and [[Exothermic Reactions]].

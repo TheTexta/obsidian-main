@@ -1,2 +1,0 @@
-#microeconomics 
-Quota::Known as a quality control, Q on the graph, controlling how much of a good enters the economy. Consumers are worse off as they loose area b and c, producers benefit and gain area b, while still loosing e. e and c are lost to deadweight loss![[Quota Example.png]]

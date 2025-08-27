@@ -1,2 +1,0 @@
-#statistics 
-categorical variable::Takes on values that are category names or group labels. Can be organised into [[frequency tables]] or [[relative frequency tables]], or displayed graphically through [[bar graphs]], [[dotplots]] and [[pie charts]]. *Zip codes are categorical, since they describe a location not a measurement*.

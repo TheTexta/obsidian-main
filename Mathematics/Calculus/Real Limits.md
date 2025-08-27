@@ -1,2 +1,0 @@
-#calculus 
-For a [[Limits|limit]] to exist the [[left hand side|LHS]] and [[right hand side|RHS]] of the [[Limits|limit]] must exist and tend towards the same number. A [[Limits|limit]] can exist without the point of the [[Limits|limit]] being explicitly defined so long as the above rules are satisfied. A [[limits]] existence can be proved by calculating the [[right hand side|RHS]] and [[left hand side|LHS]] and confirming that they match/exist.

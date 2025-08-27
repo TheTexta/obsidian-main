@@ -1,1 +1,0 @@
-The kind of conditioning present in the natural environment. Where rewards are associated rather then directly learnt. Pavlovs dog salivating when the bell is wrung is an example of classical conditioning. Your tongue salivating when you think of sour food is an exmaple of classical conditioning

@@ -1,2 +1,0 @@
-#biol111 
-Archaea::One of the earliest lifeforms to exist, a [[domain]] of single celled organisms initially misclassified as [[bacteria]] which lack [[biological nuclei|nuclei]] and therefor [[prokaryote|prokaryotic]]. Archaea are extremophiles, often found in extreme environments like *hot springs*, *hydrothermal vents*, and *anoxic bogs*.

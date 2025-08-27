@@ -1,3 +1,0 @@
-#social-psychology 
-Self Handicapping Bias::when doing something bad you can blame the fact that you did something stupid beforehand, rather then taking the blame. An excuse to not feel bad about yourself or your performance. Like getting high before an exam to blame being high as the reason that you did poorly rather then the fact that you just didn't study AND ARE RETARDED.
-<!--SR:!2023-11-08,4,270-->

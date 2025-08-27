@@ -1,1 +1,0 @@
-Extrasensory perception (ESP)::The controversial claim that perception can occur apart from sensory input; includes [[telepathy]], [[clairvoyance]] and [[precognition]].

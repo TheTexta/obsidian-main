@@ -1,2 +1,0 @@
-#perception-psychology #chem110 #physics 
-Our eyes receive light energy and transduce it into neural messages. [[Amplitude]] changes the brightness and volume of a light / sound wave. [[wavelength]] and [[frequency]] determines colour, amplitude determines brightness. 

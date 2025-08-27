@@ -1,2 +1,0 @@
-#disorder-psychology 
-Anorexia Nervosa::An eating disorder in which a person (usually adolescent female) maintains a starvation diet despite already being significantly underweight; sometimes accompanied by excessive exercise.

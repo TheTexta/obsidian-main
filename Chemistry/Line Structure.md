@@ -1,1 +1,0 @@
-When you see a line with no [[element]] listed, assume it is a carbon atom with the suitable number of hydrogens [[Covalent bonds|covalently bonded]] for its to be [[Valence Shell|stable]].![[Pasted image 20230918125707.png]]

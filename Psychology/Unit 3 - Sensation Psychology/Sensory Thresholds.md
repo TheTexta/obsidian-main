@@ -1,1 +1,0 @@
-At any given moment, we are being struck by X-rays, radio waves, ultraviolet, infrared light and sound waves of very high / low frequencies. To those we are blind and death. Dogs can see infrared and can smell better, there sensory threshold is higher for smell. Your [[absolute threshold]] for a sense changes day to day. 

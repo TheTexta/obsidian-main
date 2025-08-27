@@ -1,1 +1,0 @@
-A base is a hydrogen ion acceptor. They have the ability to bond with $H^+$ due to lone pair of electrons

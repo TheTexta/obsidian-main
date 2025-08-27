@@ -1,1 +1,0 @@
-Atomic number is the name for the number of [[Proton|protons]] in a atom. Which is what defines the [[element]] the atom inherits.

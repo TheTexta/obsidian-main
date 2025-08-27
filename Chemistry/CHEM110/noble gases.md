@@ -1,2 +1,0 @@
-#chem110 
-Now mainly referred to as [[inert gasses]] these gases are elements in the last period of the [[periodic table]] and are mostly very un-reactive (completely when coined but later found to be more reactive giving rise to the [[inert gasses]] naming).

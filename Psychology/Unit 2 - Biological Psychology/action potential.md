@@ -1,3 +1,0 @@
-#biological-psychology 
-Action Potential::An electrical impulse which travels down the axon, the process of the [[neuron]] firing causing the decrease / increase in energy, sending a single down the [[neuron]], along the [[axon]]. Marked by rapid depolarisation of the cells plasma membrane, from a resting potential of -70mV to 40mV, and back again after slight [[hyperpolarization]], to the resting potential. Each action potential takes a few milliseconds.
-<!--SR:!2023-12-20,3,250-->

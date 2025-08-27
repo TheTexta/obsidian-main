@@ -1,1 +1,0 @@
-Any natural resources available

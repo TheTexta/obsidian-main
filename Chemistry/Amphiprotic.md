@@ -1,1 +1,0 @@
-A substance which can act as an acid or a base. They can either donate or accept a h+ ion. they are always negatively charged. 

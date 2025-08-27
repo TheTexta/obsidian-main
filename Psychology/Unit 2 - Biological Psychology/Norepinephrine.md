@@ -1,1 +1,0 @@
-Alertness, and arousal, heart rate

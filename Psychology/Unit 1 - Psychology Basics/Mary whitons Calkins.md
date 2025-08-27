@@ -1,1 +1,0 @@
-The first female grad of Harvard in 1890 as a student of [[William James]]. In 1905 became the first female president of the [[American Psychological Association|APA]]. Although she met the requirements, Harvard refused to grant her PHD.

@@ -1,1 +1,0 @@
-A theory about how acids are hydrogen donors and bases are hydrogen ion acceptors. 

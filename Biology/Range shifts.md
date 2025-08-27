@@ -1,2 +1,0 @@
-#biol111
-Range shifts::shifts in the area that organism inhabit due to changes in the environment like changes in temperature. They have all the same [[Genotype|genotypes]] and allele frequencies but just a new [[phenotype|phenotypes]]

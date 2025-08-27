@@ -1,1 +1,0 @@
-Indicates a rightward shirt in the [[Production Possibilities Curve]].

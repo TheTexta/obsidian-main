@@ -1,1 +1,0 @@
-Conditioning achieved through direct rewards associated with an action. This is the type of conditioning you see with pets who are trained to perform certain tasks in exchange for a treat. Me playing the piano to get 1 hr of screen time would be an example of operant conditioning.

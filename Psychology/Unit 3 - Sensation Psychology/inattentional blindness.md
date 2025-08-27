@@ -1,1 +1,0 @@
-Inattentional Blindness::Failing to see visible objects when our attention is directed elsewhere.

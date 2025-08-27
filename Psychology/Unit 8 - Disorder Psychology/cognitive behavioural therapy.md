@@ -1,2 +1,0 @@
-#disorder-psychology 
-Cognitive Behavioural Therapy::CBT is a popular integrative therapy that combines [[cognitive therapy]] (changing self-defeating thinking) with [[behaviour therapy]] (changing behaviour).

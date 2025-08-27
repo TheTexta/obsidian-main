@@ -1,2 +1,0 @@
-#disorder-psychology 
-Resilience::The process and outcome of successfully adapting to difficult or challenging, often highly stressful life circumstances. The personal strength that helps most people cope with stress and recover form adversity and even trauma.

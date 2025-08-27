@@ -1,1 +1,0 @@
-Costs that are valued at the next best option forgone when arriving at a decision. The implicit cost is the [[Opportunity Cost]] when a decision is made. 

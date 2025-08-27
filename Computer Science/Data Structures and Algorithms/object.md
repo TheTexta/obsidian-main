@@ -1,2 +1,0 @@
-#comp250 
-An object is a collection of data and a set of methods be provided to work with. a [[String]] is a collection of [[char|character]] and [[method|methods]] like charAt() and Length() can be used on it. An object is an instance of some [[class]]. All objects inherit the [[Object class]]

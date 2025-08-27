@@ -1,1 +1,0 @@
-Statements made which have an opinion built into them as opposed to objective [[Positive Statements]].

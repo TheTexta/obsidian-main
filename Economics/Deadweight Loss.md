@@ -1,2 +1,0 @@
-#microeconomics 
-Deadweight Loss::Deadweight loss is the associated cost of [[market]] inefficiency from a form of [[government intervention]] which is found as the difference in community surplus before and after the intervention. When the [[supply]] and [[demand]] of a [[market]] are out of [[equilibrium]] a deadweight loss can be found by looking at the area of the [[Consumer Surplus|consumer]] / [[producer surplus]] which is now unused ([[Community Surplus]])

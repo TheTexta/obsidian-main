@@ -1,1 +1,0 @@
-Research focussing on the cause and effect of variables

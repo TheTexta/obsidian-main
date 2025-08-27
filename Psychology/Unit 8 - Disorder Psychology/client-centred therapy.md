@@ -1,2 +1,0 @@
-#disorder-psychology 
-Client-centred Therapy::A humanistic therapy, developed by carl rogers, in which the therapist uses techniques such as active listening within an accepting genuine empathic environment to facilitate clients' growth. Also called person centered therapy.

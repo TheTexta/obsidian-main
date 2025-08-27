@@ -1,2 +1,0 @@
-#calculus 
-Sometimes you gotta switch the x / y axis for problems so that you can [[Integration|integrate]] for the area with equations that are easier to [[Integration|integrate]] along a switched axis. Particularly when asked to find the volume of a [[Volume of a disk|disk]] or [[Volume of a washer|washer]] along the y-axis as opposed to the usual x-axis.

@@ -1,1 +1,0 @@
-[[Enthalpy Change|Enthalpy]] of a reaction per one [[Moles|mole]]

@@ -1,4 +1,0 @@
-#comp250 
-- if when you create a class you make all the fields private and you do not write any mutator methods then you effectively created an immutable type
--  if the only way to assign values to fields is through the constructor then the values of the Object cannot be changed after it has been created. 
-- Strings are immutable since you have to change the value when changing anything about a variable - unlike arrays where the values can be changed within the reference without changing he reference. Changing the value of the string changes its reference while changing the value of an array does not change the reference for that array which is what is assigned to the variable - effectively not changing the value of the variable.

@@ -1,1 +1,0 @@
-The sum of individual producers supply for a good. The markets [[Supply Curve|supply curve]] which illustrates [[the law of supply]], shown by the positive relationship between price and quantity supplied. 

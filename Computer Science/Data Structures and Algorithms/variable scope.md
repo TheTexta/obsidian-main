@@ -1,2 +1,0 @@
-#comp250 
-[[variable|Variables]] only exist inside the [[Code Block|block]] which they are declared in. They start when declared and ends to exist in which the [[Code Block|block]] which it exists in ends. 

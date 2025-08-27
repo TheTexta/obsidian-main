@@ -1,4 +1,0 @@
-[[Sigmund Freud]] is my favourite dropkick pseudo science psychologist. Psychoanalysis is all about the unconscious mind, what we are influenced by without conscious realisation. The little voice inside your head telling you to kill everyone. He believed that the unconscious mind influenced a lot of our behaviour and that we just suppressed it through years of effort, the mind keeping these thoughts out of our minds because they were so uncomfortable that we couldn't properly process them. Sigmund was very interested in dream analysis, free word association and hypnosis, although these techniques are criticised today for there lack of scientific basis. 
-
-#disorder-psychology 
-Psychoanalysis::Sigmund Freuds therapeutic technique. Freud believed that the patient's free associations, resistances, dreams, and transferences - and the therapists interpretations of them - released previously repressed feelings, allowing the patient to gain self insight.

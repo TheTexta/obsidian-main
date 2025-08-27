@@ -1,3 +1,0 @@
-#chemistry 
-Hydrogen ion
-$[H]^+$

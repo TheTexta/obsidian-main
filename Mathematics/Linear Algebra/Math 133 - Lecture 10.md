@@ -1,3 +1,0 @@
-#math133 
-- [[determinants]]
-- 

@@ -1,1 +1,0 @@
-When international trade takes place without any government restrictions or interventions. 

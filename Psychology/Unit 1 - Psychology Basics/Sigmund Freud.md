@@ -1,3 +1,0 @@
-![[freudy.jpg]]
-
-tiktok psychology :)

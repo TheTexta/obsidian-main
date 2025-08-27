@@ -1,3 +1,0 @@
-Machine learning is a type of data science where machines are taught algorithms implicitly rather then explicitly through traditional programming. The goal of machine learning is to give a machine enough data so that it can find an algorithm to predict future data without the work of a human to manually go through and test for algorithms which best fit the dataset.
-
-The basic form of machine learning is [[Linear Regression]]. Eg Fitting a straight line to a graph of given data points. But machine learning refers to any topic of work where the computer learns how to solve a problem without explicit programming. machine learning includes the more complex sub field of [[Deep Learning]].

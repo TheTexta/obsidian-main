@@ -1,2 +1,0 @@
-#biol111 
-domain::The highest [[taxonomy|taxonomic]] rank of all organisms taken together. It was introduced in the [[three-domain system]] of [[taxonomy]] devised by [[Carl Woese]], [[Otto Kandler]] and [[Mark Wheelis]] in the 90s.

@@ -1,2 +1,0 @@
-## [[Comparative Advantage]]
-## [[Absolute Advantage]]

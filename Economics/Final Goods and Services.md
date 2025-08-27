@@ -1,1 +1,0 @@
-The final means that they are directly used by the businesses or consumers rather then used to craft greater products as an [[Intermediate Good|intermediate]] input.

@@ -1,1 +1,0 @@
-All possible outcomes in a given [[Probability]]

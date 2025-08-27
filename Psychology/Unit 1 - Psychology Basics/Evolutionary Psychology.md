@@ -1,1 +1,0 @@
-The study of how environmental and genetic factors influence the development of human behaviours and the brain. Focuses on the function and adaption of human behaviour. How has our mind and behaviours evolved. 

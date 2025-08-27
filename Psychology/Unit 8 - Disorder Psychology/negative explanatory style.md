@@ -1,2 +1,0 @@
-#disorder-psychology 
-Negative Explanatory Style::Characterised by explanations of the causes of negative outcomes as being stable, global and internal, and the causes of positive outcomes as being unstable, specific and external in nature. 

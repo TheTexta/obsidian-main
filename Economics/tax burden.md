@@ -1,2 +1,0 @@
-#microeconomics 
-Tax Burden::The areas of a [[Producer Surplus|producer]] / [[consumer surplus]] which are decreased by the introduction of a [[Tax]]. The distribution of tax costs to consumers and producers.

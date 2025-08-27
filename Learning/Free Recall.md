@@ -1,1 +1,0 @@
-The free recall technique is used to help improve the strength of remembrance of a topic. By attempting to remember a topic without any helping material one is more effective at remembering it then if they were to just to read the material again. 

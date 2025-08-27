@@ -1,3 +1,0 @@
-[[Mechanoreceptors]]
-[[Thermoreceptors]]
-[[Nociceptor]]

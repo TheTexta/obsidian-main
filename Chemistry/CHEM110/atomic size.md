@@ -1,2 +1,0 @@
-#chem110 
-the size of the [[Probability Density|electron density cloud]] around an atom. [[cation|Cations]] are always smaller then there non [[ion|ionic]] [[atom]] equivalents. The [[anion]] will likewise always have a larger cloud. the larger the $+/-$ [[atomic charge|charge]] the larger the size (e.g. ${Na}^+$ and $N^3$- are [[isoelectric]] but $N^{3-}$ is much larger). 

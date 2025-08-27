@@ -1,1 +1,0 @@
-The total length an object travels is known as the distance. Unlike [[Displacement]], distance takes into account the whole path rather then just the end position subtracting the starting position.

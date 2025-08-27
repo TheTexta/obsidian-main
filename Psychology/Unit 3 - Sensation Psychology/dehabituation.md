@@ -1,1 +1,0 @@
-Dehabituation::The opposite of [[Habituation]], the reappearance of the initial response to an original stimulus once the stimulus changes. 

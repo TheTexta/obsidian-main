@@ -1,1 +1,0 @@
-The theory that the mind and the body exist as two separate entities. Greek philosophers such as [[Aristotle]] were some of the first to identify the theory. [[Rene Descartes]] would later expand on the theory.

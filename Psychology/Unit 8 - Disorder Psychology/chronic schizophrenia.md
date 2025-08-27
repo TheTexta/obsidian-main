@@ -1,2 +1,0 @@
-#disorder-psychology 
-Chronic Schizophrenia::Also known as process schizophrenia, a form of [[schizophrenia]] in which symptoms usually appear by late adolescence or early adulthood. As people age, psycotic episodes last longer and recovery periods shorten.

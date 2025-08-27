@@ -1,1 +1,0 @@
-The [[Equilibrium Constant]], measures the ratio of product to reactant.

@@ -1,2 +1,0 @@
-#disorder-psychology 
-Lobotomy::A [[psychosurgery|psychosurgical]] procedure once used to calm uncontrollably emotional or violent patients. The procedure cut the nerves connecting the [[frontal lobes]] to the emotion-controlling centres of the inner brain. 
