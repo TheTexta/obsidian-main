@@ -18,6 +18,6 @@ $$=\pmatrix{3\\4\\5}$$
 
 ##### Prop
 If we define C_B:R^n->R^n by $C_B(u)=[u]_B$ then C_B is linear.
-![[Screenshot 2024-12-05 at 9.26.27 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-05 at 9.26.27 PM.png)
 $$=a[u]_B+b[w]_B$$
 

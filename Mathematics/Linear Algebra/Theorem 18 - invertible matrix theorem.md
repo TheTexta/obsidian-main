@@ -36,7 +36,7 @@ Logic:
 	- n. ....
 - we say the statements are equivalent if any one can be proved from any other one. 1 =>2, 2=>3, 3=>1, etc.
 - must be either all true or all false.
-- ![[Screenshot 2024-10-15 at 10.49.36 AM.png]]
+- ![](../../assets/screenshots/Screenshot 2024-10-15 at 10.49.36 AM.png)
 
 ### New shit using [[Linear Independence]]
 let A n\times n. for a matrix to be invertible:

@@ -18,7 +18,7 @@ To show independence solve the given vectors as a linear system. If the solution
 
 Vectors are dependent if and only if they can be written as a linear combination of other vectors
 ##### Lil example of dependence
-![[Screenshot 2024-11-27 at 8.14.42 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-27 at 8.14.42 AM.png)
 
 ##### Set of one vector
 a set of the single vector v is dependent if and only if v=0. 

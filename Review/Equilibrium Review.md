@@ -18,10 +18,10 @@ adding a catalyst doesn't change equilibrium, rather the speed which it is reach
 ### Graphs
 
 ##### Rate vs Time of an equilibrium
-![[Screenshot 2023-11-23 at 9.32.29 AM.png]]
+![](../assets/screenshots/Screenshot 2023-11-23 at 9.32.29 AM.png)
 ##### Concentration vs Time of an equilibrium
 The concentrations of the systems will eventually become constant.
-![[Screenshot 2023-11-23 at 9.33.06 AM.png]]
+![](../assets/screenshots/Screenshot 2023-11-23 at 9.33.06 AM.png)
 
 
 

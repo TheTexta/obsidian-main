@@ -2,8 +2,8 @@
 Let T:R^n->R^m be linear transformation. The standard matrix of T is the m\times n [T]=[T(e_1)...T(e_n)] ie. matrix whose columns are values of T on standard bases. From the linear transformation example:
 
 Examples
-![[Screenshot 2024-11-28 at 1.33.29 PM.png]]
-![[Screenshot 2024-11-28 at 1.34.43 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-28 at 1.33.29 PM.png)
+![](../../assets/screenshots/Screenshot 2024-11-28 at 1.34.43 PM.png)
 
 T(e_1)=\pmatrix{2\\1}
 T(e_2)=\pmatrix{-1\\1}

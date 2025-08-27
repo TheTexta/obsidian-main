@@ -40,7 +40,7 @@ public static int fibonacci (int n){
 if (n==1||n==0)
 }
 ```
-![[Screenshot 2024-11-09 at 5.27.14 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-09 at 5.27.14 PM.png)
 We keep on computing the fibonacci number for 244 - very inefficient
 
 ##### Reversing a List

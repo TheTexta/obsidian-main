@@ -25,7 +25,7 @@
 - **Firms will shutdown if the price falls below the minimum avc**
 - in the long run firms are productively effecient because output is produces at the lowest cost
 - in the long run firms are allocatively effecient because price equals marginal cost.
-- ![[Screenshot 2024-04-11 at 12.05.21 AM.png]]
+- ![](../assets/screenshots/Screenshot 2024-04-11 at 12.05.21 AM.png)
 
 ### Imperfect competition
 - mb>mc at eq

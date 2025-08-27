@@ -1,11 +1,11 @@
 #math133 
 ### Overview
-![[Screenshot 2024-11-13 at 5.33.54 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 5.33.54 PM.png)
 The w vector is the projection of v onto u. The w vector is of the same direction of u but with an endpoint closest to v.
 $$\vec{w} = \text{proj}_{\vec{u}} \vec{v} = \left( \frac{\vec{u} \cdot \vec{v}}{\|\vec{u}\|^2} \right) \vec{u}$$
 
 This is done automatically.
-![[Screenshot 2024-11-13 at 5.53.55 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 5.53.55 PM.png)
 
 ### notes
 - if uv>0, w same dir as u. uv< w opp dir.
@@ -13,17 +13,17 @@ This is done automatically.
 - $w'=v-w$
 
 ### Problem - find the distance to a point from a line using projections
-![[Screenshot 2024-11-13 at 6.21.52 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 6.21.52 PM.png)
 
 Solution / approaches
-![[Screenshot 2024-11-13 at 6.24.20 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-13 at 6.24.20 PM.png)
 ###### Sol 1: 
-![[Screenshot 2024-11-15 at 6.25.06 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-15 at 6.25.06 AM.png)
 
 $dist=\frac{|-c-ax_0-by_0|}{\sqrt{a^2+b^2}}$
 
 ###### Sol 2:
-![[Screenshot 2024-11-15 at 6.33.14 AM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-15 at 6.33.14 AM.png)
 $l(t)=p+tn$ - expands to $l(t)=\frac{x_0+ta}{y_0+tb}$
 find the intersection, $R$, by subbing in $ax+by+c=0$ with the line formula.
 $a(x_0+ta)+b(y_0+tb)+c=0$

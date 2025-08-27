@@ -6,7 +6,7 @@
 |**Set-Associative**|✅ Yes|One set → multiple lines|⚖️ Balanced|⚠️ Medium|
 |**Fully Associative**|❌ No|Any line in cache|✅ Very low|❌ Slowest|
 Average access time = Hit time + (miss penalty * miss rate)
-![[Screenshot 2025-04-16 at 3.00.40 PM.png]]
+![](../../assets/screenshots/Screenshot 2025-04-16 at 3.00.40 PM.png)
 
 translation lookaside buffer TLB caches recently used translations from virtual to physical
 

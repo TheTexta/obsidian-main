@@ -15,10 +15,10 @@ v. Formation of ionic solid / lattice (releases a lot of energy) compensating fo
 $$Li^+(g)+F^-(g)->LiF(s)$$
 [[Lattice energy]] is the opposite of the formation energy. The energy it takes to destruct the lattice. 
 
-![[Lattice energy.png]]
+![](../assets/Lattice energy.png)
 
 ### Example
-![[ionic bonding example.png]]
+![](../assets/ionic bonding example.png)
 
 ### Properties of ionic solids
 - hard, rigid and brittle
