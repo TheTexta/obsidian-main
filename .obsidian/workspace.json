@@ -11,12 +11,10 @@
             "id": "3dfb18c1f2eda0f1",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Mathematics/Linear Algebra/Screenshot 2024-10-15 at 10.49.36 AM.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2024-10-15 at 10.49.36 AM"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/Screenshot 2024-10-15 at 10.49.36 AM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Screenshot 2024-10-15 at 10.49.36 AM"
+              "title": "Backlinks"
             }
           },
           {
@@ -111,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear Algebra/Screenshot 2024-10-15 at 10.49.36 AM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Screenshot 2024-10-15 at 10.49.36 AM"
+              "title": "Outgoing links"
             }
           },
           {
@@ -217,11 +213,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "092c14067183339d",
+  "active": "3dfb18c1f2eda0f1",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/Screenshot 2024-10-15 at 10.49.36 AM.png",
     "Computer Science/Data Structures and Algorithms/Screenshot 2024-12-06 at 3.55.13 PM.png",
     "Computer Science/Data Structures and Algorithms/Screenshot 2024-11-25 at 12.56.51 PM.png",
-    "Mathematics/Linear Algebra/Screenshot 2024-10-15 at 10.49.36 AM.png",
     "Convergence of Power Series Theorem.md",
     "Computer Science/Software Systems/Screenshot 2025-01-13 at 1.29.50 PM.png",
     "Computer Science/Software Systems/Screenshot 2025-01-13 at 1.44.34 PM.png",
