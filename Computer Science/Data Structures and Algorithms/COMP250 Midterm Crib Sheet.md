@@ -25,7 +25,7 @@ class Dessert extends Food {
 
 ```
 - ``ArrayList<Wizzard> slytherin = new Arraylist<Wizzard>();`` - creates 2 objects - ArrayList and Wizzard[]
-- This one is pretty weird - ![[IMG_3624.png]]
+- This one is pretty weird - ![](../../assets/screenshots/IMG_3624.png)
 
 ##### Sorting Algorirthms
 Selection Sort

@@ -1,7 +1,7 @@
 #comp250 
-![[Screenshot 2024-12-05 at 11.21.40 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-05 at 11.21.40 PM.png)
 another form
-![[Screenshot 2024-12-05 at 11.22.21 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-05 at 11.22.21 PM.png)
 
 A graph is two sets.
 
@@ -22,7 +22,7 @@ Edges
 - follows/likes/comments
 
 ### Understanding graphs in a wider context
-![[Screenshot 2024-12-05 at 11.25.31 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-05 at 11.25.31 PM.png)
 
 ### Pathing
 Can find the shortest path between given points on a vector using something like [[dijkstra's algorithm]]. 
@@ -70,7 +70,7 @@ depthFirst_Graph (v){
 			depthFirst_Graph(w);
 }
 ```
-![[Screenshot 2024-12-06 at 3.55.13 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-06 at 3.55.13 PM.png)
 
 Using a stack:
 ```java

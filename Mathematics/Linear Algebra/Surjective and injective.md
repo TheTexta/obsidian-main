@@ -2,7 +2,7 @@
 T:R^n->R^m a function
 1. T called onto (or surjective) if Im(T)=R^m
 2. T called one-to-one (or injective) if for all $u\neq v$. in r^n we have $T(u)\neq T(v)$ (no two inputs go to the same output). Equivalently if $T(u)=T(v)$ then $u=v$.
-![[Screenshot 2024-11-29 at 12.31.17 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-29 at 12.31.17 PM.png)
 
 Example
 T:R^3->R^2 def by T(x,y,z)=(x,y). 

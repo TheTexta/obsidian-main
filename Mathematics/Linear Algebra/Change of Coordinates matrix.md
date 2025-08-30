@@ -38,7 +38,7 @@ ie. $[T]_B$ computes $T$, but relative to basis $B$.
 Example
 Let R:R^2-R^2 be reflection in line parallel to $\pmatrix{a\\b}$, $P:R^2->R^2$ be projection onto line. set $v_1=\pmatrix{a\\b}$ and $v_2=\pmatrix{-b\\a}$ so $B=v_1$ and $v_2$ basis $R^2$.
 Find $[R]_B$ $[P]_B$
-![[Screenshot 2024-12-05 at 10.05.59 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-05 at 10.05.59 PM.png)
 So
 $[R]_B=\pmatrix{1&0\\0&-1}$
 To compute 

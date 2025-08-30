@@ -48,7 +48,7 @@
 	- In this selection experiment by Perron, Zasloff and Bell (2005) 22/24 lineages of *Escherichia coli* and *Pseudomonas fluorescens* independently evolved heritable mechanism of resistance to [[pexiganan]] when propagated in medium supplemented with this [[antimicrobial peptides|antimicrobial peptide]] for 600-700 generations.
 ##### Seeing the invisible world: Microscopes
 ![[Screenshot 2024-09-22 at 10.39.39 PM.png]]
-![[Screenshot 2024-09-22 at 10.41.45 PM.png]]
+![](../assets/screenshots/Screenshot 2024-09-22 at 10.41.45 PM.png)
 DNA Sequencing has plummeted in cost faster then [[Moore's law]] predicts 
 ### Definition
 ##### What is a microbe?

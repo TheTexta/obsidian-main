@@ -13,4 +13,4 @@ class BTree<T>{
 ```
 
 ### Traversal
-![[Screenshot 2024-11-17 at 3.15.07 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-17 at 3.15.07 PM.png)

@@ -11,7 +11,7 @@ Formal charges predict the most preferable lewis structure.
 4. When deciding between many lewis structures of similar distributions of FC the one with more negative FC on more electronegative atoms is preferable
 ### Example
 ex. $[NH_4]^+$
-![[Screenshot 2024-11-04 at 2.41.09 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-04 at 2.41.09 PM.png)
 Valence Electrons: $5$
 Lone Pair Electrons: $0$
 Bonding Electrons: $8$

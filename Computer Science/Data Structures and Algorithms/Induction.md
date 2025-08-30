@@ -39,10 +39,10 @@ We need to prove the following:
 
 $$\forall n \geq 1,1+2+...+n=\sum_{i=1}^n{i}=\frac{n(n+1)}{2}$$
 Base Case: Let $n=1$ - $1=\frac{1\cdot 2}{2}=1$ therefor true
-Ind. Step: IH (Inductive Hypothesis):$\sum_{i=1}^k{i}=\frac{k(k+1)}{2}$ To prove $\sum_{i=1}^{k+1}{i}=\frac{(k+1)(k+2)}{2}$![[Screenshot 2024-11-09 at 4.41.19 PM.png]]
+Ind. Step: IH (Inductive Hypothesis):$\sum_{i=1}^k{i}=\frac{k(k+1)}{2}$ To prove $\sum_{i=1}^{k+1}{i}=\frac{(k+1)(k+2)}{2}$![](../../assets/screenshots/Screenshot 2024-11-09 at 4.41.19 PM.png)
 This statement holds true for all natural numbers. 
 ##### Example 2
-![[Screenshot 2024-11-09 at 4.55.56 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-09 at 4.55.56 PM.png)
 #### (Strong) Mathematical Induction
 - sometimes one would like to assume the induction hypothesis not only for the previous element, but also for smaller elements. this leads to a logically equivalent proof method called strong (or complete) mathematical induction.
 - To prove a property by strong mathematical induction:

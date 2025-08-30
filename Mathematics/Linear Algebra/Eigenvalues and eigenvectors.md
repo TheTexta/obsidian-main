@@ -61,7 +61,7 @@ Example
 A=\pmatrix{2&0&0\\1&2&-1\\1&3&-2}. find eigenvalues.
 
 Sol
-![[Screenshot 2024-12-01 at 3.12.17 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-12-01 at 3.12.17 PM.png)
 $=(2-\lambda)(\lambda^2-1)$
 $=(2-\lambda)(\lambda+1)(\lambda-1)$
 so eigenvalues are $2,1,-1$

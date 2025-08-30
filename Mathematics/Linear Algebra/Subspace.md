@@ -31,4 +31,4 @@ $$\text{Then } S \text{ is a subspace } \iff \vec{b} = \vec{0}, \text{ i.e. homo
 $$
 
 ##### Example using homogenous system proof
-![[Screenshot 2024-11-26 at 3.50.24 PM.png]]
+![](../../assets/screenshots/Screenshot 2024-11-26 at 3.50.24 PM.png)
