@@ -211,12 +211,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "26e2379fcb9568ca",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -236,10 +246,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "092c14067183339d",
+  "active": "26e2379fcb9568ca",
   "lastOpenFiles": [
-    "Computer Science/Software Systems/COMP206 Software Systems Outline.md",
     "conflict-files-obsidian-git.md",
+    "Computer Science/Software Systems/COMP206 Software Systems Outline.md",
     "Course Overview/comp206.md",
     "Computer Science/Data Structures and Algorithms/Screenshot 2024-11-17 at 1.40.53 PM.png",
     "Computer Science/Data Structures and Algorithms/Screenshot 2024-11-17 at 3.15.07 PM.png",
