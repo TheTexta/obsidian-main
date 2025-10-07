@@ -66,9 +66,49 @@
               "icon": "lucide-file",
               "title": "COMP206 Software Systems Outline"
             }
+          },
+          {
+            "id": "271ce43e95c43d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "set"
+            }
+          },
+          {
+            "id": "34523a1aeafeb0d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assignment 2 323.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "assignment 2 323"
+            }
+          },
+          {
+            "id": "82c66036f10ef254",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -221,12 +261,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "a0d983d2e3135bc5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "b8eaebecf47ff196",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -246,21 +306,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26e2379fcb9568ca",
+  "active": "b8eaebecf47ff196",
   "lastOpenFiles": [
+    "set.md",
+    "assignment 2 323.md",
     "conflict-files-obsidian-git.md",
     "Computer Science/Software Systems/COMP206 Software Systems Outline.md",
+    "Mathematics/Linear Algebra/Screenshot 2024-12-05 at 9.26.27 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-12-05 at 5.33.57 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-12-05 at 5.32.58 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-12-05 at 5.29.49 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-12-05 at 5.24.19 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-12-05 at 4.50.56 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-12-05 at 4.36.15 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-12-05 at 4.30.30 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-12-05 at 4.24.39 PM.png",
+    "Mathematics/Linear Algebra/Screenshot 2024-12-05 at 4.20.33 PM.png",
     "Course Overview/comp206.md",
-    "Computer Science/Data Structures and Algorithms/Screenshot 2024-11-17 at 1.40.53 PM.png",
-    "Computer Science/Data Structures and Algorithms/Screenshot 2024-11-17 at 3.15.07 PM.png",
-    "Computer Science/Data Structures and Algorithms/Screenshot 2024-11-17 at 3.43.22 PM.png",
-    "Screenshot 2024-11-15 at 6.44.13 AM.png",
-    "Mathematics/Linear Algebra/Screenshot 2024-11-13 at 5.53.55 PM.png",
-    "Screenshot 2024-10-15 at 10.49.36 AM.png",
-    "Mathematics/Linear Algebra/Screenshot 2024-11-13 at 6.21.52 PM.png",
-    "Mathematics/Linear Algebra/Screenshot 2024-11-13 at 6.24.20 PM.png",
-    "Mathematics/Linear Algebra/Screenshot 2024-11-15 at 6.44.04 AM.png",
-    "Mathematics/Linear Algebra/Screenshot 2024-11-15 at 6.33.14 AM.png",
     "Power Series.md",
     "Mathematics/Kernal and Image.md",
     "diamagnetic.md",
@@ -283,8 +345,6 @@
     "Philosophy/Moral Issues/non-consequentialism.md",
     "Computer Science/Computer Systems/byte.md",
     "Computer Science/Computer Systems/COMP273 outline.md",
-    "Computer Science/Software Systems/shell.md",
-    "Computer Science/Software Systems/directory.md",
     "Untitled.canvas"
   ]
 }
